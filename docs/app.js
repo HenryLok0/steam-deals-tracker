@@ -119,6 +119,7 @@ const elements = {
   statSale: document.getElementById("stat-sale"),
   statUpdated: document.getElementById("stat-updated"),
   repoLink: document.getElementById("repo-link"),
+  heroGithubLink: document.getElementById("hero-github-link"),
   template: document.getElementById("game-card-template"),
   modal: document.getElementById("game-modal"),
   modalBackdrop: document.getElementById("modal-backdrop"),
@@ -488,6 +489,9 @@ function translatePage() {
   updateDealFilterChips();
   if (elements.modalClose) {
     elements.modalClose.setAttribute("aria-label", t(state.lang, "modalClose"));
+  }
+  if (elements.heroGithubLink) {
+    elements.heroGithubLink.setAttribute("aria-label", t(state.lang, "heroGithub"));
   }
 }
 
