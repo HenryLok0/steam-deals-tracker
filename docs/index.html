@@ -6,7 +6,34 @@
     <title>Steam Deals Tracker</title>
     <meta
       name="description"
+      content="Track temporarily free and discounted Steam games. Updated every 6 hours."
+    />
+    <link rel="canonical" href="https://steam-deals.henrylok.me/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://steam-deals.henrylok.me/" />
+    <meta property="og:title" content="Steam Deals Tracker" />
+    <meta
+      property="og:description"
+      content="Track temporarily free and discounted Steam games. Updated every 6 hours."
+    />
+    <meta property="og:image" content="https://steam-deals.henrylok.me/icons/og-image.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Steam Deals Tracker" />
+    <meta
+      name="twitter:description"
       content="Track temporarily free and discounted Steam games."
+    />
+    <meta name="twitter:image" content="https://steam-deals.henrylok.me/icons/og-image.png" />
+    <meta name="theme-color" content="#1b76c9" />
+    <link rel="icon" href="icons/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="icons/favicon-32.png" sizes="32x32" type="image/png" />
+    <link rel="apple-touch-icon" href="icons/apple-touch-icon.png" />
+    <link rel="manifest" href="manifest.json" />
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="Steam Deals Tracker"
+      href="/feed.xml"
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -14,7 +41,7 @@
       href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="styles.css?v=2" />
   </head>
   <body>
     <div class="page">
@@ -52,6 +79,13 @@
           </div>
         </div>
       </header>
+
+      <section id="new-today-section" class="new-today hidden">
+        <div class="section-head">
+          <h2 data-i18n="newTodayTitle">Added in the last 24 hours</h2>
+        </div>
+        <div id="new-today-grid" class="new-today-grid"></div>
+      </section>
 
       <section class="controls">
         <div class="controls-head">
@@ -100,6 +134,23 @@
           <div class="chip-group" id="genre-filters" role="group" aria-label="Genres"></div>
         </div>
 
+        <div class="filter-block">
+          <div class="filter-head">
+            <span data-i18n="uiLanguageFilterLabel">Game language</span>
+          </div>
+          <div class="chip-group">
+            <button
+              type="button"
+              class="chip"
+              id="ui-language-filter"
+              data-i18n="uiLanguageFilterToggle"
+              aria-pressed="false"
+            >
+              Only games in current UI language
+            </button>
+          </div>
+        </div>
+
         <div class="filters">
           <label>
             <span data-i18n="filterOffer">Deal type</span>
@@ -121,6 +172,8 @@
           <label>
             <span data-i18n="filterSort">Sort</span>
             <select id="sort-by">
+              <option value="deals-priority" data-i18n="sortDealsPriority">Best deals first</option>
+              <option value="ending-soon" data-i18n="sortEndingSoon">Ending soon</option>
               <option value="name-asc" data-i18n="sortNameAsc">Name A-Z</option>
               <option value="name-desc" data-i18n="sortNameDesc">Name Z-A</option>
               <option value="newest" data-i18n="sortNewest">Newest added</option>
@@ -138,23 +191,45 @@
 
       <section class="results-bar">
         <p id="results-count">Loading...</p>
-        <a
-          class="github-link"
-          href="https://github.com/"
-          target="_blank"
-          rel="noreferrer"
-          id="repo-link"
-          data-i18n="viewRepo"
-        >
-          View GitHub Repo
-        </a>
+        <div class="results-links">
+          <a class="github-link" href="/feed.xml" data-i18n="rssSubscribe">RSS feed</a>
+          <a
+            class="github-link"
+            href="https://github.com/HenryLok0/steam-deals-tracker"
+            target="_blank"
+            rel="noreferrer"
+            id="repo-link"
+            data-i18n="viewRepo"
+          >
+            View GitHub Repo
+          </a>
+        </div>
       </section>
 
+      <div id="error-state" class="error-state hidden">
+        <p>Failed to load data. Please try again later.</p>
+        <button type="button" class="retry-button" id="retry-load" data-i18n="retryLoad">Retry</button>
+      </div>
+
       <main id="game-grid" class="game-grid" aria-live="polite"></main>
+
+      <div class="load-more-wrap">
+        <button type="button" class="load-more-button hidden" id="load-more" data-i18n="loadMore">
+          Load more
+        </button>
+      </div>
+
       <div id="empty-state" class="empty-state hidden" data-i18n="emptyState">
         No games match your filters. Try different search terms or filters.
       </div>
+
+      <footer class="site-footer">
+        <a href="https://henrylok.me/" rel="home" data-i18n="footerBackToHome">Back to henrylok.me</a>
+        <span class="footer-note" data-i18n="footerUpdateNote">Updated every 6 hours</span>
+      </footer>
     </div>
+
+    <div id="toast" class="toast hidden" role="status" aria-live="polite"></div>
 
     <div id="game-modal" class="modal hidden" aria-hidden="true">
       <div class="modal-backdrop" id="modal-backdrop"></div>
@@ -194,6 +269,9 @@
           </section>
         </div>
         <div class="modal-footer">
+          <button type="button" class="modal-copy-link" id="modal-copy-link" data-i18n="copyLink">
+            Copy link
+          </button>
           <a id="modal-steam-link" class="modal-steam-link" target="_blank" rel="noreferrer"></a>
         </div>
       </div>
@@ -233,6 +311,6 @@
       </article>
     </template>
 
-    <script type="module" src="app.js?v=9"></script>
+    <script type="module" src="app.js?v=12"></script>
   </body>
 </html>

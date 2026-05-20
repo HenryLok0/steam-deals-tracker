@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://steam-deals.henrylok.me/sitemap.xml

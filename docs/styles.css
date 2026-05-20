@@ -630,6 +630,184 @@ body {
 
 .modal-footer {
   padding: 0 20px 20px;
+  display: grid;
+  gap: 10px;
+}
+
+.modal-copy-link {
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--accent);
+  border-radius: 12px;
+  padding: 11px 16px;
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.modal-copy-link:hover {
+  background: var(--chip-bg);
+}
+
+.game-card.ending-soon {
+  border-color: color-mix(in srgb, var(--warning) 55%, var(--border));
+  box-shadow:
+    var(--shadow),
+    0 0 0 1px color-mix(in srgb, var(--warning) 18%, transparent);
+}
+
+.expires-at.ending-soon,
+.modal-meta .ending-soon {
+  color: var(--warning);
+  font-weight: 600;
+}
+
+.new-today {
+  margin-top: 18px;
+}
+
+.section-head h2 {
+  margin: 0 0 12px;
+  font-size: 1.15rem;
+}
+
+.new-today-grid {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: minmax(240px, 280px);
+  gap: 14px;
+  overflow-x: auto;
+  padding-bottom: 6px;
+}
+
+.game-card.compact .game-body {
+  padding: 14px;
+}
+
+.game-card.compact .card-footer {
+  margin-top: 0;
+}
+
+.results-links {
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+}
+
+.load-more-wrap {
+  display: flex;
+  justify-content: center;
+  margin-top: 18px;
+}
+
+.load-more-button,
+.retry-button {
+  border: 1px solid color-mix(in srgb, var(--accent) 45%, var(--border));
+  background: var(--chip-bg);
+  color: var(--accent-strong);
+  border-radius: 999px;
+  padding: 11px 20px;
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.load-more-button:hover,
+.retry-button:hover {
+  background: var(--chip-active-bg);
+}
+
+.error-state {
+  margin-top: 18px;
+  padding: 24px;
+  text-align: center;
+  border: 1px dashed color-mix(in srgb, var(--danger) 35%, var(--border));
+  border-radius: var(--radius);
+  color: var(--muted);
+}
+
+.site-footer {
+  margin-top: 36px;
+  padding-top: 18px;
+  border-top: 1px solid var(--border);
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.site-footer a {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.site-footer a:hover {
+  color: var(--accent-strong);
+}
+
+.toast {
+  position: fixed;
+  left: 50%;
+  bottom: 24px;
+  transform: translateX(-50%);
+  background: color-mix(in srgb, var(--panel) 92%, black);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 10px 16px;
+  border-radius: 999px;
+  box-shadow: var(--shadow);
+  z-index: 1100;
+}
+
+.skeleton-card {
+  pointer-events: none;
+}
+
+.skeleton-media,
+.skeleton-line {
+  background: linear-gradient(
+    90deg,
+    color-mix(in srgb, var(--text) 6%, transparent),
+    color-mix(in srgb, var(--text) 10%, transparent),
+    color-mix(in srgb, var(--text) 6%, transparent)
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1.2s infinite;
+}
+
+.skeleton-media {
+  aspect-ratio: 16 / 9;
+}
+
+.skeleton-body {
+  padding: 16px;
+  display: grid;
+  gap: 10px;
+}
+
+.skeleton-line {
+  height: 12px;
+  border-radius: 999px;
+}
+
+.skeleton-line.wide {
+  width: 80%;
+}
+
+.skeleton-line.short {
+  width: 45%;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
 }
 
 .modal-steam-link {

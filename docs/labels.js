@@ -69,6 +69,223 @@ export const GENRE_TRANSLATIONS = {
   },
 };
 
+export const CATEGORY_TRANSLATIONS = {
+  "Single-player": {
+    en: "Single-player",
+    "zh-Hant": "單人",
+    ja: "シングルプレイヤー",
+    ko: "싱글 플레이",
+  },
+  "Multi-player": {
+    en: "Multi-player",
+    "zh-Hant": "多人",
+    ja: "マルチプレイヤー",
+    ko: "멀티플레이",
+  },
+  "Family Sharing": {
+    en: "Family Sharing",
+    "zh-Hant": "家庭共享",
+    ja: "ファミリーシェア",
+    ko: "가족 공유",
+  },
+  "Steam Achievements": {
+    en: "Steam Achievements",
+    "zh-Hant": "Steam 成就",
+    ja: "Steam実績",
+    ko: "Steam 도전 과제",
+  },
+  "Steam Cloud": {
+    en: "Steam Cloud",
+    "zh-Hant": "Steam 雲端",
+    ja: "Steam Cloud",
+    ko: "Steam Cloud",
+  },
+  "Full controller support": {
+    en: "Full controller support",
+    "zh-Hant": "完整控制器支援",
+    ja: "フルコントローラサポート",
+    ko: "전체 컨트롤러 지원",
+  },
+  "Partial Controller Support": {
+    en: "Partial Controller Support",
+    "zh-Hant": "部分控制器支援",
+    ja: "部分コントローラサポート",
+    ko: "부분 컨트롤러 지원",
+  },
+  "Co-op": { en: "Co-op", "zh-Hant": "合作", ja: "協力プレイ", ko: "협동" },
+  "Online Co-op": {
+    en: "Online Co-op",
+    "zh-Hant": "線上合作",
+    ja: "オンライン協力",
+    ko: "온라인 협동",
+  },
+  PvP: { en: "PvP", "zh-Hant": "玩家對戰", ja: "PvP", ko: "PvP" },
+  "Online PvP": {
+    en: "Online PvP",
+    "zh-Hant": "線上對戰",
+    ja: "オンラインPvP",
+    ko: "온라인 PvP",
+  },
+  "Steam Trading Cards": {
+    en: "Steam Trading Cards",
+    "zh-Hant": "Steam 集換卡",
+    ja: "Steamトレーディングカード",
+    ko: "Steam 트레이딩 카드",
+  },
+  "Custom Volume Controls": {
+    en: "Custom Volume Controls",
+    "zh-Hant": "自訂音量",
+    ja: "カスタム音量",
+    ko: "사용자 지정 음량",
+  },
+  "Steam Workshop": {
+    en: "Steam Workshop",
+    "zh-Hant": "Steam 工作坊",
+    ja: "Steamワークショップ",
+    ko: "Steam 창작마당",
+  },
+  "Stereo Sound": {
+    en: "Stereo Sound",
+    "zh-Hant": "立體聲",
+    ja: "ステレオサウンド",
+    ko: "스테레오 사운드",
+  },
+  "Playable without Timed Input": {
+    en: "Playable without Timed Input",
+    "zh-Hant": "無需限時操作",
+    ja: "時間制限入力不要",
+    ko: "시간 제한 입력 불필요",
+  },
+  "Camera Comfort": {
+    en: "Camera Comfort",
+    "zh-Hant": "鏡頭舒適",
+    ja: "カメラ快適性",
+    ko: "카메라 편의",
+  },
+  "Includes level editor": {
+    en: "Includes level editor",
+    "zh-Hant": "包含關卡編輯器",
+    ja: "レベルエディタ付き",
+    ko: "레벨 에디터 포함",
+  },
+  "Remote Play Together": {
+    en: "Remote Play Together",
+    "zh-Hant": "遠端同樂",
+    ja: "リモートプレイ Together",
+    ko: "Remote Play Together",
+  },
+  "Save Anytime": {
+    en: "Save Anytime",
+    "zh-Hant": "隨時存檔",
+    ja: "いつでもセーブ",
+    ko: "언제든 저장",
+  },
+  "Adjustable Difficulty": {
+    en: "Adjustable Difficulty",
+    "zh-Hant": "可調難度",
+    ja: "難易度調整",
+    ko: "난이도 조절",
+  },
+  "Remote Play on TV": {
+    en: "Remote Play on TV",
+    "zh-Hant": "電視遠端遊玩",
+    ja: "TVリモートプレイ",
+    ko: "TV 원격 플레이",
+  },
+  "Downloadable Content": {
+    en: "Downloadable Content",
+    "zh-Hant": "可下載內容",
+    ja: "DLC",
+    ko: "DLC",
+  },
+  "Steam Leaderboards": {
+    en: "Steam Leaderboards",
+    "zh-Hant": "Steam 排行榜",
+    ja: "Steamリーダーボード",
+    ko: "Steam 리더보드",
+  },
+  "Surround Sound": {
+    en: "Surround Sound",
+    "zh-Hant": "環繞聲",
+    ja: "サラウンドサウンド",
+    ko: "서라운드 사운드",
+  },
+  "Remote Play on Tablet": {
+    en: "Remote Play on Tablet",
+    "zh-Hant": "平板遠端遊玩",
+    ja: "タブレットリモートプレイ",
+    ko: "태블릿 원격 플레이",
+  },
+  "Shared/Split Screen": {
+    en: "Shared/Split Screen",
+    "zh-Hant": "同屏/分屏",
+    ja: "画面分割",
+    ko: "화면 분할",
+  },
+  "Color Alternatives": {
+    en: "Color Alternatives",
+    "zh-Hant": "色彩替代",
+    ja: "色の代替",
+    ko: "색상 대안",
+  },
+  "Cross-Platform Multiplayer": {
+    en: "Cross-Platform Multiplayer",
+    "zh-Hant": "跨平台多人",
+    ja: "クロスプラットフォーム",
+    ko: "크로스 플랫폼",
+  },
+  "In-App Purchases": {
+    en: "In-App Purchases",
+    "zh-Hant": "應用內購買",
+    ja: "アプリ内課金",
+    ko: "인앱 구매",
+  },
+  "Subtitle Options": {
+    en: "Subtitle Options",
+    "zh-Hant": "字幕選項",
+    ja: "字幕オプション",
+    ko: "자막 옵션",
+  },
+  "Shared/Split Screen Co-op": {
+    en: "Shared/Split Screen Co-op",
+    "zh-Hant": "同屏合作",
+    ja: "画面分割協力",
+    ko: "화면 분할 협동",
+  },
+  "Captions available": {
+    en: "Captions available",
+    "zh-Hant": "提供字幕",
+    ja: "字幕あり",
+    ko: "자막 제공",
+  },
+  Stats: { en: "Stats", "zh-Hant": "統計", ja: "統計", ko: "통계" },
+  "HDR available": {
+    en: "HDR available",
+    "zh-Hant": "支援 HDR",
+    ja: "HDR対応",
+    ko: "HDR 지원",
+  },
+  "Valve Anti-Cheat enabled": {
+    en: "Valve Anti-Cheat enabled",
+    "zh-Hant": "VAC 反作弊",
+    ja: "VAC有効",
+    ko: "VAC 활성화",
+  },
+  "VR Support": {
+    en: "VR Support",
+    "zh-Hant": "VR 支援",
+    ja: "VR対応",
+    ko: "VR 지원",
+  },
+};
+
+export const UI_LANGUAGE_FILTER_KEYS = {
+  en: ["english"],
+  "zh-Hant": ["tchinese", "schinese"],
+  ja: ["japanese"],
+  ko: ["korean"],
+};
+
 export const GAME_LANGUAGE_TRANSLATIONS = {
   english: { en: "English", "zh-Hant": "英文", ja: "英語", ko: "영어" },
   french: { en: "French", "zh-Hant": "法文", ja: "フランス語", ko: "프랑스어" },
@@ -174,6 +391,10 @@ export function translateGenre(lang, genre) {
   return GENRE_TRANSLATIONS[genre]?.[lang] || genre;
 }
 
+export function translateCategory(lang, category) {
+  return CATEGORY_TRANSLATIONS[category]?.[lang] || category;
+}
+
 const LANGUAGE_KEY_FIXES = {
   "simplified-chinese": "schinese",
   "traditional-chinese": "tchinese",
@@ -204,6 +425,13 @@ export function sanitizeSupportedLanguages(languages) {
   }
 
   return cleaned;
+}
+
+export function gameSupportsUiLanguage(game, uiLang) {
+  const keys = UI_LANGUAGE_FILTER_KEYS[uiLang] || [];
+  if (!keys.length) return true;
+  const langs = sanitizeSupportedLanguages(game.supported_languages || []);
+  return keys.some((key) => langs.includes(key));
 }
 
 export function translateGameLanguage(lang, languageKey) {

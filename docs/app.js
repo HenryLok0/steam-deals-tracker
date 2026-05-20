@@ -3,20 +3,26 @@ import {
   LANGUAGE_LABELS,
   SUPPORTED_LANGUAGES,
   t,
-} from "./i18n.js?v=6";
+} from "./i18n.js?v=7";
 import {
   allGenreSearchTerms,
   allLanguageSearchTerms,
+  gameSupportsUiLanguage,
   sanitizeSupportedLanguages,
+  translateCategory,
   translateGameLanguage,
   translateGenre,
   translateReviewLabel,
-} from "./labels.js?v=6";
+} from "./labels.js?v=7";
 import { plainTextToHtml, sanitizeHtml } from "./sanitize.js?v=1";
 
 const DATA_URL = "data/games.json";
 const META_URL = "data/meta.json";
 const SEARCH_DEBOUNCE_MS = 250;
+const PAGE_SIZE = 24;
+const FILTER_STORAGE_KEY = "steam-deals-filters";
+const PLACEHOLDER_IMG = "icons/game-placeholder.svg";
+const ONE_DAY_MS = 24 * 60 * 60 * 1000;
 
 const DEFAULT_FILTERS = {
   search: "",
@@ -24,7 +30,8 @@ const DEFAULT_FILTERS = {
   platforms: new Set(),
   genres: new Set(),
   status: "active",
-  sort: "newest",
+  sort: "deals-priority",
+  uiLanguageFilter: false,
 };
 
 const LOCALE_MAP = {
@@ -39,14 +46,9 @@ const state = {
   games: [],
   meta: {},
   selectedGame: null,
-  filters: {
-    search: "",
-    offer: "all",
-    platforms: new Set(),
-    genres: new Set(),
-    status: "active",
-    sort: "newest",
-  },
+  visibleCount: PAGE_SIZE,
+  loadError: null,
+  filters: cloneFilters(DEFAULT_FILTERS),
 };
 
 let searchDebounceTimer = null;
@@ -58,13 +60,19 @@ const elements = {
   sortBy: document.getElementById("sort-by"),
   platformFilters: document.getElementById("platform-filters"),
   genreFilters: document.getElementById("genre-filters"),
+  uiLanguageFilter: document.getElementById("ui-language-filter"),
   clearPlatforms: document.getElementById("clear-platforms"),
   clearGenres: document.getElementById("clear-genres"),
   clearAllFilters: document.getElementById("clear-all-filters"),
   statCards: document.querySelectorAll("[data-stat-filter]"),
   languageSelect: document.getElementById("language-select"),
+  newTodaySection: document.getElementById("new-today-section"),
+  newTodayGrid: document.getElementById("new-today-grid"),
   gameGrid: document.getElementById("game-grid"),
   emptyState: document.getElementById("empty-state"),
+  errorState: document.getElementById("error-state"),
+  retryLoad: document.getElementById("retry-load"),
+  loadMore: document.getElementById("load-more"),
   resultsCount: document.getElementById("results-count"),
   statActive: document.getElementById("stat-active"),
   statFree: document.getElementById("stat-free"),
@@ -89,7 +97,107 @@ const elements = {
   modalAdded: document.getElementById("modal-added"),
   modalExpires: document.getElementById("modal-expires"),
   modalSteamLink: document.getElementById("modal-steam-link"),
+  modalCopyLink: document.getElementById("modal-copy-link"),
+  toast: document.getElementById("toast"),
 };
+
+function cloneFilters(source) {
+  return {
+    search: source.search,
+    offer: source.offer,
+    platforms: new Set(source.platforms),
+    genres: new Set(source.genres),
+    status: source.status,
+    sort: source.sort,
+    uiLanguageFilter: source.uiLanguageFilter,
+  };
+}
+
+function serializeFilters() {
+  return {
+    search: state.filters.search,
+    offer: state.filters.offer,
+    platforms: [...state.filters.platforms],
+    genres: [...state.filters.genres],
+    status: state.filters.status,
+    sort: state.filters.sort,
+    uiLanguageFilter: state.filters.uiLanguageFilter,
+  };
+}
+
+function saveFilters() {
+  localStorage.setItem(FILTER_STORAGE_KEY, JSON.stringify(serializeFilters()));
+  syncUrlParams();
+}
+
+function syncUrlParams() {
+  const params = new URLSearchParams();
+  if (state.filters.search) params.set("q", state.filters.search);
+  if (state.filters.offer !== "all") params.set("offer", state.filters.offer);
+  if (state.filters.status !== "active") params.set("status", state.filters.status);
+  if (state.filters.sort !== DEFAULT_FILTERS.sort) params.set("sort", state.filters.sort);
+  if (state.filters.platforms.size) params.set("platform", [...state.filters.platforms].join(","));
+  if (state.filters.genres.size) params.set("genre", [...state.filters.genres].join(","));
+  if (state.filters.uiLanguageFilter) params.set("uiLang", "1");
+  if (state.selectedGame) params.set("app", String(state.selectedGame.app_id));
+
+  const query = params.toString();
+  const next = query ? `${window.location.pathname}?${query}` : window.location.pathname;
+  history.replaceState(null, "", next);
+}
+
+function loadFiltersFromStorage() {
+  try {
+    const raw = localStorage.getItem(FILTER_STORAGE_KEY);
+    if (!raw) return;
+    const saved = JSON.parse(raw);
+    state.filters = cloneFilters({
+      ...DEFAULT_FILTERS,
+      ...saved,
+      platforms: new Set(saved.platforms || []),
+      genres: new Set(saved.genres || []),
+    });
+  } catch {
+    /* ignore invalid storage */
+  }
+}
+
+function loadFiltersFromUrl() {
+  const params = new URLSearchParams(window.location.search);
+  if (!params.toString()) return;
+
+  if (params.has("q")) state.filters.search = params.get("q") || "";
+  if (params.has("offer")) state.filters.offer = params.get("offer") || "all";
+  if (params.has("status")) state.filters.status = params.get("status") || "active";
+  if (params.has("sort")) state.filters.sort = params.get("sort") || DEFAULT_FILTERS.sort;
+  if (params.has("platform")) {
+    state.filters.platforms = new Set(
+      (params.get("platform") || "").split(",").filter(Boolean),
+    );
+  }
+  if (params.has("genre")) {
+    state.filters.genres = new Set((params.get("genre") || "").split(",").filter(Boolean));
+  }
+  if (params.get("uiLang") === "1") state.filters.uiLanguageFilter = true;
+}
+
+let pendingDeepLinkAppId = null;
+
+function parseAppId(value) {
+  if (value == null || value === "") return null;
+  const id = Number.parseInt(String(value), 10);
+  return Number.isFinite(id) ? id : null;
+}
+
+function getDeepLinkAppId() {
+  return parseAppId(new URLSearchParams(window.location.search).get("app"));
+}
+
+function findGameByAppId(appId) {
+  const target = parseAppId(appId);
+  if (!target) return null;
+  return state.games.find((item) => Number(item.app_id) === target) || null;
+}
 
 function formatDate(value) {
   if (!value) return "-";
@@ -104,29 +212,79 @@ function formatDate(value) {
   });
 }
 
-function formatExpiry(unixSeconds) {
-  if (!unixSeconds) return "";
-  return formatDate(Number(unixSeconds) * 1000);
+function getExpiryMs(unixSeconds) {
+  if (!unixSeconds) return null;
+  return Number(unixSeconds) * 1000;
 }
 
-function formatPrice(cents, currency = "USD") {
+function isEndingSoon(unixSeconds) {
+  const expiryMs = getExpiryMs(unixSeconds);
+  if (!expiryMs) return false;
+  const diff = expiryMs - Date.now();
+  return diff > 0 && diff <= ONE_DAY_MS;
+}
+
+function formatCountdown(unixSeconds) {
+  const expiryMs = getExpiryMs(unixSeconds);
+  if (!expiryMs) return "";
+  const diff = expiryMs - Date.now();
+  if (diff <= 0) return t(state.lang, "countdownExpired");
+
+  const hours = Math.floor(diff / (60 * 60 * 1000));
+  const days = Math.floor(hours / 24);
+  if (days >= 1) {
+    const label =
+      state.lang === "zh-Hant"
+        ? `${days} 天`
+        : state.lang === "ja"
+          ? `${days} 日`
+          : state.lang === "ko"
+            ? `${days}일`
+            : `${days} day${days === 1 ? "" : "s"}`;
+    return t(state.lang, "countdownEndsIn", { time: label });
+  }
+
+  const hourLabel =
+    state.lang === "zh-Hant"
+      ? `${hours} 小時`
+      : state.lang === "ja"
+        ? `${hours} 時間`
+        : state.lang === "ko"
+          ? `${hours}시간`
+          : `${hours} hour${hours === 1 ? "" : "s"}`;
+  return t(state.lang, "countdownEndsIn", { time: hourLabel });
+}
+
+function formatPrice(cents) {
   if (!cents && cents !== 0) return "";
-  return new Intl.NumberFormat(LOCALE_MAP[state.lang] || "en-US", {
+  return new Intl.NumberFormat("en-US", {
     style: "currency",
-    currency,
+    currency: "USD",
   }).format(cents / 100);
 }
 
 function getGamePrice(game) {
-  const regional = game.prices?.[state.lang];
-  if (regional?.currency) {
-    return regional;
-  }
+  const usdPrice = game.prices?.en;
   return {
     currency: "USD",
-    original: game.original_price,
-    final: game.final_price,
+    original: usdPrice?.original ?? game.original_price,
+    final: usdPrice?.final ?? game.final_price,
   };
+}
+
+function handleImageError(event) {
+  event.target.onerror = null;
+  event.target.src = PLACEHOLDER_IMG;
+}
+
+function showToast(message) {
+  if (!elements.toast) return;
+  elements.toast.textContent = message;
+  elements.toast.classList.remove("hidden");
+  clearTimeout(showToast.timer);
+  showToast.timer = setTimeout(() => {
+    elements.toast.classList.add("hidden");
+  }, 2200);
 }
 
 function translatePage() {
@@ -151,6 +309,14 @@ function translatePage() {
     button.textContent = t(state.lang, button.dataset.i18n);
   });
 
+  if (elements.uiLanguageFilter) {
+    elements.uiLanguageFilter.setAttribute(
+      "aria-pressed",
+      state.filters.uiLanguageFilter ? "true" : "false",
+    );
+    elements.uiLanguageFilter.classList.toggle("active", state.filters.uiLanguageFilter);
+  }
+
   updateStatCardStates();
 }
 
@@ -165,15 +331,10 @@ function syncFilterControls() {
 
 function resetAllFilters() {
   clearTimeout(searchDebounceTimer);
-  state.filters = {
-    search: DEFAULT_FILTERS.search,
-    offer: DEFAULT_FILTERS.offer,
-    platforms: new Set(DEFAULT_FILTERS.platforms),
-    genres: new Set(DEFAULT_FILTERS.genres),
-    status: DEFAULT_FILTERS.status,
-    sort: DEFAULT_FILTERS.sort,
-  };
+  state.filters = cloneFilters(DEFAULT_FILTERS);
+  state.visibleCount = PAGE_SIZE;
   syncFilterControls();
+  saveFilters();
   renderGames();
 }
 
@@ -197,16 +358,13 @@ function updateStatCardStates() {
 
 function applyStatFilter(filter) {
   state.filters.status = "active";
+  if (filter === "active") state.filters.offer = "all";
+  else if (filter === "free") state.filters.offer = "free";
+  else if (filter === "sale") state.filters.offer = "sale";
 
-  if (filter === "active") {
-    state.filters.offer = "all";
-  } else if (filter === "free") {
-    state.filters.offer = "free";
-  } else if (filter === "sale") {
-    state.filters.offer = "sale";
-  }
-
+  state.visibleCount = PAGE_SIZE;
   syncFilterControls();
+  saveFilters();
   renderGames();
   elements.gameGrid.scrollIntoView({ behavior: "smooth", block: "start" });
 }
@@ -230,7 +388,9 @@ function buildGenreFilters(games) {
 
   elements.genreFilters.innerHTML = "";
   [...genres]
-    .sort((a, b) => translateGenre(state.lang, a).localeCompare(translateGenre(state.lang, b), state.lang))
+    .sort((a, b) =>
+      translateGenre(state.lang, a).localeCompare(translateGenre(state.lang, b), state.lang),
+    )
     .forEach((genre) => {
       const button = document.createElement("button");
       button.type = "button";
@@ -249,8 +409,25 @@ function getRatingValue(game) {
   return -1;
 }
 
+function getExpirySortValue(game) {
+  const expiryMs = getExpiryMs(game.discount_expiration);
+  if (!expiryMs) return Number.MAX_SAFE_INTEGER;
+  return expiryMs;
+}
+
 function compareGames(a, b) {
   switch (state.filters.sort) {
+    case "deals-priority": {
+      const freeDiff = Number(b.offer_type === "free") - Number(a.offer_type === "free");
+      if (freeDiff) return freeDiff;
+      const expiryDiff = getExpirySortValue(a) - getExpirySortValue(b);
+      if (expiryDiff) return expiryDiff;
+      const discountDiff = (b.discount_percent || 0) - (a.discount_percent || 0);
+      if (discountDiff) return discountDiff;
+      return a.name.localeCompare(b.name, state.lang);
+    }
+    case "ending-soon":
+      return getExpirySortValue(a) - getExpirySortValue(b) || a.name.localeCompare(b.name, state.lang);
     case "name-desc":
       return b.name.localeCompare(a.name, state.lang);
     case "newest":
@@ -273,6 +450,30 @@ function compareGames(a, b) {
     default:
       return a.name.localeCompare(b.name, state.lang);
   }
+}
+
+function getLocalizedValue(game, field) {
+  const localized = game[field] || {};
+  if (state.lang !== "en" && localized[state.lang]) return localized[state.lang];
+  return localized.en || "";
+}
+
+function getGameName(game) {
+  return getLocalizedValue(game, "names") || game.name || "";
+}
+
+function getGameDescription(game) {
+  return getLocalizedValue(game, "descriptions") || game.short_description || "";
+}
+
+function getGameDetailedDescription(game) {
+  return getLocalizedValue(game, "detailed_descriptions") || getGameDescription(game);
+}
+
+function getGameDetailedDescriptionHtml(game) {
+  const htmlField = getLocalizedValue(game, "detailed_descriptions_html");
+  if (htmlField && /<[a-z][\s\S]*>/i.test(htmlField)) return sanitizeHtml(htmlField);
+  return plainTextToHtml(getGameDetailedDescription(game));
 }
 
 function matchesSearch(game, query) {
@@ -299,7 +500,7 @@ function matchesSearch(game, query) {
 }
 
 function matchesFilters(game) {
-  const { search, offer, platforms, genres, status } = state.filters;
+  const { search, offer, platforms, genres, status, uiLanguageFilter } = state.filters;
   const query = search.trim().toLowerCase();
 
   if (status === "active" && !game.is_active) return false;
@@ -308,17 +509,22 @@ function matchesFilters(game) {
 
   if (platforms.size > 0) {
     const gamePlatforms = game.platforms || [];
-    const hasPlatform = [...platforms].some((platform) => gamePlatforms.includes(platform));
-    if (!hasPlatform) return false;
+    if (![...platforms].some((platform) => gamePlatforms.includes(platform))) return false;
   }
 
   if (genres.size > 0) {
     const gameGenres = game.genres || [];
-    const hasGenre = [...genres].some((genre) => gameGenres.includes(genre));
-    if (!hasGenre) return false;
+    if (![...genres].some((genre) => gameGenres.includes(genre))) return false;
   }
 
+  if (uiLanguageFilter && !gameSupportsUiLanguage(game, state.lang)) return false;
+
   return matchesSearch(game, query);
+}
+
+function isNewToday(game) {
+  if (!game.first_seen) return false;
+  return Date.now() - new Date(game.first_seen).getTime() <= ONE_DAY_MS;
 }
 
 function renderStats() {
@@ -344,43 +550,14 @@ function renderReviewLine(game) {
   return "";
 }
 
-function getLocalizedValue(game, field) {
-  const localized = game[field] || {};
-  if (state.lang !== "en" && localized[state.lang]) {
-    return localized[state.lang];
-  }
-  return localized.en || "";
-}
-
-function getGameName(game) {
-  return getLocalizedValue(game, "names") || game.name || "";
-}
-
-function getGameDescription(game) {
-  return getLocalizedValue(game, "descriptions") || game.short_description || "";
-}
-
-function getGameDetailedDescription(game) {
-  return getLocalizedValue(game, "detailed_descriptions") || getGameDescription(game);
-}
-
-function getGameDetailedDescriptionHtml(game) {
-  const htmlField = getLocalizedValue(game, "detailed_descriptions_html");
-  if (htmlField && /<[a-z][\s\S]*>/i.test(htmlField)) {
-    return sanitizeHtml(htmlField);
-  }
-  return plainTextToHtml(getGameDetailedDescription(game));
-}
-
 function renderPriceLine(game) {
   const price = getGamePrice(game);
-  const currency = price.currency || "USD";
 
   if (game.offer_type === "free") {
     const parts = [t(state.lang, "freeNow")];
     if (price.original) {
       parts.unshift(
-        t(state.lang, "originalPrice", { price: formatPrice(price.original, currency) }),
+        t(state.lang, "originalPrice", { price: formatPrice(price.original) }),
       );
     }
     return parts.join(" · ");
@@ -388,71 +565,78 @@ function renderPriceLine(game) {
 
   const parts = [];
   if (price.original) {
-    parts.push(t(state.lang, "originalPrice", { price: formatPrice(price.original, currency) }));
+    parts.push(t(state.lang, "originalPrice", { price: formatPrice(price.original) }));
   }
   if (price.final || price.final === 0) {
-    parts.push(t(state.lang, "salePrice", { price: formatPrice(price.final, currency) }));
+    parts.push(t(state.lang, "salePrice", { price: formatPrice(price.final) }));
   }
   return parts.join(" · ");
 }
 
-function renderGames() {
-  const filtered = state.games.filter(matchesFilters).sort(compareGames);
-  elements.gameGrid.innerHTML = "";
+function buildCardNode(game, compact = false) {
+  const node = elements.template.content.cloneNode(true);
+  const card = node.querySelector(".game-card");
+  const img = node.querySelector("img");
+  const badge = node.querySelector(".badge");
+  const title = node.querySelector("h2");
+  const status = node.querySelector(".status-pill");
+  const reviewLine = node.querySelector(".review-line");
+  const priceLine = node.querySelector(".price-line");
+  const description = node.querySelector(".description");
+  const tagRow = node.querySelector(".tag-row");
+  const languageRow = node.querySelector(".language-row");
+  const languageLabel = node.querySelector(".language-label");
+  const platformRow = node.querySelector(".platform-row");
+  const addedAt = node.querySelector(".added-at");
+  const expiresAt = node.querySelector(".expires-at");
+  const viewDetails = node.querySelector(".view-details");
+  const link = node.querySelector(".card-actions a");
 
-  filtered.forEach((game) => {
-    const node = elements.template.content.cloneNode(true);
-    const card = node.querySelector(".game-card");
-    const img = node.querySelector("img");
-    const badge = node.querySelector(".badge");
-    const title = node.querySelector("h2");
-    const status = node.querySelector(".status-pill");
-    const reviewLine = node.querySelector(".review-line");
-    const priceLine = node.querySelector(".price-line");
-    const description = node.querySelector(".description");
-    const tagRow = node.querySelector(".tag-row");
-    const languageRow = node.querySelector(".language-row");
-    const languageLabel = node.querySelector(".language-label");
-    const platformRow = node.querySelector(".platform-row");
-    const addedAt = node.querySelector(".added-at");
-    const expiresAt = node.querySelector(".expires-at");
-    const viewDetails = node.querySelector(".view-details");
-    const link = node.querySelector(".card-actions a");
+  if (compact) card.classList.add("compact");
+  if (!game.is_active) card.classList.add("inactive");
+  if (isEndingSoon(game.discount_expiration)) card.classList.add("ending-soon");
 
-    if (!game.is_active) card.classList.add("inactive");
-    card.tabIndex = 0;
-    card.setAttribute("role", "button");
-    card.setAttribute("aria-label", getGameName(game));
+  card.tabIndex = 0;
+  card.setAttribute("role", "button");
+  card.setAttribute("aria-label", getGameName(game));
 
-    img.src =
-      game.header_image ||
-      `https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/${game.app_id}/header.jpg`;
-    img.alt = getGameName(game);
+  img.src =
+    game.header_image ||
+    `https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/${game.app_id}/header.jpg`;
+  img.alt = getGameName(game);
+  img.addEventListener("error", handleImageError);
 
-    if (game.offer_type === "sale") {
-      badge.textContent = t(state.lang, "badgeSale", { percent: game.discount_percent || 0 });
-      badge.classList.add("sale");
-    } else {
-      badge.textContent = t(state.lang, "badgePromotional");
-      badge.classList.add("free");
-    }
+  if (game.offer_type === "sale") {
+    badge.textContent = t(state.lang, "badgeSale", { percent: game.discount_percent || 0 });
+    badge.classList.add("sale");
+  } else {
+    badge.textContent = t(state.lang, "badgePromotional");
+    badge.classList.add("free");
+  }
 
-    title.textContent = getGameName(game);
-    status.textContent = game.is_active
-      ? t(state.lang, "statusActivePill")
-      : t(state.lang, "statusExpiredPill");
-    status.classList.toggle("inactive", !game.is_active);
+  title.textContent = getGameName(game);
+  status.textContent = game.is_active
+    ? t(state.lang, "statusActivePill")
+    : t(state.lang, "statusExpiredPill");
+  status.classList.toggle("inactive", !game.is_active);
 
-    const reviewText = renderReviewLine(game);
-    reviewLine.textContent = reviewText;
-    reviewLine.classList.toggle("hidden", !reviewText);
+  const reviewText = renderReviewLine(game);
+  reviewLine.textContent = reviewText;
+  reviewLine.classList.toggle("hidden", !reviewText);
 
-    const priceText = renderPriceLine(game);
-    priceLine.textContent = priceText;
-    priceLine.classList.toggle("hidden", !priceText);
+  const priceText = renderPriceLine(game);
+  priceLine.textContent = priceText;
+  priceLine.classList.toggle("hidden", !priceText);
 
+  if (compact) {
+    description.classList.add("hidden");
+    tagRow.classList.add("hidden");
+    languageLabel.classList.add("hidden");
+    languageRow.classList.add("hidden");
+    platformRow.classList.add("hidden");
+    addedAt.classList.add("hidden");
+  } else {
     description.textContent = getGameDescription(game) || t(state.lang, "noDescription");
-
     (game.genres || []).slice(0, 5).forEach((genre) => {
       const tag = document.createElement("span");
       tag.className = "tag";
@@ -471,12 +655,6 @@ function renderGames() {
         language.textContent = label;
         languageRow.appendChild(language);
       });
-      if (supportedLanguages.length > 6) {
-        const more = document.createElement("span");
-        more.className = "language-tag";
-        more.textContent = `+${supportedLanguages.length - 6}`;
-        languageRow.appendChild(more);
-      }
     } else {
       languageLabel.classList.add("hidden");
       languageRow.classList.add("hidden");
@@ -487,7 +665,6 @@ function renderGames() {
       mac: t(state.lang, "platformMac"),
       linux: t(state.lang, "platformLinux"),
     };
-
     (game.platforms || []).forEach((platformName) => {
       const platform = document.createElement("span");
       platform.className = "platform";
@@ -496,37 +673,89 @@ function renderGames() {
     });
 
     addedAt.textContent = t(state.lang, "addedAt", { date: formatDate(game.first_seen) });
+  }
 
-    const expiry = formatExpiry(game.discount_expiration);
-    expiresAt.textContent = expiry ? t(state.lang, "expiresAt", { date: expiry }) : "";
-    expiresAt.classList.toggle("hidden", !expiry);
+  const countdown = formatCountdown(game.discount_expiration);
+  expiresAt.textContent = countdown;
+  expiresAt.classList.toggle("hidden", !countdown);
+  if (isEndingSoon(game.discount_expiration)) expiresAt.classList.add("ending-soon");
 
-    link.href = game.steam_url;
-    link.textContent = t(state.lang, "openSteam");
-    viewDetails.textContent = t(state.lang, "viewDetails");
+  link.href = game.steam_url;
+  link.textContent = t(state.lang, "openSteam");
+  viewDetails.textContent = t(state.lang, "viewDetails");
 
-    card.addEventListener("click", (event) => {
-      if (event.target.closest("a")) return;
-      openGameModal(game);
-    });
-
-    card.addEventListener("keydown", (event) => {
-      if (event.target.closest("a")) return;
-      if (event.key === "Enter" || event.key === " ") {
-        event.preventDefault();
-        openGameModal(game);
-      }
-    });
-
-    elements.gameGrid.appendChild(node);
+  card.addEventListener("click", (event) => {
+    if (event.target.closest("a")) return;
+    openGameModal(game);
   });
 
-  elements.resultsCount.textContent = t(state.lang, "resultsCount", {
-    shown: filtered.length,
+  card.addEventListener("keydown", (event) => {
+    if (event.target.closest("a")) return;
+    if (event.key === "Enter" || event.key === " ") {
+      event.preventDefault();
+      openGameModal(game);
+    }
+  });
+
+  return node;
+}
+
+function renderNewTodaySection() {
+  const newGames = state.games
+    .filter((game) => game.is_active && isNewToday(game))
+    .sort((a, b) => {
+      const freeDiff = Number(b.offer_type === "free") - Number(a.offer_type === "free");
+      if (freeDiff) return freeDiff;
+      return new Date(b.first_seen || 0) - new Date(a.first_seen || 0);
+    });
+
+  elements.newTodayGrid.innerHTML = "";
+  elements.newTodaySection.classList.toggle("hidden", newGames.length === 0);
+
+  newGames.slice(0, 12).forEach((game) => {
+    elements.newTodayGrid.appendChild(buildCardNode(game, true));
+  });
+}
+
+function renderLoadingSkeleton() {
+  elements.gameGrid.innerHTML = "";
+  for (let i = 0; i < 6; i += 1) {
+    const skeleton = document.createElement("article");
+    skeleton.className = "game-card skeleton-card";
+    skeleton.innerHTML =
+      '<div class="skeleton-media"></div><div class="skeleton-body"><div class="skeleton-line wide"></div><div class="skeleton-line"></div><div class="skeleton-line short"></div></div>';
+    elements.gameGrid.appendChild(skeleton);
+  }
+  elements.resultsCount.textContent = t(state.lang, "loading");
+  elements.emptyState.classList.add("hidden");
+  elements.errorState.classList.add("hidden");
+  elements.loadMore.classList.add("hidden");
+}
+
+function renderGames() {
+  if (state.loadError) return;
+
+  const filtered = state.games.filter(matchesFilters).sort(compareGames);
+  const visible = filtered.slice(0, state.visibleCount);
+
+  elements.gameGrid.innerHTML = "";
+  visible.forEach((game) => {
+    elements.gameGrid.appendChild(buildCardNode(game));
+  });
+
+  elements.resultsCount.textContent = t(state.lang, "resultsCountFiltered", {
+    shown: visible.length,
+    filtered: filtered.length,
     total: state.games.length,
   });
+
   elements.emptyState.classList.toggle("hidden", filtered.length > 0);
+  elements.loadMore.classList.toggle("hidden", visible.length >= filtered.length);
+  elements.loadMore.textContent = t(state.lang, "loadMore");
+
+  renderNewTodaySection();
   updateStatCardStates();
+  saveFilters();
 }
 
 function updateChipStates() {
@@ -556,8 +785,37 @@ function fillChipGroup(container, items, translateFn = (value) => value) {
   });
 }
 
+function getShareUrl(game) {
+  const url = new URL(window.location.href);
+  url.search = "";
+  url.hash = "";
+  url.searchParams.set("app", String(game.app_id));
+  if (!game.is_active) url.searchParams.set("status", "all");
+  return url.toString();
+}
+
+function resolveDeepLink() {
+  const appId = pendingDeepLinkAppId ?? getDeepLinkAppId();
+  pendingDeepLinkAppId = null;
+  if (!appId) return;
+
+  const game = findGameByAppId(appId);
+  if (!game) return;
+
+  let needsRerender = false;
+  if (!game.is_active && state.filters.status === "active") {
+    state.filters.status = "all";
+    syncFilterControls();
+    needsRerender = true;
+  }
+
+  if (needsRerender) renderGames();
+  openGameModal(game);
+}
+
 function openGameModal(game) {
   state.selectedGame = game;
+  elements.modalImage.onerror = handleImageError;
   elements.modalImage.src =
     game.header_image ||
     `https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/${game.app_id}/header.jpg`;
@@ -583,17 +841,15 @@ function openGameModal(game) {
   elements.modalPrice.classList.toggle("hidden", !priceText);
 
   const descriptionHtml = getGameDetailedDescriptionHtml(game);
-  if (descriptionHtml) {
-    elements.modalDescription.innerHTML = descriptionHtml;
-  } else {
-    elements.modalDescription.textContent = t(state.lang, "noDescription");
-  }
+  if (descriptionHtml) elements.modalDescription.innerHTML = descriptionHtml;
+  else elements.modalDescription.textContent = t(state.lang, "noDescription");
 
   fillChipGroup(elements.modalGenres, game.genres || [], (genre) =>
     translateGenre(state.lang, genre),
   );
-  fillChipGroup(elements.modalCategories, game.categories || []);
-
+  fillChipGroup(elements.modalCategories, game.categories || [], (category) =>
+    translateCategory(state.lang, category),
+  );
   fillChipGroup(
     elements.modalLanguages,
     sanitizeSupportedLanguages(game.supported_languages),
@@ -616,18 +872,19 @@ function openGameModal(game) {
     date: formatDate(game.first_seen),
   });
 
-  const expiry = formatExpiry(game.discount_expiration);
-  elements.modalExpires.textContent = expiry
-    ? t(state.lang, "expiresAt", { date: expiry })
-    : "";
-  elements.modalExpires.classList.toggle("hidden", !expiry);
+  const countdown = formatCountdown(game.discount_expiration);
+  elements.modalExpires.textContent = countdown;
+  elements.modalExpires.classList.toggle("hidden", !countdown);
+  elements.modalExpires.classList.toggle("ending-soon", isEndingSoon(game.discount_expiration));
 
   elements.modalSteamLink.href = game.steam_url;
   elements.modalSteamLink.textContent = t(state.lang, "openSteam");
+  elements.modalCopyLink.textContent = t(state.lang, "copyLink");
 
   elements.modal.classList.remove("hidden");
   elements.modal.setAttribute("aria-hidden", "false");
   document.body.classList.add("modal-open");
+  syncUrlParams();
 }
 
 function closeGameModal() {
@@ -635,76 +892,87 @@ function closeGameModal() {
   elements.modal.classList.add("hidden");
   elements.modal.setAttribute("aria-hidden", "true");
   document.body.classList.remove("modal-open");
+  syncUrlParams();
 }
 
 function bindEvents() {
   elements.searchInput.addEventListener("input", (event) => {
     state.filters.search = event.target.value;
+    state.visibleCount = PAGE_SIZE;
     clearTimeout(searchDebounceTimer);
-    searchDebounceTimer = setTimeout(() => {
-      renderGames();
-    }, SEARCH_DEBOUNCE_MS);
+    searchDebounceTimer = setTimeout(() => renderGames(), SEARCH_DEBOUNCE_MS);
   });
+
+  const filterChange = () => {
+    state.visibleCount = PAGE_SIZE;
+    saveFilters();
+    renderGames();
+  };
 
   elements.filterOffer.addEventListener("change", (event) => {
     state.filters.offer = event.target.value;
-    renderGames();
+    filterChange();
   });
 
   elements.filterStatus.addEventListener("change", (event) => {
     state.filters.status = event.target.value;
-    renderGames();
+    filterChange();
   });
 
   elements.sortBy.addEventListener("change", (event) => {
     state.filters.sort = event.target.value;
-    renderGames();
+    filterChange();
   });
 
   elements.statCards.forEach((button) => {
-    button.addEventListener("click", () => {
-      applyStatFilter(button.dataset.statFilter);
-    });
+    button.addEventListener("click", () => applyStatFilter(button.dataset.statFilter));
   });
 
   elements.clearAllFilters.addEventListener("click", resetAllFilters);
+
+  elements.uiLanguageFilter?.addEventListener("click", () => {
+    state.filters.uiLanguageFilter = !state.filters.uiLanguageFilter;
+    translatePage();
+    filterChange();
+  });
+
+  elements.loadMore.addEventListener("click", () => {
+    state.visibleCount += PAGE_SIZE;
+    renderGames();
+  });
+
+  elements.retryLoad?.addEventListener("click", () => loadData());
 
   elements.platformFilters.addEventListener("click", (event) => {
     const button = event.target.closest("[data-platform]");
     if (!button) return;
     const platform = button.dataset.platform;
-    if (state.filters.platforms.has(platform)) {
-      state.filters.platforms.delete(platform);
-    } else {
-      state.filters.platforms.add(platform);
-    }
+    if (state.filters.platforms.has(platform)) state.filters.platforms.delete(platform);
+    else state.filters.platforms.add(platform);
     updateChipStates();
-    renderGames();
+    filterChange();
   });
 
   elements.genreFilters.addEventListener("click", (event) => {
     const button = event.target.closest("[data-genre]");
     if (!button) return;
     const genre = button.dataset.genre;
-    if (state.filters.genres.has(genre)) {
-      state.filters.genres.delete(genre);
-    } else {
-      state.filters.genres.add(genre);
-    }
+    if (state.filters.genres.has(genre)) state.filters.genres.delete(genre);
+    else state.filters.genres.add(genre);
     updateChipStates();
-    renderGames();
+    filterChange();
   });
 
   elements.clearPlatforms.addEventListener("click", () => {
     state.filters.platforms.clear();
     updateChipStates();
-    renderGames();
+    filterChange();
   });
 
   elements.clearGenres.addEventListener("click", () => {
     state.filters.genres.clear();
     updateChipStates();
-    renderGames();
+    filterChange();
   });
 
   elements.languageSelect.addEventListener("change", (event) => {
@@ -720,26 +988,52 @@ function bindEvents() {
     }
   });
 
+  elements.modalCopyLink?.addEventListener("click", async () => {
+    if (!state.selectedGame) return;
+    const shareUrl = getShareUrl(state.selectedGame);
+    try {
+      await navigator.clipboard.writeText(shareUrl);
+      showToast(t(state.lang, "copyLinkSuccess"));
+    } catch {
+      showToast(shareUrl);
+    }
+  });
+
   elements.modalClose.addEventListener("click", closeGameModal);
   elements.modalBackdrop.addEventListener("click", closeGameModal);
   document.addEventListener("keydown", (event) => {
     if (event.key === "Escape") closeGameModal();
   });
+
+  window.addEventListener("popstate", () => {
+    loadFiltersFromUrl();
+    syncFilterControls();
+    pendingDeepLinkAppId = getDeepLinkAppId();
+    renderGames();
+    if (pendingDeepLinkAppId) resolveDeepLink();
+    else closeGameModal();
+  });
 }
 
 function detectRepoLink() {
-  const { origin, pathname } = window.location;
-  if (origin.includes("github.io")) {
-    const repoName = pathname.split("/").filter(Boolean)[0];
-    if (repoName) {
-      elements.repoLink.href = `https://github.com/${repoName}/${repoName}`;
-      return;
-    }
-  }
-  elements.repoLink.href = "https://github.com/";
+  elements.repoLink.href = "https://github.com/HenryLok0/steam-deals-tracker";
+}
+
+function showLoadError(message) {
+  state.loadError = message;
+  elements.errorState.classList.remove("hidden");
+  elements.errorState.querySelector("p").textContent = t(state.lang, "loadError");
+  elements.emptyState.classList.add("hidden");
+  elements.gameGrid.innerHTML = "";
+  elements.loadMore.classList.add("hidden");
+  elements.resultsCount.textContent = t(state.lang, "loadError");
 }
 
 async function loadData() {
+  state.loadError = null;
+  elements.errorState.classList.add("hidden");
+  renderLoadingSkeleton();
+
   try {
     const [gamesPayload, metaPayload] = await Promise.all([
       fetch(DATA_URL).then((res) => {
@@ -757,15 +1051,29 @@ async function loadData() {
     buildLanguageOptions();
     translatePage();
     buildGenreFilters(state.games);
-    updateChipStates();
+    syncFilterControls();
     renderStats();
     renderGames();
+    resolveDeepLink();
   } catch (error) {
     console.error(error);
-    elements.resultsCount.textContent = t(state.lang, "loadError");
+    showLoadError(error.message);
   }
 }
+
+function registerServiceWorker() {
+  if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register("./sw.js").catch((error) => {
+      console.warn("Service worker registration failed", error);
+    });
+  }
+}
+
+pendingDeepLinkAppId = getDeepLinkAppId();
+loadFiltersFromStorage();
+if (window.location.search) loadFiltersFromUrl();
 
 bindEvents();
 detectRepoLink();
 loadData();
+registerServiceWorker();

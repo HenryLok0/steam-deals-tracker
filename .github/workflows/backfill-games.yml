@@ -1,15 +1,15 @@
-name: Update Steam Free Games
+name: Backfill Steam Games Data
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 3 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update:
+  backfill:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -20,8 +20,8 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Fetch latest games
-        run: python scripts/fetch_games.py --mode=quick
+      - name: Backfill missing prices and descriptions
+        run: python scripts/fetch_games.py --mode=backfill
 
       - name: Generate RSS feed
         run: python scripts/generate_rss.py
@@ -34,6 +34,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes detected."
           else
-            git commit -m "chore: update Steam deals data"
+            git commit -m "chore: backfill Steam deals metadata"
             git push
           fi

@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import argparse
 import html as html_lib
 import json
 import re
@@ -17,12 +18,14 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 DATA_FILE = ROOT / "data" / "games.json"
 META_FILE = ROOT / "data" / "meta.json"
+QUEUE_FILE = ROOT / "data" / "fetch_queue.json"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; SteamFreeGamesBot/1.0; +https://github.com)",
     "Accept-Language": "en-US,en;q=0.9",
 }
-REQUEST_DELAY = 0.65
+REQUEST_DELAY = 1.0
+BACKFILL_LIMIT = 80
 SEARCH_PAGE_SIZE = 50
 MAX_SALE_RESULTS = 350
 
@@ -625,15 +628,153 @@ def needs_details(app_id: int, existing_games: dict[str, dict]) -> bool:
     return False
 
 
-def main() -> int:
-    now = utc_now_iso()
-    print(f"[info] Fetch started at {now}")
+def needs_backfill(game: dict) -> bool:
+    if needs_regional_prices(game):
+        return True
+    if not game.get("detailed_descriptions_html", {}).get("en"):
+        return True
+    descriptions = game.get("descriptions", {})
+    names = game.get("names", {})
+    if not descriptions.get("en") or not names.get("en"):
+        return True
+    for ui_lang, locale_options in LOCALIZED_DESCRIPTIONS.items():
+        if any(key in (game.get("supported_languages") or []) for key, _ in locale_options):
+            if not descriptions.get(ui_lang) or not names.get(ui_lang):
+                return True
+    return False
 
-    existing_data = load_json(DATA_FILE, {"games": [], "updated_at": None})
-    existing_games = {
-        str(item["app_id"]): item for item in existing_data.get("games", [])
+
+def count_backfill_pending(games: list[dict]) -> int:
+    return sum(1 for game in games if needs_backfill(game))
+
+
+def load_queue() -> list[int]:
+    payload = load_json(QUEUE_FILE, {"app_ids": []})
+    return [int(item) for item in payload.get("app_ids", [])]
+
+
+def save_queue(app_ids: list[int]) -> None:
+    unique_ids = sorted({int(item) for item in app_ids})
+    save_json(QUEUE_FILE, {"app_ids": unique_ids})
+
+
+def add_to_queue(app_id: int) -> None:
+    queue = load_queue()
+    if app_id not in queue:
+        queue.append(app_id)
+    save_queue(queue)
+
+
+def remove_from_queue(app_id: int) -> None:
+    queue = [item for item in load_queue() if item != app_id]
+    save_queue(queue)
+
+
+def compute_meta(games: list[dict], now: str) -> dict:
+    now_dt = datetime.fromisoformat(now.replace("Z", "+00:00"))
+    new_today = 0
+    new_free_today = 0
+    for game in games:
+        first_seen = game.get("first_seen")
+        if not first_seen:
+            continue
+        seen_dt = datetime.fromisoformat(first_seen.replace("Z", "+00:00"))
+        if (now_dt - seen_dt).total_seconds() <= 86400 and game.get("is_active"):
+            new_today += 1
+            if game.get("offer_type") == "free":
+                new_free_today += 1
+
+    return {
+        "updated_at": now,
+        "active_count": sum(1 for g in games if g.get("is_active")),
+        "total_count": len(games),
+        "free_active": sum(
+            1 for g in games if g.get("is_active") and g.get("offer_type") == "free"
+        ),
+        "sale_active": sum(
+            1 for g in games if g.get("is_active") and g.get("offer_type") == "sale"
+        ),
+        "new_today_count": new_today,
+        "new_free_today": new_free_today,
+        "backfill_pending": count_backfill_pending(games),
     }
 
+
+def save_outputs(existing_games: dict[str, dict], now: str) -> dict:
+    games = sorted(
+        existing_games.values(),
+        key=lambda g: (not g.get("is_active", False), g.get("name", "").lower()),
+    )
+    output = {
+        "updated_at": now,
+        "total_count": len(games),
+        "active_count": sum(1 for g in games if g.get("is_active")),
+        "games": games,
+    }
+    save_json(DATA_FILE, output)
+
+    meta = compute_meta(games, now)
+    save_json(META_FILE, meta)
+
+    docs_data_dir = ROOT / "docs" / "data"
+    save_json(docs_data_dir / "games.json", output)
+    save_json(docs_data_dir / "meta.json", meta)
+    return output
+
+
+def run_backfill(existing_games: dict[str, dict], now: str) -> int:
+    queue = load_queue()
+    candidates: list[int] = []
+    for app_id in queue:
+        if str(app_id) in existing_games and app_id not in candidates:
+            candidates.append(app_id)
+    for app_id_str, game in existing_games.items():
+        app_id = int(app_id_str)
+        if needs_backfill(game) and app_id not in candidates:
+            candidates.append(app_id)
+
+    processed = 0
+    for app_id in candidates[:BACKFILL_LIMIT]:
+        previous = existing_games.get(str(app_id))
+        if not previous:
+            continue
+
+        data = fetch_app_details(app_id)
+        time.sleep(REQUEST_DELAY)
+        if not data:
+            add_to_queue(app_id)
+            continue
+
+        supported_languages = parse_supported_languages(data.get("supported_languages", ""))
+        localized = fetch_localized_content(app_id, supported_languages, data, previous)
+        prices = fetch_regional_prices(app_id, data, previous, previous)
+
+        previous.update(
+            {
+                "names": localized.get("names", previous.get("names", {})),
+                "descriptions": localized.get("descriptions", previous.get("descriptions", {})),
+                "detailed_descriptions": localized.get(
+                    "detailed_descriptions", previous.get("detailed_descriptions", {})
+                ),
+                "detailed_descriptions_html": localized.get(
+                    "detailed_descriptions_html",
+                    previous.get("detailed_descriptions_html", {}),
+                ),
+                "prices": prices,
+                "supported_languages": supported_languages or previous.get("supported_languages", []),
+                "updated_at": now,
+            }
+        )
+        existing_games[str(app_id)] = previous
+        remove_from_queue(app_id)
+        processed += 1
+
+    save_outputs(existing_games, now)
+    print(f"[info] Backfill processed {processed} games")
+    return 0
+
+
+def run_quick(existing_games: dict[str, dict], now: str) -> int:
     free_search = fetch_search_games({"query": "", "specials": "1", "maxprice": "free"})
     sale_search = fetch_search_games({"query": "", "specials": "1"}, max_results=MAX_SALE_RESULTS)
     featured = fetch_featured_specials()
@@ -656,6 +797,7 @@ def main() -> int:
         data = fetch_app_details(app_id)
         time.sleep(REQUEST_DELAY)
         if not data:
+            add_to_queue(app_id)
             skipped += 1
             continue
 
@@ -679,49 +821,53 @@ def main() -> int:
         supported_languages = parse_supported_languages(data.get("supported_languages", ""))
         previous = existing_games.get(str(app_id))
         localized = fetch_localized_content(app_id, supported_languages, data, previous)
-        prices = fetch_regional_prices(app_id, data, base, previous)
+        prices = (
+            previous.get("prices")
+            if previous and not needs_regional_prices(previous)
+            else fetch_regional_prices(app_id, data, base, previous)
+        )
 
         record = build_game_record(base, data, reviews, localized, offer_type, prices, now)
         active_ids.add(app_id)
         merge_records(existing_games, record, now)
+        remove_from_queue(app_id)
         if offer_type == "free":
             kept_free += 1
         else:
             kept_sale += 1
 
     mark_inactive(existing_games, active_ids, now)
-
-    games = sorted(
-        existing_games.values(),
-        key=lambda g: (not g.get("is_active", False), g.get("name", "").lower()),
-    )
-
-    output = {
-        "updated_at": now,
-        "total_count": len(games),
-        "active_count": sum(1 for g in games if g.get("is_active")),
-        "games": games,
-    }
-    save_json(DATA_FILE, output)
-
-    meta = {
-        "updated_at": now,
-        "active_count": output["active_count"],
-        "total_count": output["total_count"],
-        "free_active": sum(1 for g in games if g.get("is_active") and g.get("offer_type") == "free"),
-        "sale_active": sum(1 for g in games if g.get("is_active") and g.get("offer_type") == "sale"),
-    }
-    save_json(META_FILE, meta)
-
-    docs_data_dir = ROOT / "docs" / "data"
-    save_json(docs_data_dir / "games.json", output)
-    save_json(docs_data_dir / "meta.json", meta)
+    output = save_outputs(existing_games, now)
 
     print(f"[info] Kept {kept_free} free + {kept_sale} sale games, skipped {skipped}")
     print(
         f"[info] Saved {output['active_count']} active / {output['total_count']} total games"
     )
     return 0
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description="Fetch Steam deals data")
+    parser.add_argument(
+        "--mode",
+        choices=("quick", "backfill"),
+        default="quick",
+        help="quick: refresh active deals; backfill: enrich cached games",
+    )
+    args = parser.parse_args()
+
+    now = utc_now_iso()
+    print(f"[info] Fetch started at {now} (mode={args.mode})")
+
+    existing_data = load_json(DATA_FILE, {"games": [], "updated_at": None})
+    existing_games = {
+        str(item["app_id"]): item for item in existing_data.get("games", [])
+    }
+
+    if args.mode == "backfill":
+        return run_backfill(existing_games, now)
+
+    return run_quick(existing_games, now)
 
 
 if __name__ == "__main__":
