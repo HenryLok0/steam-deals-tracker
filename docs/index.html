@@ -54,10 +54,16 @@
               Track paid games that are temporarily free or on limited-time sale. Search, filter, and sort easily.
             </p>
           </div>
-          <label class="language-picker">
-            <span data-i18n="languageLabel">Language</span>
-            <select id="language-select" aria-label="Language"></select>
-          </label>
+          <div class="hero-pickers">
+            <label class="language-picker">
+              <span data-i18n="languageLabel">Language</span>
+              <select id="language-select" aria-label="Language"></select>
+            </label>
+            <label class="language-picker">
+              <span data-i18n="currencyLabel">Currency</span>
+              <select id="currency-select" aria-label="Currency"></select>
+            </label>
+          </div>
         </div>
 
         <div class="hero-stats" id="stats">
@@ -172,7 +178,7 @@
             <button type="button" class="chip" id="filter-discount-75" data-i18n="filterMinDiscount75">
               75% off or more
             </button>
-            <button type="button" class="chip" id="filter-max-price" data-i18n="filterMaxPrice5">
+            <button type="button" class="chip" id="filter-max-price">
               Under $5
             </button>
             <button type="button" class="chip" id="filter-steam-deck" data-i18n="filterSteamDeck">
@@ -352,6 +358,6 @@
       </article>
     </template>
 
-    <script type="module" src="app.js?v=19"></script>
+    <script type="module" src="app.js?v=20"></script>
   </body>
 </html>

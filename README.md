@@ -35,8 +35,9 @@ Every **6 hours**, the site automatically refreshes its game list from Steam. Yo
 - **Game details** — click a card to open a modal with full description, genres, features, languages, and price
 - **Accessibility** — modal focus trap, keyboard navigation, localized close labels
 - **Languages** — UI available in English, Traditional Chinese, Simplified Chinese, Japanese, and Korean
+- **Currency** — independently choose display currency: USD, HKD, TWD, CNY, JPY, or KRW (uses Steam regional prices when available, otherwise daily exchange rates)
 - **Theme** — follows your browser light/dark mode automatically
-- **Prices** — always shown in USD (when price data is available)
+- **Prices** — shown in your selected currency; Steam regional prices are preferred when available, with daily exchange-rate fallback
 - **PWA** — installable on mobile/desktop; network-first app shell with cached data fallback
 - **RSS feed** — subscribe at [feed.xml](https://steam-deals.henrylok.me/feed.xml) for free games and newly added sales
 
@@ -84,6 +85,7 @@ Deal data comes from public Steam store APIs.
 | ------------------ | -------------------- | ----------------------------------------------------- |
 | Every 6 hours      | `update-games.yml`   | Refresh active deals (quick mode)                     |
 | Daily at 03:00 UTC | `backfill-games.yml` | Fill in missing regional prices and HTML descriptions |
+| Daily at 04:00 UTC | `update-exchange-rates.yml` | Fetch USD exchange rates for HKD/TWD/CNY/JPY/KRW |
 
 - **Last updated** time is shown on the site homepage
 - Active deals load from `docs/data/games-active.json` (~800KB list payload); modal descriptions lazy-load from `docs/data/details/{app_id}.json`

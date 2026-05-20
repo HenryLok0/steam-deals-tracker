@@ -97,6 +97,13 @@ body {
   line-height: 1.6;
 }
 
+.hero-pickers {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: start;
+}
+
 .language-picker {
   display: grid;
   gap: 8px;
@@ -949,6 +956,7 @@ body.modal-open {
 
 @media (max-width: 760px) {
   .hero-top,
+  .hero-pickers,
   .results-bar,
   .controls-head {
     flex-direction: column;

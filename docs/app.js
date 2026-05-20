@@ -1,9 +1,12 @@
 import {
+  CURRENCY_LABELS,
+  detectCurrency,
   detectLanguage,
   LANGUAGE_LABELS,
+  SUPPORTED_CURRENCIES,
   SUPPORTED_LANGUAGES,
   t,
-} from "./i18n.js?v=8";
+} from "./i18n.js?v=9";
 import {
   allGenreSearchTerms,
   allLanguageSearchTerms,
@@ -21,10 +24,13 @@ const DATA_ACTIVE_URL = "data/games-active.json";
 const DATA_EXPIRED_URL = "data/games-expired.json";
 const DETAIL_URL = (appId) => `data/details/${appId}.json`;
 const META_URL = "data/meta.json";
+const EXCHANGE_RATES_URL = "data/exchange-rates.json";
 const SEARCH_DEBOUNCE_MS = 250;
 const PAGE_SIZE = 24;
 const FILTER_STORAGE_KEY = "steam-deals-filters";
 const WISHLIST_STORAGE_KEY = "steam-deals-wishlist";
+const CURRENCY_STORAGE_KEY = "steam-deals-currency";
+const USD_MAX_PRICE_CENTS = 500;
 const PLACEHOLDER_IMG = "icons/game-placeholder.svg";
 const ONE_DAY_MS = 24 * 60 * 60 * 1000;
 const COUNTDOWN_TICK_MS = 60_000;
@@ -46,6 +52,15 @@ const DEFAULT_FILTERS = {
   controllerSupport: false,
 };
 
+const CURRENCY_CONFIG = {
+  USD: { steamKey: "en", locale: "en-US", zeroDecimal: false },
+  HKD: { steamKey: null, locale: "zh-HK", zeroDecimal: false },
+  TWD: { steamKey: "zh-Hant", locale: "zh-TW", zeroDecimal: false },
+  CNY: { steamKey: "zh-Hans", locale: "zh-CN", zeroDecimal: false },
+  JPY: { steamKey: "ja", locale: "ja-JP", zeroDecimal: true },
+  KRW: { steamKey: "ko", locale: "ko-KR", zeroDecimal: true },
+};
+
 const LOCALE_MAP = {
   en: "en-US",
   "zh-Hant": "zh-HK",
@@ -56,6 +71,8 @@ const LOCALE_MAP = {
 
 const state = {
   lang: detectLanguage(),
+  currency: detectCurrency(),
+  exchangeRates: { base: "USD", rates: {} },
   games: [],
   meta: {},
   selectedGame: null,
@@ -86,6 +103,7 @@ const elements = {
   statCards: document.querySelectorAll("[data-stat-filter]"),
   statFreeCard: document.getElementById("stat-free-card"),
   languageSelect: document.getElementById("language-select"),
+  currencySelect: document.getElementById("currency-select"),
   freeSpotlightSection: document.getElementById("free-spotlight-section"),
   freeSpotlightGrid: document.getElementById("free-spotlight-grid"),
   newTodaySection: document.getElementById("new-today-section"),
@@ -367,20 +385,57 @@ function formatCountdown(unixSeconds) {
   return t(state.lang, "countdownEndsIn", { time: hourLabel });
 }
 
-function formatPrice(cents) {
-  if (!cents && cents !== 0) return "";
-  return new Intl.NumberFormat("en-US", {
+function formatPrice(amount, currency = state.currency) {
+  if (amount == null || Number.isNaN(amount)) return "";
+  const config = CURRENCY_CONFIG[currency] || CURRENCY_CONFIG.USD;
+  const value = config.zeroDecimal ? amount : amount / 100;
+  return new Intl.NumberFormat(config.locale, {
     style: "currency",
-    currency: "USD",
-  }).format(cents / 100);
+    currency,
+    maximumFractionDigits: config.zeroDecimal ? 0 : 2,
+  }).format(value);
+}
+
+function convertFromUsdCents(usdCents, currency) {
+  if (usdCents == null || Number.isNaN(usdCents)) return null;
+  if (currency === "USD") return usdCents;
+
+  const rate = state.exchangeRates.rates?.[currency];
+  if (!rate) return usdCents;
+
+  const config = CURRENCY_CONFIG[currency] || CURRENCY_CONFIG.USD;
+  const usdAmount = usdCents / 100;
+  const converted = usdAmount * rate;
+  return config.zeroDecimal ? Math.round(converted) : Math.round(converted * 100);
+}
+
+function getMaxPriceThreshold() {
+  return convertFromUsdCents(USD_MAX_PRICE_CENTS, state.currency) ?? USD_MAX_PRICE_CENTS;
+}
+
+function formatMaxPriceFilterLabel() {
+  return t(state.lang, "filterMaxPrice5", {
+    price: formatPrice(getMaxPriceThreshold(), state.currency),
+  });
 }
 
 function getGamePrice(game) {
+  const config = CURRENCY_CONFIG[state.currency] || CURRENCY_CONFIG.USD;
+  const native = config.steamKey ? game.prices?.[config.steamKey] : null;
+
+  if (native && (native.final != null || native.original != null)) {
+    return {
+      currency: native.currency || state.currency,
+      original: native.original ?? null,
+      final: native.final ?? null,
+    };
+  }
+
   const usdPrice = game.prices?.en;
   return {
-    currency: "USD",
-    original: usdPrice?.original ?? game.original_price,
-    final: usdPrice?.final ?? game.final_price,
+    currency: state.currency,
+    original: convertFromUsdCents(usdPrice?.original ?? game.original_price, state.currency),
+    final: convertFromUsdCents(usdPrice?.final ?? game.final_price, state.currency),
   };
 }
 
@@ -505,6 +560,10 @@ function updateDealFilterChips() {
     el.classList.toggle("active", state.filters[key]);
     el.setAttribute("aria-pressed", state.filters[key] ? "true" : "false");
   });
+
+  if (elements.filterMaxPrice) {
+    elements.filterMaxPrice.textContent = formatMaxPriceFilterLabel();
+  }
 }
 
 function applyStatFilter(filter) {
@@ -528,6 +587,18 @@ function buildLanguageOptions() {
     option.textContent = LANGUAGE_LABELS[lang];
     option.selected = lang === state.lang;
     elements.languageSelect.appendChild(option);
+  });
+}
+
+function buildCurrencyOptions() {
+  if (!elements.currencySelect) return;
+  elements.currencySelect.innerHTML = "";
+  SUPPORTED_CURRENCIES.forEach((currency) => {
+    const option = document.createElement("option");
+    option.value = currency;
+    option.textContent = CURRENCY_LABELS[currency];
+    option.selected = currency === state.currency;
+    elements.currencySelect.appendChild(option);
   });
 }
 
@@ -717,8 +788,9 @@ function matchesFilters(game) {
 
   if (maxPrice500) {
     const price = getGamePrice(game);
-    const finalCents = price.final ?? game.final_price;
-    if (finalCents == null || finalCents > 500) return false;
+    const finalAmount = price.final ?? game.final_price;
+    const threshold = getMaxPriceThreshold();
+    if (finalAmount == null || finalAmount > threshold) return false;
   }
 
   if (steamDeck && !game.steam_deck_compat) return false;
@@ -1281,6 +1353,16 @@ function bindEvents() {
     }
   });
 
+  elements.currencySelect?.addEventListener("change", async (event) => {
+    state.currency = event.target.value;
+    localStorage.setItem(CURRENCY_STORAGE_KEY, state.currency);
+    translatePage();
+    renderGames();
+    if (!elements.modal.classList.contains("hidden") && state.selectedGame) {
+      await openGameModal(state.selectedGame);
+    }
+  });
+
   elements.modalCopyLink?.addEventListener("click", async () => {
     if (!state.selectedGame) return;
     const shareUrl = getShareUrl(state.selectedGame);
@@ -1373,7 +1455,7 @@ async function loadData() {
   renderLoadingSkeleton();
 
   try {
-    const [gamesPayload, metaPayload] = await Promise.all([
+    const [gamesPayload, metaPayload, ratesPayload] = await Promise.all([
       fetch(DATA_ACTIVE_URL).then((res) => {
         if (!res.ok) throw new Error(`Failed to load games-active.json (${res.status})`);
         return res.json();
@@ -1382,16 +1464,21 @@ async function loadData() {
         if (!res.ok) throw new Error(`Failed to load meta.json (${res.status})`);
         return res.json();
       }),
+      fetch(EXCHANGE_RATES_URL)
+        .then((res) => (res.ok ? res.json() : { base: "USD", rates: {} }))
+        .catch(() => ({ base: "USD", rates: {} })),
     ]);
 
     state.games = gamesPayload.games || [];
     state.meta = metaPayload || {};
+    state.exchangeRates = ratesPayload || { base: "USD", rates: {} };
 
     if (state.filters.status === "all") {
       await loadExpiredGames();
     }
 
     buildLanguageOptions();
+    buildCurrencyOptions();
     translatePage();
     buildGenreFilters(state.games);
     syncFilterControls();

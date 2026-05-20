@@ -40,6 +40,7 @@ self.addEventListener("fetch", (event) => {
     url.pathname.endsWith("/data/games-expired.json") ||
     url.pathname.endsWith("/data/games.json") ||
     url.pathname.endsWith("/data/meta.json") ||
+    url.pathname.endsWith("/data/exchange-rates.json") ||
     url.pathname.includes("/data/details/");
 
   if (isData) {

@@ -1,4 +1,5 @@
 export const SUPPORTED_LANGUAGES = ["en", "zh-Hant", "zh-Hans", "ja", "ko"];
+export const SUPPORTED_CURRENCIES = ["USD", "HKD", "TWD", "CNY", "JPY", "KRW"];
 
 export const LANGUAGE_LABELS = {
   en: "English",
@@ -6,6 +7,15 @@ export const LANGUAGE_LABELS = {
   "zh-Hans": "简体中文",
   ja: "日本語",
   ko: "한국어",
+};
+
+export const CURRENCY_LABELS = {
+  USD: "USD ($)",
+  HKD: "HKD (HK$)",
+  TWD: "TWD (NT$)",
+  CNY: "CNY (¥)",
+  JPY: "JPY (¥)",
+  KRW: "KRW (₩)",
 };
 
 export const TRANSLATIONS = {
@@ -66,6 +76,7 @@ export const TRANSLATIONS = {
     platformMac: "macOS",
     platformLinux: "Linux",
     languageLabel: "Language",
+    currencyLabel: "Currency",
     resultsCount: "Showing {shown} / {total} games",
     emptyState: "No games match your filters. Try different search terms or filters.",
     badgePromotional: "Temporarily free",
@@ -96,7 +107,7 @@ export const TRANSLATIONS = {
     filterEndingSoonDisabled: "Expiration data is still being filled in",
     filterWishlist: "My wishlist",
     filterMinDiscount75: "75% off or more",
-    filterMaxPrice5: "Under $5",
+    filterMaxPrice5: "Under {price}",
     filterSteamDeck: "Steam Deck",
     filterController: "Controller support",
     favoriteAdd: "Add to wishlist",
@@ -158,6 +169,7 @@ export const TRANSLATIONS = {
     platformMac: "macOS",
     platformLinux: "Linux",
     languageLabel: "語言",
+    currencyLabel: "貨幣",
     resultsCount: "顯示 {shown} / {total} 款遊戲",
     emptyState: "找不到符合條件的遊戲，請嘗試更改搜尋關鍵字或篩選條件。",
     badgePromotional: "限時免費",
@@ -188,7 +200,7 @@ export const TRANSLATIONS = {
     filterEndingSoonDisabled: "到期時間資料補齊後可用",
     filterWishlist: "我的收藏",
     filterMinDiscount75: "75% 折扣以上",
-    filterMaxPrice5: "$5 以下",
+    filterMaxPrice5: "{price} 以下",
     filterSteamDeck: "Steam Deck",
     filterController: "控制器支援",
     favoriteAdd: "加入收藏",
@@ -250,6 +262,7 @@ export const TRANSLATIONS = {
     platformMac: "macOS",
     platformLinux: "Linux",
     languageLabel: "言語",
+    currencyLabel: "通貨",
     resultsCount: "{shown} / {total} 件を表示",
     emptyState: "条件に一致するゲームがありません。検索語やフィルターを変更してください。",
     badgePromotional: "期間限定無料",
@@ -280,7 +293,7 @@ export const TRANSLATIONS = {
     filterEndingSoonDisabled: "終了時刻データの取得後に利用可能",
     filterWishlist: "ウィッシュリスト",
     filterMinDiscount75: "75% OFF以上",
-    filterMaxPrice5: "$5未満",
+    filterMaxPrice5: "{price}未満",
     filterSteamDeck: "Steam Deck",
     filterController: "コントローラー対応",
     favoriteAdd: "ウィッシュリストに追加",
@@ -342,6 +355,7 @@ export const TRANSLATIONS = {
     platformMac: "macOS",
     platformLinux: "Linux",
     languageLabel: "언어",
+    currencyLabel: "통화",
     resultsCount: "{shown} / {total}개 표시",
     emptyState: "조건에 맞는 게임이 없습니다. 검색어나 필터를 변경해 보세요.",
     badgePromotional: "기간 한정 무료",
@@ -372,7 +386,7 @@ export const TRANSLATIONS = {
     filterEndingSoonDisabled: "종료 시간 데이터가 채워진 후 사용 가능",
     filterWishlist: "내 위시리스트",
     filterMinDiscount75: "75% 이상 할인",
-    filterMaxPrice5: "$5 미만",
+    filterMaxPrice5: "{price} 미만",
     filterSteamDeck: "Steam Deck",
     filterController: "컨트롤러 지원",
     favoriteAdd: "위시리스트에 추가",
@@ -434,6 +448,7 @@ export const TRANSLATIONS = {
     platformMac: "macOS",
     platformLinux: "Linux",
     languageLabel: "语言",
+    currencyLabel: "货币",
     resultsCount: "显示 {shown} / {total} 款游戏",
     emptyState: "找不到符合条件的游戏，请尝试更改搜索关键字或筛选条件。",
     badgePromotional: "限时免费",
@@ -464,13 +479,21 @@ export const TRANSLATIONS = {
     filterEndingSoonDisabled: "到期时间数据补齐后可用",
     filterWishlist: "我的收藏",
     filterMinDiscount75: "75% 折扣以上",
-    filterMaxPrice5: "$5 以下",
+    filterMaxPrice5: "{price} 以下",
     filterSteamDeck: "Steam Deck",
     filterController: "控制器支持",
     favoriteAdd: "加入收藏",
     favoriteRemove: "移除收藏",
   },
 };
+
+export function detectCurrency() {
+  const saved = localStorage.getItem("steam-deals-currency");
+  if (saved && SUPPORTED_CURRENCIES.includes(saved)) {
+    return saved;
+  }
+  return "USD";
+}
 
 export function detectLanguage() {
   const saved = localStorage.getItem("steam-free-games-lang");
