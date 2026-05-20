@@ -4,7 +4,28 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Wed, 20 May 2026 14:48:21 +0000</lastBuildDate>
+<lastBuildDate>Wed, 20 May 2026 15:35:54 +0000</lastBuildDate>
+<item>
+<title>Clean Up Earth</title>
+<link>https://store.steampowered.com/app/3402720/</link>
+<guid isPermaLink="false">3402720</guid>
+<pubDate>Wed, 20 May 2026 15:35:54 +0000</pubDate>
+<description>A relaxing co-op restoration game where you vacuum waste, rebuild ecosystems, and watch nature return in real time. Play solo, with friends, or in online multiplayer sessions with up to 25 players. Community gameplay can help support real environmental initiatives with no extra spending required.</description>
+</item>
+<item>
+<title>Human Host</title>
+<link>https://store.steampowered.com/app/2393970/</link>
+<guid isPermaLink="false">2393970</guid>
+<pubDate>Wed, 20 May 2026 15:35:54 +0000</pubDate>
+<description>Human Host is an open-world zombie survival crafting game. In this endless procedurally generated world, terrain, buildings, trees, rocks—everything is destructible! Build massive mobile bases, dig deep underground, construct trap-filled fortresses, scavenge supplies, and survive as long as you can!</description>
+</item>
+<item>
+<title>Shujinkou</title>
+<link>https://store.steampowered.com/app/1386630/</link>
+<guid isPermaLink="false">1386630</guid>
+<pubDate>Wed, 20 May 2026 15:35:54 +0000</pubDate>
+<description>Shujinkou is a story-driven, turn-based dungeon crawler that provides players with the option to learn Japanese as they play. Play through an enthralling 80-hour story campaign as Shu, Jin, and Kou in a fight to save the world from the Akuma.</description>
+</item>
 <item>
 <title>Mogitate: Bearing Fruit</title>
 <link>https://store.steampowered.com/app/4486310/</link>
@@ -69,13 +90,6 @@
 <description>Enrich the lives of your settlers with the addition of cats and dogs. Dogs protect your crops from deer and the new groundhogs, and your chickens from shrewd foxes. Cats keep the town food stores clear of rats. Villagers will adore their new animal companions in their free time.</description>
 </item>
 <item>
-<title>Grunn</title>
-<link>https://store.steampowered.com/app/2720950/</link>
-<guid isPermaLink="false">2720950</guid>
-<pubDate>Wed, 20 May 2026 14:05:50 +0000</pubDate>
-<description>A gardener gets hired for maintenance work over the weekend. A simple task, but strangely some tools are missing… The owner of the garden isn't around, and their house is off-limits. Perhaps new tools can be found in the mysterious town, or maybe some of the reserved townsfolk have seen them?</description>
-</item>
-<item>
 <title>Homefront®: The Revolution</title>
 <link>https://store.steampowered.com/app/223100/</link>
 <guid isPermaLink="false">223100</guid>
@@ -95,13 +109,6 @@
 <guid isPermaLink="false">2313720</guid>
 <pubDate>Wed, 20 May 2026 14:05:50 +0000</pubDate>
 <description>Learn 1,000+ words and phrases in 12 languages - including Japanese &amp;amp; Spanish - with no subscription and no ads. Explore a colorful open world, beat vocab mini-games, and speak to NPCs using real speech recognition. Language learning that actually sticks, and actually feels like a game.</description>
-</item>
-<item>
-<title>Ranger’s Path: National Park Simulator</title>
-<link>https://store.steampowered.com/app/2502780/</link>
-<guid isPermaLink="false">2502780</guid>
-<pubDate>Wed, 20 May 2026 14:05:50 +0000</pubDate>
-<description>Begin your park ranger journey in Ranger’s Path: National Park Simulator. Maintain trails, assist visitors, check permits and respond to emergencies. Explore diverse biomes and observe varied animal behaviors across a wide range of species.</description>
 </item>
 <item>
 <title>The Bazaar - Karnok</title>
@@ -263,13 +270,6 @@
 <guid isPermaLink="false">1015160</guid>
 <pubDate>Wed, 20 May 2026 03:44:22 +0000</pubDate>
 <description>Experience the natural beauty of the &amp;quot;Evergreen State&amp;quot; Washington, from its Pacific Coast beaches to snowcapped mountain ranges and bustling cities such as Seattle and Spokane. Washington is covered by large amounts of forestland, alongside many other diverse biomes.</description>
-</item>
-<item>
-<title>American Truck Simulator - Wyoming</title>
-<link>https://store.steampowered.com/app/1415692/</link>
-<guid isPermaLink="false">1415692</guid>
-<pubDate>Wed, 20 May 2026 03:44:22 +0000</pubDate>
-<description>Say howdy to the Equality State, Wyoming. Whether you fancy the beautiful architecture or the general feel of rich history, you will feel like at home in Wyoming. Cowboys, trains, and wide-open natural spaces await you.</description>
 </item>
 <item>
 <title>Anno 1800</title>
@@ -1028,13 +1028,6 @@
 <description>Easy Delivery Co. is a relaxing driving game with strange secrets. Chill out, make deliveries and get to know the mysterious residents of this scenic mountain town, all while earning well below minimum wage.</description>
 </item>
 <item>
-<title>Eclipsium</title>
-<link>https://store.steampowered.com/app/2419670/</link>
-<guid isPermaLink="false">2419670</guid>
-<pubDate>Wed, 20 May 2026 03:44:22 +0000</pubDate>
-<description>Longing for light, a sunless world begins devouring itself. Every step shifts the landscape beneath you as you search for what remains of her.</description>
-</item>
-<item>
 <title>ENDALOR</title>
 <link>https://store.steampowered.com/app/2265990/</link>
 <guid isPermaLink="false">2265990</guid>
@@ -1329,6 +1322,13 @@
 <description>HumanitZ is an isometric, open-world sandbox survival game set in a world ended by a zombie outbreak. Survive alone or with friends by scavenging, crafting, building, and fighting to last as long as ‘humanly’ possible. You can’t change the past, but you can fight for the future of humanity.</description>
 </item>
 <item>
+<title>ICBM: Escalation</title>
+<link>https://store.steampowered.com/app/2647680/</link>
+<guid isPermaLink="false">2647680</guid>
+<pubDate>Wed, 20 May 2026 03:44:22 +0000</pubDate>
+<description>ICBM: Escalation is a grand RTS where you command armies, develop cutting-edge tech, and wield devastating weapons. Conquer enemies with conventional forces or nuclear firepower. With new modes like Standoff and Conquest, the game offers deep strategic layers in a global warfare setting.</description>
+</item>
+<item>
 <title>Immortals Fenyx Rising</title>
 <link>https://store.steampowered.com/app/2221920/</link>
 <guid isPermaLink="false">2221920</guid>
@@ -1616,6 +1616,13 @@
 <description>You wake up with an explosive headache in a pool of your own blood. You're Exit, a terrible woman whose awful past has finally caught up to her. Fulfill contracts for the people who drilled into your skull — guns-blazing, slow and tactical — it doesn’t matter. They know you’ll do whatever it takes.</description>
 </item>
 <item>
+<title>Pluto</title>
+<link>https://store.steampowered.com/app/3057670/</link>
+<guid isPermaLink="false">3057670</guid>
+<pubDate>Wed, 20 May 2026 03:44:22 +0000</pubDate>
+<description>A roguelike deckbuilder where you cast elemental spells, outwit monstrous foes, and escape prison on your way to your niece’s birthday party.</description>
+</item>
+<item>
 <title>Police Simulator: Patrol Officers</title>
 <link>https://store.steampowered.com/app/997010/</link>
 <guid isPermaLink="false">997010</guid>
@@ -1698,13 +1705,6 @@
 <guid isPermaLink="false">1663850</guid>
 <pubDate>Wed, 20 May 2026 03:44:22 +0000</pubDate>
 <description>Follow R.E.A.C.H., an AI trapped in a human body, on a cinematic adventure through an alternate 1980s America. Explore an atmospheric cyberpunk world full of high-stakes action wrapped in a unique 2.5D pixel art style.</description>
-</item>
-<item>
-<title>Rising Storm 2: Vietnam</title>
-<link>https://store.steampowered.com/app/418460/</link>
-<guid isPermaLink="false">418460</guid>
-<pubDate>Wed, 20 May 2026 03:44:22 +0000</pubDate>
-<description>Red Orchestra Series' take on Vietnam: 64-player MP matches; 20+ maps; US Army &amp;amp; Marines, PAVN/NVA, NLF/VC; Australians and ARVN forces; 50+ weapons; 4 flyable helicopters; mines, traps and tunnels; Brutal. Authentic. Gritty. Character customization. And napalm in the morning.</description>
 </item>
 <item>
 <title>Rogue Command</title>
