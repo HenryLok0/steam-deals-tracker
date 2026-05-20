@@ -4,10 +4,6 @@
 
 A tracker for Steam games that are **temporarily free** or **on a limited-time sale**.
 
-It focuses on paid games with active promotions — not permanent Free to Play titles.
-
-Part of [henrylok.me](https://henrylok.me/).
-
 ---
 
 ## What it does
@@ -16,10 +12,12 @@ Every **6 hours**, the site automatically refreshes its game list from Steam. Yo
 
 ### Deal types
 
-| Type | Description |
-|------|-------------|
+
+| Type                 | Description                                                         |
+| -------------------- | ------------------------------------------------------------------- |
 | **Temporarily free** | Games that normally cost money but are free for a limited promotion |
-| **On sale** | Paid games with an active discount |
+| **On sale**          | Paid games with an active discount                                  |
+
 
 ### Website features
 
@@ -66,10 +64,12 @@ A link is also available in the site footer.
 
 Deal data comes from public Steam store APIs.
 
-| Schedule | Job | Purpose |
-|----------|-----|---------|
-| Every 6 hours | `update-games.yml` | Refresh active deals (quick mode) |
+
+| Schedule           | Job                  | Purpose                                               |
+| ------------------ | -------------------- | ----------------------------------------------------- |
+| Every 6 hours      | `update-games.yml`   | Refresh active deals (quick mode)                     |
 | Daily at 03:00 UTC | `backfill-games.yml` | Fill in missing regional prices and HTML descriptions |
+
 
 - **Last updated** time is shown on the site homepage
 - Expired deals can still be viewed using the status filter
