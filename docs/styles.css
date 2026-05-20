@@ -155,6 +155,19 @@ body {
   box-shadow: 0 0 0 1px color-mix(in srgb, var(--accent) 20%, transparent);
 }
 
+.stat-card-highlight {
+  border-color: color-mix(in srgb, var(--warning) 55%, var(--border));
+  box-shadow:
+    var(--shadow),
+    0 0 0 1px color-mix(in srgb, var(--warning) 22%, transparent);
+}
+
+.chip:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+  transform: none;
+}
+
 .stat-label {
   display: block;
   margin-bottom: 8px;
@@ -333,15 +346,21 @@ body {
 
 .game-media {
   position: relative;
-  aspect-ratio: 16 / 9;
   background: color-mix(in srgb, var(--bg-soft) 80%, black);
+  overflow: hidden;
+  line-height: 0;
 }
 
-.game-media img {
+.game-media-frame {
+  position: relative;
+  overflow: hidden;
+}
+
+.game-media-frame img {
   width: 100%;
-  height: 100%;
-  object-fit: cover;
+  height: auto;
   display: block;
+  vertical-align: top;
 }
 
 .badge {
@@ -368,19 +387,25 @@ body {
   display: grid;
   gap: 10px;
   padding: 16px;
+  min-width: 0;
 }
 
 .game-head {
   display: flex;
-  align-items: start;
-  justify-content: space-between;
-  gap: 10px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 6px;
+  width: 100%;
+  min-width: 0;
 }
 
 .game-head h2 {
   margin: 0;
+  width: 100%;
   font-size: 1.05rem;
   line-height: 1.35;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .status-pill {
@@ -458,9 +483,9 @@ body {
 
 .card-footer {
   display: flex;
-  align-items: end;
-  justify-content: space-between;
-  gap: 10px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
   margin-top: 4px;
   color: var(--muted);
   font-size: 0.82rem;
@@ -472,14 +497,17 @@ body {
 }
 
 .card-actions {
-  display: grid;
-  justify-items: end;
-  gap: 4px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px 14px;
+  width: 100%;
+  order: -1;
 }
 
 .view-details {
   color: var(--accent);
-  font-size: 0.78rem;
+  font-size: 0.82rem;
   font-weight: 600;
 }
 
@@ -487,7 +515,7 @@ body {
   color: var(--accent);
   text-decoration: none;
   font-weight: 600;
-  white-space: nowrap;
+  font-size: 0.82rem;
 }
 
 .card-footer a:hover {
@@ -541,7 +569,7 @@ body {
   position: absolute;
   top: 14px;
   right: 14px;
-  z-index: 2;
+  z-index: 10;
   width: 36px;
   height: 36px;
   border: 1px solid var(--border);
@@ -566,17 +594,30 @@ body {
   padding: 18px 20px 0;
 }
 
-.modal-head h2 {
-  margin: 0;
-  padding-right: 42px;
-  font-size: 1.35rem;
-  line-height: 1.3;
+.modal-head-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
 }
 
 .modal-head .badge {
   position: static;
   width: fit-content;
   display: inline-block;
+}
+
+.modal-head .deal-bar {
+  position: static;
+  margin: 4px 0 6px;
+  border-radius: 999px;
+}
+
+.modal-head h2 {
+  margin: 0;
+  padding-right: 42px;
+  font-size: 1.35rem;
+  line-height: 1.3;
 }
 
 .modal-body {
@@ -678,6 +719,65 @@ body {
   gap: 14px;
   overflow-x: auto;
   padding-bottom: 6px;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.new-today-grid::-webkit-scrollbar {
+  display: none;
+}
+
+.free-spotlight {
+  margin-bottom: 18px;
+}
+
+.deal-bar {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 4px;
+  overflow: hidden;
+  background: color-mix(in srgb, var(--text) 12%, transparent);
+}
+
+.deal-bar-fill {
+  display: block;
+  height: 100%;
+  width: 0;
+  background: linear-gradient(90deg, var(--accent), var(--success));
+  transition: width 0.25s ease;
+}
+
+.deal-bar.is-free .deal-bar-fill {
+  width: 100%;
+  background: linear-gradient(90deg, var(--success), #9be7a8);
+}
+
+.favorite-button {
+  border: 1px solid var(--border);
+  background: color-mix(in srgb, var(--panel) 88%, transparent);
+  color: var(--muted);
+  border-radius: 999px;
+  width: 34px;
+  height: 34px;
+  font-size: 1rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.favorite-button.active,
+.favorite-button:hover {
+  color: #f5c518;
+  border-color: color-mix(in srgb, #f5c518 45%, var(--border));
+}
+
+.card-favorite {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 2;
+  backdrop-filter: blur(6px);
 }
 
 .game-card.compact .game-body {
@@ -685,7 +785,11 @@ body {
 }
 
 .game-card.compact .card-footer {
-  margin-top: 0;
+  margin-top: 6px;
+}
+
+.game-card.compact .time-group:not(:has(time:not(.hidden))) {
+  display: none;
 }
 
 .results-links {

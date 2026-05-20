@@ -35,6 +35,10 @@ LOCALIZED_DESCRIPTIONS = {
         ("tchinese", "tchinese"),
         ("schinese", "schinese"),
     ],
+    "zh-Hans": [
+        ("schinese", "schinese"),
+        ("tchinese", "tchinese"),
+    ],
     "ja": [("japanese", "japanese")],
     "ko": [("korean", "koreana")],
 }
@@ -43,6 +47,7 @@ LOCALIZED_DESCRIPTIONS = {
 PRICE_REGIONS = {
     "en": ("US", "USD"),
     "zh-Hant": ("TW", "TWD"),
+    "zh-Hans": ("CN", "CNY"),
     "ja": ("JP", "JPY"),
     "ko": ("KR", "KRW"),
 }
@@ -463,6 +468,18 @@ def classify_offer(base: dict, data: dict) -> str | None:
     return None
 
 
+def extract_compat_flags(categories: list[str]) -> tuple[bool, bool]:
+    controller = False
+    deck = False
+    for category in categories:
+        lower = category.lower()
+        if "controller" in lower:
+            controller = True
+        if "steam deck" in lower:
+            deck = True
+    return controller, deck
+
+
 def build_game_record(
     base: dict,
     data: dict,
@@ -492,6 +509,7 @@ def build_game_record(
     final_price = int(base.get("final_price") if base.get("final_price") is not None else price.get("final") or 0)
     discount_percent = int(base.get("discount_percent") or price.get("discount_percent") or 0)
     supported_languages = parse_supported_languages(data.get("supported_languages", ""))
+    controller_support, steam_deck_compat = extract_compat_flags(categories)
 
     names = localized.get("names", {})
     descriptions = localized.get("descriptions", {})
@@ -530,6 +548,8 @@ def build_game_record(
         "review_percent": reviews.get("review_percent"),
         "review_score": reviews.get("review_score"),
         "review_label": reviews.get("review_label", ""),
+        "controller_support": controller_support,
+        "steam_deck_compat": steam_deck_compat,
         "is_active": True,
     }
 
@@ -684,6 +704,10 @@ def compute_meta(games: list[dict], now: str) -> dict:
             if game.get("offer_type") == "free":
                 new_free_today += 1
 
+    active_games = [g for g in games if g.get("is_active")]
+    with_expiration = sum(1 for g in active_games if g.get("discount_expiration"))
+    expiration_coverage = round(with_expiration / len(active_games), 3) if active_games else 0.0
+
     return {
         "updated_at": now,
         "active_count": sum(1 for g in games if g.get("is_active")),
@@ -697,6 +721,7 @@ def compute_meta(games: list[dict], now: str) -> dict:
         "new_today_count": new_today,
         "new_free_today": new_free_today,
         "backfill_pending": count_backfill_pending(games),
+        "expiration_coverage": expiration_coverage,
     }
 
 
@@ -717,7 +742,16 @@ def save_outputs(existing_games: dict[str, dict], now: str) -> dict:
     save_json(META_FILE, meta)
 
     docs_data_dir = ROOT / "docs" / "data"
-    save_json(docs_data_dir / "games.json", output)
+    active_games = [g for g in games if g.get("is_active")]
+    expired_games = [g for g in games if not g.get("is_active")]
+    save_json(
+        docs_data_dir / "games-active.json",
+        {"updated_at": now, "total_count": len(active_games), "games": active_games},
+    )
+    save_json(
+        docs_data_dir / "games-expired.json",
+        {"updated_at": now, "total_count": len(expired_games), "games": expired_games},
+    )
     save_json(docs_data_dir / "meta.json", meta)
     return output
 

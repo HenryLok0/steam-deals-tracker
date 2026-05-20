@@ -6,5 +6,6 @@
   "sale_active": 326,
   "new_today_count": 328,
   "new_free_today": 2,
-  "backfill_pending": 354
+  "backfill_pending": 354,
+  "expiration_coverage": 0.03
 }

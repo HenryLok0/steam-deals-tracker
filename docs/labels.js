@@ -282,6 +282,7 @@ export const CATEGORY_TRANSLATIONS = {
 export const UI_LANGUAGE_FILTER_KEYS = {
   en: ["english"],
   "zh-Hant": ["tchinese", "schinese"],
+  "zh-Hans": ["schinese", "tchinese"],
   ja: ["japanese"],
   ko: ["korean"],
 };
@@ -388,11 +389,15 @@ export const REVIEW_LABEL_TRANSLATIONS = {
 };
 
 export function translateGenre(lang, genre) {
-  return GENRE_TRANSLATIONS[genre]?.[lang] || genre;
+  const table = GENRE_TRANSLATIONS[genre];
+  if (!table) return genre;
+  return table[lang] || table["zh-Hant"] || genre;
 }
 
 export function translateCategory(lang, category) {
-  return CATEGORY_TRANSLATIONS[category]?.[lang] || category;
+  const table = CATEGORY_TRANSLATIONS[category];
+  if (!table) return category;
+  return table[lang] || table["zh-Hant"] || category;
 }
 
 const LANGUAGE_KEY_FIXES = {

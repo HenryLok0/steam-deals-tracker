@@ -3,7 +3,7 @@ import {
   LANGUAGE_LABELS,
   SUPPORTED_LANGUAGES,
   t,
-} from "./i18n.js?v=7";
+} from "./i18n.js?v=8";
 import {
   allGenreSearchTerms,
   allLanguageSearchTerms,
@@ -13,16 +13,21 @@ import {
   translateGameLanguage,
   translateGenre,
   translateReviewLabel,
-} from "./labels.js?v=7";
+} from "./labels.js?v=8";
 import { plainTextToHtml, sanitizeHtml } from "./sanitize.js?v=1";
+import { trapFocus } from "./focus-trap.js?v=1";
 
-const DATA_URL = "data/games.json";
+const DATA_ACTIVE_URL = "data/games-active.json";
+const DATA_EXPIRED_URL = "data/games-expired.json";
 const META_URL = "data/meta.json";
 const SEARCH_DEBOUNCE_MS = 250;
 const PAGE_SIZE = 24;
 const FILTER_STORAGE_KEY = "steam-deals-filters";
+const WISHLIST_STORAGE_KEY = "steam-deals-wishlist";
 const PLACEHOLDER_IMG = "icons/game-placeholder.svg";
 const ONE_DAY_MS = 24 * 60 * 60 * 1000;
+const COUNTDOWN_TICK_MS = 60_000;
+const EXPIRATION_COVERAGE_MIN = 0.05;
 
 const DEFAULT_FILTERS = {
   search: "",
@@ -32,11 +37,18 @@ const DEFAULT_FILTERS = {
   status: "active",
   sort: "deals-priority",
   uiLanguageFilter: false,
+  endingSoon: false,
+  wishlistOnly: false,
+  minDiscount75: false,
+  maxPrice500: false,
+  steamDeck: false,
+  controllerSupport: false,
 };
 
 const LOCALE_MAP = {
   en: "en-US",
   "zh-Hant": "zh-HK",
+  "zh-Hans": "zh-CN",
   ja: "ja-JP",
   ko: "ko-KR",
 };
@@ -49,9 +61,14 @@ const state = {
   visibleCount: PAGE_SIZE,
   loadError: null,
   filters: cloneFilters(DEFAULT_FILTERS),
+  expiredLoaded: false,
+  releaseFocusTrap: null,
+  lastFocusedElement: null,
+  wishlist: loadWishlist(),
 };
 
 let searchDebounceTimer = null;
+let countdownTimer = null;
 
 const elements = {
   searchInput: document.getElementById("search-input"),
@@ -65,7 +82,10 @@ const elements = {
   clearGenres: document.getElementById("clear-genres"),
   clearAllFilters: document.getElementById("clear-all-filters"),
   statCards: document.querySelectorAll("[data-stat-filter]"),
+  statFreeCard: document.getElementById("stat-free-card"),
   languageSelect: document.getElementById("language-select"),
+  freeSpotlightSection: document.getElementById("free-spotlight-section"),
+  freeSpotlightGrid: document.getElementById("free-spotlight-grid"),
   newTodaySection: document.getElementById("new-today-section"),
   newTodayGrid: document.getElementById("new-today-grid"),
   gameGrid: document.getElementById("game-grid"),
@@ -98,8 +118,70 @@ const elements = {
   modalExpires: document.getElementById("modal-expires"),
   modalSteamLink: document.getElementById("modal-steam-link"),
   modalCopyLink: document.getElementById("modal-copy-link"),
+  modalFavorite: document.getElementById("modal-favorite"),
+  modalDealBar: document.getElementById("modal-deal-bar"),
+  filterEndingSoon: document.getElementById("filter-ending-soon"),
+  filterWishlist: document.getElementById("filter-wishlist"),
+  filterDiscount75: document.getElementById("filter-discount-75"),
+  filterMaxPrice: document.getElementById("filter-max-price"),
+  filterSteamDeck: document.getElementById("filter-steam-deck"),
+  filterController: document.getElementById("filter-controller"),
   toast: document.getElementById("toast"),
 };
+
+function loadWishlist() {
+  try {
+    const raw = localStorage.getItem(WISHLIST_STORAGE_KEY);
+    if (!raw) return new Set();
+    return new Set(JSON.parse(raw).map(Number).filter(Number.isFinite));
+  } catch {
+    return new Set();
+  }
+}
+
+function saveWishlist() {
+  localStorage.setItem(WISHLIST_STORAGE_KEY, JSON.stringify([...state.wishlist]));
+}
+
+function isFavorite(appId) {
+  return state.wishlist.has(Number(appId));
+}
+
+function toggleWishlist(appId) {
+  const id = Number(appId);
+  if (state.wishlist.has(id)) state.wishlist.delete(id);
+  else state.wishlist.add(id);
+  saveWishlist();
+  updateDealFilterChips();
+  renderGames();
+  if (!elements.modal.classList.contains("hidden") && state.selectedGame) {
+    updateFavoriteButton(elements.modalFavorite, state.selectedGame.app_id);
+  }
+}
+
+function updateFavoriteButton(button, appId) {
+  if (!button) return;
+  const active = isFavorite(appId);
+  button.classList.toggle("active", active);
+  button.setAttribute("aria-pressed", active ? "true" : "false");
+  button.setAttribute(
+    "aria-label",
+    active ? t(state.lang, "favoriteRemove") : t(state.lang, "favoriteAdd"),
+  );
+}
+
+function hasExpirationData() {
+  return (state.meta.expiration_coverage ?? 0) >= EXPIRATION_COVERAGE_MIN;
+}
+
+function applyDealBar(bar, game) {
+  if (!bar) return;
+  const fill = bar.querySelector(".deal-bar-fill");
+  const percent = game.offer_type === "free" ? 100 : game.discount_percent || 0;
+  if (fill) fill.style.width = `${Math.min(100, Math.max(0, percent))}%`;
+  bar.classList.toggle("is-free", game.offer_type === "free");
+  bar.classList.toggle("is-sale", game.offer_type === "sale");
+}
 
 function cloneFilters(source) {
   return {
@@ -110,6 +192,12 @@ function cloneFilters(source) {
     status: source.status,
     sort: source.sort,
     uiLanguageFilter: source.uiLanguageFilter,
+    endingSoon: source.endingSoon,
+    wishlistOnly: source.wishlistOnly,
+    minDiscount75: source.minDiscount75,
+    maxPrice500: source.maxPrice500,
+    steamDeck: source.steamDeck,
+    controllerSupport: source.controllerSupport,
   };
 }
 
@@ -122,15 +210,16 @@ function serializeFilters() {
     status: state.filters.status,
     sort: state.filters.sort,
     uiLanguageFilter: state.filters.uiLanguageFilter,
+    endingSoon: state.filters.endingSoon,
+    wishlistOnly: state.filters.wishlistOnly,
+    minDiscount75: state.filters.minDiscount75,
+    maxPrice500: state.filters.maxPrice500,
+    steamDeck: state.filters.steamDeck,
+    controllerSupport: state.filters.controllerSupport,
   };
 }
 
-function saveFilters() {
-  localStorage.setItem(FILTER_STORAGE_KEY, JSON.stringify(serializeFilters()));
-  syncUrlParams({ includeApp: Boolean(state.selectedGame) });
-}
-
-function syncUrlParams({ includeApp = true } = {}) {
+function buildFilterParams({ includeApp = false } = {}) {
   const params = new URLSearchParams();
   if (state.filters.search) params.set("q", state.filters.search);
   if (state.filters.offer !== "all") params.set("offer", state.filters.offer);
@@ -139,8 +228,23 @@ function syncUrlParams({ includeApp = true } = {}) {
   if (state.filters.platforms.size) params.set("platform", [...state.filters.platforms].join(","));
   if (state.filters.genres.size) params.set("genre", [...state.filters.genres].join(","));
   if (state.filters.uiLanguageFilter) params.set("uiLang", "1");
+  if (state.filters.endingSoon) params.set("ending", "1");
+  if (state.filters.wishlistOnly) params.set("wishlist", "1");
+  if (state.filters.minDiscount75) params.set("deal", "75");
+  if (state.filters.maxPrice500) params.set("maxPrice", "500");
+  if (state.filters.steamDeck) params.set("deck", "1");
+  if (state.filters.controllerSupport) params.set("controller", "1");
   if (includeApp && state.selectedGame) params.set("app", String(state.selectedGame.app_id));
+  return params;
+}
 
+function saveFilters() {
+  localStorage.setItem(FILTER_STORAGE_KEY, JSON.stringify(serializeFilters()));
+  syncUrlParams({ includeApp: Boolean(state.selectedGame) });
+}
+
+function syncUrlParams({ includeApp = true } = {}) {
+  const params = buildFilterParams({ includeApp });
   const query = params.toString();
   const next = query ? `${window.location.pathname}?${query}` : window.location.pathname;
   history.replaceState(null, "", next);
@@ -179,6 +283,12 @@ function loadFiltersFromUrl() {
     state.filters.genres = new Set((params.get("genre") || "").split(",").filter(Boolean));
   }
   if (params.get("uiLang") === "1") state.filters.uiLanguageFilter = true;
+  if (params.get("ending") === "1") state.filters.endingSoon = true;
+  if (params.get("wishlist") === "1") state.filters.wishlistOnly = true;
+  if (params.get("deal") === "75") state.filters.minDiscount75 = true;
+  if (params.get("maxPrice") === "500") state.filters.maxPrice500 = true;
+  if (params.get("deck") === "1") state.filters.steamDeck = true;
+  if (params.get("controller") === "1") state.filters.controllerSupport = true;
 }
 
 let pendingDeepLinkAppId = null;
@@ -234,7 +344,7 @@ function formatCountdown(unixSeconds) {
   const days = Math.floor(hours / 24);
   if (days >= 1) {
     const label =
-      state.lang === "zh-Hant"
+      state.lang === "zh-Hant" || state.lang === "zh-Hans"
         ? `${days} 天`
         : state.lang === "ja"
           ? `${days} 日`
@@ -245,7 +355,7 @@ function formatCountdown(unixSeconds) {
   }
 
   const hourLabel =
-    state.lang === "zh-Hant"
+    state.lang === "zh-Hant" || state.lang === "zh-Hans"
       ? `${hours} 小時`
       : state.lang === "ja"
         ? `${hours} 時間`
@@ -318,6 +428,10 @@ function translatePage() {
   }
 
   updateStatCardStates();
+  updateDealFilterChips();
+  if (elements.modalClose) {
+    elements.modalClose.setAttribute("aria-label", t(state.lang, "modalClose"));
+  }
 }
 
 function syncFilterControls() {
@@ -327,6 +441,7 @@ function syncFilterControls() {
   elements.sortBy.value = state.filters.sort;
   updateChipStates();
   updateStatCardStates();
+  updateDealFilterChips();
 }
 
 function resetAllFilters() {
@@ -353,6 +468,40 @@ function updateStatCardStates() {
 
     button.classList.toggle("active", active);
     button.setAttribute("aria-pressed", active ? "true" : "false");
+  });
+
+  const freeCount =
+    state.meta.free_active ??
+    state.games.filter((game) => game.is_active && game.offer_type === "free").length;
+  if (elements.statFreeCard) {
+    elements.statFreeCard.classList.toggle("stat-card-highlight", freeCount > 0);
+  }
+}
+
+function updateDealFilterChips() {
+  const endingAvailable = hasExpirationData();
+  if (elements.filterEndingSoon) {
+    elements.filterEndingSoon.disabled = !endingAvailable;
+    elements.filterEndingSoon.title = endingAvailable
+      ? ""
+      : t(state.lang, "filterEndingSoonDisabled");
+    elements.filterEndingSoon.classList.toggle("active", state.filters.endingSoon);
+    elements.filterEndingSoon.setAttribute(
+      "aria-pressed",
+      state.filters.endingSoon ? "true" : "false",
+    );
+  }
+
+  [
+    [elements.filterWishlist, "wishlistOnly"],
+    [elements.filterDiscount75, "minDiscount75"],
+    [elements.filterMaxPrice, "maxPrice500"],
+    [elements.filterSteamDeck, "steamDeck"],
+    [elements.filterController, "controllerSupport"],
+  ].forEach(([el, key]) => {
+    if (!el) return;
+    el.classList.toggle("active", state.filters[key]);
+    el.setAttribute("aria-pressed", state.filters[key] ? "true" : "false");
   });
 }
 
@@ -500,7 +649,20 @@ function matchesSearch(game, query) {
 }
 
 function matchesFilters(game) {
-  const { search, offer, platforms, genres, status, uiLanguageFilter } = state.filters;
+  const {
+    search,
+    offer,
+    platforms,
+    genres,
+    status,
+    uiLanguageFilter,
+    endingSoon,
+    wishlistOnly,
+    minDiscount75,
+    maxPrice500,
+    steamDeck,
+    controllerSupport,
+  } = state.filters;
   const query = search.trim().toLowerCase();
 
   if (status === "active" && !game.is_active) return false;
@@ -518,6 +680,18 @@ function matchesFilters(game) {
   }
 
   if (uiLanguageFilter && !gameSupportsUiLanguage(game, state.lang)) return false;
+  if (endingSoon && !isEndingSoon(game.discount_expiration)) return false;
+  if (wishlistOnly && !isFavorite(game.app_id)) return false;
+  if (minDiscount75 && (game.discount_percent || 0) < 75 && game.offer_type !== "free") return false;
+
+  if (maxPrice500) {
+    const price = getGamePrice(game);
+    const finalCents = price.final ?? game.final_price;
+    if (finalCents == null || finalCents > 500) return false;
+  }
+
+  if (steamDeck && !game.steam_deck_compat) return false;
+  if (controllerSupport && !game.controller_support) return false;
 
   return matchesSearch(game, query);
 }
@@ -577,6 +751,8 @@ function buildCardNode(game, compact = false) {
   const node = elements.template.content.cloneNode(true);
   const card = node.querySelector(".game-card");
   const img = node.querySelector("img");
+  const dealBar = node.querySelector(".deal-bar");
+  const favoriteBtn = node.querySelector(".card-favorite");
   const badge = node.querySelector(".badge");
   const title = node.querySelector("h2");
   const status = node.querySelector(".status-pill");
@@ -599,6 +775,15 @@ function buildCardNode(game, compact = false) {
   card.tabIndex = 0;
   card.setAttribute("role", "button");
   card.setAttribute("aria-label", getGameName(game));
+
+  applyDealBar(dealBar, game);
+  updateFavoriteButton(favoriteBtn, game.app_id);
+  if (favoriteBtn) {
+    favoriteBtn.addEventListener("click", (event) => {
+      event.stopPropagation();
+      toggleWishlist(game.app_id);
+    });
+  }
 
   img.src =
     game.header_image ||
@@ -678,6 +863,7 @@ function buildCardNode(game, compact = false) {
   const countdown = formatCountdown(game.discount_expiration);
   expiresAt.textContent = countdown;
   expiresAt.classList.toggle("hidden", !countdown);
+  if (game.discount_expiration) expiresAt.dataset.expiry = String(game.discount_expiration);
   if (isEndingSoon(game.discount_expiration)) expiresAt.classList.add("ending-soon");
 
   link.href = game.steam_url;
@@ -685,12 +871,12 @@ function buildCardNode(game, compact = false) {
   viewDetails.textContent = t(state.lang, "viewDetails");
 
   card.addEventListener("click", (event) => {
-    if (event.target.closest("a")) return;
+    if (event.target.closest("a, .favorite-button, .card-favorite")) return;
     openGameModal(game);
   });
 
   card.addEventListener("keydown", (event) => {
-    if (event.target.closest("a")) return;
+    if (event.target.closest("a, .favorite-button, .card-favorite")) return;
     if (event.key === "Enter" || event.key === " ") {
       event.preventDefault();
       openGameModal(game);
@@ -698,6 +884,20 @@ function buildCardNode(game, compact = false) {
   });
 
   return node;
+}
+
+function renderFreeSpotlight() {
+  if (!elements.freeSpotlightSection || !elements.freeSpotlightGrid) return;
+
+  const freeGames = state.games
+    .filter((game) => game.is_active && game.offer_type === "free")
+    .sort(compareGames);
+
+  elements.freeSpotlightSection.classList.toggle("hidden", freeGames.length === 0);
+  elements.freeSpotlightGrid.innerHTML = "";
+  freeGames.slice(0, 8).forEach((game) => {
+    elements.freeSpotlightGrid.appendChild(buildCardNode(game, true));
+  });
 }
 
 function renderNewTodaySection() {
@@ -753,8 +953,37 @@ function renderGames() {
   elements.loadMore.classList.toggle("hidden", visible.length >= filtered.length);
   elements.loadMore.textContent = t(state.lang, "loadMore");
 
+  renderFreeSpotlight();
   renderNewTodaySection();
   updateStatCardStates();
+  updateDealFilterChips();
+}
+
+function updateCountdownLabels() {
+  document.querySelectorAll(".expires-at[data-expiry]").forEach((node) => {
+    const expiry = Number(node.dataset.expiry);
+    node.textContent = formatCountdown(expiry);
+    node.classList.toggle("hidden", !node.textContent);
+    node.classList.toggle("ending-soon", isEndingSoon(expiry));
+  });
+
+  if (state.selectedGame && !elements.modal.classList.contains("hidden")) {
+    const countdown = formatCountdown(state.selectedGame.discount_expiration);
+    elements.modalExpires.textContent = countdown;
+    elements.modalExpires.classList.toggle("hidden", !countdown);
+    elements.modalExpires.classList.toggle(
+      "ending-soon",
+      isEndingSoon(state.selectedGame.discount_expiration),
+    );
+  }
+}
+
+function startCountdownTimer() {
+  if (countdownTimer) clearInterval(countdownTimer);
+  countdownTimer = setInterval(() => {
+    if (document.visibilityState !== "visible") return;
+    updateCountdownLabels();
+  }, COUNTDOWN_TICK_MS);
 }
 
 function updateChipStates() {
@@ -785,21 +1014,28 @@ function fillChipGroup(container, items, translateFn = (value) => value) {
 }
 
 function getShareUrl(game) {
-  const url = new URL(window.location.href);
-  url.search = "";
-  url.hash = "";
-  url.searchParams.set("app", String(game.app_id));
-  if (!game.is_active) url.searchParams.set("status", "all");
+  const url = new URL(window.location.origin + window.location.pathname);
+  const params = buildFilterParams({ includeApp: true });
+  params.set("app", String(game.app_id));
+  if (!game.is_active) params.set("status", "all");
+  url.search = params.toString();
   return url.toString();
 }
 
-function resolveDeepLink() {
+async function resolveDeepLink() {
   const appId = pendingDeepLinkAppId ?? getDeepLinkAppId();
   pendingDeepLinkAppId = null;
   if (!appId) return;
 
-  const game = findGameByAppId(appId);
-  if (!game) return;
+  let game = findGameByAppId(appId);
+  if (!game && state.filters.status === "active") {
+    await loadExpiredGames();
+    game = findGameByAppId(appId);
+  }
+  if (!game) {
+    showToast(t(state.lang, "deepLinkNotFound"));
+    return;
+  }
 
   let needsRerender = false;
   if (!game.is_active && state.filters.status === "active") {
@@ -813,6 +1049,7 @@ function resolveDeepLink() {
 }
 
 function openGameModal(game) {
+  state.lastFocusedElement = document.activeElement;
   state.selectedGame = game;
   elements.modalImage.onerror = handleImageError;
   elements.modalImage.src =
@@ -838,6 +1075,10 @@ function openGameModal(game) {
   const priceText = renderPriceLine(game);
   elements.modalPrice.textContent = priceText;
   elements.modalPrice.classList.toggle("hidden", !priceText);
+
+  applyDealBar(elements.modalDealBar, game);
+  elements.modalDealBar?.classList.remove("hidden");
+  updateFavoriteButton(elements.modalFavorite, game.app_id);
 
   const descriptionHtml = getGameDetailedDescriptionHtml(game);
   if (descriptionHtml) elements.modalDescription.innerHTML = descriptionHtml;
@@ -883,15 +1124,28 @@ function openGameModal(game) {
   elements.modal.classList.remove("hidden");
   elements.modal.setAttribute("aria-hidden", "false");
   document.body.classList.add("modal-open");
-  syncUrlParams();
+  syncUrlParams({ includeApp: true });
+
+  const dialog = elements.modal.querySelector(".modal-dialog") || elements.modal;
+  state.releaseFocusTrap?.();
+  state.releaseFocusTrap = trapFocus(dialog, () => closeGameModal());
 }
 
 function closeGameModal() {
+  state.releaseFocusTrap?.();
+  state.releaseFocusTrap = null;
   state.selectedGame = null;
+
   elements.modal.classList.add("hidden");
   elements.modal.setAttribute("aria-hidden", "true");
   document.body.classList.remove("modal-open");
-  syncUrlParams();
+
+  if (state.lastFocusedElement && typeof state.lastFocusedElement.focus === "function") {
+    state.lastFocusedElement.focus();
+  }
+  state.lastFocusedElement = null;
+
+  syncUrlParams({ includeApp: false });
 }
 
 function bindEvents() {
@@ -916,8 +1170,9 @@ function bindEvents() {
     filterChange();
   });
 
-  elements.filterStatus.addEventListener("change", (event) => {
+  elements.filterStatus.addEventListener("change", async (event) => {
     state.filters.status = event.target.value;
+    if (state.filters.status === "all") await loadExpiredGames();
     filterChange();
   });
 
@@ -1001,19 +1256,46 @@ function bindEvents() {
     }
   });
 
-  elements.modalClose.addEventListener("click", closeGameModal);
-  elements.modalBackdrop.addEventListener("click", closeGameModal);
-  document.addEventListener("keydown", (event) => {
-    if (event.key === "Escape") closeGameModal();
+  elements.modalFavorite?.addEventListener("click", (event) => {
+    event.stopPropagation();
+    if (state.selectedGame) toggleWishlist(state.selectedGame.app_id);
   });
 
-  window.addEventListener("popstate", () => {
+  const toggleDealFilter = (key) => {
+    state.filters[key] = !state.filters[key];
+    if (key === "endingSoon" && !hasExpirationData()) return;
+    filterChange();
+  };
+
+  elements.filterEndingSoon?.addEventListener("click", () => {
+    if (!hasExpirationData()) return;
+    toggleDealFilter("endingSoon");
+  });
+  elements.filterWishlist?.addEventListener("click", () => toggleDealFilter("wishlistOnly"));
+  elements.filterDiscount75?.addEventListener("click", () => toggleDealFilter("minDiscount75"));
+  elements.filterMaxPrice?.addEventListener("click", () => toggleDealFilter("maxPrice500"));
+  elements.filterSteamDeck?.addEventListener("click", () => toggleDealFilter("steamDeck"));
+  elements.filterController?.addEventListener("click", () => toggleDealFilter("controllerSupport"));
+
+  elements.modalClose.addEventListener("click", closeGameModal);
+  elements.modalBackdrop.addEventListener("click", closeGameModal);
+
+  window.addEventListener("popstate", async () => {
     loadFiltersFromUrl();
     syncFilterControls();
+
+    if (state.filters.status === "all") {
+      await loadExpiredGames();
+    }
+
     pendingDeepLinkAppId = getDeepLinkAppId();
     renderGames();
-    if (pendingDeepLinkAppId) resolveDeepLink();
-    else closeGameModal();
+
+    if (pendingDeepLinkAppId) {
+      await resolveDeepLink();
+    } else if (state.selectedGame) {
+      closeGameModal();
+    }
   });
 }
 
@@ -1031,15 +1313,33 @@ function showLoadError(message) {
   elements.resultsCount.textContent = t(state.lang, "loadError");
 }
 
+async function loadExpiredGames() {
+  if (state.expiredLoaded) return;
+  try {
+    const res = await fetch(DATA_EXPIRED_URL);
+    if (!res.ok) return;
+    const payload = await res.json();
+    const expired = payload.games || [];
+    const existingIds = new Set(state.games.map((g) => Number(g.app_id)));
+    expired.forEach((game) => {
+      if (!existingIds.has(Number(game.app_id))) state.games.push(game);
+    });
+    state.expiredLoaded = true;
+  } catch (error) {
+    console.warn("Failed to load expired games", error);
+  }
+}
+
 async function loadData() {
   state.loadError = null;
+  state.expiredLoaded = false;
   elements.errorState.classList.add("hidden");
   renderLoadingSkeleton();
 
   try {
     const [gamesPayload, metaPayload] = await Promise.all([
-      fetch(DATA_URL).then((res) => {
-        if (!res.ok) throw new Error(`Failed to load games.json (${res.status})`);
+      fetch(DATA_ACTIVE_URL).then((res) => {
+        if (!res.ok) throw new Error(`Failed to load games-active.json (${res.status})`);
         return res.json();
       }),
       fetch(META_URL).then((res) => {
@@ -1050,13 +1350,19 @@ async function loadData() {
 
     state.games = gamesPayload.games || [];
     state.meta = metaPayload || {};
+
+    if (state.filters.status === "all") {
+      await loadExpiredGames();
+    }
+
     buildLanguageOptions();
     translatePage();
     buildGenreFilters(state.games);
     syncFilterControls();
     renderStats();
     renderGames();
-    resolveDeepLink();
+    startCountdownTimer();
+    await resolveDeepLink();
   } catch (error) {
     console.error(error);
     showLoadError(error.message);
@@ -1065,7 +1371,9 @@ async function loadData() {
 
 function registerServiceWorker() {
   if ("serviceWorker" in navigator) {
-    navigator.serviceWorker.register("./sw.js").catch((error) => {
+    navigator.serviceWorker.register("./sw.js?v=4").then((registration) => {
+      registration.update();
+    }).catch((error) => {
       console.warn("Service worker registration failed", error);
     });
   }

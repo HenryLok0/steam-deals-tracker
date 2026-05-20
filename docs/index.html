@@ -41,7 +41,7 @@
       href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="styles.css?v=2" />
+    <link rel="stylesheet" href="styles.css?v=7" />
   </head>
   <body>
     <div class="page">
@@ -65,7 +65,7 @@
             <span class="stat-label" data-i18n="statActive">Active deals</span>
             <strong id="stat-active">-</strong>
           </button>
-          <button type="button" class="stat-card stat-card-button" data-stat-filter="free">
+          <button type="button" class="stat-card stat-card-button" data-stat-filter="free" id="stat-free-card">
             <span class="stat-label" data-i18n="statFree">Temporarily free</span>
             <strong id="stat-free">-</strong>
           </button>
@@ -79,6 +79,13 @@
           </div>
         </div>
       </header>
+
+      <section id="free-spotlight-section" class="free-spotlight hidden">
+        <div class="section-head">
+          <h2 data-i18n="freeSpotlightTitle">Free today</h2>
+        </div>
+        <div id="free-spotlight-grid" class="new-today-grid"></div>
+      </section>
 
       <section id="new-today-section" class="new-today hidden">
         <div class="section-head">
@@ -147,6 +154,32 @@
               aria-pressed="false"
             >
               Only games in current UI language
+            </button>
+          </div>
+        </div>
+
+        <div class="filter-block">
+          <div class="filter-head">
+            <span data-i18n="filterDealsLabel">Quick filters</span>
+          </div>
+          <div class="chip-group" id="deal-filters" role="group" aria-label="Deal filters">
+            <button type="button" class="chip" id="filter-ending-soon" data-i18n="filterEndingSoon">
+              Ending within 24h
+            </button>
+            <button type="button" class="chip" id="filter-wishlist" data-i18n="filterWishlist">
+              My wishlist
+            </button>
+            <button type="button" class="chip" id="filter-discount-75" data-i18n="filterMinDiscount75">
+              75% off or more
+            </button>
+            <button type="button" class="chip" id="filter-max-price" data-i18n="filterMaxPrice5">
+              Under $5
+            </button>
+            <button type="button" class="chip" id="filter-steam-deck" data-i18n="filterSteamDeck">
+              Steam Deck
+            </button>
+            <button type="button" class="chip" id="filter-controller" data-i18n="filterController">
+              Controller support
             </button>
           </div>
         </div>
@@ -238,7 +271,11 @@
         <div class="modal-hero">
           <img id="modal-image" alt="" />
           <div class="modal-head">
-            <span id="modal-badge" class="badge"></span>
+            <div class="modal-head-top">
+              <span id="modal-badge" class="badge"></span>
+              <button type="button" class="favorite-button" id="modal-favorite" aria-label="Favorite">★</button>
+            </div>
+            <div id="modal-deal-bar" class="deal-bar hidden"><span class="deal-bar-fill"></span></div>
             <h2 id="modal-title"></h2>
             <p id="modal-review" class="review-line"></p>
             <p id="modal-price" class="price-line"></p>
@@ -280,8 +317,12 @@
     <template id="game-card-template">
       <article class="game-card">
         <div class="game-media">
-          <img alt="" loading="lazy" />
+          <div class="game-media-frame">
+            <img alt="" loading="lazy" />
+            <div class="deal-bar"><span class="deal-bar-fill"></span></div>
+          </div>
           <span class="badge"></span>
+          <button type="button" class="favorite-button card-favorite" aria-label="Favorite">★</button>
         </div>
         <div class="game-body">
           <div class="game-head">
@@ -311,6 +352,6 @@
       </article>
     </template>
 
-    <script type="module" src="app.js?v=13"></script>
+    <script type="module" src="app.js?v=18"></script>
   </body>
 </html>
