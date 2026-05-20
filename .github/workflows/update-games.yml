@@ -37,26 +37,7 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/games.json data/meta.json data/fetch_queue.json docs/data/games-active.json docs/data/games-expired.json docs/data/details docs/data/meta.json docs/feed.xml docs/games docs/sitemap.xml
-          if git diff --staged --quiet; then
-            echo "No changes detected."
-            exit 0
-          fi
-
-          git commit -m "chore: update Steam deals data"
-          branch="${GITHUB_REF_NAME:-master}"
-
-          for attempt in 1 2 3 4 5; do
-            git pull --rebase origin "$branch"
-            if git push origin "HEAD:$branch"; then
-              echo "Push succeeded on attempt ${attempt}."
-              exit 0
-            fi
-            echo "Push rejected, retrying (${attempt}/5)..."
-            sleep 15
-          done
-
-          echo "Failed to push after 5 attempts."
-          exit 1
+          bash .github/scripts/push_generated_changes.sh "chore: update Steam deals data" \
+            data/games.json data/meta.json data/fetch_queue.json \
+            docs/data/games-active.json docs/data/games-expired.json docs/data/details \
+            docs/data/meta.json docs/feed.xml docs/games docs/sitemap.xml

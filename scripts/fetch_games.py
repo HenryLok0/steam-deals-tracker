@@ -25,6 +25,7 @@ HEADERS = {
     "Accept-Language": "en-US,en;q=0.9",
 }
 REQUEST_DELAY = 1.0
+BACKFILL_REQUEST_DELAY = 2.0
 RATE_LIMIT_BACKOFF = 3.0
 RATE_LIMIT_MAX_PENALTY = 20.0
 BACKFILL_LIMIT = 160
@@ -403,6 +404,9 @@ def fetch_regional_prices(
         if previous_prices.get(ui_lang):
             prices[ui_lang] = previous_prices[ui_lang]
             continue
+        if _rate_limit_penalty >= RATE_LIMIT_MAX_PENALTY / 2:
+            prices[ui_lang] = prices["en"]
+            continue
 
         regional_data = fetch_app_details(app_id, locale="english", cc=cc)
         time.sleep(REQUEST_DELAY)
@@ -453,6 +457,8 @@ def fetch_localized_content(
             continue
 
         if not enrich:
+            continue
+        if _rate_limit_penalty >= RATE_LIMIT_MAX_PENALTY / 2:
             continue
 
         steam_locale = None
@@ -974,6 +980,16 @@ def save_outputs(existing_games: dict[str, dict], now: str) -> dict:
 
 
 def run_backfill(existing_games: dict[str, dict], now: str) -> int:
+    global REQUEST_DELAY
+    previous_delay = REQUEST_DELAY
+    REQUEST_DELAY = BACKFILL_REQUEST_DELAY
+    try:
+        return _run_backfill(existing_games, now)
+    finally:
+        REQUEST_DELAY = previous_delay
+
+
+def _run_backfill(existing_games: dict[str, dict], now: str) -> int:
     sync_expirations(existing_games, fetch_promo_expirations(), now)
 
     queue = load_queue()
