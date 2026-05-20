@@ -1,6 +1,6 @@
 # Steam Deals Tracker
 
-**[Visit the site →](https://henrylok0.github.io/steam-deals-tracker/)**
+**[Visit the site →](https://steam-deals.henrylok.me/)**
 
 A simple tracker for Steam games that are **temporarily free** or **on a limited-time sale**.
 
