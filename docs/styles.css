@@ -97,17 +97,53 @@ body {
   line-height: 1.6;
 }
 
+.hero-actions {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: flex-end;
+  justify-content: flex-end;
+  gap: 12px;
+  flex-shrink: 0;
+}
+
 .hero-pickers {
   display: flex;
-  flex-wrap: wrap;
+  flex-flow: row nowrap;
   gap: 12px;
   align-items: start;
+}
+
+.hero-github-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 10px 14px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--panel);
+  color: var(--text);
+  text-decoration: none;
+  font-size: 0.92rem;
+  font-weight: 600;
+  box-shadow: var(--shadow);
+  transition:
+    border-color 0.15s ease,
+    background 0.15s ease,
+    transform 0.15s ease;
+}
+
+.hero-github-link:hover {
+  background: var(--panel-hover);
+  border-color: color-mix(in srgb, var(--accent) 35%, var(--border));
+  transform: translateY(-1px);
 }
 
 .language-picker {
   display: grid;
   gap: 8px;
-  min-width: 160px;
+  min-width: 148px;
+  flex: 0 0 auto;
   color: var(--muted);
   font-size: 0.92rem;
 }
@@ -956,11 +992,29 @@ body.modal-open {
 
 @media (max-width: 760px) {
   .hero-top,
-  .hero-pickers,
   .results-bar,
   .controls-head {
     flex-direction: column;
     align-items: flex-start;
+  }
+
+  .hero-actions {
+    width: 100%;
+    justify-content: stretch;
+  }
+
+  .hero-pickers {
+    flex: 1 1 auto;
+    width: auto;
+  }
+
+  .language-picker {
+    flex: 1 1 0;
+    min-width: 0;
+  }
+
+  .hero-github-link {
+    width: 100%;
   }
 
   .hero-stats {
