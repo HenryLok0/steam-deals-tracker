@@ -127,10 +127,10 @@ function serializeFilters() {
 
 function saveFilters() {
   localStorage.setItem(FILTER_STORAGE_KEY, JSON.stringify(serializeFilters()));
-  syncUrlParams();
+  syncUrlParams({ includeApp: Boolean(state.selectedGame) });
 }
 
-function syncUrlParams() {
+function syncUrlParams({ includeApp = true } = {}) {
   const params = new URLSearchParams();
   if (state.filters.search) params.set("q", state.filters.search);
   if (state.filters.offer !== "all") params.set("offer", state.filters.offer);
@@ -139,7 +139,7 @@ function syncUrlParams() {
   if (state.filters.platforms.size) params.set("platform", [...state.filters.platforms].join(","));
   if (state.filters.genres.size) params.set("genre", [...state.filters.genres].join(","));
   if (state.filters.uiLanguageFilter) params.set("uiLang", "1");
-  if (state.selectedGame) params.set("app", String(state.selectedGame.app_id));
+  if (includeApp && state.selectedGame) params.set("app", String(state.selectedGame.app_id));
 
   const query = params.toString();
   const next = query ? `${window.location.pathname}?${query}` : window.location.pathname;
@@ -755,7 +755,6 @@ function renderGames() {
 
   renderNewTodaySection();
   updateStatCardStates();
-  saveFilters();
 }
 
 function updateChipStates() {
@@ -900,7 +899,10 @@ function bindEvents() {
     state.filters.search = event.target.value;
     state.visibleCount = PAGE_SIZE;
     clearTimeout(searchDebounceTimer);
-    searchDebounceTimer = setTimeout(() => renderGames(), SEARCH_DEBOUNCE_MS);
+    searchDebounceTimer = setTimeout(() => {
+      saveFilters();
+      renderGames();
+    }, SEARCH_DEBOUNCE_MS);
   });
 
   const filterChange = () => {
