@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Local test artifacts
+scripts/test_api.py

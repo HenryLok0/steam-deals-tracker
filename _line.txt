@@ -1,0 +1,1 @@
+  "Early Access": { en: "Early Access", "zh-Hant": "搶先體驗", ja: "早期アクセス", ko: "앞서 해보기" },

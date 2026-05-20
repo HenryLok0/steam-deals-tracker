@@ -1,0 +1,11 @@
+﻿python : Traceback (most recent call last):
+位於 C:\Users\ihenr\AppData\Local\Temp\ps-script-1406c77d-66e4-4545-a6b9-556b2ff46927.ps1:88 字元:1
++ python -c "
++ ~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "<string>", line 6, in <module>
+    print(json.dumps({k:d.get(k) for k in ['name','short_description']}, ensure_ascii=False, indent=2))
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'cp950' codec can't encode character '\u9c9c' in position 63: illegal multibyte sequence
