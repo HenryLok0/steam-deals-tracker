@@ -1,83 +1,61 @@
 # Steam Deals Tracker
 
-An auto-updating GitHub repository that tracks **temporarily free** and **on-sale** Steam games (excluding permanent Free to Play titles).
+**[Visit the site →](https://henrylok0.github.io/steam-deals-tracker/)**
 
-## Features
+A simple tracker for Steam games that are **temporarily free** or **on a limited-time sale**.
 
-- Auto-updates every 6 hours via GitHub Actions
-- Temporarily free: paid games available for $0 during a promotion
-- On sale: paid games with active discounts
-- Website highlights:
-  - UI in English, Traditional Chinese, Japanese, and Korean
-  - Localized genre tags and supported game languages
-  - Light/dark mode follows browser `prefers-color-scheme`
-  - Multi-select platform and genre filters
-  - Sort by rating, discount, reviews, and date added
-  - Clickable stat cards, search debounce, game detail modal
-  - Regional price display (USD / TWD / JPY / KRW)
+It focuses on paid games with active promotions — not permanent Free to Play titles.
 
-## Project Structure
+---
 
-```text
-steam-free-games/
-├── .github/workflows/update-games.yml  # Auto-update workflow
-├── data/                               # Source data in the repo
-├── docs/                               # GitHub Pages site
-│   ├── index.html
-│   ├── app.js
-│   ├── styles.css
-│   └── data/                           # Site data copy
-└── scripts/fetch_games.py              # Fetch script
-```
+## What it does
 
-## Quick Start
+Every **6 hours**, the site automatically refreshes its game list from Steam. You can browse current deals without opening the Steam store one by one.
 
-### 1. Push to GitHub
+### Deal types
 
-```bash
-git add .
-git commit -m "feat: initial Steam deals tracker"
-git push -u origin main
-```
+| Type | Description |
+|------|-------------|
+| **Temporarily free** | Games that normally cost money but are free for a limited promotion |
+| **On sale** | Paid games with an active discount |
 
-### 2. Enable GitHub Pages
+### Website features
 
-1. Open repo **Settings → Pages**
-2. Under **Build and deployment → Source**, choose `Deploy from a branch`
-3. Select branch `main` and folder `/docs`
-4. Save
+- **Search** — find games by name, genre, or description (supports multiple keywords)
+- **Filters** — platform (Windows / macOS / Linux), genre, deal type, active/expired status
+- **Sort** — by name, date added, rating, review count, or discount
+- **Quick filters** — click the stat cards at the top to jump to all deals, free games, or sales
+- **Game details** — click a card to open a modal with full description, genres, features, languages, and price
+- **Languages** — UI available in English, Traditional Chinese, Japanese, and Korean
+- **Theme** — follows your browser light/dark mode automatically
+- **Prices** — shown in USD, TWD, JPY, or KRW depending on your selected UI language (when regional data is available)
 
-After a few minutes, the site will be available at:
+---
 
-`https://<your-username>.github.io/steam-free-games/`
+## What is not included
 
-### 3. Run the first update manually
+- Permanent **Free to Play** games
+- Games outside the current Steam promotion/sale lists
+- Wishlist, accounts, or purchase features — this site only helps you discover deals
 
-1. Go to the **Actions** tab
-2. Select **Update Steam Free Games**
-3. Click **Run workflow**
+---
 
-The first run may take several minutes because it fetches all current deals.
+## Data & updates
 
-## Local Testing
+Deal data comes from public Steam store APIs. The list is refreshed automatically; you do not need to install or run anything.
 
-```bash
-python scripts/fetch_games.py
-```
+- **Last updated** time is shown on the site homepage
+- Expired deals can still be viewed using the status filter
 
-Then serve the `docs/` folder with any static server:
+---
 
-```bash
-python -m http.server 8080 --directory docs
-```
+## About this repository
 
-Open `http://localhost:8080`
+This GitHub repo hosts the live website via **GitHub Pages**. The site reads from `docs/`; deal data is updated by a scheduled GitHub Action.
 
-## Data Sources
+You do **not** need to clone this project to use it — just open the link above.
 
-- Steam Store Search API (free promos and sales)
-- Steam Featured Categories API (featured specials)
-- Steam App Details API (game metadata, prices, descriptions)
+---
 
 ## License
 
