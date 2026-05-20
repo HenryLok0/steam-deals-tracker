@@ -25,7 +25,10 @@ HEADERS = {
     "Accept-Language": "en-US,en;q=0.9",
 }
 REQUEST_DELAY = 1.0
+RATE_LIMIT_BACKOFF = 3.0
+RATE_LIMIT_MAX_PENALTY = 20.0
 BACKFILL_LIMIT = 160
+_rate_limit_penalty = 0.0
 PROMO_SECTIONS = ("specials", "dailyDeal", "spotlight")
 DETAIL_KEYS = ("detailed_descriptions", "detailed_descriptions_html")
 LIST_STRIP_KEYS = DETAIL_KEYS + ("search_text",)
@@ -93,18 +96,36 @@ def utc_now_iso() -> str:
     return datetime.now(timezone.utc).replace(microsecond=0).isoformat()
 
 
+def note_rate_limit() -> None:
+    global _rate_limit_penalty
+    _rate_limit_penalty = min(_rate_limit_penalty + RATE_LIMIT_BACKOFF, RATE_LIMIT_MAX_PENALTY)
+
+
+def relax_rate_limit() -> None:
+    global _rate_limit_penalty
+    if _rate_limit_penalty > 0:
+        _rate_limit_penalty = max(0.0, _rate_limit_penalty - 0.5)
+
+
 def fetch_json(url: str, retries: int = 4) -> dict | list | None:
+    global _rate_limit_penalty
     for attempt in range(retries):
+        if _rate_limit_penalty > 0:
+            time.sleep(_rate_limit_penalty)
         try:
             req = urllib.request.Request(url, headers=HEADERS)
             with urllib.request.urlopen(req, timeout=45) as resp:
+                relax_rate_limit()
                 return json.loads(resp.read().decode("utf-8"))
         except urllib.error.HTTPError as exc:
             if exc.code == 429 and attempt < retries - 1:
-                wait = 2.5 * (attempt + 1)
+                note_rate_limit()
+                wait = 2.5 * (attempt + 1) + _rate_limit_penalty
                 print(f"[warn] Rate limited, retrying in {wait:.1f}s: {url}", file=sys.stderr)
                 time.sleep(wait)
                 continue
+            if exc.code == 429:
+                note_rate_limit()
             print(f"[warn] Failed to fetch {url}: {exc}", file=sys.stderr)
             return None
         except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as exc:
@@ -359,14 +380,22 @@ def fetch_regional_prices(
     data: dict,
     base: dict,
     existing: dict | None,
+    *,
+    enrich: bool = True,
 ) -> dict[str, dict]:
     previous_prices = (existing or {}).get("prices") or {}
+    us_overview = data.get("price_overview") or {}
+    us_price = make_price_entry(us_overview, base, "USD")
+
+    if not enrich:
+        if previous_prices:
+            return {**previous_prices, "en": us_price}
+        return {"en": us_price}
+
     if previous_prices and all(lang in previous_prices for lang in PRICE_REGIONS):
         return previous_prices
 
-    prices: dict[str, dict] = {}
-    us_overview = data.get("price_overview") or {}
-    prices["en"] = make_price_entry(us_overview, base, "USD")
+    prices: dict[str, dict] = {"en": us_price}
 
     for ui_lang, (cc, currency) in PRICE_REGIONS.items():
         if ui_lang == "en":
@@ -391,6 +420,8 @@ def fetch_localized_content(
     supported_languages: list[str],
     english_data: dict,
     existing: dict | None,
+    *,
+    enrich: bool = True,
 ) -> dict[str, dict[str, str]]:
     previous = existing or {}
     cached_names = previous.get("names", {})
@@ -419,6 +450,9 @@ def fetch_localized_content(
             descriptions[ui_lang] = cached_descriptions[ui_lang]
             detailed_descriptions[ui_lang] = cached_detailed[ui_lang]
             detailed_descriptions_html[ui_lang] = cached_detailed_html[ui_lang]
+            continue
+
+        if not enrich:
             continue
 
         steam_locale = None
@@ -694,6 +728,82 @@ def needs_details(app_id: int, existing_games: dict[str, dict]) -> bool:
     return False
 
 
+def needs_quick_fetch(app_id: int, existing_games: dict[str, dict]) -> bool:
+    """True when quick mode must call Steam appdetails for this game."""
+    previous = existing_games.get(str(app_id))
+    if not previous:
+        return True
+    if not previous.get("genres"):
+        return True
+    if not previous.get("short_description"):
+        return True
+    if not previous.get("names", {}).get("en"):
+        return True
+    return False
+
+
+def infer_offer_type(base: dict, previous: dict | None = None) -> str | None:
+    discount_percent = int(
+        base.get("discount_percent")
+        or (previous or {}).get("discount_percent")
+        or 0
+    )
+    final_price = int(
+        base.get("final_price")
+        if base.get("final_price") is not None
+        else (previous or {}).get("final_price") or 0
+    )
+    if discount_percent >= 100 and final_price == 0:
+        return "free"
+    if discount_percent > 0 and final_price > 0:
+        return "sale"
+    if discount_percent > 0 and final_price == 0:
+        return "free"
+    return (previous or {}).get("offer_type")
+
+
+def refresh_from_search(base: dict, previous: dict, now: str) -> tuple[dict, str | None]:
+    """Refresh cached game prices from search/featured data without extra API calls."""
+    record = dict(previous)
+    discount_percent = int(base.get("discount_percent") or record.get("discount_percent") or 0)
+    final_price = int(
+        base.get("final_price")
+        if base.get("final_price") is not None
+        else record.get("final_price") or 0
+    )
+    original_price = int(base.get("original_price") or record.get("original_price") or 0)
+    offer_type = infer_offer_type(base, record)
+    if not offer_type:
+        return record, None
+
+    record.update(
+        {
+            "name": base.get("name") or record.get("name", ""),
+            "offer_type": offer_type,
+            "discount_percent": discount_percent,
+            "final_price": final_price,
+            "original_price": original_price or record.get("original_price", 0),
+            "discount_expiration": base.get("discount_expiration")
+            or record.get("discount_expiration"),
+            "header_image": base.get("header_image") or record.get("header_image", ""),
+            "is_active": True,
+            "updated_at": now,
+            "last_seen": now,
+        }
+    )
+
+    prices = dict(record.get("prices") or {})
+    if prices.get("en"):
+        en_price = dict(prices["en"])
+        en_price["final"] = final_price
+        if original_price or en_price.get("original") is not None:
+            en_price["original"] = original_price or en_price.get("original", 0)
+        prices["en"] = en_price
+        record["prices"] = prices
+
+    return record, offer_type
+
+
 def needs_backfill(game: dict) -> bool:
     if needs_regional_prices(game):
         return True
@@ -943,9 +1053,28 @@ def run_quick(existing_games: dict[str, dict], now: str) -> int:
     kept_free = 0
     kept_sale = 0
     skipped = 0
+    light_refreshed = 0
+    full_fetched = 0
 
     for base in candidate_map.values():
         app_id = base["app_id"]
+        previous = existing_games.get(str(app_id))
+
+        if previous and not needs_quick_fetch(app_id, existing_games):
+            record, offer_type = refresh_from_search(base, previous, now)
+            if not offer_type:
+                skipped += 1
+                continue
+            active_ids.add(app_id)
+            merge_records(existing_games, record, now)
+            remove_from_queue(app_id)
+            light_refreshed += 1
+            if offer_type == "free":
+                kept_free += 1
+            else:
+                kept_sale += 1
+            continue
+
         data = fetch_app_details(app_id)
         time.sleep(REQUEST_DELAY)
         if not data:
@@ -958,31 +1087,32 @@ def run_quick(existing_games: dict[str, dict], now: str) -> int:
             skipped += 1
             continue
 
-        if needs_details(app_id, existing_games) or offer_type == "free":
+        if not previous or offer_type == "free":
             reviews = fetch_review_stats(app_id)
             time.sleep(REQUEST_DELAY)
         else:
             reviews = {
-                "review_count": existing_games.get(str(app_id), {}).get("review_count", 0),
-                "review_positive": existing_games.get(str(app_id), {}).get("review_positive", 0),
-                "review_percent": existing_games.get(str(app_id), {}).get("review_percent"),
-                "review_score": existing_games.get(str(app_id), {}).get("review_score"),
-                "review_label": existing_games.get(str(app_id), {}).get("review_label", ""),
+                "review_count": previous.get("review_count", 0),
+                "review_positive": previous.get("review_positive", 0),
+                "review_percent": previous.get("review_percent"),
+                "review_score": previous.get("review_score"),
+                "review_label": previous.get("review_label", ""),
             }
 
         supported_languages = parse_supported_languages(data.get("supported_languages", ""))
-        previous = existing_games.get(str(app_id))
-        localized = fetch_localized_content(app_id, supported_languages, data, previous)
-        prices = (
-            previous.get("prices")
-            if previous and not needs_regional_prices(previous)
-            else fetch_regional_prices(app_id, data, base, previous)
+        localized = fetch_localized_content(
+            app_id, supported_languages, data, previous, enrich=False
         )
+        prices = fetch_regional_prices(app_id, data, base, previous, enrich=False)
 
         record = build_game_record(base, data, reviews, localized, offer_type, prices, now)
+        if needs_regional_prices(record) or needs_backfill(record):
+            add_to_queue(app_id)
+
         active_ids.add(app_id)
         merge_records(existing_games, record, now)
         remove_from_queue(app_id)
+        full_fetched += 1
         if offer_type == "free":
             kept_free += 1
         else:
@@ -992,7 +1122,10 @@ def run_quick(existing_games: dict[str, dict], now: str) -> int:
     sync_expirations(existing_games, fetch_promo_expirations(), now)
     output = save_outputs(existing_games, now)
 
-    print(f"[info] Kept {kept_free} free + {kept_sale} sale games, skipped {skipped}")
+    print(
+        f"[info] Kept {kept_free} free + {kept_sale} sale games, "
+        f"light refresh {light_refreshed}, full fetch {full_fetched}, skipped {skipped}"
+    )
     print(
         f"[info] Saved {output['active_count']} active / {output['total_count']} total games"
     )
