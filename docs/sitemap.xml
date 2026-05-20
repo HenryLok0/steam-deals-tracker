@@ -2,7 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://steam-deals.henrylok.me/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
   <url><loc>https://steam-deals.henrylok.me/feed.xml</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://steam-deals.henrylok.me/games/282800/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/977950/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1721110/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2706020/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -44,7 +43,6 @@
   <url><loc>https://steam-deals.henrylok.me/games/1063660/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/622650/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/3370870/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://steam-deals.henrylok.me/games/883360/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/8870/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/8850/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/7670/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -143,7 +141,6 @@
   <url><loc>https://steam-deals.henrylok.me/games/227300/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2604420/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2780810/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://steam-deals.henrylok.me/games/1056760/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2004210/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1128920/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/3526710/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -185,7 +182,6 @@
   <url><loc>https://steam-deals.henrylok.me/games/1820000/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1602000/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1766060/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://steam-deals.henrylok.me/games/2647680/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2221920/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1677310/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1846170/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -210,11 +206,12 @@
   <url><loc>https://steam-deals.henrylok.me/games/2119830/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2582320/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2779120/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://steam-deals.henrylok.me/games/4486310/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2350790/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://steam-deals.henrylok.me/games/4179280/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/3454980/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1494810/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2111190/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://steam-deals.henrylok.me/games/1371580/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/349040/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/3472040/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/3894440/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -229,6 +226,7 @@
   <url><loc>https://steam-deals.henrylok.me/games/218620/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1272080/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/3527290/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://steam-deals.henrylok.me/games/1206070/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/3341650/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/997010/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1024650/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -315,6 +313,7 @@
   <url><loc>https://steam-deals.henrylok.me/games/644830/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/3743790/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/3693650/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://steam-deals.henrylok.me/games/2477010/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2133760/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/460930/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2395210/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -332,6 +331,7 @@
   <url><loc>https://steam-deals.henrylok.me/games/3604340/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2833600/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2600/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://steam-deals.henrylok.me/games/2223420/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/3071240/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2686630/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2537470/</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
