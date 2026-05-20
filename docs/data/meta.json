@@ -7,5 +7,6 @@
   "new_today_count": 328,
   "new_free_today": 2,
   "backfill_pending": 354,
-  "expiration_coverage": 0.03
+  "expiration_coverage": 0.03,
+  "expiration_backfill_pending": 318
 }

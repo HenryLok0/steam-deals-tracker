@@ -25,7 +25,10 @@ HEADERS = {
     "Accept-Language": "en-US,en;q=0.9",
 }
 REQUEST_DELAY = 1.0
-BACKFILL_LIMIT = 80
+BACKFILL_LIMIT = 160
+PROMO_SECTIONS = ("specials", "dailyDeal", "spotlight")
+DETAIL_KEYS = ("detailed_descriptions", "detailed_descriptions_html")
+LIST_STRIP_KEYS = DETAIL_KEYS + ("search_text",)
 SEARCH_PAGE_SIZE = 50
 MAX_SALE_RESULTS = 350
 
@@ -224,24 +227,52 @@ def fetch_search_games(params: dict[str, str], max_results: int | None = None) -
     return list(collected.values())
 
 
-def fetch_featured_specials() -> list[dict]:
+def fetch_featured_payload() -> dict:
     payload = fetch_json(
         "https://store.steampowered.com/api/featuredcategories/?l=english&cc=US"
     )
+    return payload if isinstance(payload, dict) else {}
+
+
+def iter_promo_items(payload: dict) -> list[dict]:
+    items: list[dict] = []
+    for section in PROMO_SECTIONS:
+        block = payload.get(section) or {}
+        items.extend(block.get("items") or [])
+    return items
+
+
+def fetch_promo_expirations() -> dict[int, int]:
+    exp_map: dict[int, int] = {}
+    for item in iter_promo_items(fetch_featured_payload()):
+        app_id = int(item.get("id") or 0)
+        expiration = item.get("discount_expiration")
+        if app_id and expiration:
+            exp_map[app_id] = int(expiration)
+    return exp_map
+
+
+def fetch_featured_specials() -> list[dict]:
+    payload = fetch_featured_payload()
     if not payload:
         return []
 
     games: list[dict] = []
-    for item in payload.get("specials", {}).get("items", []):
+    seen: set[int] = set()
+    for item in iter_promo_items(payload):
+        app_id = int(item.get("id") or 0)
+        if not app_id or app_id in seen:
+            continue
         discount_percent = int(item.get("discount_percent") or 0)
         final_price = int(item.get("final_price") or 0)
         original_price = int(item.get("original_price") or 0)
         if discount_percent <= 0:
             continue
 
+        seen.add(app_id)
         games.append(
             {
-                "app_id": int(item["id"]),
+                "app_id": app_id,
                 "name": item.get("name", ""),
                 "header_image": item.get("header_image", ""),
                 "windows": bool(item.get("windows_available")),
@@ -254,6 +285,21 @@ def fetch_featured_specials() -> list[dict]:
             }
         )
     return games
+
+
+def sync_expirations(existing_games: dict[str, dict], exp_map: dict[int, int], now: str) -> int:
+    updated = 0
+    for app_id_str, game in existing_games.items():
+        if not game.get("is_active"):
+            continue
+        app_id = int(app_id_str)
+        if app_id not in exp_map:
+            continue
+        game["discount_expiration"] = exp_map[app_id]
+        game["updated_at"] = now
+        updated += 1
+    print(f"[info] Synced expiration for {updated} active games")
+    return updated
 
 
 def fetch_app_details(
@@ -668,6 +714,55 @@ def count_backfill_pending(games: list[dict]) -> int:
     return sum(1 for game in games if needs_backfill(game))
 
 
+def needs_expiration(game: dict) -> bool:
+    return bool(game.get("is_active")) and not game.get("discount_expiration")
+
+
+def backfill_priority(app_id: int, game: dict, in_queue: bool) -> tuple[int, str]:
+    if needs_expiration(game):
+        return (0, game.get("name", ""))
+    if game.get("is_active") and needs_backfill(game):
+        return (1, game.get("name", ""))
+    if in_queue:
+        return (2, game.get("name", ""))
+    return (3, game.get("name", ""))
+
+
+def strip_list_record(game: dict) -> dict:
+    return {key: value for key, value in game.items() if key not in LIST_STRIP_KEYS}
+
+
+def save_docs_json(path: Path, data: dict | list) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as fh:
+        json.dump(data, fh, ensure_ascii=False, separators=(",", ":"))
+        fh.write("\n")
+
+
+def extract_detail_record(game: dict) -> dict | None:
+    detail = {key: game.get(key) for key in DETAIL_KEYS if game.get(key)}
+    if not detail:
+        return None
+    return {"app_id": int(game["app_id"]), **detail}
+
+
+def write_detail_files(games: list[dict], details_dir: Path) -> None:
+    details_dir.mkdir(parents=True, exist_ok=True)
+    known_ids = {int(game["app_id"]) for game in games}
+    for child in details_dir.glob("*.json"):
+        if child.stem.isdigit() and int(child.stem) not in known_ids:
+            child.unlink()
+
+    written = 0
+    for game in games:
+        detail = extract_detail_record(game)
+        if not detail:
+            continue
+        save_json(details_dir / f"{game['app_id']}.json", detail)
+        written += 1
+    print(f"[info] Wrote {written} detail files")
+
+
 def load_queue() -> list[int]:
     payload = load_json(QUEUE_FILE, {"app_ids": []})
     return [int(item) for item in payload.get("app_ids", [])]
@@ -722,6 +817,9 @@ def compute_meta(games: list[dict], now: str) -> dict:
         "new_free_today": new_free_today,
         "backfill_pending": count_backfill_pending(games),
         "expiration_coverage": expiration_coverage,
+        "expiration_backfill_pending": sum(
+            1 for g in active_games if not g.get("discount_expiration")
+        ),
     }
 
 
@@ -744,20 +842,32 @@ def save_outputs(existing_games: dict[str, dict], now: str) -> dict:
     docs_data_dir = ROOT / "docs" / "data"
     active_games = [g for g in games if g.get("is_active")]
     expired_games = [g for g in games if not g.get("is_active")]
-    save_json(
+    write_detail_files(games, docs_data_dir / "details")
+    save_docs_json(
         docs_data_dir / "games-active.json",
-        {"updated_at": now, "total_count": len(active_games), "games": active_games},
+        {
+            "updated_at": now,
+            "total_count": len(active_games),
+            "games": [strip_list_record(game) for game in active_games],
+        },
     )
-    save_json(
+    save_docs_json(
         docs_data_dir / "games-expired.json",
-        {"updated_at": now, "total_count": len(expired_games), "games": expired_games},
+        {
+            "updated_at": now,
+            "total_count": len(expired_games),
+            "games": [strip_list_record(game) for game in expired_games],
+        },
     )
     save_json(docs_data_dir / "meta.json", meta)
     return output
 
 
 def run_backfill(existing_games: dict[str, dict], now: str) -> int:
+    sync_expirations(existing_games, fetch_promo_expirations(), now)
+
     queue = load_queue()
+    queue_set = set(queue)
     candidates: list[int] = []
     for app_id in queue:
         if str(app_id) in existing_games and app_id not in candidates:
@@ -766,6 +876,14 @@ def run_backfill(existing_games: dict[str, dict], now: str) -> int:
         app_id = int(app_id_str)
         if needs_backfill(game) and app_id not in candidates:
             candidates.append(app_id)
+
+    candidates.sort(
+        key=lambda app_id: backfill_priority(
+            app_id,
+            existing_games.get(str(app_id), {}),
+            app_id in queue_set,
+        )
+    )
 
     processed = 0
     for app_id in candidates[:BACKFILL_LIMIT]:
@@ -871,6 +989,7 @@ def run_quick(existing_games: dict[str, dict], now: str) -> int:
             kept_sale += 1
 
     mark_inactive(existing_games, active_ids, now)
+    sync_expirations(existing_games, fetch_promo_expirations(), now)
     output = save_outputs(existing_games, now)
 
     print(f"[info] Kept {kept_free} free + {kept_sale} sale games, skipped {skipped}")

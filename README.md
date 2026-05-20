@@ -86,7 +86,7 @@ Deal data comes from public Steam store APIs.
 | Daily at 03:00 UTC | `backfill-games.yml` | Fill in missing regional prices and HTML descriptions |
 
 - **Last updated** time is shown on the site homepage
-- Active deals load from `docs/data/games-active.json`; expired deals are lazy-loaded from `docs/data/games-expired.json` when you include expired results
+- Active deals load from `docs/data/games-active.json` (~800KB list payload); modal descriptions lazy-load from `docs/data/details/{app_id}.json`
 - Per-game static pages and `sitemap.xml` are regenerated after each data update
 
 ---
@@ -101,6 +101,7 @@ When releasing frontend changes, keep these in sync:
 | `docs/app.js` | `i18n.js?v=`, `labels.js?v=`, `focus-trap.js?v=` imports |
 | `docs/sw.js` | `CACHE_VERSION` (e.g. `steam-deals-v4`) |
 | `docs/app.js` | `registerServiceWorker("./sw.js?v=4")` |
+| `docs/icons/og-image.png` | Replace file and bump `?v=` on `og:image` / `twitter:image` in `index.html` |
 
 ---
 

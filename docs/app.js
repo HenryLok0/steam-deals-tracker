@@ -19,6 +19,7 @@ import { trapFocus } from "./focus-trap.js?v=1";
 
 const DATA_ACTIVE_URL = "data/games-active.json";
 const DATA_EXPIRED_URL = "data/games-expired.json";
+const DETAIL_URL = (appId) => `data/details/${appId}.json`;
 const META_URL = "data/meta.json";
 const SEARCH_DEBOUNCE_MS = 250;
 const PAGE_SIZE = 24;
@@ -65,6 +66,7 @@ const state = {
   releaseFocusTrap: null,
   lastFocusedElement: null,
   wishlist: loadWishlist(),
+  detailCache: new Map(),
 };
 
 let searchDebounceTimer = null;
@@ -625,6 +627,36 @@ function getGameDetailedDescriptionHtml(game) {
   return plainTextToHtml(getGameDetailedDescription(game));
 }
 
+function mergeGameDetail(game, detail) {
+  if (!detail) return game;
+  return { ...game, ...detail };
+}
+
+async function loadGameDetail(appId) {
+  const id = Number(appId);
+  if (state.detailCache.has(id)) return state.detailCache.get(id);
+
+  try {
+    const response = await fetch(DETAIL_URL(id));
+    if (!response.ok) return null;
+    const payload = await response.json();
+    state.detailCache.set(id, payload);
+    return payload;
+  } catch (error) {
+    console.warn("Failed to load game detail", error);
+    return null;
+  }
+}
+
+function renderModalDescription(game) {
+  const descriptionHtml = getGameDetailedDescriptionHtml(game);
+  if (descriptionHtml) {
+    elements.modalDescription.innerHTML = descriptionHtml;
+    return;
+  }
+  elements.modalDescription.textContent = getGameDescription(game) || t(state.lang, "noDescription");
+}
+
 function matchesSearch(game, query) {
   if (!query) return true;
 
@@ -634,7 +666,6 @@ function matchesSearch(game, query) {
     getGameDescription(game),
     ...(game.names ? Object.values(game.names) : []),
     ...(game.descriptions ? Object.values(game.descriptions) : []),
-    ...(game.detailed_descriptions ? Object.values(game.detailed_descriptions) : []),
     ...(game.genres || []).flatMap((genre) => allGenreSearchTerms(genre)),
     ...(sanitizeSupportedLanguages(game.supported_languages)).flatMap((language) =>
       allLanguageSearchTerms(language),
@@ -1045,10 +1076,10 @@ async function resolveDeepLink() {
   }
 
   if (needsRerender) renderGames();
-  openGameModal(game);
+  await openGameModal(game);
 }
 
-function openGameModal(game) {
+async function openGameModal(game) {
   state.lastFocusedElement = document.activeElement;
   state.selectedGame = game;
   elements.modalImage.onerror = handleImageError;
@@ -1080,9 +1111,7 @@ function openGameModal(game) {
   elements.modalDealBar?.classList.remove("hidden");
   updateFavoriteButton(elements.modalFavorite, game.app_id);
 
-  const descriptionHtml = getGameDetailedDescriptionHtml(game);
-  if (descriptionHtml) elements.modalDescription.innerHTML = descriptionHtml;
-  else elements.modalDescription.textContent = t(state.lang, "noDescription");
+  elements.modalDescription.textContent = t(state.lang, "loading");
 
   fillChipGroup(elements.modalGenres, game.genres || [], (genre) =>
     translateGenre(state.lang, genre),
@@ -1129,6 +1158,13 @@ function openGameModal(game) {
   const dialog = elements.modal.querySelector(".modal-dialog") || elements.modal;
   state.releaseFocusTrap?.();
   state.releaseFocusTrap = trapFocus(dialog, () => closeGameModal());
+
+  const detail = await loadGameDetail(game.app_id);
+  if (state.selectedGame?.app_id !== game.app_id) return;
+
+  const enriched = mergeGameDetail(game, detail);
+  state.selectedGame = enriched;
+  renderModalDescription(enriched);
 }
 
 function closeGameModal() {
@@ -1232,7 +1268,7 @@ function bindEvents() {
     filterChange();
   });
 
-  elements.languageSelect.addEventListener("change", (event) => {
+  elements.languageSelect.addEventListener("change", async (event) => {
     state.lang = event.target.value;
     localStorage.setItem("steam-free-games-lang", state.lang);
     translatePage();
@@ -1241,7 +1277,7 @@ function bindEvents() {
     renderStats();
     renderGames();
     if (!elements.modal.classList.contains("hidden") && state.selectedGame) {
-      openGameModal(state.selectedGame);
+      await openGameModal(state.selectedGame);
     }
   });
 

@@ -39,7 +39,8 @@ self.addEventListener("fetch", (event) => {
     url.pathname.endsWith("/data/games-active.json") ||
     url.pathname.endsWith("/data/games-expired.json") ||
     url.pathname.endsWith("/data/games.json") ||
-    url.pathname.endsWith("/data/meta.json");
+    url.pathname.endsWith("/data/meta.json") ||
+    url.pathname.includes("/data/details/");
 
   if (isData) {
     event.respondWith(networkFirstData(event.request));
