@@ -1,8 +1,12 @@
 name: Backfill Steam Games Data
 
+# Fetch regional Steam prices (USD, HKD, TWD, CNY, JPY, KRW) for up to 200 games per run.
+# Schedule: UTC 03:00 and 15:00 (HKT 11:00 and 23:00).
+
 on:
   schedule:
     - cron: "0 3 * * *"
+    - cron: "0 15 * * *"
   workflow_dispatch:
 
 concurrency:
@@ -26,8 +30,10 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Backfill missing prices and descriptions
-        run: python scripts/fetch_games.py --mode=backfill
+      - name: Backfill regional Steam prices
+        env:
+          PYTHONUNBUFFERED: "1"
+        run: python scripts/fetch_games.py --mode=backfill-prices
 
       - name: Generate RSS feed
         run: python scripts/generate_rss.py
@@ -37,7 +43,7 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          bash .github/scripts/push_generated_changes.sh "chore: backfill Steam deals metadata" \
+          bash .github/scripts/push_generated_changes.sh "chore: backfill regional Steam prices" \
             data/games.json data/meta.json data/fetch_queue.json \
             docs/data/games-active.json docs/data/games-expired.json docs/data/details \
             docs/data/meta.json docs/feed.xml docs/games docs/sitemap.xml

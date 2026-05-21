@@ -32,12 +32,12 @@ Every **6 hours**, the site automatically refreshes its game list from Steam. Yo
 - **Shareable links** — filter state and game modal sync to the URL; copy link preserves filters
 - **Per-game pages** — `/games/{app_id}/` for OG/SEO previews (redirects to the main app)
 - **Quick filters** — click the stat cards at the top to jump to all deals, free games, or sales
-- **Game details** — click a card to open a modal with full description, genres, features, languages, and price
+- **Game details** — click a card to open a modal with Steam store widget, full description, genres, features, languages, and price
 - **Accessibility** — modal focus trap, keyboard navigation, localized close labels
 - **Languages** — UI available in English, Traditional Chinese, Simplified Chinese, Japanese, and Korean
 - **Currency** — independently choose display currency: USD, HKD, TWD, CNY, JPY, or KRW (uses Steam regional prices when available, otherwise daily exchange rates)
 - **Theme** — follows your browser light/dark mode automatically
-- **Prices** — shown in your selected currency; Steam regional prices are preferred when available, with daily exchange-rate fallback
+- **Prices** — shown in your selected currency; Steam regional prices are preferred when available, with daily exchange-rate fallback marked **(approx.)** on paid deals when Steam data is still missing (not shown for free games)
 - **PWA** — installable on mobile/desktop; network-first app shell with cached data fallback
 - **RSS feed** — subscribe at [feed.xml](https://steam-deals.henrylok.me/feed.xml) for free games and newly added sales
 
@@ -81,15 +81,19 @@ A link is also available in the site footer.
 
 Deal data comes from public Steam store APIs.
 
-| Schedule           | Job                  | Purpose                                               |
-| ------------------ | -------------------- | ----------------------------------------------------- |
-| Every 6 hours      | `update-games.yml`   | Refresh active deals (quick mode)                     |
-| Daily at 03:00 UTC | `backfill-games.yml` | Fill in missing regional prices and HTML descriptions |
-| Daily at 04:00 & 16:00 UTC | `update-exchange-rates.yml` | Fetch USD exchange rates for HKD/TWD/CNY/JPY/KRW |
+| Schedule | Job | Purpose |
+| -------- | --- | ------- |
+| Every 6 hours (UTC 0, 6, 12, 18) | `update-games.yml` | Refresh active deals (`--mode=quick`) |
+| Daily at 03:00 & 15:00 UTC | `backfill-games.yml` | Fill regional Steam prices (`--mode=backfill-prices`, up to 200 games per run) |
+| Daily at 04:00 & 16:00 UTC | `update-exchange-rates.yml` | Fetch USD exchange rates for HKD/TWD/CNY/JPY/KRW (fallback only) |
+
+**Regional price keys** stored per game: USD (`en`), HKD, TWD (`zh-Hant`), CNY (`zh-Hans`), JPY (`ja`), KRW (`ko`). When all keys are present, site prices match Steam; otherwise exchange rates are used until the next backfill.
 
 - **Last updated** time is shown on the site homepage
+- **`price_backfill_pending`** in `docs/data/meta.json` tracks games still missing regional Steam prices
 - Active deals load from `docs/data/games-active.json` (~800KB list payload); modal descriptions lazy-load from `docs/data/details/{app_id}.json`
 - Per-game static pages and `sitemap.xml` are regenerated after each data update
+- Manual full metadata backfill (descriptions + prices): `python scripts/fetch_games.py --mode=backfill`
 
 ---
 
@@ -100,10 +104,12 @@ When releasing frontend changes, keep these in sync:
 | File | What to bump |
 | ---- | ------------ |
 | `docs/index.html` | `styles.css?v=` and `app.js?v=` query strings |
-| `docs/app.js` | `i18n.js?v=`, `labels.js?v=`, `focus-trap.js?v=` imports |
+| `docs/app.js` | `i18n.js?v=`, `labels.js?v=`, `sanitize.js?v=`, `focus-trap.js?v=` imports |
 | `docs/sw.js` | `CACHE_VERSION` (e.g. `steam-deals-v4`) |
 | `docs/app.js` | `registerServiceWorker("./sw.js?v=4")` |
 | `docs/icons/og-image.png` | Replace file and bump `?v=` on `og:image` / `twitter:image` in `index.html` |
+
+Current examples: `styles.css?v=10`, `app.js?v=23`, `i18n.js?v=10`.
 
 ---
 

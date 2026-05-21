@@ -6,7 +6,7 @@ import {
   SUPPORTED_CURRENCIES,
   SUPPORTED_LANGUAGES,
   t,
-} from "./i18n.js?v=9";
+} from "./i18n.js?v=10";
 import {
   allGenreSearchTerms,
   allLanguageSearchTerms,
@@ -54,7 +54,7 @@ const DEFAULT_FILTERS = {
 
 const CURRENCY_CONFIG = {
   USD: { steamKey: "en", locale: "en-US", zeroDecimal: false },
-  HKD: { steamKey: null, locale: "zh-HK", zeroDecimal: false },
+  HKD: { steamKey: "HKD", locale: "zh-HK", zeroDecimal: false },
   TWD: { steamKey: "zh-Hant", locale: "zh-TW", zeroDecimal: false },
   CNY: { steamKey: "zh-Hans", locale: "zh-CN", zeroDecimal: false },
   JPY: { steamKey: "ja", locale: "ja-JP", zeroDecimal: true },
@@ -420,6 +420,16 @@ function formatMaxPriceFilterLabel() {
   });
 }
 
+function hasSteamRegionalPrice(game, steamKey) {
+  const native = steamKey ? game.prices?.[steamKey] : null;
+  return Boolean(native && (native.final != null || native.original != null));
+}
+
+function usesExchangeFallback(game) {
+  const config = CURRENCY_CONFIG[state.currency] || CURRENCY_CONFIG.USD;
+  return !hasSteamRegionalPrice(game, config.steamKey);
+}
+
 function getGamePrice(game) {
   const config = CURRENCY_CONFIG[state.currency] || CURRENCY_CONFIG.USD;
   const native = config.steamKey ? game.prices?.[config.steamKey] : null;
@@ -429,6 +439,7 @@ function getGamePrice(game) {
       currency: native.currency || state.currency,
       original: native.original ?? null,
       final: native.final ?? null,
+      estimated: false,
     };
   }
 
@@ -437,6 +448,7 @@ function getGamePrice(game) {
     currency: state.currency,
     original: convertFromUsdCents(usdPrice?.original ?? game.original_price, state.currency),
     final: convertFromUsdCents(usdPrice?.final ?? game.final_price, state.currency),
+    estimated: true,
   };
 }
 
@@ -861,6 +873,7 @@ function renderReviewLine(game) {
 
 function renderPriceLine(game) {
   const price = getGamePrice(game);
+  const estimatedSuffix = price.estimated ? ` ${t(state.lang, "priceEstimated")}` : "";
 
   if (game.offer_type === "free") {
     const parts = [t(state.lang, "freeNow")];
@@ -879,7 +892,7 @@ function renderPriceLine(game) {
   if (price.final || price.final === 0) {
     parts.push(t(state.lang, "salePrice", { price: formatPrice(price.final) }));
   }
-  return parts.join(" · ");
+  return `${parts.join(" · ")}${estimatedSuffix}`;
 }
 
 function buildCardNode(game, compact = false) {

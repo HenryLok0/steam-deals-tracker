@@ -29,6 +29,7 @@ BACKFILL_REQUEST_DELAY = 2.0
 RATE_LIMIT_BACKOFF = 3.0
 RATE_LIMIT_MAX_PENALTY = 20.0
 BACKFILL_LIMIT = 160
+BACKFILL_PRICES_LIMIT = 200
 _rate_limit_penalty = 0.0
 PROMO_SECTIONS = ("specials", "dailyDeal", "spotlight")
 DETAIL_KEYS = ("detailed_descriptions", "detailed_descriptions_html")
@@ -50,9 +51,10 @@ LOCALIZED_DESCRIPTIONS = {
     "ko": [("korean", "koreana")],
 }
 
-# UI language -> (Steam country code, default currency)
+# UI language / currency key -> (Steam country code, default currency)
 PRICE_REGIONS = {
     "en": ("US", "USD"),
+    "HKD": ("HK", "HKD"),
     "zh-Hant": ("TW", "TWD"),
     "zh-Hans": ("CN", "CNY"),
     "ja": ("JP", "JPY"),
@@ -830,6 +832,16 @@ def count_backfill_pending(games: list[dict]) -> int:
     return sum(1 for game in games if needs_backfill(game))
 
 
+def count_price_backfill_pending(games: list[dict]) -> int:
+    return sum(1 for game in games if needs_regional_prices(game))
+
+
+def backfill_prices_priority(app_id: int, game: dict) -> tuple[int, str]:
+    if game.get("is_active"):
+        return (0, game.get("name", ""))
+    return (1, game.get("name", ""))
+
+
 def needs_expiration(game: dict) -> bool:
     return bool(game.get("is_active")) and not game.get("discount_expiration")
 
@@ -932,6 +944,7 @@ def compute_meta(games: list[dict], now: str) -> dict:
         "new_today_count": new_today,
         "new_free_today": new_free_today,
         "backfill_pending": count_backfill_pending(games),
+        "price_backfill_pending": count_price_backfill_pending(games),
         "expiration_coverage": expiration_coverage,
         "expiration_backfill_pending": sum(
             1 for g in active_games if not g.get("discount_expiration")
@@ -1052,6 +1065,66 @@ def _run_backfill(existing_games: dict[str, dict], now: str) -> int:
     return 0
 
 
+def run_backfill_prices(existing_games: dict[str, dict], now: str) -> int:
+    global REQUEST_DELAY
+    previous_delay = REQUEST_DELAY
+    REQUEST_DELAY = BACKFILL_REQUEST_DELAY
+    try:
+        return _run_backfill_prices(existing_games, now)
+    finally:
+        REQUEST_DELAY = previous_delay
+
+
+def _run_backfill_prices(existing_games: dict[str, dict], now: str) -> int:
+    region_keys = ", ".join(PRICE_REGIONS.keys())
+    print(f"[info] Price backfill targets: {region_keys}")
+
+    candidates: list[int] = []
+    for app_id_str, game in existing_games.items():
+        if needs_regional_prices(game):
+            candidates.append(int(app_id_str))
+
+    candidates.sort(
+        key=lambda app_id: backfill_prices_priority(
+            app_id,
+            existing_games.get(str(app_id), {}),
+        )
+    )
+
+    processed = 0
+    for app_id in candidates[:BACKFILL_PRICES_LIMIT]:
+        previous = existing_games.get(str(app_id))
+        if not previous:
+            continue
+
+        data = fetch_app_details(app_id)
+        time.sleep(REQUEST_DELAY)
+        if not data:
+            add_to_queue(app_id)
+            continue
+
+        prices = fetch_regional_prices(app_id, data, previous, previous, enrich=True)
+        en_price = prices.get("en") or {}
+        previous.update(
+            {
+                "prices": prices,
+                "final_price": int(en_price.get("final", previous.get("final_price") or 0)),
+                "original_price": int(
+                    en_price.get("original", previous.get("original_price") or 0)
+                ),
+                "updated_at": now,
+            }
+        )
+        existing_games[str(app_id)] = previous
+        remove_from_queue(app_id)
+        processed += 1
+
+    save_outputs(existing_games, now)
+    pending = count_price_backfill_pending(list(existing_games.values()))
+    print(f"[info] Price backfill processed {processed} games ({pending} still pending)")
+    return 0
+
+
 def run_quick(existing_games: dict[str, dict], now: str) -> int:
     free_search = fetch_search_games({"query": "", "specials": "1", "maxprice": "free"})
     sale_search = fetch_search_games({"query": "", "specials": "1"}, max_results=MAX_SALE_RESULTS)
@@ -1152,9 +1225,13 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Fetch Steam deals data")
     parser.add_argument(
         "--mode",
-        choices=("quick", "backfill"),
+        choices=("quick", "backfill", "backfill-prices"),
         default="quick",
-        help="quick: refresh active deals; backfill: enrich cached games",
+        help=(
+            "quick: refresh active deals; "
+            "backfill: enrich cached games; "
+            "backfill-prices: fill regional Steam prices only"
+        ),
     )
     args = parser.parse_args()
 
@@ -1168,6 +1245,9 @@ def main() -> int:
 
     if args.mode == "backfill":
         return run_backfill(existing_games, now)
+
+    if args.mode == "backfill-prices":
+        return run_backfill_prices(existing_games, now)
 
     return run_quick(existing_games, now)
 
