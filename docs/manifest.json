@@ -1,7 +1,7 @@
 {
   "name": "Steam Deals Tracker",
   "short_name": "Steam Deals",
-  "description": "Track temporarily free and discounted Steam games.",
+  "description": "Find temporarily free Steam games and limited-time discounts, updated every 6 hours.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0b1118",

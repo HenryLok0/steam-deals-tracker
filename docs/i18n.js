@@ -20,7 +20,7 @@ export const CURRENCY_LABELS = {
 
 export const TRANSLATIONS = {
   en: {
-    pageTitle: "Steam Deals Tracker",
+    pageTitle: "Steam Deals Tracker — Free & Discounted Steam Games",
     pageDescription: "Track temporarily free and discounted Steam games.",
     eyebrow: "Auto-updated from GitHub",
     title: "Steam Deals Tracker",

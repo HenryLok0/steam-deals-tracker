@@ -3,25 +3,30 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Steam Deals Tracker</title>
+    <title>Steam Deals Tracker — Free &amp; Discounted Steam Games</title>
     <meta
       name="description"
-      content="Track temporarily free and discounted Steam games. Updated every 6 hours."
+      content="Find temporarily free Steam games and limited-time discounts. Search, filter, and track deals updated every 6 hours."
     />
+    <meta name="robots" content="index,follow,max-image-preview:large" />
+    <meta name="author" content="Henry Lok" />
     <link rel="canonical" href="https://steam-deals.henrylok.me/" />
+    <link rel="author" href="https://henrylok.me/" />
     <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Steam Deals Tracker" />
+    <meta property="og:locale" content="en_US" />
     <meta property="og:url" content="https://steam-deals.henrylok.me/" />
-    <meta property="og:title" content="Steam Deals Tracker" />
+    <meta property="og:title" content="Steam Deals Tracker — Free &amp; Discounted Steam Games" />
     <meta
       property="og:description"
-      content="Track temporarily free and discounted Steam games. Updated every 6 hours."
+      content="Find temporarily free Steam games and limited-time discounts. Search, filter, and track deals updated every 6 hours."
     />
     <meta property="og:image" content="https://steam-deals.henrylok.me/icons/og-image.png?v=2" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Steam Deals Tracker" />
+    <meta name="twitter:title" content="Steam Deals Tracker — Free &amp; Discounted Steam Games" />
     <meta
       name="twitter:description"
-      content="Track temporarily free and discounted Steam games."
+      content="Find temporarily free Steam games and limited-time discounts updated every 6 hours."
     />
     <meta name="twitter:image" content="https://steam-deals.henrylok.me/icons/og-image.png?v=2" />
     <meta name="theme-color" content="#1b76c9" />
@@ -33,10 +38,46 @@
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "Steam Deals Tracker",
-        "alternateName": "Steam Deals",
-        "url": "https://steam-deals.henrylok.me/"
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://steam-deals.henrylok.me/#website",
+            "name": "Steam Deals Tracker",
+            "alternateName": ["Steam Deals", "Steam Free Games Tracker"],
+            "url": "https://steam-deals.henrylok.me/",
+            "description": "Track temporarily free Steam games and limited-time discounts.",
+            "publisher": { "@id": "https://steam-deals.henrylok.me/#organization" },
+            "inLanguage": "en",
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://steam-deals.henrylok.me/?q={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://steam-deals.henrylok.me/#organization",
+            "name": "Steam Deals Tracker",
+            "url": "https://steam-deals.henrylok.me/",
+            "logo": "https://steam-deals.henrylok.me/icons/icon-512.png"
+          },
+          {
+            "@type": "WebApplication",
+            "name": "Steam Deals Tracker",
+            "url": "https://steam-deals.henrylok.me/",
+            "applicationCategory": "UtilitiesApplication",
+            "operatingSystem": "Any",
+            "description": "Track temporarily free Steam games and limited-time discounts.",
+            "offers": {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
       }
     </script>
     <link
@@ -54,6 +95,12 @@
     <link rel="stylesheet" href="styles.css?v=10" />
   </head>
   <body>
+    <noscript>
+      <p>
+        Steam Deals Tracker lists temporarily free Steam games and limited-time discounts,
+        updated every 6 hours. Enable JavaScript to search, filter, and open deal details.
+      </p>
+    </noscript>
     <div class="page">
       <header class="hero">
         <div class="hero-top">
