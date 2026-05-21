@@ -51,7 +51,7 @@
       href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="styles.css?v=9" />
+    <link rel="stylesheet" href="styles.css?v=10" />
   </head>
   <body>
     <div class="page">
@@ -314,6 +314,17 @@
             <p id="modal-price" class="price-line"></p>
           </div>
         </div>
+        <section class="modal-steam-widget-section" aria-label="Steam Store">
+          <iframe
+            id="modal-steam-widget"
+            title="Steam Store Widget"
+            loading="lazy"
+            frameborder="0"
+            width="100%"
+            height="190"
+            scrolling="no"
+          ></iframe>
+        </section>
         <div class="modal-body">
           <section class="modal-section">
             <h3 data-i18n="modalFullDescription">About this game</h3>
@@ -342,7 +353,6 @@
           <button type="button" class="modal-copy-link" id="modal-copy-link" data-i18n="copyLink">
             Copy link
           </button>
-          <a id="modal-steam-link" class="modal-steam-link" target="_blank" rel="noreferrer"></a>
         </div>
       </div>
     </div>
@@ -385,6 +395,6 @@
       </article>
     </template>
 
-    <script type="module" src="app.js?v=20"></script>
+    <script type="module" src="app.js?v=21"></script>
   </body>
 </html>

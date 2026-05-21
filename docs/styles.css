@@ -716,6 +716,19 @@ body {
   font-size: 0.88rem;
 }
 
+.modal-steam-widget-section {
+  padding: 0 20px 16px;
+}
+
+.modal-steam-widget-section iframe {
+  display: block;
+  width: 100%;
+  min-height: 190px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: #1b2838;
+}
+
 .modal-footer {
   padding: 0 20px 20px;
   display: grid;

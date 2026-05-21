@@ -85,7 +85,7 @@ Deal data comes from public Steam store APIs.
 | ------------------ | -------------------- | ----------------------------------------------------- |
 | Every 6 hours      | `update-games.yml`   | Refresh active deals (quick mode)                     |
 | Daily at 03:00 UTC | `backfill-games.yml` | Fill in missing regional prices and HTML descriptions |
-| Daily at 04:00 UTC | `update-exchange-rates.yml` | Fetch USD exchange rates for HKD/TWD/CNY/JPY/KRW |
+| Daily at 04:00 & 16:00 UTC | `update-exchange-rates.yml` | Fetch USD exchange rates for HKD/TWD/CNY/JPY/KRW |
 
 - **Last updated** time is shown on the site homepage
 - Active deals load from `docs/data/games-active.json` (~800KB list payload); modal descriptions lazy-load from `docs/data/details/{app_id}.json`

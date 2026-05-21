@@ -137,7 +137,7 @@ const elements = {
   modalRelease: document.getElementById("modal-release"),
   modalAdded: document.getElementById("modal-added"),
   modalExpires: document.getElementById("modal-expires"),
-  modalSteamLink: document.getElementById("modal-steam-link"),
+  modalSteamWidget: document.getElementById("modal-steam-widget"),
   modalCopyLink: document.getElementById("modal-copy-link"),
   modalFavorite: document.getElementById("modal-favorite"),
   modalDealBar: document.getElementById("modal-deal-bar"),
@@ -723,6 +723,34 @@ async function loadGameDetail(appId) {
   }
 }
 
+const STEAM_WIDGET_LOCALES = {
+  "zh-Hant": "tchinese",
+  "zh-Hans": "schinese",
+  ja: "japanese",
+  ko: "koreana",
+};
+
+function buildSteamWidgetUrl(appId) {
+  const params = new URLSearchParams({
+    utm_source: "steam-deals-tracker",
+    utm_campaign: "game-modal",
+  });
+  const locale = STEAM_WIDGET_LOCALES[state.lang];
+  if (locale) params.set("l", locale);
+  return `https://store.steampowered.com/widget/${appId}/?${params.toString()}`;
+}
+
+function updateSteamWidget(game) {
+  if (!elements.modalSteamWidget) return;
+  elements.modalSteamWidget.title = t(state.lang, "steamWidgetTitle");
+  elements.modalSteamWidget.src = buildSteamWidgetUrl(game.app_id);
+}
+
+function clearSteamWidget() {
+  if (!elements.modalSteamWidget) return;
+  elements.modalSteamWidget.src = "about:blank";
+}
+
 function renderModalDescription(game) {
   const descriptionHtml = getGameDetailedDescriptionHtml(game);
   if (descriptionHtml) {
@@ -1222,8 +1250,7 @@ async function openGameModal(game) {
   elements.modalExpires.classList.toggle("hidden", !countdown);
   elements.modalExpires.classList.toggle("ending-soon", isEndingSoon(game.discount_expiration));
 
-  elements.modalSteamLink.href = game.steam_url;
-  elements.modalSteamLink.textContent = t(state.lang, "openSteam");
+  updateSteamWidget(game);
   elements.modalCopyLink.textContent = t(state.lang, "copyLink");
 
   elements.modal.classList.remove("hidden");
@@ -1247,6 +1274,7 @@ function closeGameModal() {
   state.releaseFocusTrap?.();
   state.releaseFocusTrap = null;
   state.selectedGame = null;
+  clearSteamWidget();
 
   elements.modal.classList.add("hidden");
   elements.modal.setAttribute("aria-hidden", "true");
