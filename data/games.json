@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T14:46:29+00:00",
+  "updated_at": "2026-05-22T17:02:20+00:00",
   "total_count": 606,
   "active_count": 349,
   "games": [
@@ -12266,6 +12266,31 @@
           "currency": "USD",
           "original": 999,
           "final": 249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7800,
+          "final": 1950
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 31000,
+          "final": 7700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3700,
+          "final": 925
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 30000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1480000,
+          "final": 370000
         }
       },
       "review_hint": "Mixed<br>45% of the 577 user reviews for this game are positive.",
@@ -12280,7 +12305,7 @@
       "search_text": "killer inn killer inn killer inn is a fast-paced asymmetrical pvp shooter where you eliminate the killers (the wolves) in battle—no time for discussion or voting! choose the right weapons, abilities, and build. gather clues, identify the wolves, then take them down with force! action casual massively multiplayer early access multi-player pvp online pvp co-op online co-op steam trading cards in-app purchases camera comfort custom volume controls playable without timed input stereo sound subtitle options surround sound partial controller support family sharing english french italian german spanish-spain japanese korean portuguese-brazil russian schinese spanish-latin tchinese mixed mixed<br>45% of the 577 user reviews for this game are positive.",
       "first_seen": "2026-05-22T09:34:05+00:00",
       "last_seen": "2026-05-22T14:46:29+00:00",
-      "updated_at": "2026-05-22T14:46:29+00:00"
+      "updated_at": "2026-05-22T17:02:20+00:00"
     },
     {
       "app_id": 232090,
@@ -18171,6 +18196,31 @@
           "currency": "USD",
           "original": 999,
           "final": 199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7500,
+          "final": 1500
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27800,
+          "final": 5500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3600,
+          "final": 720
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 98000,
+          "final": 19600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 210000
         }
       },
       "review_hint": "Very Positive<br>93% of the 14,876 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -18185,7 +18235,7 @@
       "search_text": "risk of rain (2013) risk of rain (2013) risk of rain is an action platformer with roguelike elements. with permanent death as a primary feature, players will have to play their best to get as far as possible. fight on a mysterious planet with randomly spawning enemies and bosses, either alone or with 3 friends in online co-op. action indie rpg single-player multi-player co-op shared/split screen steam achievements steam trading cards adjustable text size custom volume controls adjustable difficulty keyboard only option playable without timed input stereo sound partial controller support remote play on tablet remote play together family sharing english very positive very positive<br>93% of the 14,876 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-22T09:34:05+00:00",
       "last_seen": "2026-05-22T14:46:29+00:00",
-      "updated_at": "2026-05-22T14:46:29+00:00"
+      "updated_at": "2026-05-22T17:02:20+00:00"
     },
     {
       "app_id": 632360,
@@ -23191,6 +23241,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9600,
+          "final": 7680
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 32600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8000,
+          "final": 6400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 224000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 2160000
         }
       },
       "review_hint": "Very Positive<br>93% of the 1,248 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -23205,7 +23280,7 @@
       "search_text": "sultan's game sultan's game survive a mad sultan's reign in this brutal resource management rpg. draw a card every seven days and complete its challenge. make dreadful choices to stay alive: will you die a loyal servant, become a kingslayer, or call down the gods' judgement? adventure indie rpg simulation strategy single-player steam achievements full controller support steam trading cards steam workshop steam cloud family sharing english schinese japanese tchinese very positive very positive<br>93% of the 1,248 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-22T09:34:05+00:00",
       "last_seen": "2026-05-22T14:46:29+00:00",
-      "updated_at": "2026-05-22T14:46:29+00:00"
+      "updated_at": "2026-05-22T17:02:20+00:00"
     },
     {
       "app_id": 2414270,
@@ -25429,6 +25504,31 @@
           "currency": "USD",
           "original": 1099,
           "final": 989
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 5940
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29800,
+          "final": 26800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7526,
+          "final": 6773
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 143000,
+          "final": 128700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1250000,
+          "final": 1125000
         }
       },
       "review_hint": "Positive<br>100% of the 25 user reviews for this game are positive.",
@@ -25443,7 +25543,7 @@
       "search_text": "the rebirth tale of broken horn demon lord alice the rebirth tale of broken horn demon lord alice to exact revenge on the brave, the reckless demon lord alice, after her rebirth, decides to proceed cautiously, step by step. to weaken the brave's forces, she must defeat the four sages and expand her territory. adventure casual indie rpg single-player steam achievements steam cloud family sharing japanese english schinese tchinese 8 user reviews positive<br>100% of the 25 user reviews for this game are positive.",
       "first_seen": "2026-05-22T14:46:29+00:00",
       "last_seen": "2026-05-22T14:46:29+00:00",
-      "updated_at": "2026-05-22T14:46:29+00:00"
+      "updated_at": "2026-05-22T17:02:20+00:00"
     },
     {
       "app_id": 750130,
@@ -31162,6 +31262,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1049
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 6650
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 18700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7250,
+          "final": 5075
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 119000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 1155000
         }
       },
       "review_hint": "Positive<br>84% of the 45 user reviews for this game are positive.",
@@ -31176,7 +31301,7 @@
       "search_text": "warhammer 40,000: battlesector - orks warhammer 40,000: battlesector - orks the most warlike race in the galaxy, orks live for the joy of battle and are always chasing their next big waaagh! they arrive in warhammer 40,000: battlesector with fifteen super-killy units that are all armed to da teef and overflowing with dakka! strategy single-player multi-player pvp online pvp shared/split screen pvp shared/split screen downloadable content steam achievements steam cloud remote play together family sharing english french german spanish-spain polish portuguese-brazil russian schinese korean positive positive<br>84% of the 45 user reviews for this game are positive.",
       "first_seen": "2026-05-22T09:34:05+00:00",
       "last_seen": "2026-05-22T14:46:29+00:00",
-      "updated_at": "2026-05-22T14:46:29+00:00"
+      "updated_at": "2026-05-22T17:02:20+00:00"
     },
     {
       "app_id": 2583910,
@@ -31238,6 +31363,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1049
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 6650
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 18700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 4060
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 119000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 1155000
         }
       },
       "review_hint": "Mixed<br>66% of the 60 user reviews for this game are positive.",
@@ -31252,7 +31402,7 @@
       "search_text": "warhammer 40,000: battlesector - t'au warhammer 40,000: battlesector - t'au the young and technologically-advanced race is the latest playable faction in warhammer 40,000: battlesector. fourteen new units are available to extend the greater good to all the species of the galaxy. strategy single-player multi-player pvp online pvp shared/split screen pvp shared/split screen downloadable content steam achievements partial controller support steam cloud remote play together family sharing english french german spanish-spain polish portuguese-brazil russian schinese korean mixed mixed<br>66% of the 60 user reviews for this game are positive.",
       "first_seen": "2026-05-22T14:46:29+00:00",
       "last_seen": "2026-05-22T14:46:29+00:00",
-      "updated_at": "2026-05-22T14:46:29+00:00"
+      "updated_at": "2026-05-22T17:02:20+00:00"
     },
     {
       "app_id": 2005010,
@@ -32972,6 +33122,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 5700
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 16000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7250,
+          "final": 4350
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 102000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 990000
         }
       },
       "review_hint": "Very Positive<br>86% of the 82 user reviews for this game are positive.",
@@ -32986,7 +33161,7 @@
       "search_text": "warhammer 40,000: gladius - chaos space marines warhammer 40,000: gladius - chaos space marines warhammer 40,000: gladius is back with a new playable faction, the chaos space marines.fueled by their hatred for the imperium, they will stop at nothing before they exact their revenge. fielding hellish machines, wielding warp powers and possessing the experience of a thousand wars, these ancient warriors are ready to conquer gladius... strategy single-player multi-player pvp online pvp shared/split screen pvp co-op online co-op shared/split screen co-op shared/split screen cross-platform multiplayer downloadable content steam achievements steam trading cards steam cloud family sharing english german spanish-spain russian schinese french very positive very positive<br>86% of the 82 user reviews for this game are positive.",
       "first_seen": "2026-05-22T14:46:29+00:00",
       "last_seen": "2026-05-22T14:46:29+00:00",
-      "updated_at": "2026-05-22T14:46:29+00:00"
+      "updated_at": "2026-05-22T17:02:20+00:00"
     },
     {
       "app_id": 2932380,
@@ -33054,6 +33229,31 @@
           "currency": "USD",
           "original": 999,
           "final": 749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 4950
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 14100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 3150
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 90000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 825000
         }
       },
       "review_hint": "Mostly Positive<br>70% of the 30 user reviews for this game are positive.",
@@ -33068,7 +33268,7 @@
       "search_text": "warhammer 40,000: gladius - demolition pack warhammer 40,000: gladius - demolition pack 11 new units are ready to enter the battle for gladius prime with the demolition pack!these new units are ready to demolish all the enemies’ defenses and they will give you more new strategic options. strategy single-player multi-player pvp online pvp lan pvp shared/split screen pvp co-op online co-op lan co-op shared/split screen co-op shared/split screen cross-platform multiplayer downloadable content steam achievements steam trading cards steam workshop partial controller support steam cloud remote play together family sharing english german spanish-spain russian schinese french mixed mostly positive<br>70% of the 30 user reviews for this game are positive.",
       "first_seen": "2026-05-22T14:46:29+00:00",
       "last_seen": "2026-05-22T14:46:29+00:00",
-      "updated_at": "2026-05-22T14:46:29+00:00"
+      "updated_at": "2026-05-22T17:02:20+00:00"
     },
     {
       "app_id": 2668040,
@@ -33243,6 +33443,31 @@
           "currency": "USD",
           "original": 699,
           "final": 594
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4600,
+          "final": 3910
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 13800,
+          "final": 11700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2900,
+          "final": 2465
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 80000,
+          "final": 68000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 780000,
+          "final": 663000
         }
       },
       "review_hint": "Mostly Positive<br>74% of the 35 user reviews for this game are positive.",
@@ -33257,7 +33482,7 @@
       "search_text": "warhammer 40,000: gladius - onslaught pack warhammer 40,000: gladius - onslaught pack deploy 8 brand-new units with the onslaught pack on the battlefields of gladius prime.  the new units will bring a new offensive layer and will unlock new strategic options for commanders. strategy single-player multi-player pvp online pvp lan pvp shared/split screen pvp co-op online co-op lan co-op shared/split screen co-op shared/split screen cross-platform multiplayer downloadable content steam achievements steam trading cards steam workshop partial controller support steam cloud remote play together family sharing english german spanish-spain russian schinese french positive mostly positive<br>74% of the 35 user reviews for this game are positive.",
       "first_seen": "2026-05-22T09:34:05+00:00",
       "last_seen": "2026-05-22T14:46:29+00:00",
-      "updated_at": "2026-05-22T14:46:29+00:00"
+      "updated_at": "2026-05-22T17:02:20+00:00"
     },
     {
       "app_id": 4084640,
@@ -33536,6 +33761,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 824
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 5225
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 14700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7250,
+          "final": 3987
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 93500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 907000
         }
       },
       "review_hint": "Very Positive<br>92% of the 124 user reviews for this game are positive.",
@@ -33550,7 +33800,7 @@
       "search_text": "warhammer 40,000: gladius - t'au warhammer 40,000: gladius - t'au the t’au empire joins the fight for the domination of gladius prime. driven by a constant ambition to expand and spread the word of the greater good across the galaxy, they will seek to assimilate or eliminate all the other opposition races on the planet. strategy single-player multi-player pvp online pvp lan pvp shared/split screen pvp co-op online co-op lan co-op shared/split screen co-op shared/split screen cross-platform multiplayer downloadable content steam achievements steam trading cards steam cloud remote play together family sharing english german spanish-spain russian schinese french very positive very positive<br>92% of the 124 user reviews for this game are positive.",
       "first_seen": "2026-05-22T09:34:05+00:00",
       "last_seen": "2026-05-22T14:46:29+00:00",
-      "updated_at": "2026-05-22T14:46:29+00:00"
+      "updated_at": "2026-05-22T17:02:20+00:00"
     },
     {
       "app_id": 995860,
@@ -35779,6 +36029,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 6250
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 31800,
+          "final": 15900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7000,
+          "final": 3500
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 205000,
+          "final": 102500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 1075000
         }
       },
       "review_hint": "Mostly Negative<br>33% of the 1,307 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -35793,7 +36068,7 @@
       "search_text": "warhammer: vermintide 2 - winds of magic warhammer: vermintide 2 - winds of magic the first expansion for warhammer: vermintide 2 brings a brand new enemy faction and new challenges to the game. as a meteor crashes down in the reikland, the beastmen emerge from the depths of the reikwald forest and rush to the epicenter to claim it as a herdstone. action single-player multi-player co-op online co-op downloadable content steam achievements steam trading cards partial controller support family sharing english french italian german spanish-spain polish portuguese-brazil russian schinese mostly negative mostly negative<br>33% of the 1,307 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-22T14:46:29+00:00",
       "last_seen": "2026-05-22T14:46:29+00:00",
-      "updated_at": "2026-05-22T14:46:29+00:00"
+      "updated_at": "2026-05-22T17:02:20+00:00"
     },
     {
       "app_id": 307110,
@@ -58831,6 +59106,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 3750
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 9800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6800,
+          "final": 2040
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 69000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 645000
         }
       },
       "review_hint": "Very Positive<br>100% of the 89 user reviews for this game are positive.",
@@ -58845,7 +59145,7 @@
       "search_text": "the outlast trials - sweet release pack the outlast trials - sweet release pack because candy is dandy, the sweet release pack contains a set of 8 legendary outfits that may or may not come with gumdrop buttons, cell items that will rot your teeth, cell posters that will make any candy man jealous, sweet player icons and an e.s.o.p. action adventure indie single-player multi-player co-op online co-op downloadable content full controller support family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese spanish-latin turkish tchinese positive very positive<br>100% of the 89 user reviews for this game are positive.",
       "first_seen": "2026-05-22T09:34:05+00:00",
       "last_seen": "2026-05-22T14:46:29+00:00",
-      "updated_at": "2026-05-22T14:46:29+00:00"
+      "updated_at": "2026-05-22T17:02:20+00:00"
     },
     {
       "app_id": 624270,
