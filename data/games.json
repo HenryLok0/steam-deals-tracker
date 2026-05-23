@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T13:43:32+00:00",
+  "updated_at": "2026-05-23T15:54:24+00:00",
   "total_count": 636,
   "active_count": 349,
   "games": [
@@ -427,6 +427,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 1039
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7200,
+          "final": 5760
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18200,
+          "final": 14500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3900,
+          "final": 3120
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 220000,
+          "final": 176000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 840000
         }
       },
       "review_hint": "Positive<br>80% of the 10 user reviews for this game are positive.",
@@ -441,7 +466,7 @@
       "search_text": "afternoon affairs & helpless housewives afternoon affairs & helpless housewives takumi nakama is out of luck. he failed his college entrance exams and doesn't have the motivation to look for a job. after his parents give him an old, run-down apartment building to manage, he meets two ladies living there, both with troubles of their own... rpg single-player steam cloud family sharing english japanese schinese 1 user reviews positive<br>80% of the 10 user reviews for this game are positive.",
       "first_seen": "2026-05-23T13:43:32+00:00",
       "last_seen": "2026-05-23T13:43:32+00:00",
-      "updated_at": "2026-05-23T13:43:32+00:00"
+      "updated_at": "2026-05-23T15:54:24+00:00"
     },
     {
       "app_id": 2706020,
@@ -3730,6 +3755,31 @@
           "currency": "USD",
           "original": 999,
           "final": 849
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 5610
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 15900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 3570
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 102000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 935000
         }
       },
       "review_hint": "Positive<br>100% of the 10 user reviews for this game are positive.",
@@ -3744,7 +3794,7 @@
       "search_text": "blind box shop simulator blind box shop simulator open your own blind box store in the anime city of akihabara. stock the shelves with the latest blind boxes, or unbox them to collect rare hidden editions. create a trendy blind box shop that attracts customers and expands your business. casual simulation single-player steam achievements custom volume controls keyboard only option mouse only option playable without timed input stereo sound steam cloud family sharing english french italian german spanish-spain danish russian hungarian turkish czech japanese polish schinese romanian finnish dutch portuguese-brazil portuguese---portugal korean lithuanian 7 user reviews positive<br>100% of the 10 user reviews for this game are positive.",
       "first_seen": "2026-05-23T08:23:58+00:00",
       "last_seen": "2026-05-23T13:43:32+00:00",
-      "updated_at": "2026-05-23T13:43:32+00:00"
+      "updated_at": "2026-05-23T15:54:24+00:00"
     },
     {
       "app_id": 1016950,
@@ -3909,6 +3959,31 @@
           "currency": "USD",
           "original": 599,
           "final": 539
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3600,
+          "final": 3240
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 13600,
+          "final": 12200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2600,
+          "final": 2340
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 79000,
+          "final": 71100
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 670000,
+          "final": 603000
         }
       },
       "review_hint": "Positive<br>82% of the 29 user reviews for this game are positive.",
@@ -3923,7 +3998,7 @@
       "search_text": "blood high! blood high! a vampire cursed to live with head and body separated. shoot blood as ammo, execute enemies with your flying head, and survive. overflow your hp to unleash blood high mode! dive into hardcore, over-the-top boomer shooter action soaked in blood. action single-player steam achievements custom volume controls adjustable difficulty playable without timed input partial controller support steam cloud steam leaderboards family sharing english korean japanese schinese positive positive<br>82% of the 29 user reviews for this game are positive.",
       "first_seen": "2026-05-23T08:23:58+00:00",
       "last_seen": "2026-05-23T13:43:32+00:00",
-      "updated_at": "2026-05-23T13:43:32+00:00"
+      "updated_at": "2026-05-23T15:54:24+00:00"
     },
     {
       "app_id": 2078350,
@@ -36070,6 +36145,31 @@
           "currency": "USD",
           "original": 799,
           "final": 87
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4500,
+          "final": 495
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15200,
+          "final": 1600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3200,
+          "final": 352
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 82000,
+          "final": 9000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 850000,
+          "final": 93000
         }
       },
       "review_hint": "Mostly Positive<br>76% of the 34 user reviews for this game are positive.",
@@ -36084,7 +36184,7 @@
       "search_text": "witchaven ii: blood vengeance witchaven ii: blood vengeance continue the story of the knight grondoval in this first-person fantasy slasher. get ready for bloody encounters with vile creatures and vicious warriors. stop an evil witch from carrying a titular blood vengeance in revenge for him having slain her sister. action rpg single-player steam cloud family sharing english mostly positive mostly positive<br>76% of the 34 user reviews for this game are positive.",
       "first_seen": "2026-05-23T08:23:58+00:00",
       "last_seen": "2026-05-23T13:43:32+00:00",
-      "updated_at": "2026-05-23T13:43:32+00:00"
+      "updated_at": "2026-05-23T15:54:24+00:00"
     },
     {
       "app_id": 1958220,
@@ -60550,6 +60650,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 3750
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 9800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6800,
+          "final": 2040
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 69000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 645000
         }
       },
       "review_hint": "Very Positive<br>99% of the 109 user reviews for this game are positive.",
@@ -60564,7 +60689,7 @@
       "search_text": "the outlast trials - unholy night pack the outlast trials - unholy night pack 'tis the season to bring some festive horror to all reagents. action adventure indie single-player multi-player co-op online co-op downloadable content full controller support family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese spanish-latin turkish tchinese positive very positive<br>99% of the 109 user reviews for this game are positive.",
       "first_seen": "2026-05-23T08:23:58+00:00",
       "last_seen": "2026-05-23T13:43:32+00:00",
-      "updated_at": "2026-05-23T13:43:32+00:00"
+      "updated_at": "2026-05-23T15:54:24+00:00"
     },
     {
       "app_id": 624270,
