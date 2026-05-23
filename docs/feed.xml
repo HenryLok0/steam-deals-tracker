@@ -4,7 +4,14 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sat, 23 May 2026 08:23:58 +0000</lastBuildDate>
+<lastBuildDate>Sat, 23 May 2026 13:43:32 +0000</lastBuildDate>
+<item>
+<title>Afternoon Affairs &amp; Helpless Housewives</title>
+<link>https://store.steampowered.com/app/4237210/</link>
+<guid isPermaLink="false">4237210</guid>
+<pubDate>Sat, 23 May 2026 13:43:32 +0000</pubDate>
+<description>Takumi Nakama is out of luck. He failed his college entrance exams and doesn't have the motivation to look for a job. After his parents give him an old, run-down apartment building to manage, he meets two ladies living there, both with troubles of their own...</description>
+</item>
 <item>
 <title>Blind Box Shop Simulator</title>
 <link>https://store.steampowered.com/app/4284570/</link>
@@ -18,13 +25,6 @@
 <guid isPermaLink="false">4077400</guid>
 <pubDate>Sat, 23 May 2026 08:23:58 +0000</pubDate>
 <description>A vampire cursed to live with head and body separated. Shoot blood as ammo, execute enemies with your flying head, and survive. Overflow your HP to unleash Blood High Mode! Dive into hardcore, over-the-top boomer shooter action soaked in blood.</description>
-</item>
-<item>
-<title>The Outlast Trials - Unholy Night Pack</title>
-<link>https://store.steampowered.com/app/3307910/</link>
-<guid isPermaLink="false">3307910</guid>
-<pubDate>Sat, 23 May 2026 08:23:58 +0000</pubDate>
-<description>'Tis the season to bring some festive horror to all Reagents.</description>
 </item>
 <item>
 <title>Witchaven II: Blood Vengeance</title>
@@ -207,34 +207,6 @@
 <guid isPermaLink="false">1084820</guid>
 <pubDate>Fri, 22 May 2026 14:46:29 +0000</pubDate>
 <description>Warhammer 40,000: Gladius is back with a new playable faction, the Chaos Space Marines.Fueled by their hatred for the Imperium, they will stop at nothing before they exact their revenge. Fielding hellish machines, wielding Warp powers and possessing the experience of a thousand wars, these ancient warriors are ready to conquer Gladius...</description>
-</item>
-<item>
-<title>Risk of Rain (2013)</title>
-<link>https://store.steampowered.com/app/248820/</link>
-<guid isPermaLink="false">248820</guid>
-<pubDate>Fri, 22 May 2026 09:34:05 +0000</pubDate>
-<description>Risk of Rain is an action platformer with roguelike elements. With permanent death as a primary feature, players will have to play their best to get as far as possible. Fight on a mysterious planet with randomly spawning enemies and bosses, either alone or with 3 friends in online co-op.</description>
-</item>
-<item>
-<title>Sultan's Game</title>
-<link>https://store.steampowered.com/app/3117820/</link>
-<guid isPermaLink="false">3117820</guid>
-<pubDate>Fri, 22 May 2026 09:34:05 +0000</pubDate>
-<description>Survive a mad Sultan's reign in this brutal resource management RPG. Draw a card every seven days and complete its challenge. Make dreadful choices to stay alive: will you die a loyal servant, become a kingslayer, or call down the gods' judgement?</description>
-</item>
-<item>
-<title>The Outlast Trials - Sweet Release Pack</title>
-<link>https://store.steampowered.com/app/3518320/</link>
-<guid isPermaLink="false">3518320</guid>
-<pubDate>Fri, 22 May 2026 09:34:05 +0000</pubDate>
-<description>Because candy is dandy, the Sweet Release Pack contains a set of 8 Legendary Outfits that may or may not come with gumdrop buttons, cell items that will rot your teeth, cell posters that will make any candy man jealous, sweet player icons and an E.S.O.P.</description>
-</item>
-<item>
-<title>Warhammer 40,000: Gladius - T'au</title>
-<link>https://store.steampowered.com/app/1239450/</link>
-<guid isPermaLink="false">1239450</guid>
-<pubDate>Fri, 22 May 2026 09:34:05 +0000</pubDate>
-<description>The T’au Empire joins the fight for the domination of Gladius Prime. Driven by a constant ambition to expand and spread the word of the Greater Good across the Galaxy, they will seek to assimilate or eliminate all the other opposition races on the planet.</description>
 </item>
 <item>
 <title>Car Mechanic Simulator 2018</title>
