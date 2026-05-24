@@ -2,14 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://steam-deals.henrylok.me/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
   <url><loc>https://steam-deals.henrylok.me/feed.xml</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://steam-deals.henrylok.me/games/3607440/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1721110/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/502500/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/3337140/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2706020/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/270880/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2585150/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
-  <url><loc>https://steam-deals.henrylok.me/games/1209471/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1209470/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/3025440/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2298430/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
@@ -60,13 +58,14 @@
   <url><loc>https://steam-deals.henrylok.me/games/648410/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/231430/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1677280/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://steam-deals.henrylok.me/games/4095900/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://steam-deals.henrylok.me/games/3469800/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/3097300/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1040200/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2737070/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1342490/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/262060/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1940340/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
-  <url><loc>https://steam-deals.henrylok.me/games/3205310/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2598510/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2989180/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2585890/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
@@ -126,8 +125,6 @@
   <url><loc>https://steam-deals.henrylok.me/games/3326230/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2393970/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1766060/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
-  <url><loc>https://steam-deals.henrylok.me/games/2647680/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
-  <url><loc>https://steam-deals.henrylok.me/games/1677310/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/581320/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2608270/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1372110/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
@@ -155,6 +152,8 @@
   <url><loc>https://steam-deals.henrylok.me/games/1169040/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1222370/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1533420/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://steam-deals.henrylok.me/games/1420290/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://steam-deals.henrylok.me/games/1744330/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2068280/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2313720/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2426530/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
@@ -220,6 +219,7 @@
   <url><loc>https://steam-deals.henrylok.me/games/2853730/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/245170/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1989270/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://steam-deals.henrylok.me/games/3151380/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/768200/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/282140/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/544750/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
@@ -236,12 +236,12 @@
   <url><loc>https://steam-deals.henrylok.me/games/264710/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/848450/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1612420/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
-  <url><loc>https://steam-deals.henrylok.me/games/1227890/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2414270/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/4069520/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/673750/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2289750/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/3288210/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://steam-deals.henrylok.me/games/1281220/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/436780/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/389730/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1778820/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
@@ -259,7 +259,6 @@
   <url><loc>https://steam-deals.henrylok.me/games/1783560/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1315320/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1304930/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
-  <url><loc>https://steam-deals.henrylok.me/games/3518320/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/4282710/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/750130/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/3976500/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
@@ -274,6 +273,7 @@
   <url><loc>https://steam-deals.henrylok.me/games/835670/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/617870/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/965220/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://steam-deals.henrylok.me/games/1556110/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1315750/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1142710/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/3450960/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
@@ -295,6 +295,7 @@
   <url><loc>https://steam-deals.henrylok.me/games/24010/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/386940/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1063420/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://steam-deals.henrylok.me/games/2853590/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1159690/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/3071240/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2686630/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
@@ -303,7 +304,7 @@
   <url><loc>https://steam-deals.henrylok.me/games/3202720/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/3577620/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/3577600/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
-  <url><loc>https://steam-deals.henrylok.me/games/2583910/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://steam-deals.henrylok.me/games/2305830/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2005010/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2668290/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1611910/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
@@ -317,6 +318,7 @@
   <url><loc>https://steam-deals.henrylok.me/games/3556750/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/285190/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2272360/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://steam-deals.henrylok.me/games/4280930/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2130960/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1788210/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1084820/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
@@ -338,16 +340,15 @@
   <url><loc>https://steam-deals.henrylok.me/games/3871330/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/3871370/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/2078450/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://steam-deals.henrylok.me/games/4280940/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/552500/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1033060/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1171690/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/3230340/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/307110/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/501300/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
-  <url><loc>https://steam-deals.henrylok.me/games/2052410/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/1958220/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/699130/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
-  <url><loc>https://steam-deals.henrylok.me/games/2243210/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/538030/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/3834090/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://steam-deals.henrylok.me/games/992300/</loc><lastmod>2026-05-24</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
