@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T13:43:07+00:00",
+  "updated_at": "2026-05-24T15:54:41+00:00",
   "total_count": 661,
   "active_count": 350,
   "games": [
@@ -5221,6 +5221,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 10000
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 26200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6800,
+          "final": 5440
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 184000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 1720000
         }
       },
       "review_hint": "Very Positive<br>81% of the 376 user reviews for this game are positive.",
@@ -5235,7 +5260,7 @@
       "search_text": "cargo hunters cargo hunters cargo hunters is a single-player extraction shooter where you control a humanoid robot scavenging the remains of humanity on an abandoned, dystopian earth. action early access single-player custom volume controls playable without timed input save anytime stereo sound family sharing english russian very positive very positive<br>81% of the 376 user reviews for this game are positive.",
       "first_seen": "2026-05-24T08:33:43+00:00",
       "last_seen": "2026-05-24T13:43:07+00:00",
-      "updated_at": "2026-05-24T13:43:07+00:00"
+      "updated_at": "2026-05-24T15:54:41+00:00"
     },
     {
       "app_id": 1114150,
@@ -17223,6 +17248,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 974
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 6175
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 17400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 3770
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 110500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 1072000
         }
       },
       "review_hint": "Mostly Positive<br>79% of the 828 user reviews for this game are positive.",
@@ -17237,7 +17287,7 @@
       "search_text": "outbreak island outbreak island survive on a remote island, where a mysterious outbreak awakens bloodthirsty monsters at night. craft, build and defend your base in the brutal world of outbreak island, an open-world sandbox survival horror game. action adventure indie rpg simulation early access single-player steam achievements full controller support steam trading cards custom volume controls stereo sound steam cloud family sharing english french german japanese korean polish portuguese-brazil russian spanish-latin turkish ukrainian spanish-spain schinese italian hungarian mostly positive mostly positive<br>79% of the 828 user reviews for this game are positive.",
       "first_seen": "2026-05-24T08:33:43+00:00",
       "last_seen": "2026-05-24T13:43:07+00:00",
-      "updated_at": "2026-05-24T13:43:07+00:00"
+      "updated_at": "2026-05-24T15:54:41+00:00"
     },
     {
       "app_id": 753640,
