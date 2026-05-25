@@ -4,20 +4,34 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Mon, 25 May 2026 10:16:20 +0000</lastBuildDate>
+<lastBuildDate>Mon, 25 May 2026 15:15:54 +0000</lastBuildDate>
+<item>
+<title>FEED THE QUEEN</title>
+<link>https://store.steampowered.com/app/4135750/</link>
+<guid isPermaLink="false">4135750</guid>
+<pubDate>Mon, 25 May 2026 15:15:54 +0000</pubDate>
+<description>Gather food to grow your colony. Evolve and upgrade specialized worker types. Discover and combine interesting synergies. Optimize your production, customize your strategy and feed the Queen ever-increasing amounts of food!</description>
+</item>
+<item>
+<title>Paralives</title>
+<link>https://store.steampowered.com/app/1118520/</link>
+<guid isPermaLink="false">1118520</guid>
+<pubDate>Mon, 25 May 2026 15:15:54 +0000</pubDate>
+<description>Paralives is a life simulation game about building homes, lives and bonds. Through both hardship and success, where will your story take you?</description>
+</item>
+<item>
+<title>Serpent's Gaze</title>
+<link>https://store.steampowered.com/app/3069050/</link>
+<guid isPermaLink="false">3069050</guid>
+<pubDate>Mon, 25 May 2026 15:15:54 +0000</pubDate>
+<description>Serpent’s Gaze is a punishing 1-4 player co-op third-person action game where you fight tough enemies and relentless bosses, all while uncovering the secrets of an ancient desert.</description>
+</item>
 <item>
 <title>Astrometica</title>
 <link>https://store.steampowered.com/app/2353250/</link>
 <guid isPermaLink="false">2353250</guid>
 <pubDate>Mon, 25 May 2026 10:16:20 +0000</pubDate>
 <description>Astrometica is a space exploration and base-building survival game. After a catastrophic event, explore vast space, gather resources, build bases, and uncover cosmic mysteries. Use advanced technology, craft tools, and discover new blueprints to survive and thrive in the unknown.</description>
-</item>
-<item>
-<title>Bird Game 3</title>
-<link>https://store.steampowered.com/app/4218680/</link>
-<guid isPermaLink="false">4218680</guid>
-<pubDate>Mon, 25 May 2026 10:16:20 +0000</pubDate>
-<description>Bird Game 3 is an immersive Multiplayer BvB (Bird vs. Bird) game, now finally coming to Steam! Fight other birds for domination over the bird realm!</description>
 </item>
 <item>
 <title>Sherlock Holmes: Crimes and Punishments</title>
@@ -32,13 +46,6 @@
 <guid isPermaLink="false">1631270</guid>
 <pubDate>Mon, 25 May 2026 10:16:20 +0000</pubDate>
 <description>StarRupture is a first-person open world base-building game with advanced combat and tons of exploration. Play alone or in a group on this sublime and ever-changing planet, extract and manage resources, create your complex industrial system and fight off hordes of alien monsters.</description>
-</item>
-<item>
-<title>Warhammer 40,000: Space Marine 2 - Blood Angels Champion Pack</title>
-<link>https://store.steampowered.com/app/3871350/</link>
-<guid isPermaLink="false">3871350</guid>
-<pubDate>Mon, 25 May 2026 10:16:20 +0000</pubDate>
-<description>Unleash your wrath in the name of Sanguinius with the Blood Angels Champion Pack, granting you a unique Power Armour skin for the Tactical class, and exclusive skins for the Jump Pack and Chainsword. This DLC is available as part of the Season Pass 2.</description>
 </item>
 <item>
 <title>A Little to the Left: Cupboards &amp; Drawers</title>
