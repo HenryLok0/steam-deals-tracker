@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T15:15:54+00:00",
+  "updated_at": "2026-05-25T16:58:24+00:00",
   "total_count": 698,
   "active_count": 350,
   "games": [
@@ -1731,6 +1731,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 8125
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 21300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 4940
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 149500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 1397000
         }
       },
       "review_hint": "Very Positive<br>82% of the 1,505 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -1745,7 +1770,7 @@
       "search_text": "astrometica astrometica astrometica is a space exploration and base-building survival game. after a catastrophic event, explore vast space, gather resources, build bases, and uncover cosmic mysteries. use advanced technology, craft tools, and discover new blueprints to survive and thrive in the unknown. adventure indie early access single-player steam achievements camera comfort color alternatives custom volume controls playable without timed input partial controller support steam cloud family sharing english turkish french italian german spanish-spain polish russian schinese czech japanese very positive very positive<br>82% of the 1,505 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-25T10:16:20+00:00",
       "last_seen": "2026-05-25T15:15:54+00:00",
-      "updated_at": "2026-05-25T15:15:54+00:00"
+      "updated_at": "2026-05-25T16:58:24+00:00"
     },
     {
       "app_id": 1493640,
@@ -8656,6 +8681,31 @@
           "currency": "USD",
           "original": 799,
           "final": 719
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4449,
+          "final": 4004
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 11900,
+          "final": 10700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2900,
+          "final": 2610
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 79900,
+          "final": 71900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 790000,
+          "final": 711000
         }
       },
       "review_hint": "",
@@ -8670,7 +8720,7 @@
       "search_text": "feed the queen feed the queen gather food to grow your colony. evolve and upgrade specialized worker types. discover and combine interesting synergies. optimize your production, customize your strategy and feed the queen ever-increasing amounts of food! strategy single-player steam achievements camera comfort custom volume controls mouse only option playable without timed input save anytime touch only option steam cloud family sharing english french german spanish-spain japanese korean portuguese-brazil russian schinese spanish-latin tchinese no user reviews",
       "first_seen": "2026-05-25T15:15:54+00:00",
       "last_seen": "2026-05-25T15:15:54+00:00",
-      "updated_at": "2026-05-25T15:15:54+00:00"
+      "updated_at": "2026-05-25T16:58:24+00:00"
     },
     {
       "app_id": 230330,
@@ -15293,6 +15343,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 3599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 24800,
+          "final": 22320
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 59900,
+          "final": 53900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 13600,
+          "final": 12240
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 450000,
+          "final": 405000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4200000,
+          "final": 3780000
         }
       },
       "review_hint": "",
@@ -15307,7 +15382,7 @@
       "search_text": "paralives paralives paralives is a life simulation game about building homes, lives and bonds. through both hardship and success, where will your story take you? simulation early access single-player steam workshop adjustable text size camera comfort custom volume controls adjustable difficulty mouse only option playable without timed input save anytime stereo sound family sharing english french italian german polish portuguese-brazil spanish-latin schinese mostly positive",
       "first_seen": "2026-05-25T15:15:54+00:00",
       "last_seen": "2026-05-25T15:15:54+00:00",
-      "updated_at": "2026-05-25T15:15:54+00:00"
+      "updated_at": "2026-05-25T16:58:24+00:00"
     },
     {
       "app_id": 640820,
@@ -20694,6 +20769,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1349
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8700,
+          "final": 7830
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 30800,
+          "final": 27700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5900,
+          "final": 5310
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 190000,
+          "final": 171000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1600000,
+          "final": 1440000
         }
       },
       "review_hint": "",
@@ -20708,7 +20808,7 @@
       "search_text": "serpent's gaze serpent's gaze serpent’s gaze is a punishing 1-4 player co-op third-person action game where you fight tough enemies and relentless bosses, all while uncovering the secrets of an ancient desert. action indie rpg early access single-player multi-player co-op online co-op full controller support camera comfort custom volume controls adjustable difficulty playable without timed input stereo sound surround sound steam cloud family sharing english french german spanish-spain japanese korean portuguese-brazil russian schinese tchinese 7 user reviews",
       "first_seen": "2026-05-25T15:15:54+00:00",
       "last_seen": "2026-05-25T15:15:54+00:00",
-      "updated_at": "2026-05-25T15:15:54+00:00"
+      "updated_at": "2026-05-25T16:58:24+00:00"
     },
     {
       "app_id": 861650,
@@ -21070,6 +21170,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 22900,
+          "final": 2290
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 89900,
+          "final": 8900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 14900,
+          "final": 1490
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 380000,
+          "final": 38000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3300000,
+          "final": 330000
         }
       },
       "review_hint": "Very Positive<br>89% of the 2,312 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -21084,7 +21209,7 @@
       "search_text": "sherlock holmes: crimes and punishments sherlock holmes: crimes and punishments become the most celebrated detective of all time: sherlock holmes! use your impressive talents as a detective to solve six thrilling and varied cases: murders, missing persons, spectacular thefts and numerous investigations that sometimes lead you into the realms of the fantastic. adventure single-player steam achievements full controller support steam trading cards steam cloud family sharing english french italian german spanish-spain czech polish japanese russian ukrainian korean schinese turkish very positive very positive<br>89% of the 2,312 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-25T10:16:20+00:00",
       "last_seen": "2026-05-25T15:15:54+00:00",
-      "updated_at": "2026-05-25T15:15:54+00:00"
+      "updated_at": "2026-05-25T16:58:24+00:00"
     },
     {
       "app_id": 350640,
@@ -23529,6 +23654,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14800,
+          "final": 11840
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 49900,
+          "final": 39900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 11000,
+          "final": 8800
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 299900,
+          "final": 239900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3000000,
+          "final": 2400000
         }
       },
       "review_hint": "Very Positive<br>82% of the 6,266 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -23543,7 +23693,7 @@
       "search_text": "starrupture starrupture starrupture is a first-person open world base-building game with advanced combat and tons of exploration. play alone or in a group on this sublime and ever-changing planet, extract and manage resources, create your complex industrial system and fight off hordes of alien monsters. action adventure indie simulation early access single-player multi-player co-op online co-op custom volume controls playable without timed input save anytime stereo sound steam cloud family sharing english schinese french spanish-spain korean polish portuguese-brazil russian thai tchinese japanese german very positive very positive<br>82% of the 6,266 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-25T10:16:20+00:00",
       "last_seen": "2026-05-25T15:15:54+00:00",
-      "updated_at": "2026-05-25T15:15:54+00:00"
+      "updated_at": "2026-05-25T16:58:24+00:00"
     },
     {
       "app_id": 1268750,
@@ -41605,6 +41755,31 @@
           "currency": "USD",
           "original": 949,
           "final": 664
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6100,
+          "final": 4270
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21600,
+          "final": 15100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 2940
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 135000,
+          "final": 94500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 735000
         }
       },
       "review_hint": "Positive<br>85% of the 14 user reviews for this game are positive.",
@@ -41619,7 +41794,7 @@
       "search_text": "bird game 3 bird game 3 bird game 3 is an immersive multiplayer bvb (bird vs. bird) game, now finally coming to steam! fight other birds for domination over the bird realm! action adventure multi-player pvp online pvp co-op online co-op steam achievements full controller support camera comfort color alternatives custom volume controls playable without timed input save anytime surround sound family sharing english german schinese russian french spanish-spain portuguese-brazil positive positive<br>85% of the 14 user reviews for this game are positive.",
       "first_seen": "2026-05-25T10:16:20+00:00",
       "last_seen": "2026-05-25T15:15:54+00:00",
-      "updated_at": "2026-05-25T15:15:54+00:00"
+      "updated_at": "2026-05-25T16:58:24+00:00"
     },
     {
       "app_id": 2091020,
@@ -70120,6 +70295,31 @@
           "currency": "USD",
           "original": 799,
           "final": 599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5500,
+          "final": 4125
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 23000,
+          "final": 17200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3400,
+          "final": 2550
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 130000,
+          "final": 97500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1000000,
+          "final": 750000
         }
       },
       "review_hint": "Mixed<br>66% of the 193 user reviews for this game are positive.",
@@ -70134,7 +70334,7 @@
       "search_text": "warhammer 40,000: space marine 2 - blood angels champion pack warhammer 40,000: space marine 2 - blood angels champion pack unleash your wrath in the name of sanguinius with the blood angels champion pack, granting you a unique power armour skin for the tactical class, and exclusive skins for the jump pack and chainsword. this dlc is available as part of the season pass 2. action adventure rpg single-player multi-player pvp online pvp co-op online co-op downloadable content steam achievements full controller support steam trading cards steam cloud family sharing english french italian german spanish-spain russian czech japanese korean polish portuguese-brazil schinese spanish-latin tchinese turkish ukrainian thai mixed mixed<br>66% of the 193 user reviews for this game are positive.",
       "first_seen": "2026-05-25T10:16:20+00:00",
       "last_seen": "2026-05-25T15:15:54+00:00",
-      "updated_at": "2026-05-25T15:15:54+00:00"
+      "updated_at": "2026-05-25T16:58:24+00:00"
     },
     {
       "app_id": 1844380,
