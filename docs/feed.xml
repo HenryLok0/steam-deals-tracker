@@ -4,7 +4,49 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Tue, 26 May 2026 06:40:55 +0000</lastBuildDate>
+<lastBuildDate>Tue, 26 May 2026 10:03:06 +0000</lastBuildDate>
+<item>
+<title>60 Seconds! Reatomized</title>
+<link>https://store.steampowered.com/app/1012880/</link>
+<guid isPermaLink="false">1012880</guid>
+<pubDate>Tue, 26 May 2026 10:03:06 +0000</pubDate>
+<description>The post-apocalyptic dark comedy is back - remastered and even more radioactive than before! Scavenge supplies, rescue your family, and stay alive in your fallout shelter. Make difficult decisions, hunt mutant roaches... and maybe survive. Or not.</description>
+</item>
+<item>
+<title>Bye Sweet Carole</title>
+<link>https://store.steampowered.com/app/2428980/</link>
+<guid isPermaLink="false">2428980</guid>
+<pubDate>Tue, 26 May 2026 10:03:06 +0000</pubDate>
+<description>Bye Sweet Carole is a narrative-horror adventure game completely hand-drawn in the style of classic animated films. Follow the trail of missing Carole Simmons and uncover the dark secrets hidden behind her disappearance from Bunny Hall orphanage.</description>
+</item>
+<item>
+<title>Romestead</title>
+<link>https://store.steampowered.com/app/1805320/</link>
+<guid isPermaLink="false">1805320</guid>
+<pubDate>Tue, 26 May 2026 10:03:06 +0000</pubDate>
+<description>Rome has fallen! Rebuild civilization in this action-adventure survival game for 1-8 players. Fight hordes of the walking dead, build settlements, restore the Roman gods... or kick back and farm with friends.</description>
+</item>
+<item>
+<title>Thief</title>
+<link>https://store.steampowered.com/app/239160/</link>
+<guid isPermaLink="false">239160</guid>
+<pubDate>Tue, 26 May 2026 10:03:06 +0000</pubDate>
+<description>Garrett, the Master Thief, steps out of the shadows into the City. In this treacherous place, where the Baron’s Watch spreads a rising tide of fear and oppression, his skills are the only things he can trust. Even the most cautious citizens and their best-guarded possessions are not safe from his reach.</description>
+</item>
+<item>
+<title>TROUBLESHOOTER: Abandoned Children</title>
+<link>https://store.steampowered.com/app/470310/</link>
+<guid isPermaLink="false">470310</guid>
+<pubDate>Tue, 26 May 2026 10:03:06 +0000</pubDate>
+<description>TROUBLESHOOTER: Abandoned Children is the first season of a turn-based strategy SRPG that takes place in the world of Troubleshooter.</description>
+</item>
+<item>
+<title>Umamusume: Pretty Derby - Party Dash</title>
+<link>https://store.steampowered.com/app/2313020/</link>
+<guid isPermaLink="false">2313020</guid>
+<pubDate>Tue, 26 May 2026 10:03:06 +0000</pubDate>
+<description>A colorful cast of pixel-art Umamusume are all in line and ready to compete in the Slapdash Grand Prix, a school festival featuring four zany events! Which team will run, shoot, and eat their way to gold and glory?</description>
+</item>
 <item>
 <title>Amnesia: The Dark Descent</title>
 <link>https://store.steampowered.com/app/57300/</link>
@@ -18,13 +60,6 @@
 <guid isPermaLink="false">960990</guid>
 <pubDate>Tue, 26 May 2026 03:55:04 +0000</pubDate>
 <description>A unique psychological action thriller delivered by A-list Hollywood performances by Elliot Page and Willem Dafoe, Beyond: Two Souls takes you on a thrilling journey across the globe as you play out the remarkable life of Jodie Holmes.</description>
-</item>
-<item>
-<title>Corpse Party (2021)</title>
-<link>https://store.steampowered.com/app/1273260/</link>
-<guid isPermaLink="false">1273260</guid>
-<pubDate>Tue, 26 May 2026 03:55:04 +0000</pubDate>
-<description>Explore the haunted halls of Heavenly Host Elementary in Corpse Party (2021), the horror cult classic now updated for the next generation.</description>
 </item>
 <item>
 <title>Dead Rising 3 Apocalypse Edition</title>
@@ -90,13 +125,6 @@
 <description>Watch as this nostalgic yet completely reimagined storybook world unravels before your very eyes. Taking cues from both Ghosts 'n Goblins and Ghouls 'n Ghosts and giving birth to something entirely new, Resurrection is a title worthy of its name.</description>
 </item>
 <item>
-<title>Golf It!</title>
-<link>https://store.steampowered.com/app/571740/</link>
-<guid isPermaLink="false">571740</guid>
-<pubDate>Tue, 26 May 2026 03:55:04 +0000</pubDate>
-<description>Embark on an exciting journey with Golf It! Seize your putter, rally your friends, and immerse yourself in an epic minigolf adventure. Conquer countless courses, create lasting memories, and refine your skills to emerge as the ultimate minigolf champion. Your thrilling golfing odyssey begins here!</description>
-</item>
-<item>
 <title>Kunitsu-Gami: Path of the Goddess</title>
 <link>https://store.steampowered.com/app/2510710/</link>
 <guid isPermaLink="false">2510710</guid>
@@ -158,13 +186,6 @@
 <guid isPermaLink="false">3892910</guid>
 <pubDate>Tue, 26 May 2026 03:55:04 +0000</pubDate>
 <description>City Building Auto Battler! Build your kingdom with powerful weapons, walls, houses, and endless synergies, then battle other players in asynchronous multiplayer, or overcome various solo challenges.</description>
-</item>
-<item>
-<title>SYNTHETIK 2</title>
-<link>https://store.steampowered.com/app/1471410/</link>
-<guid isPermaLink="false">1471410</guid>
-<pubDate>Tue, 26 May 2026 03:55:04 +0000</pubDate>
-<description>SYNTHETIK 2 is a unrelenting tactical-shooter rogue-lite. Play alone or with friends. Loot powerful tech. Experience the next level in gun-play. Upgrade your androids to rival the machine gods!</description>
 </item>
 <item>
 <title>Teamfight Manager 2</title>
@@ -333,6 +354,13 @@
 <guid isPermaLink="false">1969810</guid>
 <pubDate>Mon, 25 May 2026 19:46:08 +0000</pubDate>
 <description>Everything moves when you do in Enter the Chronosphere, the turn-based bullet hell roguelike. Each chronosphere is procedurally generated with defenders and biomes from the worlds it has consumed. Break in, find exotic weaponry and gadgets, outsmart hostile aliens, and fight your way to the core.</description>
+</item>
+<item>
+<title>Extinction Day</title>
+<link>https://store.steampowered.com/app/2682380/</link>
+<guid isPermaLink="false">2682380</guid>
+<pubDate>Mon, 25 May 2026 19:46:08 +0000</pubDate>
+<description>End humanity using disasters, plagues, and war. Spread chaos worldwide, combine catastrophic events, and stop them before they escape to the Ark.</description>
 </item>
 <item>
 <title>Grand Theft Auto IV: The Complete Edition</title>
@@ -613,13 +641,6 @@
 <guid isPermaLink="false">3069050</guid>
 <pubDate>Mon, 25 May 2026 15:15:54 +0000</pubDate>
 <description>Serpent’s Gaze is a punishing 1-4 player co-op third-person action game where you fight tough enemies and relentless bosses, all while uncovering the secrets of an ancient desert.</description>
-</item>
-<item>
-<title>Bird Game 3</title>
-<link>https://store.steampowered.com/app/4218680/</link>
-<guid isPermaLink="false">4218680</guid>
-<pubDate>Mon, 25 May 2026 10:16:20 +0000</pubDate>
-<description>Bird Game 3 is an immersive Multiplayer BvB (Bird vs. Bird) game, now finally coming to Steam! Fight other birds for domination over the bird realm!</description>
 </item>
 <item>
 <title>StarRupture</title>
