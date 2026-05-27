@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T15:54:12+00:00",
+  "updated_at": "2026-05-27T17:51:09+00:00",
   "total_count": 861,
   "active_count": 349,
   "games": [
@@ -710,6 +710,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7900,
+          "final": 6320
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29900,
+          "final": 23900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4900,
+          "final": 3920
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 148000,
+          "final": 118400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1490000,
+          "final": 1192000
         }
       },
       "review_hint": "Very Positive<br>85% of the 195 user reviews for this game are positive.",
@@ -724,7 +749,7 @@
       "search_text": "against the storm - nightwatchers against the storm - nightwatchers bats join the struggle in against the storm, bringing their own strengths, weaknesses, and desires. settle challenging new biomes, explore new building options, and make unlikely allies, all in service of the scorched queen. simulation strategy single-player downloadable content steam achievements steam cloud family sharing english french german spanish-spain polish portuguese-brazil russian schinese japanese korean tchinese italian czech hungarian turkish ukrainian thai spanish-latin very positive very positive<br>85% of the 195 user reviews for this game are positive.",
       "first_seen": "2026-05-27T15:54:12+00:00",
       "last_seen": "2026-05-27T15:54:12+00:00",
-      "updated_at": "2026-05-27T15:54:12+00:00"
+      "updated_at": "2026-05-27T17:51:09+00:00"
     },
     {
       "app_id": 2187220,
@@ -876,6 +901,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 1599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 21800,
+          "final": 8720
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 99000,
+          "final": 39600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 18800,
+          "final": 7520
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 448000,
+          "final": 179200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4550000,
+          "final": 1820000
         }
       },
       "review_hint": "Very Positive<br>84% of the 1,385 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -890,7 +940,7 @@
       "search_text": "arizona sunshine® 2 arizona sunshine® 2 it's time to say hello to your old pal, fred. arizona sunshine® 2, the next-gen sequel to the fan-favorite vr apocalypse, packs even more gore-geous zombie action! and what's better than braving the end of the f*cking world alone? surviving it with your new best friend--buddy. action adventure single-player multi-player co-op online co-op steam achievements tracked controller support vr only family sharing english french italian german japanese korean schinese spanish-latin polish portuguese-brazil very positive very positive<br>84% of the 1,385 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T15:54:12+00:00",
       "last_seen": "2026-05-27T15:54:12+00:00",
-      "updated_at": "2026-05-27T15:54:12+00:00"
+      "updated_at": "2026-05-27T17:51:09+00:00"
     },
     {
       "app_id": 3483400,
@@ -8238,6 +8288,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 2249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14500,
+          "final": 13050
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 46900,
+          "final": 42200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9300,
+          "final": 8370
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 315000,
+          "final": 283500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2650000,
+          "final": 2385000
         }
       },
       "review_hint": "",
@@ -8252,7 +8327,7 @@
       "search_text": "echo generation 2 echo generation 2 embark on a sci-fi deckbuilding rpg odyssey. build your crew, master powerful decks, and uncover the truth behind a growing cosmic threat. deal the cards. defy the cosmos. embrace the adventure. action adventure indie rpg single-player steam achievements full controller support camera comfort custom volume controls stereo sound subtitle options steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil schinese tchinese spanish-latin no user reviews",
       "first_seen": "2026-05-27T15:54:12+00:00",
       "last_seen": "2026-05-27T15:54:12+00:00",
-      "updated_at": "2026-05-27T15:54:12+00:00"
+      "updated_at": "2026-05-27T17:51:09+00:00"
     },
     {
       "app_id": 359320,
@@ -11167,6 +11242,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 2399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 24800,
+          "final": 14880
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 135900,
+          "final": 81500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 12400,
+          "final": 7440
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 547800,
+          "final": 328600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4800000,
+          "final": 2880000
         }
       },
       "review_hint": "Very Positive<br>93% of the 5,857 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -11181,7 +11281,7 @@
       "search_text": "hello kitty island adventure hello kitty island adventure embark on a cozy, open-world adventure with hello kitty and friends. befriend beloved characters as you explore and restore a mysterious island, solve ancient puzzles, cook delicious dishes, customize yourself and your cabins, and so much more. action adventure casual indie rpg simulation single-player multi-player co-op online co-op steam achievements full controller support steam cloud family sharing english french italian german spanish-spain arabic dutch japanese korean portuguese-brazil russian schinese tchinese turkish very positive very positive<br>93% of the 5,857 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T15:54:12+00:00",
       "last_seen": "2026-05-27T15:54:12+00:00",
-      "updated_at": "2026-05-27T15:54:12+00:00"
+      "updated_at": "2026-05-27T17:51:09+00:00"
     },
     {
       "app_id": 269210,
@@ -15020,6 +15120,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 1999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 20800,
+          "final": 10400
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 99000,
+          "final": 49500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 18800,
+          "final": 9400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 448000,
+          "final": 224000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4480000,
+          "final": 2240000
         }
       },
       "review_hint": "Mostly Positive<br>74% of the 1,765 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -15034,7 +15159,7 @@
       "search_text": "metro awakening metro awakening metro awakening is a story-driven first person adventure built for vr that blends atmospheric exploration, stealth and combat in the most immersive metro experience yet. don your gas mask, brave the crippling radiation and venture into the depths of the metro where threats haunt your every step. action adventure single-player steam achievements tracked controller support vr only steam cloud family sharing english french german japanese korean schinese spanish-latin czech polish russian ukrainian mostly positive mostly positive<br>74% of the 1,765 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T15:54:12+00:00",
       "last_seen": "2026-05-27T15:54:12+00:00",
-      "updated_at": "2026-05-27T15:54:12+00:00"
+      "updated_at": "2026-05-27T17:51:09+00:00"
     },
     {
       "app_id": 1389550,
@@ -21985,6 +22110,31 @@
           "currency": "USD",
           "original": 9999,
           "final": 1999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 65900,
+          "final": 13180
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 249000,
+          "final": 49800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 51800,
+          "final": 10360
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 1254000,
+          "final": 250800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 10680000,
+          "final": 2136000
         }
       },
       "review_hint": "Very Positive<br>85% of the 5,286 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -21999,7 +22149,7 @@
       "search_text": "scarlet nexus scarlet nexus choose between yuito and kasane, elite psionics each armed with a talent in psychokinesis and their own reason to fight. complete both of their stories to unlock all the mysteries of a brain punk future caught between technology and psychic abilities. action adventure rpg single-player steam achievements full controller support steam cloud family sharing english french italian german spanish-spain japanese korean portuguese-brazil russian spanish-latin tchinese schinese very positive very positive<br>85% of the 5,286 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T09:59:50+00:00",
       "last_seen": "2026-05-27T15:54:12+00:00",
-      "updated_at": "2026-05-27T15:54:12+00:00"
+      "updated_at": "2026-05-27T17:51:09+00:00"
     },
     {
       "app_id": 2111550,
@@ -22161,6 +22311,31 @@
           "currency": "USD",
           "original": 1799,
           "final": 1619
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11300,
+          "final": 10170
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29800,
+          "final": 26800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 5220
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 248000,
+          "final": 223200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1950000,
+          "final": 1755000
         }
       },
       "review_hint": "",
@@ -22175,7 +22350,7 @@
       "search_text": "schrödinger's call schrödinger's call when the world is coming to an end, who would you want to speak to one last time? schrödinger’s call is a visual novel that lets you experience the pain and salvation of human connection, as if you were turning the pages of a picture book. adventure indie single-player steam achievements full controller support custom volume controls keyboard only option mouse only option stereo sound steam cloud family sharing english japanese schinese tchinese no user reviews",
       "first_seen": "2026-05-27T15:54:12+00:00",
       "last_seen": "2026-05-27T15:54:12+00:00",
-      "updated_at": "2026-05-27T15:54:12+00:00"
+      "updated_at": "2026-05-27T17:51:09+00:00"
     },
     {
       "app_id": 889510,
@@ -24780,14 +24955,39 @@
       "steam_url": "https://store.steampowered.com/app/1116050/",
       "release_date": "May 27, 2026",
       "discount_expiration": null,
-      "original_price": 0,
+      "original_price": 2999,
       "final_price": 2699,
       "discount_percent": 10,
       "prices": {
         "en": {
           "currency": "USD",
-          "original": 0,
+          "original": 2999,
           "final": 2699
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 17200,
+          "final": 15480
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 56100,
+          "final": 50400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10900,
+          "final": 9810
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 385000,
+          "final": 346500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3100000,
+          "final": 2790000
         }
       },
       "review_hint": "",
@@ -24802,7 +25002,7 @@
       "search_text": "starminer starminer design and build a massive interstellar fleet in this simulation sandbox. strip space of its minerals for profit, but stay alert: your greed attracts the alien. master deep base-building and deploy warships to protect your empire in immersive real-time space. action indie rpg simulation strategy early access single-player steam achievements steam cloud family sharing english no user reviews",
       "first_seen": "2026-05-27T15:54:12+00:00",
       "last_seen": "2026-05-27T15:54:12+00:00",
-      "updated_at": "2026-05-27T15:54:12+00:00"
+      "updated_at": "2026-05-27T17:51:09+00:00"
     },
     {
       "app_id": 1631270,
@@ -25052,6 +25252,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 1019
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7800,
+          "final": 6630
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 22600,
+          "final": 19200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4800,
+          "final": 4080
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 119000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1350000,
+          "final": 1147000
         }
       },
       "review_hint": "Very Positive<br>93% of the 283 user reviews for this game are positive.",
@@ -25066,7 +25291,7 @@
       "search_text": "starship troopers: terran command - urban onslaught starship troopers: terran command - urban onslaught fight your way through 9 new missions in the urban onslaught campaign to defend the great city of mahanagar. a ferocious arachnid onslaught has swept through the city’s suburbs, completely overwhelming local police forces. the very homes of our citizens are now in grave peril… strategy single-player downloadable content steam cloud family sharing english french german spanish-spain polish portuguese-brazil russian schinese very positive very positive<br>93% of the 283 user reviews for this game are positive.",
       "first_seen": "2026-05-27T15:54:12+00:00",
       "last_seen": "2026-05-27T15:54:12+00:00",
-      "updated_at": "2026-05-27T15:54:12+00:00"
+      "updated_at": "2026-05-27T17:51:09+00:00"
     },
     {
       "app_id": 2272400,
@@ -27119,6 +27344,31 @@
           "currency": "USD",
           "original": 999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 5280
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 15000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 3360
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 96000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 880000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>96% of the 3,686 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -27133,7 +27383,7 @@
       "search_text": "the farmer was replaced the farmer was replaced program and optimize a drone to automate a farm and watch it do the work for you. collect resources to unlock better technology and become the most efficient farmer in the world. improve your problem solving and coding skills. casual indie simulation strategy single-player steam achievements adjustable text size camera comfort custom volume controls playable without timed input save anytime stereo sound steam cloud steam leaderboards family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese overwhelmingly positive overwhelmingly positive<br>96% of the 3,686 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T15:54:12+00:00",
       "last_seen": "2026-05-27T15:54:12+00:00",
-      "updated_at": "2026-05-27T15:54:12+00:00"
+      "updated_at": "2026-05-27T17:51:09+00:00"
     },
     {
       "app_id": 1253220,
@@ -32089,6 +32339,31 @@
           "currency": "USD",
           "original": 5999,
           "final": 5399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 36800,
+          "final": 33120
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 148000,
+          "final": 133200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 31800,
+          "final": 28620
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 858000,
+          "final": 772200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 6150000,
+          "final": 5535000
         }
       },
       "review_hint": "",
@@ -32103,7 +32378,7 @@
       "search_text": "utawarerumono: past and present rediscovered utawarerumono: past and present rediscovered the utawarerumono legend reaches a new climax in this sprawling jrpg! as a shadow falls over yamato once more, oshtor and friends set out on a fresh adventure—and somewhere, amid white mists, a long slumber approaches its end. adventure rpg strategy single-player steam achievements full controller support steam cloud family sharing english japanese schinese tchinese no user reviews",
       "first_seen": "2026-05-27T15:54:12+00:00",
       "last_seen": "2026-05-27T15:54:12+00:00",
-      "updated_at": "2026-05-27T15:54:12+00:00"
+      "updated_at": "2026-05-27T17:51:09+00:00"
     },
     {
       "app_id": 1151450,
@@ -35849,6 +36124,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 1079
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7800,
+          "final": 7020
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 22600,
+          "final": 20300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4800,
+          "final": 4320
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 126000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1350000,
+          "final": 1215000
         }
       },
       "review_hint": "Very Positive<br>92% of the 276 user reviews for this game are positive.",
@@ -35863,7 +36163,7 @@
       "search_text": "xf extreme formula xf extreme formula race at the speed of sound and beyond in the great xf extreme formula championship! taking place in the year 3000, you will tour trough the solar system proving you’re worthy of the title of champion. action racing single-player multi-player pvp shared/split screen pvp co-op shared/split screen co-op shared/split screen full controller support steam cloud remote play together family sharing english very positive very positive<br>92% of the 276 user reviews for this game are positive.",
       "first_seen": "2026-05-27T09:59:50+00:00",
       "last_seen": "2026-05-27T15:54:12+00:00",
-      "updated_at": "2026-05-27T15:54:12+00:00"
+      "updated_at": "2026-05-27T17:51:09+00:00"
     },
     {
       "app_id": 3834090,
