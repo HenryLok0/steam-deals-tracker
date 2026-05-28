@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T03:57:22+00:00",
+  "updated_at": "2026-05-28T06:47:15+00:00",
   "total_count": 924,
   "active_count": 349,
   "games": [
@@ -601,6 +601,31 @@
           "currency": "USD",
           "original": 699,
           "final": 419
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4600,
+          "final": 2760
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 13800,
+          "final": 8200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2600,
+          "final": 1560
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 80000,
+          "final": 48000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 780000,
+          "final": 468000
         }
       },
       "review_hint": "Mostly Positive<br>70% of the 416 user reviews for this game are positive.",
@@ -615,7 +640,7 @@
       "search_text": "another farm roguelike: rebirth another farm roguelike: rebirth discover the ultimate farming roguelike experience! build, craft, and grow your farm to pay off the increasing rent. no slow-paced walking or social distractions—just click! reclaim the joy of strategic farming in diverse maps and let your cursor guide you to success. play your way, rent won’t wait! indie simulation strategy single-player steam achievements steam trading cards custom volume controls adjustable difficulty playable without timed input save anytime steam cloud family sharing english german spanish-spain schinese japanese polish portuguese---portugal very positive mostly positive<br>70% of the 416 user reviews for this game are positive.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 1540210,
@@ -2042,6 +2067,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14900,
+          "final": 4470
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 59900,
+          "final": 17900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9900,
+          "final": 2970
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 298000,
+          "final": 89400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2990000,
+          "final": 897000
         }
       },
       "review_hint": "Very Positive<br>89% of the 14,826 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -2056,7 +2106,7 @@
       "search_text": "battle brothers battle brothers lead a mercenary company in this tactical rpg set in a medieval fantasy world. chase fame and fortune as you choose where to go, who to recruit, which contracts to pursue, and how to train and equip your men in a procedurally generated open world campaign. rpg simulation strategy single-player steam achievements steam trading cards steam cloud remote play on tablet family sharing english very positive very positive<br>89% of the 14,826 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 960990,
@@ -2427,6 +2477,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 10000
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 26200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 6080
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 184000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 1720000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>95% of the 1,185 user reviews for this game are positive.",
@@ -2441,7 +2516,7 @@
       "search_text": "bladesong bladesong the ultimate swordmaking game. forge unique weapons with freeform blade shaping and modular hilts, perfectly balanced to your customers’ needs. master the art of smithing and uncover the secrets of eren keep, a last haven of a dying world – or so they say. indie rpg simulation early access single-player steam achievements adjustable text size custom volume controls playable without timed input save anytime steam cloud family sharing english german japanese polish schinese overwhelmingly positive overwhelmingly positive<br>95% of the 1,185 user reviews for this game are positive.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 1689620,
@@ -2596,6 +2671,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 18700,
+          "final": 11220
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 48800,
+          "final": 29200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10800,
+          "final": 6480
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 350000,
+          "final": 210000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3200000,
+          "final": 1920000
         }
       },
       "review_hint": "Very Positive<br>85% of the 13,414 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -2610,7 +2710,7 @@
       "search_text": "blue prince blue prince welcome to mt. holly, where every dawn unveils a new mystery. navigate through shifting corridors and ever-changing chambers in this genre-defying strategy puzzle adventure. but will your unpredictable path lead you to the rumored room 46? adventure indie strategy single-player steam achievements full controller support steam cloud family sharing english very positive very positive<br>85% of the 13,414 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 1285190,
@@ -3233,6 +3333,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 2399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 18700,
+          "final": 14960
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 48800,
+          "final": 39000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10800,
+          "final": 8640
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 340000,
+          "final": 272000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3200000,
+          "final": 2560000
         }
       },
       "review_hint": "Very Positive<br>94% of the 8,554 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -3247,7 +3372,7 @@
       "search_text": "cairn cairn reach a summit never climbed before in this survival-climber from the creators of furi and haven. climb anywhere and plan your route carefully, managing pitons and resources to survive unforgiving mount kami. discover what aava is willing to sacrifice to achieve the ascent of a lifetime. action adventure indie simulation sports single-player steam achievements full controller support adjustable difficulty playable without timed input save anytime stereo sound subtitle options surround sound steam cloud family sharing english french italian german spanish-spain japanese russian schinese korean tchinese portuguese-brazil very positive very positive<br>94% of the 8,554 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 1042490,
@@ -3309,6 +3434,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 3125
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 8200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 1900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 57500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 537000
         }
       },
       "review_hint": "Very Positive<br>86% of the 2,419 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -3323,7 +3473,7 @@
       "search_text": "call of the sea call of the sea join norah, a woman plagued by a mysterious illness, in her search for her missing husband in this adventure puzzle game set on a lush island paradise. immerse yourself in stunning visuals and unlock forbidden secrets in a moving tale of mystery and love. adventure casual indie single-player steam achievements full controller support steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese---portugal portuguese-brazil russian schinese spanish-latin tchinese very positive very positive<br>86% of the 2,419 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-28T03:57:22+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 3483740,
@@ -4312,6 +4462,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 1979
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 18700,
+          "final": 12342
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 48800,
+          "final": 32200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10800,
+          "final": 7128
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 340000,
+          "final": 224400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3200000,
+          "final": 2112000
         }
       },
       "review_hint": "Very Positive<br>93% of the 2,341 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -4326,7 +4501,7 @@
       "search_text": "cyber knights: flashpoint cyber knights: flashpoint cyberpunk mercenaries rpg! turn-based squad tactics with unique heist-planning strategy. build your crew wisely; their stories will become interwoven with your own. pull off heists with powerful cyberware, faction connections, multiclassing, weapon modding, stealth, hacking, and more! action indie rpg strategy single-player steam achievements full controller support steam trading cards adjustable text size camera comfort custom volume controls adjustable difficulty playable without timed input save anytime steam cloud family sharing english french italian german polish portuguese-brazil spanish-latin spanish-spain very positive very positive<br>93% of the 2,341 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-28T03:57:22+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 1342490,
@@ -4709,6 +4884,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7900,
+          "final": 1580
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29900,
+          "final": 5900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4900,
+          "final": 980
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 148000,
+          "final": 29600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1490000,
+          "final": 298000
         }
       },
       "review_hint": "Very Positive<br>94% of the 9,937 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -4723,7 +4923,7 @@
       "search_text": "darkwood darkwood darkwood - a new perspective on survival horror. scavenge and explore a rich, ever-changing free-roam world by day, then hunker down in your hideout and pray for the morning light. action adventure rpg strategy single-player steam achievements full controller support steam trading cards steam cloud remote play on tv family sharing english polish russian german spanish-spain portuguese-brazil italian schinese turkish hungarian french very positive very positive<br>94% of the 9,937 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-28T03:57:22+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 934700,
@@ -4796,6 +4996,31 @@
           "currency": "USD",
           "original": 4999,
           "final": 999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 37399,
+          "final": 7479
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 146300,
+          "final": 29200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 18580,
+          "final": 3716
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 588900,
+          "final": 117700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 5070000,
+          "final": 1014000
         }
       },
       "review_hint": "Mostly Positive<br>76% of the 9,403 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -4810,7 +5035,7 @@
       "search_text": "dead island 2 dead island 2 a deadly virus is spreading across los angeles, turning its inhabitants into zombies. bitten, infected, but more than just immune, uncover the truth behind the outbreak and discover who - or what - you are. survive, evolve and become the ultimate zombie slayer. action adventure single-player multi-player co-op online co-op steam achievements full controller support steam trading cards adjustable text size camera comfort custom volume controls adjustable difficulty keyboard only option stereo sound subtitle options steam cloud family sharing english french italian german spanish-spain czech japanese korean polish portuguese-brazil russian schinese spanish-latin tchinese mostly positive mostly positive<br>76% of the 9,403 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 383150,
@@ -4872,6 +5097,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14950,
+          "final": 1495
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 58500,
+          "final": 5800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7400,
+          "final": 740
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 238900,
+          "final": 23800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2030000,
+          "final": 203000
         }
       },
       "review_hint": "Very Positive<br>81% of the 9,235 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -4886,7 +5136,7 @@
       "search_text": "dead island definitive edition dead island definitive edition welcome to the zombie apocalypse experience of a lifetime – and now more beautiful than ever. caught in the midst of an epic zombie outbreak on the tropical island of banoi, your only thought is: survive! action single-player multi-player co-op online co-op steam achievements full controller support steam trading cards captions available steam cloud stats remote play on tv family sharing english french italian german spanish-spain czech polish russian very positive very positive<br>81% of the 9,235 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-28T03:57:22+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 265550,
@@ -6065,6 +6315,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 18700,
+          "final": 7480
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 48800,
+          "final": 19500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9900,
+          "final": 3960
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 340000,
+          "final": 136000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3200000,
+          "final": 1280000
         }
       },
       "review_hint": "Very Positive<br>84% of the 4,674 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -6079,7 +6354,7 @@
       "search_text": "diplomacy is not an option diplomacy is not an option diplomacy is not an option is a strategy game set in a medieval fantasy world. build your town and defenses, raise huge armies and fight against massive hordes of enemies. how long can you survive? action adventure casual indie simulation strategy single-player steam achievements steam trading cards steam workshop steam cloud includes level editor family sharing english russian french italian german spanish-spain schinese japanese korean tchinese turkish portuguese-brazil very positive very positive<br>84% of the 4,674 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 632470,
@@ -7714,6 +7989,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 9360
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 24400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9200,
+          "final": 5520
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 168000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 1620000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>96% of the 5,904 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -7728,7 +8028,7 @@
       "search_text": "echo point nova echo point nova echo point nova is an open-world fps that offers unparalleled freedom and thrilling speed. designed for both singleplayer and coop. from the creators of severed steel. action adventure indie single-player multi-player co-op online co-op steam achievements full controller support steam workshop steam cloud includes level editor family sharing english japanese korean russian schinese tchinese turkish overwhelmingly positive overwhelmingly positive<br>96% of the 5,904 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 2821610,
@@ -7789,6 +8089,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 1599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 29950,
+          "final": 11980
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 117000,
+          "final": 46800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 17080,
+          "final": 6832
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 468900,
+          "final": 187500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4060000,
+          "final": 1624000
         }
       },
       "review_hint": "Mostly Positive<br>77% of the 1,206 user reviews for this game are positive.",
@@ -7803,7 +8128,7 @@
       "search_text": "echoes of the end: enhanced edition echoes of the end: enhanced edition embark on a perilous journey to rescue your brother and prevent a looming war. harness the power of devastating magical abilities to conquer enemies, traverse treacherous landscapes, and unveil the hidden history of aema. action adventure single-player steam achievements partial controller support steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese tchinese turkish icelandic very positive mostly positive<br>77% of the 1,206 user reviews for this game are positive.",
       "first_seen": "2026-05-28T03:57:22+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 359320,
@@ -8491,6 +8816,31 @@
           "currency": "USD",
           "original": 999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5200,
+          "final": 4160
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 17400,
+          "final": 13900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3700,
+          "final": 2960
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 96000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 840000
         }
       },
       "review_hint": "Very Positive<br>89% of the 37,101 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -8505,7 +8855,7 @@
       "search_text": "escape the backrooms escape the backrooms escape the backrooms is a 1-4 player co-op horror exploration game. traverse 30+ eerie backrooms levels while avoiding entities and other dangers. try to escape but be warned: survival isn't guaranteed. action indie single-player multi-player co-op online co-op steam achievements camera comfort custom volume controls adjustable difficulty playable without timed input stereo sound partial controller support steam cloud hdr available family sharing english french german spanish-spain russian schinese japanese korean turkish polish portuguese-brazil tchinese very positive very positive<br>89% of the 37,101 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 2057760,
@@ -8563,6 +8913,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 12480
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 32600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9200,
+          "final": 7360
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 224000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 2160000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>95% of the 4,946 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -8577,7 +8952,7 @@
       "search_text": "esoteric ebb esoteric ebb esoteric ebb is a single-player crpg inspired by the freedom of tabletop adventures. unravel a political conspiracy with your goblin sidekick. roll dice in tense encounters. become a cleric of legends or completely ruin the campaign. indie rpg single-player steam achievements full controller support steam trading cards adjustable text size camera comfort color alternatives custom volume controls keyboard only option mouse only option playable without timed input subtitle options touch only option steam cloud family sharing english overwhelmingly positive overwhelmingly positive<br>95% of the 4,946 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 1128920,
@@ -8855,6 +9230,31 @@
           "currency": "USD",
           "original": 3499,
           "final": 1924
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 21800,
+          "final": 11990
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 56600,
+          "final": 31100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 12800,
+          "final": 7040
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 390000,
+          "final": 214500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3750000,
+          "final": 2062000
         }
       },
       "review_hint": "Very Positive<br>87% of the 10,598 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -8869,7 +9269,7 @@
       "search_text": "farthest frontier farthest frontier protect and guide your people as you forge a town from untamed wilderness at the edge of the known world. harvest raw materials, hunt, fish and farm to survive. produce crafted items to trade, consume, equip and fight with as you battle for your survival against the elements and outside threats. indie simulation strategy single-player steam workshop family sharing english french italian german spanish-spain czech korean polish portuguese-brazil russian schinese swedish tchinese japanese ukrainian very positive very positive<br>87% of the 10,598 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 2396980,
@@ -9220,6 +9620,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 374
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10900,
+          "final": 1635
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37800,
+          "final": 5600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8000,
+          "final": 1200
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 257000,
+          "final": 38500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2600000,
+          "final": 390000
         }
       },
       "review_hint": "Very Positive<br>83% of the 9,786 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -9234,7 +9659,7 @@
       "search_text": "flashing lights - police, firefighting, emergency services (ems) simulator flashing lights - police, firefighting, emergency services (ems) simulator play solo or in up to 10-player multiplayer co-op! flashing lights is an open world police, firefighting and ems simulator game with plenty of opportunity for role-play or more relaxed fun with friends. become the law or save lives! discover leagues of player-created mods! action indie massively multiplayer rpg simulation single-player multi-player co-op online co-op partial controller support family sharing english japanese schinese german russian spanish-spain french danish dutch polish portuguese-brazil swedish tchinese italian czech finnish turkish greek hungarian norwegian latvian very positive very positive<br>83% of the 9,786 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-28T03:57:22+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 690830,
@@ -9298,6 +9723,31 @@
           "currency": "USD",
           "original": 3499,
           "final": 2344
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 21800,
+          "final": 14606
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 56600,
+          "final": 37900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 12800,
+          "final": 8576
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 390000,
+          "final": 261300
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3750000,
+          "final": 2512000
         }
       },
       "review_hint": "Very Positive<br>86% of the 10,969 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -9312,7 +9762,7 @@
       "search_text": "foundation foundation foundation is a grid-less, laidback medieval city-building game with a focus on organic development, monument construction and resource management. indie simulation strategy single-player steam achievements steam cloud family sharing english french italian german spanish-spain russian portuguese-brazil schinese japanese korean polish swedish turkish vietnamese czech thai ukrainian very positive very positive<br>86% of the 10,969 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 323190,
@@ -9787,6 +10237,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 2399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 18700,
+          "final": 14960
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 48800,
+          "final": 39000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10800,
+          "final": 8640
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 340000,
+          "final": 272000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3200000,
+          "final": 2560000
         }
       },
       "review_hint": "Very Positive<br>88% of the 8,448 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -9801,7 +10276,7 @@
       "search_text": "going medieval going medieval build and manage your own castle settlement in a land reclaimed by wilderness. with detailed management, survival strategy, and a moddable sandbox world, going medieval challenges you to build the mightiest colony this side of the apocalypse. indie rpg simulation strategy single-player steam achievements steam trading cards steam workshop adjustable text size camera comfort custom volume controls adjustable difficulty mouse only option playable without timed input save anytime steam cloud family sharing english schinese french german japanese portuguese-brazil russian spanish-spain korean polish turkish very positive very positive<br>88% of the 8,448 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 3133650,
@@ -10489,6 +10964,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 3120
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 8100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9200,
+          "final": 1840
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 56000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 540000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>95% of the 39,187 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -10503,7 +11003,7 @@
       "search_text": "grim dawn grim dawn enter an apocalyptic fantasy world where humanity is on the brink of extinction, iron is valued above gold and trust is hard earned. this arpg features complex character development, hundreds of unique items, crafting and quests with choice &amp; consequence. action adventure indie rpg single-player multi-player co-op online co-op lan co-op steam achievements full controller support steam trading cards steam cloud remote play on tablet remote play on tv family sharing english french german spanish-spain czech japanese russian schinese portuguese-brazil italian korean vietnamese polish very positive overwhelmingly positive<br>95% of the 39,187 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 642280,
@@ -10571,6 +11071,31 @@
           "currency": "USD",
           "original": 1799,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8600,
+          "final": 4300
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29800,
+          "final": 14900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7500,
+          "final": 3750
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 184000,
+          "final": 92000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1850000,
+          "final": 925000
         }
       },
       "review_hint": "Very Positive<br>90% of the 1,402 user reviews for this game are positive.",
@@ -10585,7 +11110,7 @@
       "search_text": "grim dawn - ashes of malmouth expansion grim dawn - ashes of malmouth expansion ashes of malmouth expands on the apocalyptic fantasy world of grim dawn with two new chapters in the epic struggle against the ruthless aetherials. venture into dangerous new parts of the world to empower your characters and make difficult choices that have a lasting impact on the people of cairn. action adventure indie rpg single-player multi-player co-op online co-op lan co-op downloadable content steam achievements full controller support steam trading cards steam cloud family sharing english french german spanish-spain czech japanese russian schinese portuguese-brazil italian korean vietnamese polish very positive very positive<br>90% of the 1,402 user reviews for this game are positive.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 483840,
@@ -10653,6 +11178,31 @@
           "currency": "USD",
           "original": 799,
           "final": 559
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5200,
+          "final": 3640
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15200,
+          "final": 10600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3300,
+          "final": 2310
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 92000,
+          "final": 64400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 890000,
+          "final": 623000
         }
       },
       "review_hint": "Very Positive<br>82% of the 565 user reviews for this game are positive.",
@@ -10667,7 +11217,7 @@
       "search_text": "grim dawn - crucible mode dlc grim dawn - crucible mode dlc enter the crucible, a harsh battleground filled with waves of grim dawn’s deadliest fiends. engage in magnificent combat for the amusement of the crucible’s mysterious overlord, lokarr. but he is not a cruel master: endure his trials and be rewarded with vast wealth; fail, and know only his scorn. action adventure indie rpg single-player multi-player co-op online co-op lan co-op downloadable content steam achievements full controller support steam trading cards steam cloud family sharing english french german spanish-spain czech japanese russian schinese portuguese-brazil italian korean vietnamese polish very positive very positive<br>82% of the 565 user reviews for this game are positive.",
       "first_seen": "2026-05-28T03:57:22+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 897670,
@@ -10735,6 +11285,31 @@
           "currency": "USD",
           "original": 1599,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10200,
+          "final": 5100
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27800,
+          "final": 13900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6200,
+          "final": 3100
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 180000,
+          "final": 90000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1750000,
+          "final": 875000
         }
       },
       "review_hint": "Very Positive<br>87% of the 1,037 user reviews for this game are positive.",
@@ -10749,7 +11324,7 @@
       "search_text": "grim dawn - forgotten gods expansion grim dawn - forgotten gods expansion forgotten gods takes the apocalyptic fantasy world of grim dawn to distant lands with a massive new chapter in humanity’s struggle against otherworldly and divine threats. unleash new mobility powers, gather powerful new items and venture into a brand-new game mode with endless replayability. action adventure indie rpg single-player multi-player co-op online co-op lan co-op downloadable content steam achievements full controller support steam trading cards steam cloud family sharing english french german spanish-spain czech japanese russian schinese portuguese-brazil italian korean vietnamese polish very positive very positive<br>87% of the 1,037 user reviews for this game are positive.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 493520,
@@ -10809,6 +11384,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 1239
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 29900,
+          "final": 9269
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 121900,
+          "final": 37700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 11600,
+          "final": 3596
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 399000,
+          "final": 123600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4999000,
+          "final": 1550000
         }
       },
       "review_hint": "Very Positive<br>88% of the 25,343 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -10823,7 +11423,7 @@
       "search_text": "gtfo gtfo gtfo is a hardcore cooperative horror shooter that throws you from gripping suspense to explosive action in a heartbeat. stealth, strategy, and teamwork are necessary to survive in your deadly, underground prison. work together or die together. action multi-player co-op online co-op steam achievements steam trading cards partial controller support family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese tchinese very positive very positive<br>88% of the 25,343 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 2878600,
@@ -10888,6 +11488,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 449
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 23400,
+          "final": 3510
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 95000,
+          "final": 14200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 21000,
+          "final": 3150
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 492800,
+          "final": 73900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4080000,
+          "final": 612000
         }
       },
       "review_hint": "Mostly Positive<br>73% of the 1,662 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -10902,7 +11527,7 @@
       "search_text": "harry potter: quidditch champions harry potter: quidditch champions your next chapter takes flight! immerse yourself in the enchanting world of quidditch by playing solo or sharing the magic with friends and family. action sports single-player multi-player pvp online pvp co-op online co-op cross-platform multiplayer steam achievements full controller support family sharing english french italian german spanish-spain arabic japanese korean polish portuguese-brazil schinese tchinese spanish-latin mostly positive mostly positive<br>73% of the 1,662 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-28T03:57:22+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 960910,
@@ -11397,6 +12022,31 @@
           "currency": "USD",
           "original": 5999,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 46800,
+          "final": 7020
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 169000,
+          "final": 25300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 38400,
+          "final": 5760
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 877800,
+          "final": 131600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 7980000,
+          "final": 1197000
         }
       },
       "review_hint": "Very Positive<br>91% of the 141,123 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -11411,7 +12061,7 @@
       "search_text": "hogwarts legacy hogwarts legacy hogwarts legacy is an immersive, open-world action rpg. now you can take control of the action and be at the center of your own adventure in the wizarding world. action adventure rpg single-player steam achievements full controller support in-app purchases adjustable text size camera comfort custom volume controls narrated game menus save anytime stereo sound surround sound steam cloud hdr available family sharing english french italian german spanish-spain arabic japanese korean polish portuguese-brazil russian schinese spanish-latin tchinese very positive very positive<br>91% of the 141,123 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 1880832,
@@ -11475,6 +12125,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 1875
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 45500,
+          "final": 6800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9800,
+          "final": 1470
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 286000,
+          "final": 42900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 322000
         }
       },
       "review_hint": "Mixed<br>64% of the 949 user reviews for this game are positive.",
@@ -11489,7 +12164,7 @@
       "search_text": "hogwarts legacy: dark arts pack hogwarts legacy: dark arts pack this pack includes: -thestral mount -dark arts cosmetic set -dark arts battle arena action adventure rpg single-player downloadable content steam achievements full controller support in-app purchases steam cloud family sharing english french italian german spanish-spain arabic japanese korean polish portuguese-brazil russian schinese spanish-latin tchinese mixed mixed<br>64% of the 949 user reviews for this game are positive.",
       "first_seen": "2026-05-28T03:57:22+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 1602000,
@@ -12738,6 +13413,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 22450,
+          "final": 4490
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 87700,
+          "final": 17500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 11100,
+          "final": 2220
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 358900,
+          "final": 71700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3040000,
+          "final": 608000
         }
       },
       "review_hint": "Very Positive<br>83% of the 62,231 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -12752,7 +13452,7 @@
       "search_text": "kingdom come: deliverance kingdom come: deliverance story-driven open-world rpg that immerses you in an epic adventure in the holy roman empire. avenge your parents' death as you battle invading forces, go on game-changing quests, and make influential choices. explore castles, forests, villages and other realistic settings in medieval bohemia! action adventure rpg single-player steam achievements full controller support steam trading cards steam cloud remote play on tv family sharing english french german spanish-spain czech polish russian italian schinese turkish korean ukrainian portuguese-brazil japanese very positive very positive<br>83% of the 62,231 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 1771300,
@@ -12820,6 +13520,31 @@
           "currency": "USD",
           "original": 5999,
           "final": 2999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 44899,
+          "final": 22449
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 175500,
+          "final": 87700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 22800,
+          "final": 11400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 809000,
+          "final": 404500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 6080000,
+          "final": 3040000
         }
       },
       "review_hint": "Very Positive<br>92% of the 63,886 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -12834,7 +13559,7 @@
       "search_text": "kingdom come: deliverance ii kingdom come: deliverance ii a thrilling story-driven action rpg, with a rich open world, set in 15th century medieval europe. experience the ultimate medieval adventure - through the eyes of young henry - as you embark on a journey of epic proportions. action adventure rpg single-player steam achievements full controller support steam trading cards custom volume controls playable without timed input stereo sound surround sound steam cloud family sharing english italian french german spanish-spain czech japanese korean polish portuguese-brazil schinese tchinese turkish russian ukrainian very positive very positive<br>92% of the 63,886 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 3368610,
@@ -12902,6 +13627,31 @@
           "currency": "USD",
           "original": 1399,
           "final": 979
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10499,
+          "final": 7349
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40900,
+          "final": 28600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 4060
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 168900,
+          "final": 118200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1420000,
+          "final": 994000
         }
       },
       "review_hint": "Mixed<br>69% of the 1,681 user reviews for this game are positive.",
@@ -12916,7 +13666,7 @@
       "search_text": "kingdom come: deliverance ii legacy of the forge kingdom come: deliverance ii legacy of the forge put your blacksmithing skills to the test to repair a legendary burnt-down forge. establish your own home in the heart of kuttenberg, designing the forge, its surroundings and private quarters with the ability to customise and furnish to aid your gameplay. action adventure rpg single-player downloadable content steam achievements full controller support custom volume controls playable without timed input stereo sound surround sound family sharing english italian french german spanish-spain czech japanese korean polish portuguese-brazil schinese tchinese turkish russian ukrainian vietnamese mostly positive mixed<br>69% of the 1,681 user reviews for this game are positive.",
       "first_seen": "2026-05-28T03:57:22+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 3368620,
@@ -12983,6 +13733,31 @@
           "currency": "USD",
           "original": 1399,
           "final": 1119
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10499,
+          "final": 8399
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40900,
+          "final": 32700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 4640
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 168900,
+          "final": 135100
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1420000,
+          "final": 1136000
         }
       },
       "review_hint": "Mixed<br>57% of the 1,476 user reviews for this game are positive.",
@@ -12997,7 +13772,7 @@
       "search_text": "kingdom come: deliverance ii mysteria ecclesiae kingdom come: deliverance ii mysteria ecclesiae embark on a brand new storyline, rich in quests, intriguing characters and unexpected endings. henry plays detective to uncover the secrets of a quarantined monastery; resources are scarce and every shadow could hide a peril. will you be able to solve the mystery and stop the outbreak? action adventure rpg single-player downloadable content steam achievements full controller support custom volume controls playable without timed input stereo sound surround sound family sharing english italian french german spanish-spain czech japanese korean polish portuguese-brazil schinese tchinese turkish russian ukrainian mixed mixed<br>57% of the 1,476 user reviews for this game are positive.",
       "first_seen": "2026-05-28T03:57:22+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 701160,
@@ -13068,6 +13843,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 3125
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 8200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 1900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 57500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 537000
         }
       },
       "review_hint": "Very Positive<br>90% of the 9,824 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -13082,7 +13882,7 @@
       "search_text": "kingdom two crowns kingdom two crowns gather coins, build defenses and reclaim your fallen kingdom. explore and uncover secrets, unlock new technologies and protect your crown versus waves of greed monsters that come at night. kingdom is a solo or co-op micro-strategy and tower defense game set in an atmospheric pixel world. adventure indie simulation strategy single-player multi-player co-op online co-op shared/split screen co-op shared/split screen steam achievements full controller support steam cloud remote play on phone remote play on tablet remote play on tv remote play together family sharing english italian german spanish-spain japanese korean russian french schinese tchinese portuguese-brazil very positive very positive<br>90% of the 9,824 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 2315400,
@@ -13137,6 +13937,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 3125
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 8200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 1900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 57500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 537000
         }
       },
       "review_hint": "Mostly Positive<br>70% of the 768 user reviews for this game are positive.",
@@ -13151,7 +13976,7 @@
       "search_text": "knights in tight spaces knights in tight spaces control your environment, gather your party, and build your best deck to overcome outlaws and supernatural forces, across a rich fantasy world. watch as your tactical choices and deckbuilding prowess play out through stylish fight sequences. action strategy single-player steam achievements full controller support steam trading cards steam cloud family sharing english french german spanish-spain japanese russian schinese mostly positive mostly positive<br>70% of the 768 user reviews for this game are positive.",
       "first_seen": "2026-05-28T03:57:22+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 1206410,
@@ -13306,6 +14131,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 13300,
+          "final": 6650
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 47000,
+          "final": 23500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7100,
+          "final": 3550
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 271000,
+          "final": 135500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1990000,
+          "final": 995000
         }
       },
       "review_hint": "Mostly Positive<br>75% of the 177 user reviews for this game are positive.",
@@ -13320,7 +14170,7 @@
       "search_text": "leaf blower co. leaf blower co. blow your leaves and your cares away in this chilled out work sim. build up your business, buy new tools, and unlock upgrades - all while watching the leaves fly. after all, one man’s trash is another man’s cash. casual indie simulation single-player steam achievements full controller support steam cloud family sharing english french german spanish-spain portuguese-brazil portuguese---portugal russian schinese spanish-latin mostly positive mostly positive<br>75% of the 177 user reviews for this game are positive.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 2950340,
@@ -13385,6 +14235,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 31200,
+          "final": 4680
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 123000,
+          "final": 18400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 28800,
+          "final": 4320
+        },
+        "ja": {
+          "currency": "USD",
+          "original": 3999,
+          "final": 599
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 5280000,
+          "final": 792000
         }
       },
       "review_hint": "Very Positive<br>82% of the 1,202 user reviews for this game are positive.",
@@ -13399,7 +14274,7 @@
       "search_text": "lego® harry potter™ collection lego® harry potter™ collection the lego® harry potter™: collection brings lego® harry potter™: years 1-4 and lego® harry potter™: years 5-7 together in one game, now remastered with enhanced graphics. action adventure casual single-player multi-player co-op shared/split screen co-op shared/split screen steam achievements full controller support steam cloud remote play together family sharing english french italian german spanish-spain danish japanese korean polish portuguese-brazil spanish-latin tchinese very positive very positive<br>82% of the 1,202 user reviews for this game are positive.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 1966720,
@@ -15567,6 +16442,31 @@
           "currency": "USD",
           "original": 1399,
           "final": 1105
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8900,
+          "final": 7031
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 24800,
+          "final": 19500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5600,
+          "final": 4424
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 160000,
+          "final": 126400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1550000,
+          "final": 1224000
         }
       },
       "review_hint": "Very Positive<br>93% of the 1,128 user reviews for this game are positive.",
@@ -15581,7 +16481,7 @@
       "search_text": "megastore simulator megastore simulator megastore simulator is a first-person management &amp; tycoon game. start small and grow into a massive two-floor megastore with forklifts, pallet jacks, and staff. unlock and manage departments like bakery, clothing, electronics, sports, music, toys, grocery, seafood, and vending machines casual indie simulation early access single-player steam achievements full controller support camera comfort save anytime stereo sound surround sound steam cloud family sharing english french italian german spanish-spain arabic schinese portuguese-brazil danish indonesian dutch finnish tchinese japanese korean spanish-latin polish hungarian norwegian portuguese---portugal romanian russian turkish czech swedish very positive very positive<br>93% of the 1,128 user reviews for this game are positive.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 2432860,
@@ -15741,6 +16641,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14950,
+          "final": 5980
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 58500,
+          "final": 23400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8480,
+          "final": 3392
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 238900,
+          "final": 95500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2030000,
+          "final": 812000
         }
       },
       "review_hint": "Very Positive<br>85% of the 1,616 user reviews for this game are positive.",
@@ -15755,7 +16680,7 @@
       "search_text": "metal eden metal eden an adrenaline-rush sci-fi fps. a hyper unit aska is sent on a suicide mission to rescue citizens' cores from moebius, an orbital city turned into a deadly trap. dive into cybernetic warfare, face the engineers, and uncover the secrets of metal eden. action adventure single-player steam achievements partial controller support steam cloud family sharing english french italian german spanish-spain korean polish portuguese-brazil russian schinese tchinese japanese very positive very positive<br>85% of the 1,616 user reviews for this game are positive.",
       "first_seen": "2026-05-28T03:57:22+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 2417610,
@@ -16680,6 +17605,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 18699,
+          "final": 3739
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 73100,
+          "final": 14600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9280,
+          "final": 1856
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 298900,
+          "final": 59700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2540000,
+          "final": 508000
         }
       },
       "review_hint": "Very Positive<br>82% of the 2,886 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -16694,7 +17644,7 @@
       "search_text": "nobody wants to die nobody wants to die lose yourself in the dystopian world of new york, 2329; immortality comes at a price that someone has to pay. in this interactive noir story, lead the investigation using advanced technology, as detective james karra who risks it all in pursuit of a serial killer targeting the city’s elite. adventure single-player steam achievements full controller support steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese tchinese very positive very positive<br>82% of the 2,886 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-28T03:57:22+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 1857090,
@@ -17610,6 +18560,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 479
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 29950,
+          "final": 3594
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 117000,
+          "final": 14000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 14800,
+          "final": 1776
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 468900,
+          "final": 56200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4060000,
+          "final": 487000
         }
       },
       "review_hint": "Mostly Positive<br>73% of the 15,443 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -17624,7 +18599,7 @@
       "search_text": "outward definitive edition outward definitive edition no remarkable journey is achieved without great effort. in outward, the cold of the night or an infected wound can be as dangerous as a predator lurking in the dark. explore the vast world of aurai solo or in co-op. the definitive edition features both dlcs and quality of life improvements. rpg single-player multi-player co-op online co-op shared/split screen co-op shared/split screen steam achievements full controller support steam trading cards stats remote play together family sharing english french german spanish-spain italian japanese korean polish portuguese-brazil russian schinese turkish mostly positive mostly positive<br>73% of the 15,443 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 2300120,
@@ -17688,6 +18663,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 26900,
+          "final": 5380
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 115000,
+          "final": 23000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 16900,
+          "final": 3380
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 579900,
+          "final": 115900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 5000000,
+          "final": 1000000
         }
       },
       "review_hint": "Mixed<br>56% of the 943 user reviews for this game are positive.",
@@ -17702,7 +18702,7 @@
       "search_text": "painkiller painkiller the classic painkiller series is back! battle through purgatory in fast-paced co-op action, wielding infernal weapons against relentless demonic hordes. condemned for your sins, the voice of the creator offers you a chance at redemption. will you seize it or be lost to darkness? action single-player multi-player co-op online co-op cross-platform multiplayer steam achievements full controller support adjustable text size color alternatives playable without timed input subtitle options steam cloud stats family sharing english french italian german spanish-spain polish portuguese-brazil schinese russian mixed mixed<br>56% of the 943 user reviews for this game are positive.",
       "first_seen": "2026-05-28T03:57:22+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 1623730,
@@ -18656,6 +19656,31 @@
           "currency": "USD",
           "original": 3499,
           "final": 2449
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 21800,
+          "final": 15260
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 56600,
+          "final": 39600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 11800,
+          "final": 8260
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 390000,
+          "final": 273000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3750000,
+          "final": 2625000
         }
       },
       "review_hint": "Mostly Positive<br>74% of the 1,357 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -18670,7 +19695,7 @@
       "search_text": "pioneers of pagonia pioneers of pagonia rebuild hope in a world that was lost in the fog. lead your pioneers across the isles of pagonia, unite scattered tribes, raise thriving communities and discover the history of your people as you reclaim your world in the new story campaign. simulation strategy single-player multi-player co-op online co-op steam achievements steam trading cards adjustable text size camera comfort color alternatives custom volume controls adjustable difficulty mouse only option playable without timed input save anytime stereo sound surround sound steam cloud family sharing english german french spanish-spain portuguese-brazil polish italian tchinese schinese japanese korean dutch thai czech turkish ukrainian slovak russian mostly positive mostly positive<br>74% of the 1,357 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 4508320,
@@ -19286,6 +20311,31 @@
           "currency": "USD",
           "original": 999,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6100,
+          "final": 5490
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21600,
+          "final": 19400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 3780
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 135000,
+          "final": 121500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 945000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>95% of the 5,646 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -19300,7 +20350,7 @@
       "search_text": "poker night at the inventory poker night at the inventory seven years after the inventory closed its doors, this underground social club has reopened for business. play no limit texas hold’em with four video game icons in a high-stakes battle of cards, bets, and trash talk. casual single-player steam achievements full controller support custom volume controls adjustable difficulty mouse only option playable without timed input subtitle options touch only option steam cloud family sharing english overwhelmingly positive overwhelmingly positive<br>95% of the 5,646 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 1210320,
@@ -19575,6 +20625,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 19800,
+          "final": 9900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 79000,
+          "final": 39500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8800,
+          "final": 4400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 297000,
+          "final": 148500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2980000,
+          "final": 1490000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>97% of the 38,075 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -19589,7 +20664,7 @@
       "search_text": "powerwash simulator powerwash simulator release the pressure with powerwash simulator! wash away your worries with the soothing sounds of high-pressure water. fire up your power washer and blast away every speck of dirt and grime you can find, all with the simple satisfaction of power-washing to a sparkling finish. casual indie simulation single-player multi-player co-op online co-op cross-platform multiplayer steam achievements full controller support steam trading cards steam cloud family sharing english korean russian french german spanish-spain japanese schinese tchinese italian turkish portuguese-brazil overwhelmingly positive overwhelmingly positive<br>97% of the 38,075 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 2968420,
@@ -19661,6 +20736,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 2124
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 13260
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 34600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8800,
+          "final": 7480
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 297000,
+          "final": 252400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 2295000
         }
       },
       "review_hint": "Very Positive<br>92% of the 6,814 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -19675,7 +20775,7 @@
       "search_text": "powerwash simulator 2 powerwash simulator 2 powerwash simulator is back, bubbling with fresh locations, soap-erior equipment and splashy features. effortlessly transform soiled surroundings into clean, serene scenes, solo or with pals. satisfaction is a spray away! casual indie simulation single-player multi-player co-op online co-op shared/split screen co-op shared/split screen cross-platform multiplayer steam achievements full controller support custom volume controls playable without timed input save anytime stereo sound surround sound steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese tchinese turkish very positive very positive<br>92% of the 6,814 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 321360,
@@ -20351,6 +21451,31 @@
           "currency": "USD",
           "original": 799,
           "final": 719
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5200,
+          "final": 4680
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15200,
+          "final": 13600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3300,
+          "final": 2970
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 92000,
+          "final": 82800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 890000,
+          "final": 801000
         }
       },
       "review_hint": "Mostly Positive<br>79% of the 158 user reviews for this game are positive.",
@@ -20365,7 +21490,7 @@
       "search_text": "ravenswatch - merlin ravenswatch - merlin the greatest wizard in avalon awakens from his prison of slumber, stripped of his clairvoyance but not his power. with nature, arcane and sacred magic, merlin the sorcerer has an extraordinary arsenal. unlock a new playable hero with this dlc. action adventure single-player multi-player co-op online co-op downloadable content full controller support steam cloud family sharing english french italian german spanish-spain korean polish portuguese-brazil russian japanese schinese tchinese very positive mostly positive<br>79% of the 158 user reviews for this game are positive.",
       "first_seen": "2026-05-28T03:57:22+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 2597080,
@@ -20731,6 +21856,31 @@
           "currency": "USD",
           "original": 999,
           "final": 99
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7500,
+          "final": 750
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27800,
+          "final": 2700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3600,
+          "final": 360
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 98000,
+          "final": 9800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 105000
         }
       },
       "review_hint": "Mostly Positive<br>78% of the 2,408 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -20745,7 +21895,7 @@
       "search_text": "reus reus in reus, you control powerful giants to shape the planet to your will. you can create mountains, oceans, forests and more. enrich your planet with plants, minerals and animal life. there is only one thing on the planet that you do not control: mankind, with all their virtues and and all their vices. indie simulation strategy single-player steam achievements steam trading cards family sharing english french italian spanish-spain dutch portuguese-brazil german schinese russian mostly positive mostly positive<br>78% of the 2,408 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 1875060,
@@ -20812,6 +21962,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 7800
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 20400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9200,
+          "final": 4600
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 140000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 1350000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>95% of the 1,430 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -20826,7 +22001,7 @@
       "search_text": "reus 2 reus 2 shape worlds with your godly titans. make symbiotic ecosystems and inspire humanity with your creations. their achievements unlock new possibilities. make different planets for different human spirits, and fill the universe with life! indie simulation strategy single-player steam achievements full controller support steam trading cards adjustable text size camera comfort custom volume controls adjustable difficulty mouse only option playable without timed input save anytime stereo sound steam cloud steam leaderboards family sharing english schinese french german spanish-spain portuguese-brazil russian ukrainian polish overwhelmingly positive overwhelmingly positive<br>95% of the 1,430 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 1650010,
@@ -22144,6 +23319,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 624
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 3900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 10200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9200,
+          "final": 2300
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 70000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 675000
         }
       },
       "review_hint": "Very Positive<br>86% of the 3,866 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -22158,7 +23358,7 @@
       "search_text": "sable sable embark on an unique and unforgettable journey and guide sable through her gliding; a rite of passage that will take her across vast deserts and mesmerizing landscapes, capped by the remains of spaceships and ancient wonders. adventure indie rpg single-player steam achievements full controller support steam cloud family sharing english french german spanish-spain portuguese-brazil schinese japanese very positive very positive<br>86% of the 3,866 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-28T03:57:22+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 742420,
@@ -22520,6 +23720,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11500,
+          "final": 5750
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37700,
+          "final": 18800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7700,
+          "final": 3850
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 260000,
+          "final": 130000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2100000,
+          "final": 1050000
         }
       },
       "review_hint": "Very Positive<br>94% of the 1,677 user reviews for this game are positive.",
@@ -22534,7 +23759,7 @@
       "search_text": "sam & max save the world sam & max save the world an open-and-shut case of petty vandalism balloons into a far-flung mind-control conspiracy involving former child stars, the media, the mafia, the government, the internet, and the bright side of the moon. telltale's episodic classic, lovingly remastered by members of the original development team. adventure indie single-player steam achievements full controller support steam cloud remote play on tv remote play together family sharing english french italian german spanish-spain czech hungarian polish russian very positive very positive<br>94% of the 1,677 user reviews for this game are positive.",
       "first_seen": "2026-05-28T03:57:22+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 2648050,
@@ -22586,6 +23811,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11500,
+          "final": 8625
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37700,
+          "final": 28200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7700,
+          "final": 5775
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 260000,
+          "final": 195000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2100000,
+          "final": 1575000
         }
       },
       "review_hint": "Very Positive<br>98% of the 396 user reviews for this game are positive.",
@@ -22600,7 +23850,7 @@
       "search_text": "sam & max: the devil's playhouse sam & max: the devil's playhouse the last game in the episodic sam &amp; max trilogy, beautifully remastered! as the intergalactic villains who seek the devil’s toybox close in and max’s psychic abilities grow beyond his control, the freelance police will come up against their most frightening adversary yet: the power of max’s mind. adventure indie single-player steam achievements full controller support steam cloud remote play together family sharing english french german russian very positive very positive<br>98% of the 396 user reviews for this game are positive.",
       "first_seen": "2026-05-28T03:57:22+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 1609230,
@@ -25116,6 +26366,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 6240
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 16300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9200,
+          "final": 3680
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 112000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 1080000
         }
       },
       "review_hint": "Mostly Positive<br>78% of the 3,108 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -25130,7 +26405,7 @@
       "search_text": "star trucker star trucker haul cargo, trade salvage and keep your space suit close as you search for fame and fortune among the stars in a game that puts an interstellar twist on the truck sim genre. simulation single-player steam achievements full controller support steam trading cards family sharing english french german spanish-spain spanish-latin schinese polish portuguese-brazil russian tchinese mostly positive mostly positive<br>78% of the 3,108 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 1116050,
@@ -26005,6 +27280,31 @@
           "currency": "USD",
           "original": 999,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5800,
+          "final": 4640
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 15000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4300,
+          "final": 3440
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 96000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 880000
         }
       },
       "review_hint": "Mostly Positive<br>71% of the 2,169 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -26019,7 +27319,7 @@
       "search_text": "subliminal subliminal subliminal is a psychological horror game inspired by the urban legend of the backrooms. bleeding edge lighting and rendering, handcrafted open-ended levels, light and perspective-based puzzles, nostalgic spaces, unfamiliar faces, and a rotting feeling that something is not quite right. adventure indie rpg simulation strategy single-player steam achievements full controller support camera comfort custom volume controls playable without timed input stereo sound surround sound steam cloud family sharing english schinese french italian german japanese korean russian tchinese turkish spanish-spain indonesian portuguese-brazil spanish-latin mostly positive mostly positive<br>71% of the 2,169 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-28T03:57:22+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 2414270,
@@ -27662,6 +28962,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 1349
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 18700,
+          "final": 8415
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 48800,
+          "final": 21900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10800,
+          "final": 4860
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 340000,
+          "final": 153000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3200000,
+          "final": 1440000
         }
       },
       "review_hint": "Very Positive<br>93% of the 878 user reviews for this game are positive.",
@@ -27676,7 +29001,7 @@
       "search_text": "the karters 2: turbo charged the karters 2: turbo charged get ready for the ultimate kart racing experience on steam &amp; steam deck! inspired by crash team racing, built with its own identity, advanced gameplay systems, tons of new features and massive modding support for endless replayability! action adventure casual indie racing simulation sports early access single-player multi-player pvp online pvp shared/split screen pvp co-op online co-op shared/split screen co-op shared/split screen steam achievements full controller support steam workshop steam cloud remote play together family sharing english french italian german spanish-spain arabic czech japanese korean polish portuguese-brazil portuguese---portugal russian schinese spanish-latin turkish ukrainian very positive very positive<br>93% of the 878 user reviews for this game are positive.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 1471650,
@@ -27730,6 +29055,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 19900,
+          "final": 4975
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 84900,
+          "final": 21200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 12900,
+          "final": 3225
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 429900,
+          "final": 107400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3480000,
+          "final": 870000
         }
       },
       "review_hint": "Very Positive<br>88% of the 411 user reviews for this game are positive.",
@@ -27744,7 +29094,7 @@
       "search_text": "the knightling the knightling the knightling is an open world, action-adventure where you play as an aspiring knight in search of their missing mentor, sir lionstone. equipped with only a legendary shield, you’ll brave your way through the lands of clesseia to become the unlikely hero. action adventure indie single-player steam achievements full controller support steam cloud family sharing english french german spanish-spain schinese russian very positive very positive<br>88% of the 411 user reviews for this game are positive.",
       "first_seen": "2026-05-28T03:57:22+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 2863640,
@@ -28106,6 +29456,31 @@
           "currency": "USD",
           "original": 5999,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 46800,
+          "final": 7020
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 179000,
+          "final": 26800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 19900,
+          "final": 2985
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 770000,
+          "final": 115500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 6500000,
+          "final": 975000
         }
       },
       "review_hint": "Very Positive<br>83% of the 7,366 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -28120,7 +29495,7 @@
       "search_text": "the quarry the quarry when the sun goes down on the last night of summer camp, nine teenage counselors are plunged into an unpredictable night of horror. the only thing worse than the blood-drenched locals and creatures hunting them are the unimaginable choices you must make to help them survive. adventure single-player multi-player co-op shared/split screen co-op shared/split screen steam achievements full controller support family sharing english french italian german spanish-spain danish finnish japanese korean norwegian polish portuguese---portugal portuguese-brazil russian schinese spanish-latin swedish tchinese turkish dutch very positive very positive<br>83% of the 7,366 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 1395520,
@@ -28178,6 +29553,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 8750
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 22900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 5320
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 161000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 1505000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>95% of the 2,569 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -28192,7 +29592,7 @@
       "search_text": "the séance of blake manor the séance of blake manor the séance of blake manor is a supernatural detective mystery, set in 1897 ireland, where you investigate the disappearance of evelyn deane in a remote hotel full of secrets and other-worldly occurrences. adventure single-player steam achievements full controller support steam trading cards adjustable text size camera comfort color alternatives custom volume controls playable without timed input save anytime stereo sound subtitle options surround sound steam cloud family sharing english overwhelmingly positive overwhelmingly positive<br>95% of the 2,569 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 1684350,
@@ -28552,6 +29952,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 844
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8300,
+          "final": 5395
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 23800,
+          "final": 15400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5200,
+          "final": 3380
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 150000,
+          "final": 97500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1450000,
+          "final": 942000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>95% of the 10,729 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -28566,7 +29991,7 @@
       "search_text": "thronefall thronefall a minimalist game about building and defending your little kingdom. action indie strategy single-player steam achievements full controller support steam cloud steam leaderboards family sharing english french german spanish-spain japanese polish portuguese-brazil russian schinese turkish italian czech korean ukrainian overwhelmingly positive overwhelmingly positive<br>95% of the 10,729 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 2231380,
@@ -28739,6 +30164,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 21800,
+          "final": 5450
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 84900,
+          "final": 21200
+        },
+        "zh-Hans": {
+          "currency": "USD",
+          "original": 2999,
+          "final": 749
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 418000,
+          "final": 104500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3400000,
+          "final": 850000
         }
       },
       "review_hint": "Mostly Positive<br>79% of the 16,452 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -28753,7 +30203,7 @@
       "search_text": "tom clancy’s the division® 2 tom clancy’s the division® 2 join the division in this open world tactical shooter. engage in intense cover-based combat, team up with friends, and build your ultimate agent to save washington, d.c. action adventure rpg single-player multi-player pvp online pvp co-op online co-op steam achievements captions available in-app purchases partial controller support hdr available english french italian german spanish-spain arabic japanese korean polish portuguese-brazil russian schinese spanish-latin tchinese mostly positive mostly positive<br>79% of the 16,452 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 203160,
@@ -31396,6 +32846,31 @@
           "currency": "USD",
           "original": 4999,
           "final": 2249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 37399,
+          "final": 16829
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 146300,
+          "final": 65800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 18580,
+          "final": 8361
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 588900,
+          "final": 265000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 5070000,
+          "final": 2281000
         }
       },
       "review_hint": "Mixed<br>59% of the 13,621 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -31410,7 +32885,7 @@
       "search_text": "undisputed undisputed become undisputed in the most authentic boxing game to date! featuring true to life visuals, bone-jarring action, and more licensed boxers than ever before, undisputed gives you unprecedented control to master every inch of the ring. action simulation sports single-player multi-player pvp online pvp shared/split screen pvp shared/split screen steam achievements camera comfort color alternatives custom volume controls adjustable difficulty playable without timed input stereo sound partial controller support steam cloud remote play together family sharing english french italian german spanish-latin spanish-spain polish russian schinese tchinese mixed mixed<br>59% of the 13,621 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 1149550,
@@ -34666,6 +36141,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 10920
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37800,
+          "final": 26400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8000,
+          "final": 5600
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 257000,
+          "final": 179900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2600000,
+          "final": 1820000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>96% of the 1,641 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -34680,7 +36180,7 @@
       "search_text": "wylde flowers wylde flowers join tara on a heartfelt journey to become a witch in wylde flowers. farm by day, and cast spells by night as you craft your cottagecore life and bond with your coven. come to know and love the fully voice acted characters of fairhaven, as you unravel a local mystery. adventure simulation single-player steam achievements full controller support adjustable text size custom volume controls adjustable difficulty keyboard only option mouse only option playable without timed input save anytime stereo sound subtitle options steam cloud family sharing english french italian german arabic dutch japanese korean portuguese-brazil russian schinese spanish-latin tchinese turkish overwhelmingly positive overwhelmingly positive<br>96% of the 1,641 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-28T03:57:22+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 538030,
@@ -68798,6 +70298,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 7600
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 21400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 4640
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 136000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 1320000
         }
       },
       "review_hint": "",
@@ -68812,7 +70337,7 @@
       "search_text": "pioneers of pagonia - meadowsong pioneers of pagonia - meadowsong experience the story of the island »meadowsong«. once known for their thriving agriculture, the harvest of meadowsong is haunted by a mysterious withering destroying everything. build new production chains with fruits, wine and livestock, and help to solve the mystery of the witches' coven. simulation strategy single-player multi-player co-op online co-op downloadable content steam achievements steam trading cards adjustable text size camera comfort color alternatives custom volume controls adjustable difficulty mouse only option playable without timed input save anytime stereo sound surround sound steam cloud family sharing english german french spanish-spain polish schinese ukrainian russian 1 user reviews",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 1472780,
@@ -86148,6 +87673,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 3199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 21500,
+          "final": 17200
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 83500,
+          "final": 66800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 14800,
+          "final": 11840
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 398000,
+          "final": 318400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4200000,
+          "final": 3360000
         }
       },
       "review_hint": "Mostly Positive<br>78% of the 76 user reviews for this game are positive.",
@@ -86162,7 +87712,7 @@
       "search_text": "utawarerumono: zan 2 utawarerumono: zan 2 hack and slash your way through the world of utawarerumono once again! experience the saga's climactic conclusion like never before with fast-paced combat, slick animations, and all-new exclusive scenes and side-stories! action adventure rpg single-player multi-player co-op online co-op full controller support steam cloud family sharing english japanese tchinese positive mostly positive<br>78% of the 76 user reviews for this game are positive.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 1604030,
@@ -87032,6 +88582,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 2249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 18700,
+          "final": 14025
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 48800,
+          "final": 36600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10800,
+          "final": 8100
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 340000,
+          "final": 255000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3200000,
+          "final": 2400000
         }
       },
       "review_hint": "Very Positive<br>88% of the 589 user reviews for this game are positive.",
@@ -87046,7 +88621,7 @@
       "search_text": "voor de kroon voor de kroon fight for control during the friso-hollandic wars. set in the medieval 13th century, the game features a strategy campaign and historical battles. fight alongside your army in 3rd person battles and command your troops in this strategy-action game. action indie rpg simulation strategy early access single-player steam workshop partial controller support includes level editor family sharing english very positive very positive<br>88% of the 589 user reviews for this game are positive.",
       "first_seen": "2026-05-27T20:23:27+00:00",
       "last_seen": "2026-05-28T03:57:22+00:00",
-      "updated_at": "2026-05-28T03:57:22+00:00"
+      "updated_at": "2026-05-28T06:47:15+00:00"
     },
     {
       "app_id": 2980170,
