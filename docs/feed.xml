@@ -4,7 +4,35 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Thu, 28 May 2026 06:47:15 +0000</lastBuildDate>
+<lastBuildDate>Thu, 28 May 2026 10:09:22 +0000</lastBuildDate>
+<item>
+<title>Aloft</title>
+<link>https://store.steampowered.com/app/1660080/</link>
+<guid isPermaLink="false">1660080</guid>
+<pubDate>Thu, 28 May 2026 10:09:22 +0000</pubDate>
+<description>Soar the skies in Aloft, the co-op sandbox survival game set in a world of floating islands. Build any island into a skyship, your home in the clouds. Find lost knowledge, cure the fungal corruption, and brave the hurricane to restore the ecosystem.</description>
+</item>
+<item>
+<title>Dune: Spice Wars</title>
+<link>https://store.steampowered.com/app/1605220/</link>
+<guid isPermaLink="false">1605220</guid>
+<pubDate>Thu, 28 May 2026 10:09:22 +0000</pubDate>
+<description>A 4X real-time strategy game from the developers of the critically acclaimed Northgard. Set in Frank Herbert’s groundbreaking Dune universe, you must lead your faction and battle for control and dominance over the harsh desert planet of Arrakis.</description>
+</item>
+<item>
+<title>POOLS</title>
+<link>https://store.steampowered.com/app/2663530/</link>
+<guid isPermaLink="false">2663530</guid>
+<pubDate>Thu, 28 May 2026 10:09:22 +0000</pubDate>
+<description>Walking simulator. Explore, admire and listen. Uncanny. Relaxing. Unnerving. Eerie. Immersive. No monsters chasing you or jumping at your screen, but can feel oppressive at times by invoking fears of getting lost, the dark, tight spaces and liminal space architecture. Inspired by backrooms.</description>
+</item>
+<item>
+<title>Wartales</title>
+<link>https://store.steampowered.com/app/1527950/</link>
+<guid isPermaLink="false">1527950</guid>
+<pubDate>Thu, 28 May 2026 10:09:22 +0000</pubDate>
+<description>Wartales is an open world RPG in which you lead a group of mercenaries in their search for wealth across a massive medieval universe. Explore the world, recruit companions, collect bounties and unravel the secrets of the tombs of the ancients!</description>
+</item>
 <item>
 <title>Call of the Sea</title>
 <link>https://store.steampowered.com/app/1042490/</link>
@@ -104,13 +132,6 @@
 <description>Lose yourself in the dystopian world of New York, 2329; immortality comes at a price that someone has to pay. In this interactive noir story, lead the investigation using advanced technology, as Detective James Karra who risks it all in pursuit of a serial killer targeting the city’s elite.</description>
 </item>
 <item>
-<title>Painkiller</title>
-<link>https://store.steampowered.com/app/2300120/</link>
-<guid isPermaLink="false">2300120</guid>
-<pubDate>Thu, 28 May 2026 03:57:22 +0000</pubDate>
-<description>The classic Painkiller series is back! Battle through Purgatory in fast-paced co-op action, wielding infernal weapons against relentless demonic hordes. Condemned for your sins, the Voice of the Creator offers you a chance at redemption. Will you seize it or be lost to darkness?</description>
-</item>
-<item>
 <title>Ravenswatch - Merlin</title>
 <link>https://store.steampowered.com/app/3607950/</link>
 <guid isPermaLink="false">3607950</guid>
@@ -144,13 +165,6 @@
 <guid isPermaLink="false">2300840</guid>
 <pubDate>Thu, 28 May 2026 03:57:22 +0000</pubDate>
 <description>Subliminal is a psychological horror game inspired by the urban legend of The Backrooms. Bleeding edge lighting and rendering, handcrafted open-ended levels, light and perspective-based puzzles, nostalgic spaces, unfamiliar faces, and a rotting feeling that something is not quite right.</description>
-</item>
-<item>
-<title>The Knightling</title>
-<link>https://store.steampowered.com/app/1471650/</link>
-<guid isPermaLink="false">1471650</guid>
-<pubDate>Thu, 28 May 2026 03:57:22 +0000</pubDate>
-<description>The Knightling is an open world, action-adventure where you play as an aspiring knight in search of their missing mentor, Sir Lionstone. Equipped with only a legendary shield, you’ll brave your way through the lands of Clesseia to become the unlikely hero.</description>
 </item>
 <item>
 <title>Wylde Flowers</title>
@@ -342,6 +356,13 @@
 <description>Rebuild hope in a world that was lost in the fog. Lead your Pioneers across the isles of Pagonia, unite scattered tribes, raise thriving communities and discover the history of your people as you reclaim your world in the new story campaign.</description>
 </item>
 <item>
+<title>Pioneers of Pagonia - Meadowsong</title>
+<link>https://store.steampowered.com/app/4518280/</link>
+<guid isPermaLink="false">4518280</guid>
+<pubDate>Wed, 27 May 2026 20:23:27 +0000</pubDate>
+<description>Experience the story of the island »Meadowsong«. Once known for their thriving agriculture, the harvest of Meadowsong is haunted by a mysterious Withering destroying everything. Build new production chains with fruits, wine and livestock, and help to solve the mystery of the witches' coven.</description>
+</item>
+<item>
 <title>Poker Night at the Inventory</title>
 <link>https://store.steampowered.com/app/3897800/</link>
 <guid isPermaLink="false">3897800</guid>
@@ -426,6 +447,13 @@
 <description>Become Undisputed in the most authentic boxing game to date! Featuring true to life visuals, bone-jarring action, and more licensed boxers than ever before, Undisputed gives you unprecedented control to master every inch of the ring.</description>
 </item>
 <item>
+<title>Utawarerumono: ZAN 2</title>
+<link>https://store.steampowered.com/app/3074850/</link>
+<guid isPermaLink="false">3074850</guid>
+<pubDate>Wed, 27 May 2026 20:23:27 +0000</pubDate>
+<description>Hack and slash your way through the world of Utawarerumono once again! Experience the saga's climactic conclusion like never before with fast-paced combat, slick animations, and all-new exclusive scenes and side-stories!</description>
+</item>
+<item>
 <title>Arizona Sunshine® 2</title>
 <link>https://store.steampowered.com/app/1540210/</link>
 <guid isPermaLink="false">1540210</guid>
@@ -480,13 +508,6 @@
 <guid isPermaLink="false">4264260</guid>
 <pubDate>Wed, 27 May 2026 15:54:12 +0000</pubDate>
 <description>The Utawarerumono legend reaches a new climax in this sprawling JRPG! As a shadow falls over Yamato once more, Oshtor and friends set out on a fresh adventure—and somewhere, amid white mists, a long slumber approaches its end.</description>
-</item>
-<item>
-<title>XF Extreme Formula</title>
-<link>https://store.steampowered.com/app/2539910/</link>
-<guid isPermaLink="false">2539910</guid>
-<pubDate>Wed, 27 May 2026 09:59:50 +0000</pubDate>
-<description>Race at the speed of sound and beyond in the great XF Extreme Formula championship! Taking place in the year 3000, you will tour trough the solar system proving you’re worthy of the title of champion.</description>
 </item>
 <item>
 <title>Bunny Guys!</title>
