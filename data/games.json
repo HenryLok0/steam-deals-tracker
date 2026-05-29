@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T15:45:38+00:00",
+  "updated_at": "2026-05-29T18:00:12+00:00",
   "total_count": 1050,
   "active_count": 348,
   "games": [
@@ -1002,6 +1002,31 @@
           "currency": "USD",
           "original": 599,
           "final": 239
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4651,
+          "final": 1860
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 17800,
+          "final": 7100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2400,
+          "final": 960
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 66000,
+          "final": 26400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 665000,
+          "final": 266000
         }
       },
       "review_hint": "Mixed<br>67% of the 154 user reviews for this game are positive.",
@@ -1016,7 +1041,7 @@
       "search_text": "an elder scrolls legend: battlespire an elder scrolls legend: battlespire trapped in the realm of darkness action rpg single-player partial controller support steam cloud family sharing english mixed mixed<br>67% of the 154 user reviews for this game are positive.",
       "first_seen": "2026-05-29T09:59:55+00:00",
       "last_seen": "2026-05-29T15:45:38+00:00",
-      "updated_at": "2026-05-29T15:45:38+00:00"
+      "updated_at": "2026-05-29T18:00:12+00:00"
     },
     {
       "app_id": 3483400,
@@ -4008,6 +4033,31 @@
           "currency": "USD",
           "original": 1599,
           "final": 399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10200,
+          "final": 2550
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27800,
+          "final": 6900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6200,
+          "final": 1550
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 180000,
+          "final": 45000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1750000,
+          "final": 437000
         }
       },
       "review_hint": "Positive<br>81% of the 33 user reviews for this game are positive.",
@@ -4022,7 +4072,7 @@
       "search_text": "car mechanic simulator 2021 - dodge | plymouth | chrysler remastered dlc car mechanic simulator 2021 - dodge | plymouth | chrysler remastered dlc car mechanic simulator 2021 - dodge | plymouth | chrysler remastered includes 8 licensed cars from 3 manufacturers! racing simulation single-player downloadable content steam achievements steam trading cards steam workshop partial controller support steam cloud stats includes level editor family sharing english french italian german spanish-spain schinese japanese polish portuguese---portugal portuguese-brazil russian korean turkish czech romanian arabic hungarian positive positive<br>81% of the 33 user reviews for this game are positive.",
       "first_seen": "2026-05-29T09:59:55+00:00",
       "last_seen": "2026-05-29T15:45:38+00:00",
-      "updated_at": "2026-05-29T15:45:38+00:00"
+      "updated_at": "2026-05-29T18:00:12+00:00"
     },
     {
       "app_id": 2112231,
@@ -4091,6 +4141,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 284
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 1805
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 5000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5000,
+          "final": 950
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 32300
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 313000
         }
       },
       "review_hint": "Mostly Positive<br>70% of the 92 user reviews for this game are positive.",
@@ -4105,7 +4180,7 @@
       "search_text": "car mechanic simulator 2021 - drag racing dlc car mechanic simulator 2021 - drag racing dlc car mechanic simulator 2021 - drag racing dlc is the big content you were waiting for!this dlc is introducing something completely new to the world of car mechanic. racing simulation single-player downloadable content steam achievements steam trading cards steam workshop partial controller support steam cloud stats includes level editor family sharing english french italian german spanish-spain schinese japanese polish portuguese---portugal portuguese-brazil russian korean turkish czech romanian arabic hungarian mixed mostly positive<br>70% of the 92 user reviews for this game are positive.",
       "first_seen": "2026-05-29T15:45:38+00:00",
       "last_seen": "2026-05-29T15:45:38+00:00",
-      "updated_at": "2026-05-29T15:45:38+00:00"
+      "updated_at": "2026-05-29T18:00:12+00:00"
     },
     {
       "app_id": 3483740,
@@ -4470,6 +4545,31 @@
           "currency": "USD",
           "original": 999,
           "final": 749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 4950
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 14100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 3150
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 90000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 825000
         }
       },
       "review_hint": "Very Positive<br>85% of the 128 user reviews for this game are positive.",
@@ -4484,7 +4584,7 @@
       "search_text": "chained echoes: ashes of elrant chained echoes: ashes of elrant valandis is calling once again. valandis needs you. one. more. time. ashes of elrant is the official dlc for the praised and loved chained echoes, offering you more of what you enjoyed so much. indie rpg single-player downloadable content steam achievements full controller support custom volume controls adjustable difficulty keyboard only option playable without timed input save anytime stereo sound family sharing english french german korean japanese schinese very positive very positive<br>85% of the 128 user reviews for this game are positive.",
       "first_seen": "2026-05-29T09:59:55+00:00",
       "last_seen": "2026-05-29T15:45:38+00:00",
-      "updated_at": "2026-05-29T15:45:38+00:00"
+      "updated_at": "2026-05-29T18:00:12+00:00"
     },
     {
       "app_id": 2567870,
@@ -14020,6 +14120,31 @@
           "currency": "USD",
           "original": 5999,
           "final": 2399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 47900,
+          "final": 19160
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 179000,
+          "final": 71600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 39800,
+          "final": 15920
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 748000,
+          "final": 299200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 6980000,
+          "final": 2792000
         }
       },
       "review_hint": "Mixed<br>46% of the 299 user reviews for this game are positive.",
@@ -14034,7 +14159,7 @@
       "search_text": "infinity strash: dragon quest the adventure of dai infinity strash: dragon quest the adventure of dai the memories of the hero, in your hands! experience the story of the legendary anime series, dragon quest the adventure of dai, in an exhilarating action role-playing game that combines stunning visuals with art from the anime and manga. action rpg single-player steam achievements steam trading cards partial controller support steam cloud family sharing english french german japanese korean schinese tchinese spanish-latin mixed mixed<br>46% of the 299 user reviews for this game are positive.",
       "first_seen": "2026-05-29T15:45:38+00:00",
       "last_seen": "2026-05-29T15:45:38+00:00",
-      "updated_at": "2026-05-29T15:45:38+00:00"
+      "updated_at": "2026-05-29T18:00:12+00:00"
     },
     {
       "app_id": 581320,
@@ -14221,6 +14346,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 524
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7600,
+          "final": 2660
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 9300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5000,
+          "final": 1750
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 152000,
+          "final": 53200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1550000,
+          "final": 542000
         }
       },
       "review_hint": "Very Positive<br>93% of the 12,433 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -14235,7 +14385,7 @@
       "search_text": "into the breach into the breach control powerful mechs from the future to defeat an alien threat. each attempt to save the world presents a new randomly generated challenge in this turn-based strategy game. indie rpg simulation strategy single-player steam achievements full controller support steam trading cards steam cloud remote play on phone remote play on tablet remote play on tv family sharing english french italian german spanish-spain japanese polish portuguese-brazil russian schinese arabic korean spanish-latin swedish thai tchinese turkish very positive very positive<br>93% of the 12,433 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-29T09:59:55+00:00",
       "last_seen": "2026-05-29T15:45:38+00:00",
-      "updated_at": "2026-05-29T15:45:38+00:00"
+      "updated_at": "2026-05-29T18:00:12+00:00"
     },
     {
       "app_id": 3035120,
@@ -15832,6 +15982,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8900,
+          "final": 3560
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 31800,
+          "final": 12700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5900,
+          "final": 2360
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 205000,
+          "final": 82000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2050000,
+          "final": 820000
         }
       },
       "review_hint": "Very Positive<br>90% of the 2,148 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -15846,7 +16021,7 @@
       "search_text": "let's build a zoo let's build a zoo it's time to build a zoo! construct and decorate enclosures, buy and breed animals, hire zookeepers and vets... then try your hand at dna splicing, and stitch together over 300,000 different types of animal. this can only go smoothly... simulation strategy single-player steam achievements full controller support steam cloud family sharing english schinese french german japanese thai spanish-spain italian very positive very positive<br>90% of the 2,148 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-29T15:45:38+00:00",
       "last_seen": "2026-05-29T15:45:38+00:00",
-      "updated_at": "2026-05-29T15:45:38+00:00"
+      "updated_at": "2026-05-29T18:00:12+00:00"
     },
     {
       "app_id": 2932150,
@@ -16223,6 +16398,31 @@
           "currency": "USD",
           "original": 5999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 46800,
+          "final": 14040
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 179000,
+          "final": 53700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 39900,
+          "final": 11970
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 638000,
+          "final": 191400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 6980000,
+          "final": 2094000
         }
       },
       "review_hint": "Very Positive<br>90% of the 7,188 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -16237,7 +16437,7 @@
       "search_text": "life is strange: true colors life is strange: true colors alex chen hides her 'curse': the psychic power of empathy, the ability to absorb the emotions of others. when her brother dies in a so-called accident, alex must embrace her power to find the truth. action adventure single-player steam achievements full controller support steam trading cards adjustable text size color alternatives custom volume controls adjustable difficulty playable without timed input stereo sound subtitle options steam cloud family sharing english french italian german spanish-spain portuguese-brazil russian schinese spanish-latin japanese very positive very positive<br>90% of the 7,188 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-29T09:59:55+00:00",
       "last_seen": "2026-05-29T15:45:38+00:00",
-      "updated_at": "2026-05-29T15:45:38+00:00"
+      "updated_at": "2026-05-29T18:00:12+00:00"
     },
     {
       "app_id": 1594940,
@@ -16384,6 +16584,31 @@
           "currency": "USD",
           "original": 699,
           "final": 629
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4200,
+          "final": 3780
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 17200,
+          "final": 15400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4268,
+          "final": 3841
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 88000,
+          "final": 79200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 780000,
+          "final": 702000
         }
       },
       "review_hint": "Positive<br>100% of the 23 user reviews for this game are positive.",
@@ -16398,7 +16623,7 @@
       "search_text": "loli ninja village loli ninja village an ogre, whose home was destroyed by a group of ninjas, decided to have its revenge. adventure casual indie rpg single-player steam cloud family sharing japanese english schinese tchinese 7 user reviews positive<br>100% of the 23 user reviews for this game are positive.",
       "first_seen": "2026-05-29T15:45:38+00:00",
       "last_seen": "2026-05-29T15:45:38+00:00",
-      "updated_at": "2026-05-29T15:45:38+00:00"
+      "updated_at": "2026-05-29T18:00:12+00:00"
     },
     {
       "app_id": 2408820,
@@ -19494,6 +19719,31 @@
           "currency": "USD",
           "original": 3499,
           "final": 1399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 21800,
+          "final": 8720
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 56600,
+          "final": 22600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10900,
+          "final": 4360
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 390000,
+          "final": 156000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3750000,
+          "final": 1500000
         }
       },
       "review_hint": "Very Positive<br>84% of the 23,088 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -19508,7 +19758,7 @@
       "search_text": "northgard: definitive edition northgard: definitive edition northgard: definitive edition is a critically acclaimed real-time strategy game based on norse mythology. lead your clan, uncover the secrets of a mysterious newfound continent and defeat your enemies to conquer the throne! adventure indie simulation strategy single-player multi-player pvp online pvp co-op online co-op steam achievements steam trading cards steam workshop steam workshop steam cloud includes level editor family sharing english french german russian schinese portuguese-brazil polish spanish-spain turkish italian korean very positive very positive<br>84% of the 23,088 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-29T15:45:38+00:00",
       "last_seen": "2026-05-29T15:45:38+00:00",
-      "updated_at": "2026-05-29T15:45:38+00:00"
+      "updated_at": "2026-05-29T18:00:12+00:00"
     },
     {
       "app_id": 2426530,
@@ -22277,6 +22527,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 6250
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 16400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 3800
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 115000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 1075000
         }
       },
       "review_hint": "Very Positive<br>84% of the 709 user reviews for this game are positive.",
@@ -22291,7 +22566,7 @@
       "search_text": "plains of pain plains of pain survive a brutal open world alone or with friends. explore a procedural wasteland scorched by chaos. build and defend your base, trade for what you need, complete deadly quests, and fight to claim faction outposts before someone else does. action adventure indie massively multiplayer rpg simulation early access single-player multi-player pvp online pvp lan pvp co-op online co-op lan co-op steam achievements steam trading cards steam cloud family sharing english czech spanish-spain portuguese-brazil german french ukrainian korean polish japanese russian schinese very positive very positive<br>84% of the 709 user reviews for this game are positive.",
       "first_seen": "2026-05-29T15:45:38+00:00",
       "last_seen": "2026-05-29T15:45:38+00:00",
-      "updated_at": "2026-05-29T15:45:38+00:00"
+      "updated_at": "2026-05-29T18:00:12+00:00"
     },
     {
       "app_id": 2688950,
@@ -25450,6 +25725,31 @@
           "currency": "USD",
           "original": 599,
           "final": 539
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3600,
+          "final": 3240
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 13600,
+          "final": 12200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2600,
+          "final": 2340
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 79000,
+          "final": 71100
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 655000,
+          "final": 589000
         }
       },
       "review_hint": "Mostly Positive<br>75% of the 12 user reviews for this game are positive.",
@@ -25464,7 +25764,7 @@
       "search_text": "rock island rock island lead your stone villagers to build an ever-growing tribe around a mysterious cube. gather resources, create powerful builds, and maintain the cycle of growth as the entire system spirals into overwhelming floods of effects and numbers. casual indie strategy single-player steam achievements steam cloud stats family sharing english french german spanish-spain russian turkish japanese polish schinese tchinese portuguese-brazil korean 3 user reviews mostly positive<br>75% of the 12 user reviews for this game are positive.",
       "first_seen": "2026-05-29T15:45:38+00:00",
       "last_seen": "2026-05-29T15:45:38+00:00",
-      "updated_at": "2026-05-29T15:45:38+00:00"
+      "updated_at": "2026-05-29T18:00:12+00:00"
     },
     {
       "app_id": 1253920,
@@ -27586,6 +27886,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1099
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 6875
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 18000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 4180
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 126500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 1182000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>96% of the 1,734 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -27600,7 +27925,7 @@
       "search_text": "snufkin: melody of moominvalley snufkin: melody of moominvalley join snufkin in this musical adventure about restoring harmony and balance to moominvalley, protecting it from the industrious park keeper. adventure indie rpg single-player steam achievements full controller support steam cloud family sharing english danish finnish japanese norwegian swedish french german spanish-spain polish portuguese-brazil russian schinese spanish-latin turkish korean tchinese overwhelmingly positive overwhelmingly positive<br>96% of the 1,734 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-29T15:45:38+00:00",
       "last_seen": "2026-05-29T15:45:38+00:00",
-      "updated_at": "2026-05-29T15:45:38+00:00"
+      "updated_at": "2026-05-29T18:00:12+00:00"
     },
     {
       "app_id": 2738490,
@@ -29036,6 +29361,31 @@
           "currency": "USD",
           "original": 699,
           "final": 629
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4200,
+          "final": 3780
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15900,
+          "final": 14300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2900,
+          "final": 2610
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 90500,
+          "final": 81400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 760000,
+          "final": 684000
         }
       },
       "review_hint": "",
@@ -29050,7 +29400,7 @@
       "search_text": "starvester starvester a short incremental game about expanding a star-system wide factory to build giant megastructures in space. deploy swarms of drones, mine resources, unlock upgrades and harvest the power of the stars! casual simulation strategy single-player steam achievements custom volume controls playable without timed input steam cloud family sharing english french italian german spanish-spain japanese korean portuguese-brazil russian schinese 4 user reviews",
       "first_seen": "2026-05-29T15:45:38+00:00",
       "last_seen": "2026-05-29T15:45:38+00:00",
-      "updated_at": "2026-05-29T15:45:38+00:00"
+      "updated_at": "2026-05-29T18:00:12+00:00"
     },
     {
       "app_id": 2982610,
@@ -30445,6 +30795,31 @@
           "currency": "USD",
           "original": 599,
           "final": 239
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4651,
+          "final": 1860
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 17800,
+          "final": 7100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2400,
+          "final": 960
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 66000,
+          "final": 26400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 665000,
+          "final": 266000
         }
       },
       "review_hint": "Mixed<br>63% of the 184 user reviews for this game are positive.",
@@ -30459,7 +30834,7 @@
       "search_text": "the elder scrolls adventures: redguard the elder scrolls adventures: redguard one man against an empire action rpg single-player partial controller support steam cloud family sharing english mixed mixed<br>63% of the 184 user reviews for this game are positive.",
       "first_seen": "2026-05-29T09:59:55+00:00",
       "last_seen": "2026-05-29T15:45:38+00:00",
-      "updated_at": "2026-05-29T15:45:38+00:00"
+      "updated_at": "2026-05-29T18:00:12+00:00"
     },
     {
       "app_id": 22320,
@@ -63415,6 +63790,31 @@
           "currency": "USD",
           "original": 1750,
           "final": 1575
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10215,
+          "final": 9193
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 33400,
+          "final": 30000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6713,
+          "final": 6041
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 218900,
+          "final": 197000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1848000,
+          "final": 1663000
         }
       },
       "review_hint": "Positive<br>100% of the 11 user reviews for this game are positive.",
@@ -63429,7 +63829,7 @@
       "search_text": "heavy metal death can heavy metal death can heavy metal death can is an old-school survival horror game set on a swedish cold war–era submarine. trapped beneath the ocean, you must fight against the terrifying sludge which has turned your crew into zombies. look for survivors and uncover the truth behind the madness. action adventure indie single-player steam achievements full controller support custom volume controls keyboard only option playable without timed input stereo sound steam cloud family sharing english positive positive<br>100% of the 11 user reviews for this game are positive.",
       "first_seen": "2026-05-29T09:59:55+00:00",
       "last_seen": "2026-05-29T15:45:38+00:00",
-      "updated_at": "2026-05-29T15:45:38+00:00"
+      "updated_at": "2026-05-29T18:00:12+00:00"
     },
     {
       "app_id": 1000360,
@@ -71146,6 +71546,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1349
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 8550
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 24100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 5220
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 153000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 1485000
         }
       },
       "review_hint": "Positive<br>100% of the 28 user reviews for this game are positive.",
@@ -71160,7 +71585,7 @@
       "search_text": "mushi mushi mushi is a single-player idle/incremental rpg. level up, gather loot and explore a rich fantasy world. casual indie rpg simulation single-player steam achievements steam cloud family sharing english positive positive<br>100% of the 28 user reviews for this game are positive.",
       "first_seen": "2026-05-29T09:59:55+00:00",
       "last_seen": "2026-05-29T15:45:38+00:00",
-      "updated_at": "2026-05-29T15:45:38+00:00"
+      "updated_at": "2026-05-29T18:00:12+00:00"
     },
     {
       "app_id": 666140,
@@ -87556,6 +87981,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 779
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8300,
+          "final": 4980
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 23800,
+          "final": 14200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5200,
+          "final": 3120
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 150000,
+          "final": 90000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1450000,
+          "final": 870000
         }
       },
       "review_hint": "Very Positive<br>89% of the 395 user reviews for this game are positive.",
@@ -87570,7 +88020,7 @@
       "search_text": "tabletop game shop simulator tabletop game shop simulator run your own tabletop game shop! stock shelves, glue &amp; paint minis, battle customers on game night, and grow your store into the ultimate nerd paradise. simulation single-player steam achievements color alternatives adjustable difficulty save anytime stereo sound partial controller support family sharing english french german spanish-spain schinese portuguese-brazil russian italian korean japanese polish very positive very positive<br>89% of the 395 user reviews for this game are positive.",
       "first_seen": "2026-05-29T09:59:55+00:00",
       "last_seen": "2026-05-29T15:45:38+00:00",
-      "updated_at": "2026-05-29T15:45:38+00:00"
+      "updated_at": "2026-05-29T18:00:12+00:00"
     },
     {
       "app_id": 2473480,
@@ -88132,6 +88582,31 @@
           "currency": "USD",
           "original": 1799,
           "final": 989
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11300,
+          "final": 6215
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29800,
+          "final": 16300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6900,
+          "final": 3795
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 198000,
+          "final": 108900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1950000,
+          "final": 1072000
         }
       },
       "review_hint": "Very Positive<br>87% of the 1,410 user reviews for this game are positive.",
@@ -88146,7 +88621,7 @@
       "search_text": "tavern talk - a cozy visual novel tavern talk - a cozy visual novel a cozy visual novel about running a tavern in a d&amp;d-inspired fantasy! gather rumors, serve magical drinks, and meet adventurers on a life-changing quest. adventure casual indie simulation single-player steam achievements full controller support adjustable text size color alternatives custom volume controls mouse only option playable without timed input save anytime subtitle options family sharing english german japanese schinese korean french very positive very positive<br>87% of the 1,410 user reviews for this game are positive.",
       "first_seen": "2026-05-29T09:59:55+00:00",
       "last_seen": "2026-05-29T15:45:38+00:00",
-      "updated_at": "2026-05-29T15:45:38+00:00"
+      "updated_at": "2026-05-29T18:00:12+00:00"
     },
     {
       "app_id": 1351240,
