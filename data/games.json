@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T13:46:30+00:00",
+  "updated_at": "2026-05-30T15:58:26+00:00",
   "total_count": 1084,
   "active_count": 348,
   "games": [
@@ -1763,6 +1763,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1349
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7000,
+          "final": 6300
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 25000,
+          "final": 22500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4500,
+          "final": 4050
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 190000,
+          "final": 171000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1200000,
+          "final": 1080000
         }
       },
       "review_hint": "Positive<br>100% of the 12 user reviews for this game are positive.",
@@ -1777,7 +1802,7 @@
       "search_text": "automaton heart automaton heart automaton heart is an rpg with platforming elements where you visit obscure and interesting places while upgrading your organs and strategizing about which items to bring along. action adventure indie rpg single-player steam achievements full controller support custom volume controls playable without timed input save anytime stereo sound steam cloud family sharing english positive positive<br>100% of the 12 user reviews for this game are positive.",
       "first_seen": "2026-05-30T13:46:30+00:00",
       "last_seen": "2026-05-30T13:46:30+00:00",
-      "updated_at": "2026-05-30T13:46:30+00:00"
+      "updated_at": "2026-05-30T15:58:26+00:00"
     },
     {
       "app_id": 736260,
@@ -4451,6 +4476,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8900,
+          "final": 2225
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 31800,
+          "final": 7900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7000,
+          "final": 1750
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 245000,
+          "final": 61200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2350000,
+          "final": 587000
         }
       },
       "review_hint": "Very Positive<br>83% of the 411 user reviews for this game are positive.",
@@ -4465,7 +4515,7 @@
       "search_text": "chasm: the rift chasm: the rift prepare for terror in this ground-breaking classic old-school fps. following the destruction of time you are left to battle in this horrific hellhole of multilevel interconnected missions populated by gruesome grotesque creatures. action single-player steam achievements full controller support steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese ukrainian tchinese very positive very positive<br>83% of the 411 user reviews for this game are positive.",
       "first_seen": "2026-05-30T08:31:56+00:00",
       "last_seen": "2026-05-30T13:46:30+00:00",
-      "updated_at": "2026-05-30T13:46:30+00:00"
+      "updated_at": "2026-05-30T15:58:26+00:00"
     },
     {
       "app_id": 2904040,
@@ -10964,6 +11014,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1049
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8800,
+          "final": 6160
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29900,
+          "final": 20900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5500,
+          "final": 3850
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 160000,
+          "final": 112000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1600000,
+          "final": 1120000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>96% of the 1,457 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -10978,7 +11053,7 @@
       "search_text": "fumes fumes arm your vehicle with deadly weapons and roam endless wastelands in this fast-paced single-player car combat game. collect upgrades for your car to melt enemies and giant bosses in this bizarre world. retro vibe. retro cars. retro gameplay! action adventure casual indie racing early access single-player steam achievements partial controller support steam cloud family sharing english french german spanish-spain polish portuguese-brazil russian ukrainian overwhelmingly positive overwhelmingly positive<br>96% of the 1,457 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-30T13:46:30+00:00",
       "last_seen": "2026-05-30T13:46:30+00:00",
-      "updated_at": "2026-05-30T13:46:30+00:00"
+      "updated_at": "2026-05-30T15:58:26+00:00"
     },
     {
       "app_id": 285900,
@@ -23287,6 +23362,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 974
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8800,
+          "final": 5720
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 25900,
+          "final": 16800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5300,
+          "final": 3445
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 110500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1610000,
+          "final": 1046000
         }
       },
       "review_hint": "Very Positive<br>94% of the 1,674 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -23301,7 +23401,7 @@
       "search_text": "rain world: downpour rain world: downpour rain world: downpour is a dlc expansion of rain world. take control of five new characters with new abilities in this vast, redefined world. slugcats have adapted to the harsh conditions alongside evolved predators! survive new environmental conditions, dangers and explore uncharted territory. action adventure indie simulation single-player multi-player pvp shared/split screen pvp co-op shared/split screen co-op shared/split screen downloadable content steam achievements full controller support steam trading cards steam workshop custom volume controls adjustable difficulty keyboard only option stereo sound steam cloud remote play on tv remote play together family sharing english italian spanish-spain portuguese-brazil french german japanese korean russian schinese very positive very positive<br>94% of the 1,674 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-30T08:31:56+00:00",
       "last_seen": "2026-05-30T13:46:30+00:00",
-      "updated_at": "2026-05-30T13:46:30+00:00"
+      "updated_at": "2026-05-30T15:58:26+00:00"
     },
     {
       "app_id": 1119730,
@@ -29506,6 +29606,31 @@
           "currency": "USD",
           "original": 2799,
           "final": 979
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 16800,
+          "final": 5880
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 59000,
+          "final": 20600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9800,
+          "final": 3430
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 317300,
+          "final": 111000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2987000,
+          "final": 1046000
         }
       },
       "review_hint": "Very Positive<br>84% of the 1,755 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -29520,7 +29645,7 @@
       "search_text": "survival: fountain of youth survival: fountain of youth survival: fountain of youth is a challenging single-player open-world adventure game set on the caribbean islands. survive as a shipwrecked 16th-century explorer, craft tools and shelter, and uncover the secrets of both an ancient civilization and your own fate. action adventure indie simulation single-player steam achievements full controller support family sharing english schinese french german russian spanish-spain japanese korean portuguese-brazil tchinese very positive very positive<br>84% of the 1,755 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-30T13:46:30+00:00",
       "last_seen": "2026-05-30T13:46:30+00:00",
-      "updated_at": "2026-05-30T13:46:30+00:00"
+      "updated_at": "2026-05-30T15:58:26+00:00"
     },
     {
       "app_id": 2004640,
@@ -29665,6 +29790,31 @@
           "currency": "USD",
           "original": 1099,
           "final": 659
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7200,
+          "final": 4320
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 11800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4600,
+          "final": 2760
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 130000,
+          "final": 78000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1250000,
+          "final": 750000
         }
       },
       "review_hint": "Positive<br>100% of the 25 user reviews for this game are positive.",
@@ -29679,7 +29829,7 @@
       "search_text": "svarog's dream - return of the old gods expansion svarog's dream - return of the old gods expansion bringing more action, expanding on the story, and everything else you liked in the core game. action adventure rpg single-player downloadable content steam achievements steam trading cards steam cloud family sharing english positive positive<br>100% of the 25 user reviews for this game are positive.",
       "first_seen": "2026-05-30T08:31:56+00:00",
       "last_seen": "2026-05-30T13:46:30+00:00",
-      "updated_at": "2026-05-30T13:46:30+00:00"
+      "updated_at": "2026-05-30T15:58:26+00:00"
     },
     {
       "app_id": 1043810,
@@ -32273,6 +32423,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 1250
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 3200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 760
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 23000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 215000
         }
       },
       "review_hint": "Very Positive<br>88% of the 11,226 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -32287,7 +32462,7 @@
       "search_text": "thief simulator thief simulator become the best thief. gather intel, steal things and sell them to buy hi-tech equipment. do everything that a real thief does. action adventure indie simulation single-player steam achievements partial controller support steam cloud family sharing english italian german spanish-spain polish portuguese---portugal russian schinese french turkish korean japanese czech hungarian very positive very positive<br>88% of the 11,226 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-30T08:31:56+00:00",
       "last_seen": "2026-05-30T13:46:30+00:00",
-      "updated_at": "2026-05-30T13:46:30+00:00"
+      "updated_at": "2026-05-30T15:58:26+00:00"
     },
     {
       "app_id": 1332720,
@@ -32349,6 +32524,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 559
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 3500
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 9100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 2128
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 64400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 602000
         }
       },
       "review_hint": "Very Positive<br>86% of the 2,401 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -32363,7 +32563,7 @@
       "search_text": "thief simulator 2 thief simulator 2 the door to your robber’s career is waiting! just crowbar the lock off and force your way through the threshold. learn skills, collect tools and become a master of the thieving trade! action indie simulation single-player steam achievements full controller support steam trading cards steam cloud family sharing english french italian german spanish-spain schinese polish russian turkish japanese korean portuguese---portugal ukrainian very positive very positive<br>86% of the 2,401 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-30T08:31:56+00:00",
       "last_seen": "2026-05-30T13:46:30+00:00",
-      "updated_at": "2026-05-30T13:46:30+00:00"
+      "updated_at": "2026-05-30T15:58:26+00:00"
     },
     {
       "app_id": 3693650,
