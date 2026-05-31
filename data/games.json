@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T13:52:01+00:00",
+  "updated_at": "2026-05-31T15:59:28+00:00",
   "total_count": 1120,
   "active_count": 349,
   "games": [
@@ -2293,6 +2293,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12800,
+          "final": 9600
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 24600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6800,
+          "final": 5100
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 228000,
+          "final": 171000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2200000,
+          "final": 1650000
         }
       },
       "review_hint": "Mostly Positive<br>72% of the 61 user reviews for this game are positive.",
@@ -2307,7 +2332,7 @@
       "search_text": "astrobotanica astrobotanica science-driven exploration adventure on prehistoric earth with a relaxing vibe. farming, crafting, puzzle-solving, and exploration on prehistoric earth, where you arrive as an alien botanist who is very good at plant research, but... can't breathe oxygen. adventure indie simulation early access single-player steam achievements custom volume controls playable without timed input save anytime stereo sound partial controller support steam cloud family sharing english french german polish spanish-spain portuguese-brazil spanish-latin mostly positive mostly positive<br>72% of the 61 user reviews for this game are positive.",
       "first_seen": "2026-05-31T13:52:01+00:00",
       "last_seen": "2026-05-31T13:52:01+00:00",
-      "updated_at": "2026-05-31T13:52:01+00:00"
+      "updated_at": "2026-05-31T15:59:28+00:00"
     },
     {
       "app_id": 2353250,
@@ -11553,6 +11578,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 1499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 20900,
+          "final": 10450
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 78800,
+          "final": 39400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 14800,
+          "final": 7400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 380000,
+          "final": 190000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2990000,
+          "final": 1495000
         }
       },
       "review_hint": "Mostly Positive<br>78% of the 3,633 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -11567,7 +11617,7 @@
       "search_text": "gears tactics gears tactics gears tactics is the fast-paced, turn-based strategy game from one of the most-acclaimed video game franchises – gears of war. outnumbered and fighting for survival, recruit and command your squad to hunt down an evil mastermind who makes monsters. strategy single-player steam achievements full controller support captions available steam cloud family sharing english french italian german spanish-spain japanese korean portuguese-brazil russian schinese spanish-latin mostly positive mostly positive<br>78% of the 3,633 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-31T13:52:01+00:00",
       "last_seen": "2026-05-31T13:52:01+00:00",
-      "updated_at": "2026-05-31T13:52:01+00:00"
+      "updated_at": "2026-05-31T15:59:28+00:00"
     },
     {
       "app_id": 704270,
@@ -19086,6 +19136,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 13900,
+          "final": 2780
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 54900,
+          "final": 10900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8900,
+          "final": 1780
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 320000,
+          "final": 64000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2280000,
+          "final": 456000
         }
       },
       "review_hint": "Very Positive<br>90% of the 10,515 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -19100,7 +19175,7 @@
       "search_text": "mudrunner mudrunner mudrunner is the ultimate off-road experience putting the players in the driver seat and dares them to take charge of incredible all-terrain vehicles, venturing across extreme siberian landscapes with only a map and compass as guides! simulation single-player multi-player co-op online co-op cross-platform multiplayer steam achievements full controller support steam trading cards steam workshop steam cloud family sharing english french italian german spanish-spain polish portuguese-brazil russian schinese very positive very positive<br>90% of the 10,515 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-05-31T13:52:01+00:00",
       "last_seen": "2026-05-31T13:52:01+00:00",
-      "updated_at": "2026-05-31T13:52:01+00:00"
+      "updated_at": "2026-05-31T15:59:28+00:00"
     },
     {
       "app_id": 1255560,
@@ -33868,6 +33943,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 1499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 18000,
+          "final": 9000
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 43800,
+          "final": 21900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9000,
+          "final": 4500
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 309000,
+          "final": 154500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3100000,
+          "final": 1550000
         }
       },
       "review_hint": "Mixed<br>62% of the 331 user reviews for this game are positive.",
@@ -33882,7 +33982,7 @@
       "search_text": "valhall: harbinger valhall: harbinger valhall is a blend of multiple genres, combining first &amp; third person directional physical combat slasher with a survival experience set in a brutal world of vikings. survive, feel thor's power, become an einherjar, and enter the ultimate battlefield! action adventure indie rpg early access single-player multi-player pvp online pvp co-op online co-op family sharing english mixed mixed<br>62% of the 331 user reviews for this game are positive.",
       "first_seen": "2026-05-31T13:52:01+00:00",
       "last_seen": "2026-05-31T13:52:01+00:00",
-      "updated_at": "2026-05-31T13:52:01+00:00"
+      "updated_at": "2026-05-31T15:59:28+00:00"
     },
     {
       "app_id": 427290,
