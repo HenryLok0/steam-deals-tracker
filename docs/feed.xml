@@ -4,7 +4,77 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sun, 31 May 2026 19:21:49 +0000</lastBuildDate>
+<lastBuildDate>Mon, 01 Jun 2026 04:25:09 +0000</lastBuildDate>
+<item>
+<title>Caravan SandWitch</title>
+<link>https://store.steampowered.com/app/1582650/</link>
+<guid isPermaLink="false">1582650</guid>
+<pubDate>Mon, 01 Jun 2026 04:25:09 +0000</pubDate>
+<description>Embark on a journey across vast landscapes in Caravan SandWitch, a captivating narrative-driven exploration adventure.</description>
+</item>
+<item>
+<title>Coal LLC</title>
+<link>https://store.steampowered.com/app/3361510/</link>
+<guid isPermaLink="false">3361510</guid>
+<pubDate>Mon, 01 Jun 2026 04:25:09 +0000</pubDate>
+<description>Fill your quota or die. Mine increasingly absurd amounts of coal using some dubious, but effective, mining techniques. Or relax and mine at your own pace in peaceful mode.</description>
+</item>
+<item>
+<title>Fabledom</title>
+<link>https://store.steampowered.com/app/1651560/</link>
+<guid isPermaLink="false">1651560</guid>
+<pubDate>Mon, 01 Jun 2026 04:25:09 +0000</pubDate>
+<description>Set in a wholesome fairytale world, Fabledom is a laid-back City builder. Enjoy the growth of your settlement, interact with your neighbors and defend your kingdom from magical creatures. All to find true love and live happily ever after!</description>
+</item>
+<item>
+<title>INSIDE</title>
+<link>https://store.steampowered.com/app/304430/</link>
+<guid isPermaLink="false">304430</guid>
+<pubDate>Mon, 01 Jun 2026 04:25:09 +0000</pubDate>
+<description>Hunted and alone, a boy finds himself drawn into the center of a dark project. INSIDE is a dark, narrative-driven platformer combining intense action with challenging puzzles. It has been critically acclaimed for its moody art style, ambient soundtrack and unsettling atmosphere.</description>
+</item>
+<item>
+<title>LIMBO</title>
+<link>https://store.steampowered.com/app/48000/</link>
+<guid isPermaLink="false">48000</guid>
+<pubDate>Mon, 01 Jun 2026 04:25:09 +0000</pubDate>
+<description>Uncertain of his sister's fate, a boy enters LIMBO</description>
+</item>
+<item>
+<title>Outlast: Whistleblower DLC</title>
+<link>https://store.steampowered.com/app/273300/</link>
+<guid isPermaLink="false">273300</guid>
+<pubDate>Mon, 01 Jun 2026 04:25:09 +0000</pubDate>
+<description>Whistleblower will let you play as Waylon Park, a software engineer under contract with Murkoff and the man who emailed journalists around the world - including Miles - at the beginning of Outlast. Spending a couple of weeks at Mount Massive, during which he was unable to even talk to his wife and son thanks to strict security protocols,...</description>
+</item>
+<item>
+<title>Reincarnated as a Dark Lord Before Taking Over the World with Power 999999999</title>
+<link>https://store.steampowered.com/app/4204590/</link>
+<guid isPermaLink="false">4204590</guid>
+<pubDate>Mon, 01 Jun 2026 04:25:09 +0000</pubDate>
+<description>An idle RPG where you play as a dark lord with the power to reincarnate. Choose different paths with each life to grow progressively stronger, eventually gaining enough power to conquer the world.</description>
+</item>
+<item>
+<title>Stick Fight: The Game</title>
+<link>https://store.steampowered.com/app/674940/</link>
+<guid isPermaLink="false">674940</guid>
+<pubDate>Mon, 01 Jun 2026 04:25:09 +0000</pubDate>
+<description>Stick Fight is a physics-based couch/online fighting game where you battle it out as the iconic stick figures from the golden age of the internet.</description>
+</item>
+<item>
+<title>Turok</title>
+<link>https://store.steampowered.com/app/405820/</link>
+<guid isPermaLink="false">405820</guid>
+<pubDate>Mon, 01 Jun 2026 04:25:09 +0000</pubDate>
+<description>A world where time has no meaning - and evil knows no bounds. Torn from a world long gone, the time traveling warrior Turok has found himself thrust into a savage land torn by conflict.</description>
+</item>
+<item>
+<title>Turok 2: Seeds of Evil</title>
+<link>https://store.steampowered.com/app/405830/</link>
+<guid isPermaLink="false">405830</guid>
+<pubDate>Mon, 01 Jun 2026 04:25:09 +0000</pubDate>
+<description>Having defeated the Campaigner, Turok throws the Chronocepter into a waiting volcano to destroy it. Unfortunately the blast awakens an even deadlier force - The Primagen. Once again a Turok is tasked with restoring peace to the land and stopping the Primagen from merging Earth with the nether world.</description>
+</item>
 <item>
 <title>Celeste</title>
 <link>https://store.steampowered.com/app/504230/</link>
@@ -83,13 +153,6 @@
 <description>Finish the hunt in this epic finale to the Turok Trilogy. Pick up immediately after the events of Turok 2: Seeds of Evil, with dual protagonists Joseph and Danielle Fireseed, of the Turok family tree, as they battle the titular antagonist Oblivion and its followers, the Flesh Eaters.</description>
 </item>
 <item>
-<title>Gears Tactics</title>
-<link>https://store.steampowered.com/app/1184050/</link>
-<guid isPermaLink="false">1184050</guid>
-<pubDate>Sun, 31 May 2026 13:52:01 +0000</pubDate>
-<description>Gears Tactics is the fast-paced, turn-based strategy game from one of the most-acclaimed video game franchises – Gears of War. Outnumbered and fighting for survival, recruit and command your squad to hunt down an evil mastermind who makes monsters.</description>
-</item>
-<item>
 <title>MudRunner</title>
 <link>https://store.steampowered.com/app/675010/</link>
 <guid isPermaLink="false">675010</guid>
@@ -104,132 +167,6 @@
 <description>VALHALL is a blend of multiple genres, combining first &amp;amp; third person directional physical combat slasher with a survival experience set in a brutal world of Vikings. Survive, feel Thor's power, become an einherjar, and enter the ultimate battlefield!</description>
 </item>
 <item>
-<title>A Highland Song</title>
-<link>https://store.steampowered.com/app/1240060/</link>
-<guid isPermaLink="false">1240060</guid>
-<pubDate>Sun, 31 May 2026 04:10:51 +0000</pubDate>
-<description>Moira McKinnon is running away. A wild adventure through the Scottish Highlands, with open platforming and dynamic storytelling, maps and music. From the creators of Heaven's Vault and 80 Days.</description>
-</item>
-<item>
-<title>A Plague Tale: Innocence</title>
-<link>https://store.steampowered.com/app/752590/</link>
-<guid isPermaLink="false">752590</guid>
-<pubDate>Sun, 31 May 2026 04:10:51 +0000</pubDate>
-<description>Follow the grim tale of young Amicia and her little brother Hugo, in a heartrending journey through the darkest hours of history.</description>
-</item>
-<item>
-<title>Gears 5</title>
-<link>https://store.steampowered.com/app/1097840/</link>
-<guid isPermaLink="false">1097840</guid>
-<pubDate>Sun, 31 May 2026 04:10:51 +0000</pubDate>
-<description>From one of gaming’s most acclaimed sagas, Gears is bigger than ever. With all-out war descending, Kait Diaz breaks away to uncover her connection to the enemy and discovers the true danger to Sera – herself.</description>
-</item>
-<item>
-<title>I Have No Mouth, and I Must Scream</title>
-<link>https://store.steampowered.com/app/245390/</link>
-<guid isPermaLink="false">245390</guid>
-<pubDate>Sun, 31 May 2026 04:10:51 +0000</pubDate>
-<description>The adventure plunges you into the tortured and hidden past of five humans. Delve into their darkest fears. Outwit the Master Computer AM in a game of psychological warfare. Disturbing, compelling. An adventure you won't easily forget !!</description>
-</item>
-<item>
-<title>LOST EMBER: Rekindled Edition</title>
-<link>https://store.steampowered.com/app/3086580/</link>
-<guid isPermaLink="false">3086580</guid>
-<pubDate>Sun, 31 May 2026 04:10:51 +0000</pubDate>
-<description>Explore the acclaimed animal adventure in never before seen beauty! Slip into the role of different animals to uncover the fate of an ancient world. Dive into deep waters, fly at lofty heights or even climb steep cliffs with a mountain goat, there are lots of ways of getting around.</description>
-</item>
-<item>
-<title>Orcs Must Die! Deathtrap</title>
-<link>https://store.steampowered.com/app/2273980/</link>
-<guid isPermaLink="false">2273980</guid>
-<pubDate>Sun, 31 May 2026 04:10:51 +0000</pubDate>
-<description>Orcs Must Die! Deathtrap combines chaotic third-person combat with devious trap-laying strategy. Enjoy endless replayability as your War Mage grows stronger through roguelite progression. Repel relentless orc hordes solo or with up to 4 players.</description>
-</item>
-<item>
-<title>Outpath</title>
-<link>https://store.steampowered.com/app/2237970/</link>
-<guid isPermaLink="false">2237970</guid>
-<pubDate>Sun, 31 May 2026 04:10:51 +0000</pubDate>
-<description>An experimental clicker base building game. Craft, gather &amp;amp; manage resources, build your base and buy more islands to exploit and expand!</description>
-</item>
-<item>
-<title>Vampyr</title>
-<link>https://store.steampowered.com/app/427290/</link>
-<guid isPermaLink="false">427290</guid>
-<pubDate>Sun, 31 May 2026 04:10:51 +0000</pubDate>
-<description>London, 1918. You are newly-turned Vampyr Dr. Jonathan Reid. As a doctor, you must find a cure to save the city’s flu-ravaged citizens. As a Vampyr, you are cursed to feed on those you vowed to heal.</description>
-</item>
-<item>
-<title>A Plague Tale: Requiem</title>
-<link>https://store.steampowered.com/app/1182900/</link>
-<guid isPermaLink="false">1182900</guid>
-<pubDate>Sat, 30 May 2026 19:22:21 +0000</pubDate>
-<description>Embark on a heartrending journey into a brutal, breathtaking world, and discover the cost of saving those you love in a desperate struggle for survival. Strike from the shadows or unleash hell with a variety of weapons, tools and unearthly powers.</description>
-</item>
-<item>
-<title>Ale &amp; Tale Tavern</title>
-<link>https://store.steampowered.com/app/2683150/</link>
-<guid isPermaLink="false">2683150</guid>
-<pubDate>Sat, 30 May 2026 19:22:21 +0000</pubDate>
-<description>Get ready for a thrilling mix of genres: a cooperative, first-person, open-world fantasy tavern simulator, action, fishing, hunting, exploration, and completing fun and diverse quests. And, of course, COOKING! Play with friends, feed and quench the thirst of the entire world!</description>
-</item>
-<item>
-<title>Aliens: Dark Descent</title>
-<link>https://store.steampowered.com/app/1150440/</link>
-<guid isPermaLink="false">1150440</guid>
-<pubDate>Sat, 30 May 2026 19:22:21 +0000</pubDate>
-<description>Drop into the gripping journey of Aliens: Dark Descent, a squad-based, single-player action game in the iconic Alien franchise. Lead your soldiers in real-time to stop a new and terrifying kind of Xenomorph outbreak on Planet Lethe.</description>
-</item>
-<item>
-<title>Aliens: Fireteam Elite</title>
-<link>https://store.steampowered.com/app/1549970/</link>
-<guid isPermaLink="false">1549970</guid>
-<pubDate>Sat, 30 May 2026 19:22:21 +0000</pubDate>
-<description>Aliens: Fireteam Elite is a cooperative third-person survival game set in the iconic Alien Universe. Battle through hordes of different types of Xenomorph, customize your character and gear, and level-up as you try to contain this ever-growing threat.</description>
-</item>
-<item>
-<title>Among Us</title>
-<link>https://store.steampowered.com/app/945360/</link>
-<guid isPermaLink="false">945360</guid>
-<pubDate>Sat, 30 May 2026 19:22:21 +0000</pubDate>
-<description>An online and local party game of teamwork and betrayal for 4-15 players...in space!</description>
-</item>
-<item>
-<title>Atomic Heart</title>
-<link>https://store.steampowered.com/app/668580/</link>
-<guid isPermaLink="false">668580</guid>
-<pubDate>Sat, 30 May 2026 19:22:21 +0000</pubDate>
-<description>In a mad and sublime utopian world, take part in explosive encounters. Adapt your fighting style to each opponent, use your environment and upgrade your equipment to fulfill your mission. If you want to reach the truth, you'll have to pay in blood.</description>
-</item>
-<item>
-<title>Boxes: Lost Fragments</title>
-<link>https://store.steampowered.com/app/2019810/</link>
-<guid isPermaLink="false">2019810</guid>
-<pubDate>Sat, 30 May 2026 19:22:21 +0000</pubDate>
-<description>As a legendary thief, your next assignment lures you into a grand and lavish mansion. There you find a series of puzzle boxes, designed for an unknown purpose. What should have been a quick in-and-out, gradually turns into your own harrowing struggle for freedom and answers.</description>
-</item>
-<item>
-<title>Captain of Industry</title>
-<link>https://store.steampowered.com/app/1594320/</link>
-<guid isPermaLink="false">1594320</guid>
-<pubDate>Sat, 30 May 2026 19:22:21 +0000</pubDate>
-<description>Build an industrial empire on a remote island. Mine resources, reshape terrain with excavators, grow food, construct factories, lay train tracks, and trade with the outside world. Research 100+ technologies to advance from basic metal smelting all the way to nuclear power and space flight.</description>
-</item>
-<item>
-<title>Duck Detective: The Ghost of Glamping</title>
-<link>https://store.steampowered.com/app/2714620/</link>
-<guid isPermaLink="false">2714620</guid>
-<pubDate>Sat, 30 May 2026 19:22:21 +0000</pubDate>
-<description>You are the one and only Duck Detective, a depressed and recently divorced duck who must quack the case. Inspect evidence, make de-duck-tions, and solve this no-murder mystery!</description>
-</item>
-<item>
-<title>Gears of War: Reloaded</title>
-<link>https://store.steampowered.com/app/2523720/</link>
-<guid isPermaLink="false">2523720</guid>
-<pubDate>Sat, 30 May 2026 19:22:21 +0000</pubDate>
-<description>Experience the origins of one of gaming’s most acclaimed franchises like never before, faithfully remastered and optimized for PC.</description>
-</item>
-<item>
 <title>IQ Under Construction</title>
 <link>https://store.steampowered.com/app/3771740/</link>
 <guid isPermaLink="false">3771740</guid>
@@ -237,74 +174,11 @@
 <description>Got strong nerves? Reliable friends? Precise jumps? Then this is the place for you. And if not, try it anyway. It'll be fun. Probably.</description>
 </item>
 <item>
-<title>Kunugi's Life is a Mess!</title>
-<link>https://store.steampowered.com/app/4429950/</link>
-<guid isPermaLink="false">4429950</guid>
-<pubDate>Sat, 30 May 2026 19:22:21 +0000</pubDate>
-<description>In this roguelike, turn-based dungeon-crawling RPG, play as Kunugi, a homeless girl driven by a pursuit of vengeance after her former bully ruined her life. Dive into dungeons, defeat your enemies, learn new skills, and gear up. Don’t let the bullies gain the upper hand over you!</description>
-</item>
-<item>
 <title>Moonrise Fall</title>
 <link>https://store.steampowered.com/app/1035110/</link>
 <guid isPermaLink="false">1035110</guid>
 <pubDate>Sat, 30 May 2026 19:22:21 +0000</pubDate>
 <description>​Moonrise Fall is an atmospheric exploration puzzle game about a boy who finds himself lost in a supernatural forest after losing both parents in a car crash. Put your detective skills to the test. Unravel the mysteries of the forest and photograph the strange creatures (cryptids) that reside there.</description>
-</item>
-<item>
-<title>Outlaws + Handful of Missions: Remaster</title>
-<link>https://store.steampowered.com/app/3366780/</link>
-<guid isPermaLink="false">3366780</guid>
-<pubDate>Sat, 30 May 2026 19:22:21 +0000</pubDate>
-<description>When outlaws murdered your wife and took your daughter, everything you had was gone. Your gut aches for blood and sweet revenge. Dyin's too good for 'em now!</description>
-</item>
-<item>
-<title>Slime Rancher</title>
-<link>https://store.steampowered.com/app/433340/</link>
-<guid isPermaLink="false">433340</guid>
-<pubDate>Sat, 30 May 2026 19:22:21 +0000</pubDate>
-<description>Slime Rancher is the tale of Beatrix LeBeau, a plucky, young rancher who sets out for a life a thousand light years away from Earth on the ‘Far, Far Range’ where she tries her hand at making a living wrangling slimes.</description>
-</item>
-<item>
-<title>Slime Rancher 2</title>
-<link>https://store.steampowered.com/app/1657630/</link>
-<guid isPermaLink="false">1657630</guid>
-<pubDate>Sat, 30 May 2026 19:22:21 +0000</pubDate>
-<description>Continue the adventures of Beatrix LeBeau as she journeys across the Slime Sea to Rainbow Island, a land brimming with ancient mysteries, and bursting with wiggly, new slimes to wrangle in this sequel to the smash-hit, Slime Rancher.</description>
-</item>
-<item>
-<title>System Shock</title>
-<link>https://store.steampowered.com/app/482400/</link>
-<guid isPermaLink="false">482400</guid>
-<pubDate>Sat, 30 May 2026 19:22:21 +0000</pubDate>
-<description>A first-person fight to the death in the depths of space!</description>
-</item>
-<item>
-<title>System Shock 2: 25th Anniversary Remaster</title>
-<link>https://store.steampowered.com/app/866570/</link>
-<guid isPermaLink="false">866570</guid>
-<pubDate>Sat, 30 May 2026 19:22:21 +0000</pubDate>
-<description>System Shock® 2: 25th Anniversary Remaster is a genre defining experience that established innovative game-play mechanics that are a staple of the FPS and RPG genre today. Survive the wretched corridors of the Von Braun. Your training has prepared you for this.</description>
-</item>
-<item>
-<title>The Henry Stickmin Collection</title>
-<link>https://store.steampowered.com/app/1089980/</link>
-<guid isPermaLink="false">1089980</guid>
-<pubDate>Sat, 30 May 2026 19:22:21 +0000</pubDate>
-<description>A choose-your-own-path where failing is more fun than succeeding.</description>
-</item>
-<item>
-<title>The Thing: Remastered</title>
-<link>https://store.steampowered.com/app/2958970/</link>
-<guid isPermaLink="false">2958970</guid>
-<pubDate>Sat, 30 May 2026 19:22:21 +0000</pubDate>
-<description>The Thing: Remastered is a faithful restoration of the cult-classic 2002 third-person survival horror shooter game inspired by Universal Pictures’ genre-defining 1982 film, The Thing</description>
-</item>
-<item>
-<title>Travellers Rest</title>
-<link>https://store.steampowered.com/app/1139980/</link>
-<guid isPermaLink="false">1139980</guid>
-<pubDate>Sat, 30 May 2026 19:22:21 +0000</pubDate>
-<description>Craft, farm, build and cook! In Travellers Rest you will have to use all the available tools to become the best tavern keeper in the realm. Create unique dishes and drinks to please your customers as you discover the world and its colorful characters.</description>
 </item>
 <item>
 <title>Drift86</title>
