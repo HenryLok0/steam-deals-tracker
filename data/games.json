@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T16:39:43+00:00",
+  "updated_at": "2026-06-02T18:31:25+00:00",
   "total_count": 1213,
   "active_count": 349,
   "games": [
@@ -726,6 +726,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 18700,
+          "final": 11220
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 48800,
+          "final": 29200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10800,
+          "final": 6480
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 340000,
+          "final": 204000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3200000,
+          "final": 1920000
         }
       },
       "review_hint": "Very Positive<br>87% of the 783 user reviews for this game are positive.",
@@ -740,7 +765,7 @@
       "search_text": "airborne empire airborne empire build your sky city while exploring a vast landscape in this open world rpg city builder. combining the methodical construction and management of a city builder; the unique lift, balance, and propulsion needed for a flying city; and the compelling characters, dangers, and adventures of an rpg! action adventure casual indie rpg simulation strategy single-player steam achievements camera comfort custom volume controls adjustable difficulty mouse only option playable without timed input save anytime stereo sound steam cloud family sharing english german schinese french spanish-spain japanese korean portuguese-brazil russian very positive very positive<br>87% of the 783 user reviews for this game are positive.",
       "first_seen": "2026-06-02T16:39:43+00:00",
       "last_seen": "2026-06-02T16:39:43+00:00",
-      "updated_at": "2026-06-02T16:39:43+00:00"
+      "updated_at": "2026-06-02T18:31:25+00:00"
     },
     {
       "app_id": 108710,
@@ -3306,6 +3331,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 2249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14500,
+          "final": 13050
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 46900,
+          "final": 42200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9300,
+          "final": 8370
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 315000,
+          "final": 283500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2650000,
+          "final": 2385000
         }
       },
       "review_hint": "Positive<br>94% of the 19 user reviews for this game are positive.",
@@ -3320,7 +3370,7 @@
       "search_text": "battleship command battleship command command the mighty scharnhorst in this immersive wwii naval simulation. walk her decks in first-person, control gunnery, radar, and navigation, and lead your fleet through the atlantic, arctic, and mediterranean. battle convoys, outwit enemies, and survive the stormy seas of war. action simulation strategy early access single-player family sharing english 8 user reviews positive<br>94% of the 19 user reviews for this game are positive.",
       "first_seen": "2026-06-02T16:39:43+00:00",
       "last_seen": "2026-06-02T16:39:43+00:00",
-      "updated_at": "2026-06-02T16:39:43+00:00"
+      "updated_at": "2026-06-02T18:31:25+00:00"
     },
     {
       "app_id": 1330460,
@@ -3398,6 +3448,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1339
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 8375
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 21900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5500,
+          "final": 3685
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 154100
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 1440000
         }
       },
       "review_hint": "Very Positive<br>82% of the 2,928 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -3412,7 +3487,7 @@
       "search_text": "becastled becastled build a castle by day and defend it by night. becastled blends cozy city-building with challenging tower defense strategy. lead the sun kingdom’s last stand against the moon beasts and end the ancient conflict between light and darkness! indie strategy single-player steam achievements full controller support steam trading cards steam workshop steam cloud stats includes level editor family sharing english russian french italian german spanish-spain schinese turkish czech dutch hungarian polish swedish ukrainian danish portuguese-brazil romanian tchinese finnish greek korean norwegian japanese thai vietnamese bulgarian arabic very positive very positive<br>82% of the 2,928 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-02T16:39:43+00:00",
       "last_seen": "2026-06-02T16:39:43+00:00",
-      "updated_at": "2026-06-02T16:39:43+00:00"
+      "updated_at": "2026-06-02T18:31:25+00:00"
     },
     {
       "app_id": 1689620,
@@ -10098,6 +10173,31 @@
           "currency": "USD",
           "original": 799,
           "final": 599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4800,
+          "final": 3600
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 17500,
+          "final": 13100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3300,
+          "final": 2475
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 105000,
+          "final": 78700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 870000,
+          "final": 652000
         }
       },
       "review_hint": "",
@@ -10112,7 +10212,7 @@
       "search_text": "fortune mill fortune mill in this incremental game, you must make $1,000,000 in each room to escape. throw darts, play scratch-off tickets, unlock automation, and choose upgrades carefully as each room affects all the others! casual indie simulation single-player steam achievements steam cloud family sharing english french german spanish-spain japanese korean polish portuguese-brazil russian schinese 1 user reviews",
       "first_seen": "2026-06-02T16:39:43+00:00",
       "last_seen": "2026-06-02T16:39:43+00:00",
-      "updated_at": "2026-06-02T16:39:43+00:00"
+      "updated_at": "2026-06-02T18:31:25+00:00"
     },
     {
       "app_id": 323190,
@@ -13276,6 +13376,31 @@
           "currency": "USD",
           "original": 999,
           "final": 699
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 4620
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 13100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 2940
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 84000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 770000
         }
       },
       "review_hint": "Mostly Negative<br>33% of the 408 user reviews for this game are positive.",
@@ -13290,7 +13415,7 @@
       "search_text": "hitman 3 - deluxe pack hitman 3 - deluxe pack the hitman 3 - deluxe pack adds new content to hitman 3 internet access and a free ioi account required to redeem the digital soundtrack and the digital &quot;world of hitman&quot; book. for more information, please visit ioi.dk/ioi-account action adventure single-player downloadable content steam achievements full controller support steam cloud family sharing english french italian german spanish-spain japanese russian schinese tchinese mostly negative mostly negative<br>33% of the 408 user reviews for this game are positive.",
       "first_seen": "2026-06-02T16:39:43+00:00",
       "last_seen": "2026-06-02T16:39:43+00:00",
-      "updated_at": "2026-06-02T16:39:43+00:00"
+      "updated_at": "2026-06-02T18:31:25+00:00"
     },
     {
       "app_id": 1829590,
@@ -13348,6 +13473,31 @@
           "currency": "USD",
           "original": 999,
           "final": 699
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 4620
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 13100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 2940
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 84000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 770000
         }
       },
       "review_hint": "Mostly Negative<br>27% of the 573 user reviews for this game are positive.",
@@ -13362,7 +13512,7 @@
       "search_text": "hitman 3 access pass: hitman 2 expansion hitman 3 access pass: hitman 2 expansion purchasing or redeeming this access pass will grant access to the locations from 'hitman 2 - expansion pass' in hitman 3. you must own hitman 3 to access this content. action adventure single-player downloadable content steam achievements full controller support steam cloud family sharing english french italian german spanish-spain japanese russian schinese tchinese mostly negative mostly negative<br>27% of the 573 user reviews for this game are positive.",
       "first_seen": "2026-06-02T10:42:56+00:00",
       "last_seen": "2026-06-02T16:39:43+00:00",
-      "updated_at": "2026-06-02T16:39:43+00:00"
+      "updated_at": "2026-06-02T18:31:25+00:00"
     },
     {
       "app_id": 1659040,
@@ -16273,6 +16423,31 @@
           "currency": "USD",
           "original": 1799,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11300,
+          "final": 5650
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29800,
+          "final": 14900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6800,
+          "final": 3400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 200000,
+          "final": 100000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1950000,
+          "final": 975000
         }
       },
       "review_hint": "Very Positive<br>84% of the 983 user reviews for this game are positive.",
@@ -16287,7 +16462,7 @@
       "search_text": "let them trade let them trade build a network of cities that produce and trade resources, upgrade your castle, and protect the cities from cheeky bandits. tinker with the economy at your own pace, and watch the charming wooden world grow into a lively and thriving kingdom. indie simulation strategy single-player steam achievements steam workshop includes level editor family sharing english german japanese schinese tchinese korean french portuguese-brazil spanish-spain very positive very positive<br>84% of the 983 user reviews for this game are positive.",
       "first_seen": "2026-06-02T16:39:43+00:00",
       "last_seen": "2026-06-02T16:39:43+00:00",
-      "updated_at": "2026-06-02T16:39:43+00:00"
+      "updated_at": "2026-06-02T18:31:25+00:00"
     },
     {
       "app_id": 2932150,
@@ -21239,6 +21414,31 @@
           "currency": "USD",
           "original": 599,
           "final": 497
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3600,
+          "final": 2988
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 13600,
+          "final": 11200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2600,
+          "final": 2158
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 79000,
+          "final": 65500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 655000,
+          "final": 544000
         }
       },
       "review_hint": "Positive<br>100% of the 21 user reviews for this game are positive.",
@@ -21253,7 +21453,7 @@
       "search_text": "papa's mocharia deluxe papa's mocharia deluxe create delicious coffee drinks and cannoli in papa's mocharia deluxe! create stylish layered lattes in the coffeehouse for papa louie's loyal customers while earning tips, points, and special recipes. take a trip in the food truck to design and serve your own eye-catching creations! action casual indie simulation strategy single-player steam achievements steam cloud family sharing english positive positive<br>100% of the 21 user reviews for this game are positive.",
       "first_seen": "2026-06-02T16:39:43+00:00",
       "last_seen": "2026-06-02T16:39:43+00:00",
-      "updated_at": "2026-06-02T16:39:43+00:00"
+      "updated_at": "2026-06-02T18:31:25+00:00"
     },
     {
       "app_id": 2694490,
@@ -28281,6 +28481,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 449
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 2850
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 8000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 1740
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 51000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 495000
         }
       },
       "review_hint": "Very Positive<br>83% of the 3,055 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -28295,7 +28520,7 @@
       "search_text": "stronghold: definitive edition stronghold: definitive edition greetings sire! your stronghold awaits you. build a castle economy, besiege unforgettable villains and return to the 'castle sim' that started it all. experience this classic rts with upgraded visuals, modernised gameplay, steam multiplayer and a new campaign. simulation strategy single-player multi-player pvp online pvp steam achievements steam trading cards steam workshop custom volume controls adjustable difficulty mouse only option playable without timed input save anytime steam cloud includes level editor family sharing english french italian german spanish-spain czech hungarian japanese korean polish portuguese-brazil russian schinese thai tchinese turkish ukrainian very positive very positive<br>83% of the 3,055 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-02T10:42:56+00:00",
       "last_seen": "2026-06-02T16:39:43+00:00",
-      "updated_at": "2026-06-02T16:39:43+00:00"
+      "updated_at": "2026-06-02T18:31:25+00:00"
     },
     {
       "app_id": 2300840,
@@ -28462,6 +28687,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 349
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 2184
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 5700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9200,
+          "final": 1288
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 39200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 378000
         }
       },
       "review_hint": "Mostly Positive<br>78% of the 1,784 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -28476,7 +28726,7 @@
       "search_text": "succubus succubus become a demonic priestess of lust and use her unique skills to take revenge on your enemies. regain your kingdom making hell tremble under your hooves! leave no one alive if they won't bend the knee. action adventure single-player steam achievements full controller support steam cloud family sharing english polish russian french italian german spanish-spain korean schinese turkish tchinese hungarian mostly positive mostly positive<br>78% of the 1,784 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-02T16:39:43+00:00",
       "last_seen": "2026-06-02T16:39:43+00:00",
-      "updated_at": "2026-06-02T16:39:43+00:00"
+      "updated_at": "2026-06-02T18:31:25+00:00"
     },
     {
       "app_id": 2124120,
@@ -29987,6 +30237,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 624
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14900,
+          "final": 3725
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 49900,
+          "final": 12400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8500,
+          "final": 2125
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 70000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2500000,
+          "final": 625000
         }
       },
       "review_hint": "Mostly Positive<br>77% of the 287 user reviews for this game are positive.",
@@ -30001,7 +30276,7 @@
       "search_text": "the axis unseen the axis unseen a heavy metal horror game where you hunt monsters from folklore in an open world. discover enhanced sense powers, elemental arrows, magic and journals from people who came before you. almost all of the ui exists in the world itself. created by one of the developers of skyrim and fallout. action indie rpg simulation single-player steam achievements full controller support steam trading cards camera comfort color alternatives adjustable difficulty playable without timed input save anytime stereo sound steam cloud family sharing english japanese french italian german spanish-spain danish dutch korean norwegian polish portuguese-brazil russian schinese swedish tchinese turkish mostly positive mostly positive<br>77% of the 287 user reviews for this game are positive.",
       "first_seen": "2026-06-02T16:39:43+00:00",
       "last_seen": "2026-06-02T16:39:43+00:00",
-      "updated_at": "2026-06-02T16:39:43+00:00"
+      "updated_at": "2026-06-02T18:31:25+00:00"
     },
     {
       "app_id": 1677770,
@@ -47395,6 +47670,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 17600,
+          "final": 1760
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 69900,
+          "final": 6900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 11600,
+          "final": 1160
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 410000,
+          "final": 41000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4100000,
+          "final": 410000
         }
       },
       "review_hint": "Very Positive<br>85% of the 3,494 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -47409,7 +47709,7 @@
       "search_text": "bulletstorm: full clip edition bulletstorm: full clip edition step into the boots of grayson hunt after a crash landing on an old resort planet forces him to make a hard choice: survival or revenge. execute masterful kills with bulletstorm: full clip edition’s unique combat system that rewards you for performing the most creative and deadly kills imaginable. action adventure single-player multi-player co-op online co-op steam achievements full controller support steam trading cards camera comfort custom volume controls adjustable difficulty subtitle options steam cloud stats steam leaderboards remote play on tv family sharing english french italian german spanish-spain japanese polish portuguese-brazil russian very positive very positive<br>85% of the 3,494 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-02T10:42:56+00:00",
       "last_seen": "2026-06-02T16:39:43+00:00",
-      "updated_at": "2026-06-02T16:39:43+00:00"
+      "updated_at": "2026-06-02T18:31:25+00:00"
     },
     {
       "app_id": 12200,

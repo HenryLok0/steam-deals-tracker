@@ -4,7 +4,7 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Tue, 02 Jun 2026 16:39:43 +0000</lastBuildDate>
+<lastBuildDate>Tue, 02 Jun 2026 18:31:25 +0000</lastBuildDate>
 <item>
 <title>Airborne Empire</title>
 <link>https://store.steampowered.com/app/2438680/</link>
@@ -321,102 +321,11 @@
 <description>It's a lovely morning in the village and you are a horrible goose.</description>
 </item>
 <item>
-<title>Arcane Merchant</title>
-<link>https://store.steampowered.com/app/4086760/</link>
-<guid isPermaLink="false">4086760</guid>
-<pubDate>Mon, 01 Jun 2026 17:47:37 +0000</pubDate>
-<description>Open your own shop in the heart of a Medieval Fantasy realm! Stock your shelves with everything from potions and swords to mysterious crystals and legendary artifacts. Set your prices, earn your customers' trust and become the richest merchant in the town!</description>
-</item>
-<item>
-<title>Cloudheim</title>
-<link>https://store.steampowered.com/app/2070270/</link>
-<guid isPermaLink="false">2070270</guid>
-<pubDate>Mon, 01 Jun 2026 17:47:37 +0000</pubDate>
-<description>Master chaotic physics-based combat inspired by Zelda and Devil May Cry. Explore islands and dungeons, smash monsters, loot and craft powerful gear, and grow your home in the sky. Play solo or online co-op with up to 4 players.</description>
-</item>
-<item>
-<title>FOR HONOR™</title>
-<link>https://store.steampowered.com/app/304390/</link>
-<guid isPermaLink="false">304390</guid>
-<pubDate>Mon, 01 Jun 2026 17:47:37 +0000</pubDate>
-<description>Fight alone or with friends in For Honor, a third-person hero-based melee fighting game. Enter the chaos of war as a Knight, a Viking, a Samurai, a Wu Lin, or an Outlander. Fight in brutal PvP and team-oriented modes, or play the thrilling story campaign.</description>
-</item>
-<item>
 <title>Gravity Circuit</title>
 <link>https://store.steampowered.com/app/858710/</link>
 <guid isPermaLink="false">858710</guid>
 <pubDate>Mon, 01 Jun 2026 17:47:37 +0000</pubDate>
 <description>Gravity Circuit is a flashy action packed 2D platformer in the spirit of console classics. Follow Kai, a lone operative war hero who harnesses the mysterious powers of the Gravity Circuit, on an adventure in a futuristic world inhabited by sentient robots.</description>
-</item>
-<item>
-<title>Master of Command</title>
-<link>https://store.steampowered.com/app/2878450/</link>
-<guid isPermaLink="false">2878450</guid>
-<pubDate>Mon, 01 Jun 2026 17:47:37 +0000</pubDate>
-<description>Take command in Europe's greatest 18th-century war. Equip &amp;amp; customize regiments, manage supplies, and engage in brutal real-time battles across procedural campaigns. Resources and replacements are scarce, and keeping your best men alive may matter more than any single victory.</description>
-</item>
-<item>
-<title>Satisfactory</title>
-<link>https://store.steampowered.com/app/526870/</link>
-<guid isPermaLink="false">526870</guid>
-<pubDate>Mon, 01 Jun 2026 17:47:37 +0000</pubDate>
-<description>Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!</description>
-</item>
-<item>
-<title>SnowRunner</title>
-<link>https://store.steampowered.com/app/1465360/</link>
-<guid isPermaLink="false">1465360</guid>
-<pubDate>Mon, 01 Jun 2026 17:47:37 +0000</pubDate>
-<description>Get ready for the next-generation off-road experience! Drive powerful vehicles and overcome extreme open environments to complete dozens of challenging missions solo or with up to 3 friends!</description>
-</item>
-<item>
-<title>Stronghold Crusader: Definitive Edition</title>
-<link>https://store.steampowered.com/app/3024040/</link>
-<guid isPermaLink="false">3024040</guid>
-<pubDate>Mon, 01 Jun 2026 17:47:37 +0000</pubDate>
-<description>Gird your loins and sharpen your steel! Besiege 20 unique enemy lords and battle friends online, in this expanded remaster of the classic 'castle sim'. Relive history with new units, opponents, visuals, audio, campaigns, skirmish trails, co-op and larger maps.</description>
-</item>
-<item>
-<title>Tattoo Removal Simulator</title>
-<link>https://store.steampowered.com/app/3143910/</link>
-<guid isPermaLink="false">3143910</guid>
-<pubDate>Mon, 01 Jun 2026 17:47:37 +0000</pubDate>
-<description>You remove tattoos for a living. Every client comes with a tattoo they no longer want: symbols of once-eternal love, mistakes that refused to stay in the past, jokes that didn’t age gracefully, and secrets asking to disappear. Make the past less permanent.</description>
-</item>
-<item>
-<title>The Crew Motorfest</title>
-<link>https://store.steampowered.com/app/2698940/</link>
-<guid isPermaLink="false">2698940</guid>
-<pubDate>Mon, 01 Jun 2026 17:47:37 +0000</pubDate>
-<description>Welcome to Motorfest, the ultimate open-world driving experience. Explore the Hawaiian islands of O'ahu and Maui. Celebrate the best of car culture through 20+ themed campaigns (street racing, offroad, drift...) and collect hundreds of iconic vehicles. Enjoy the game free for five hours!</description>
-</item>
-<item>
-<title>The Forever Winter</title>
-<link>https://store.steampowered.com/app/2828860/</link>
-<guid isPermaLink="false">2828860</guid>
-<pubDate>Mon, 01 Jun 2026 17:47:37 +0000</pubDate>
-<description>The Forever Winter is a tactical shooter where you and your squad must loot the dead to survive under the shadow of terrifying and gargantuan war machines locked in a never-ending conflict. Millions of deaths later the war continues with our latest update!</description>
-</item>
-<item>
-<title>The Stanley Parable: Ultra Deluxe</title>
-<link>https://store.steampowered.com/app/1703340/</link>
-<guid isPermaLink="false">1703340</guid>
-<pubDate>Mon, 01 Jun 2026 17:47:37 +0000</pubDate>
-<description>The Stanley Parable: Ultra Deluxe is an expanded re-imagining of 2013's The Stanley Parable. You will play as Stanley, and you will not play as Stanley. You will make a choice, and you will become powerless. You are not here to win. The Stanley Parable is a game that plays you.</description>
-</item>
-<item>
-<title>The Wandering Village</title>
-<link>https://store.steampowered.com/app/1121640/</link>
-<guid isPermaLink="false">1121640</guid>
-<pubDate>Mon, 01 Jun 2026 17:47:37 +0000</pubDate>
-<description>The Wandering Village is a city-building simulation game on the back of a giant, wandering creature. Build your settlement and form a symbiotic relationship with the colossus. Will you survive together in this hostile, yet beautiful post-apocalyptic world, contaminated by poisonous plants?</description>
-</item>
-<item>
-<title>WWE 2K26</title>
-<link>https://store.steampowered.com/app/3717070/</link>
-<guid isPermaLink="false">3717070</guid>
-<pubDate>Mon, 01 Jun 2026 17:47:37 +0000</pubDate>
-<description>The show never stops in WWE 2K26! Step into CM Punk’s 2K Showcase, dominate with 400+ Superstars and Legends, and unleash chaos with all-new match types.</description>
 </item>
 <item>
 <title>Moonrise Fall</title>
