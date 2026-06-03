@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T16:56:39+00:00",
+  "updated_at": "2026-06-03T18:40:05+00:00",
   "total_count": 1241,
   "active_count": 347,
   "games": [
@@ -6936,6 +6936,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 2799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 30900,
+          "final": 21630
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 135900,
+          "final": 95100
+        },
+        "zh-Hans": {
+          "currency": "USD",
+          "original": 3999,
+          "final": 2799
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 465000,
+          "final": 325500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 5040000,
+          "final": 3528000
         }
       },
       "review_hint": "Very Positive<br>91% of the 15,269 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -6950,7 +6975,7 @@
       "search_text": "disney dreamlight valley disney dreamlight valley explore a world filled with the magic of disney as you discover rich stories and build the perfect neighborhood alongside disney and pixar heroes and villains in this new life-sim adventure game. welcome to disney dreamlight valley. action adventure casual rpg simulation single-player multi-player full controller support in-app purchases camera comfort custom volume controls playable without timed input save anytime stereo sound subtitle options family sharing english french italian german spanish-spain japanese schinese portuguese-brazil very positive very positive<br>91% of the 15,269 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-03T16:56:39+00:00",
       "last_seen": "2026-06-03T16:56:39+00:00",
-      "updated_at": "2026-06-03T16:56:39+00:00"
+      "updated_at": "2026-06-03T18:40:05+00:00"
     },
     {
       "app_id": 1637320,
@@ -7594,6 +7619,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11000,
+          "final": 3300
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40000,
+          "final": 12000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6000,
+          "final": 1800
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 398000,
+          "final": 119400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2627000,
+          "final": 788000
         }
       },
       "review_hint": "Very Positive<br>85% of the 428 user reviews for this game are positive.",
@@ -7608,7 +7658,7 @@
       "search_text": "el shaddai ascension of the metatron hd remaster el shaddai ascension of the metatron hd remaster el shaddai, originally released in 2011, is a unique third-person action adventure filled with a deeply artistic world-building, outstanding aesthetics and thrilling battles. experience an incredible mix of 2d-like platformer action and a colorful 3d world in an exceptional setting. action single-player steam achievements partial controller support steam cloud steam leaderboards family sharing english japanese schinese very positive very positive<br>85% of the 428 user reviews for this game are positive.",
       "first_seen": "2026-06-03T16:56:39+00:00",
       "last_seen": "2026-06-03T16:56:39+00:00",
-      "updated_at": "2026-06-03T16:56:39+00:00"
+      "updated_at": "2026-06-03T18:40:05+00:00"
     },
     {
       "app_id": 359320,
@@ -17886,6 +17936,31 @@
           "currency": "USD",
           "original": 899,
           "final": 719
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5800,
+          "final": 4640
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 17200,
+          "final": 13700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3600,
+          "final": 2880
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 100000,
+          "final": 80000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 990000,
+          "final": 792000
         }
       },
       "review_hint": "Very Positive<br>97% of the 102 user reviews for this game are positive.",
@@ -17900,7 +17975,7 @@
       "search_text": "my little cafe nightmare my little cafe nightmare brew otherworldly coffee for ghostly patrons in a dark, cozy first-person café. upgrade your shop, manage supplies, and turn a haunted café into a sanctuary amidst nightmares. simulation single-player steam achievements full controller support camera comfort color alternatives custom volume controls adjustable difficulty playable without timed input save anytime subtitle options family sharing english german very positive very positive<br>97% of the 102 user reviews for this game are positive.",
       "first_seen": "2026-06-03T11:06:46+00:00",
       "last_seen": "2026-06-03T16:56:39+00:00",
-      "updated_at": "2026-06-03T16:56:39+00:00"
+      "updated_at": "2026-06-03T18:40:05+00:00"
     },
     {
       "app_id": 3868310,
@@ -25745,6 +25820,31 @@
           "currency": "USD",
           "original": 699,
           "final": 489
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3999,
+          "final": 2799
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14900,
+          "final": 10400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2900,
+          "final": 2030
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 89900,
+          "final": 62900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 760000,
+          "final": 532000
         }
       },
       "review_hint": "",
@@ -25759,7 +25859,7 @@
       "search_text": "slots & diapers slots & diapers absurd incremental game where you turn even liquid assets into financial glory! spin for jackpots and hire veteran gamblers to automate the madness. use permanent upgrades and 'mishaps' to accelerate your progress! simple. messy. addictive. casual indie simulation strategy single-player steam achievements full controller support custom volume controls adjustable difficulty mouse only option playable without timed input save anytime stereo sound surround sound touch only option steam cloud steam leaderboards family sharing english french italian german spanish-spain schinese portuguese-brazil dutch tchinese japanese korean polish portuguese---portugal russian thai turkish ukrainian vietnamese greek swedish azerbaijani indonesian spanish-latin positive",
       "first_seen": "2026-06-03T16:56:39+00:00",
       "last_seen": "2026-06-03T16:56:39+00:00",
-      "updated_at": "2026-06-03T16:56:39+00:00"
+      "updated_at": "2026-06-03T18:40:05+00:00"
     },
     {
       "app_id": 1465360,
@@ -33301,6 +33401,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 1875
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40000,
+          "final": 6000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9000,
+          "final": 1350
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 42000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2400000,
+          "final": 360000
         }
       },
       "review_hint": "Very Positive<br>94% of the 4,614 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -33315,7 +33440,7 @@
       "search_text": "unrailed! unrailed! unrailed! is a co-op multiplayer game where you have to work together with your friends to build a train track across endless procedurally generated worlds. master random encounters with its inhabitants, upgrade your train and keep it from derailing! action casual indie single-player multi-player pvp online pvp shared/split screen pvp co-op online co-op shared/split screen co-op shared/split screen cross-platform multiplayer steam achievements full controller support steam trading cards steam leaderboards remote play on phone remote play on tablet remote play on tv remote play together family sharing english french german schinese korean portuguese-brazil russian tchinese italian spanish-spain japanese polish turkish spanish-latin czech very positive very positive<br>94% of the 4,614 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-03T16:56:39+00:00",
       "last_seen": "2026-06-03T16:56:39+00:00",
-      "updated_at": "2026-06-03T16:56:39+00:00"
+      "updated_at": "2026-06-03T18:40:05+00:00"
     },
     {
       "app_id": 837470,
@@ -35018,6 +35143,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 1599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 28000,
+          "final": 11200
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 109900,
+          "final": 43900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 18800,
+          "final": 7520
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 430000,
+          "final": 172000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4400000,
+          "final": 1760000
         }
       },
       "review_hint": "Very Positive<br>81% of the 8,230 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -35032,7 +35182,7 @@
       "search_text": "warno warno realistic, immersive, breathtaking. warno is the ultimate world war iii battle simulator from the masters of strategy, eugen systems. a cold war turns decisively hot as you command hundreds of units on a beautiful and brutal battlefield. outsmart, outfight, and lead your forces to total victory. action indie simulation strategy single-player multi-player pvp online pvp co-op online co-op steam achievements steam cloud includes level editor family sharing english french german spanish-spain russian schinese very positive very positive<br>81% of the 8,230 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-03T11:06:46+00:00",
       "last_seen": "2026-06-03T16:56:39+00:00",
-      "updated_at": "2026-06-03T16:56:39+00:00"
+      "updated_at": "2026-06-03T18:40:05+00:00"
     },
     {
       "app_id": 1527950,
