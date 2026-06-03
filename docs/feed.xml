@@ -4,7 +4,35 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Wed, 03 Jun 2026 11:06:46 +0000</lastBuildDate>
+<lastBuildDate>Wed, 03 Jun 2026 16:56:39 +0000</lastBuildDate>
+<item>
+<title>Disney Dreamlight Valley</title>
+<link>https://store.steampowered.com/app/1401590/</link>
+<guid isPermaLink="false">1401590</guid>
+<pubDate>Wed, 03 Jun 2026 16:56:39 +0000</pubDate>
+<description>Explore a world filled with the magic of Disney as you discover rich stories and build the perfect neighborhood alongside Disney and Pixar heroes and villains in this new life-sim adventure game. Welcome to Disney Dreamlight Valley.</description>
+</item>
+<item>
+<title>El Shaddai ASCENSION OF THE METATRON HD Remaster</title>
+<link>https://store.steampowered.com/app/1581040/</link>
+<guid isPermaLink="false">1581040</guid>
+<pubDate>Wed, 03 Jun 2026 16:56:39 +0000</pubDate>
+<description>El Shaddai, originally released in 2011, is a unique third-person action adventure filled with a deeply artistic world-building, outstanding aesthetics and thrilling battles. Experience an incredible mix of 2D-like platformer action and a colorful 3D world in an exceptional setting.</description>
+</item>
+<item>
+<title>Slots &amp; Diapers</title>
+<link>https://store.steampowered.com/app/4409870/</link>
+<guid isPermaLink="false">4409870</guid>
+<pubDate>Wed, 03 Jun 2026 16:56:39 +0000</pubDate>
+<description>Absurd incremental game where you turn even liquid assets into financial glory! Spin for jackpots and hire veteran gamblers to automate the madness. Use permanent upgrades and 'mishaps' to accelerate your progress! Simple. Messy. Addictive.</description>
+</item>
+<item>
+<title>Unrailed!</title>
+<link>https://store.steampowered.com/app/1016920/</link>
+<guid isPermaLink="false">1016920</guid>
+<pubDate>Wed, 03 Jun 2026 16:56:39 +0000</pubDate>
+<description>Unrailed! is a co-op multiplayer game where you have to work together with your friends to build a train track across endless procedurally generated worlds. Master random encounters with its inhabitants, upgrade your train and keep it from derailing!</description>
+</item>
 <item>
 <title>My Little Cafe Nightmare</title>
 <link>https://store.steampowered.com/app/3726250/</link>
@@ -167,46 +195,11 @@
 <description>Winexy is a realistic 3D rolling ball game with a simple gameplay and entertaining action.</description>
 </item>
 <item>
-<title>Battleship Command</title>
-<link>https://store.steampowered.com/app/3367430/</link>
-<guid isPermaLink="false">3367430</guid>
-<pubDate>Tue, 02 Jun 2026 16:39:43 +0000</pubDate>
-<description>Command the mighty Scharnhorst in this immersive WWII naval simulation. Walk her decks in first-person, control gunnery, radar, and navigation, and lead your fleet through the Atlantic, Arctic, and Mediterranean. Battle convoys, outwit enemies, and survive the stormy seas of war.</description>
-</item>
-<item>
-<title>Fortune Mill</title>
-<link>https://store.steampowered.com/app/4731620/</link>
-<guid isPermaLink="false">4731620</guid>
-<pubDate>Tue, 02 Jun 2026 16:39:43 +0000</pubDate>
-<description>In this incremental game, you must make $1,000,000 in each room to escape. Throw darts, play scratch-off tickets, unlock automation, and choose upgrades carefully as each room affects all the others!</description>
-</item>
-<item>
-<title>Papa's Mocharia Deluxe</title>
-<link>https://store.steampowered.com/app/4656700/</link>
-<guid isPermaLink="false">4656700</guid>
-<pubDate>Tue, 02 Jun 2026 16:39:43 +0000</pubDate>
-<description>Create delicious coffee drinks and cannoli in Papa's Mocharia Deluxe! Create stylish layered lattes in the coffeehouse for Papa Louie's loyal customers while earning tips, points, and Special Recipes. Take a trip in the Food Truck to design and serve your own eye-catching creations!</description>
-</item>
-<item>
-<title>SUCCUBUS</title>
-<link>https://store.steampowered.com/app/985830/</link>
-<guid isPermaLink="false">985830</guid>
-<pubDate>Tue, 02 Jun 2026 16:39:43 +0000</pubDate>
-<description>Become a demonic priestess of lust and use her unique skills to take revenge on your enemies. Regain your kingdom making hell tremble under your hooves! Leave no one alive if they won't bend the knee.</description>
-</item>
-<item>
 <title>Gravity Circuit</title>
 <link>https://store.steampowered.com/app/858710/</link>
 <guid isPermaLink="false">858710</guid>
 <pubDate>Mon, 01 Jun 2026 17:47:37 +0000</pubDate>
 <description>Gravity Circuit is a flashy action packed 2D platformer in the spirit of console classics. Follow Kai, a lone operative war hero who harnesses the mysterious powers of the Gravity Circuit, on an adventure in a futuristic world inhabited by sentient robots.</description>
-</item>
-<item>
-<title>Drift86</title>
-<link>https://store.steampowered.com/app/1070580/</link>
-<guid isPermaLink="false">1070580</guid>
-<pubDate>Thu, 28 May 2026 16:06:53 +0000</pubDate>
-<description>Get in your favorite car and set records alone or with friends in this unique arcade game!</description>
 </item>
 </channel>
 </rss>
