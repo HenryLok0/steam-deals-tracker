@@ -4,7 +4,14 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Wed, 03 Jun 2026 21:19:35 +0000</lastBuildDate>
+<lastBuildDate>Thu, 04 Jun 2026 04:22:49 +0000</lastBuildDate>
+<item>
+<title>dotAGE: Trade Secrets</title>
+<link>https://store.steampowered.com/app/4393280/</link>
+<guid isPermaLink="false">4393280</guid>
+<pubDate>Thu, 04 Jun 2026 04:22:49 +0000</pubDate>
+<description>Village elder, help us! Ride horses, build roads, boats and carts, send pips to explore and trade exotic resources in this new DLC with unique mechanics!</description>
+</item>
 <item>
 <title>AETHUS</title>
 <link>https://store.steampowered.com/app/2541530/</link>
@@ -167,13 +174,6 @@
 <description>Sengoku Dynasty is the ultimate feudal Japan experience: build villages, grow your community, and shape the open world through combat or economy. The choice is yours alone - or that of up to 4 players in multiplayer co-op!</description>
 </item>
 <item>
-<title>Static Dread: The Lighthouse</title>
-<link>https://store.steampowered.com/app/3298940/</link>
-<guid isPermaLink="false">3298940</guid>
-<pubDate>Wed, 03 Jun 2026 21:19:35 +0000</pubDate>
-<description>Lovecraft meets Papers, Please. Play as a lighthouse keeper and guide ships safely into the harbor using your radio. Survive the presence of something impossible, and don’t let the shadows consume you!</description>
-</item>
-<item>
 <title>The Berlin Apartment</title>
 <link>https://store.steampowered.com/app/2280430/</link>
 <guid isPermaLink="false">2280430</guid>
@@ -202,13 +202,6 @@
 <description>Absurd incremental game where you turn even liquid assets into financial glory! Spin for jackpots and hire veteran gamblers to automate the madness. Use permanent upgrades and 'mishaps' to accelerate your progress! Simple. Messy. Addictive.</description>
 </item>
 <item>
-<title>Unrailed!</title>
-<link>https://store.steampowered.com/app/1016920/</link>
-<guid isPermaLink="false">1016920</guid>
-<pubDate>Wed, 03 Jun 2026 16:56:39 +0000</pubDate>
-<description>Unrailed! is a co-op multiplayer game where you have to work together with your friends to build a train track across endless procedurally generated worlds. Master random encounters with its inhabitants, upgrade your train and keep it from derailing!</description>
-</item>
-<item>
 <title>WARNO</title>
 <link>https://store.steampowered.com/app/1611600/</link>
 <guid isPermaLink="false">1611600</guid>
@@ -221,13 +214,6 @@
 <guid isPermaLink="false">1147010</guid>
 <pubDate>Wed, 03 Jun 2026 04:27:46 +0000</pubDate>
 <description>On The Edge expansion tells a story of citizens of New London sent for a special assignment after the Great Storm.</description>
-</item>
-<item>
-<title>Frostpunk: The Rifts</title>
-<link>https://store.steampowered.com/app/1125020/</link>
-<guid isPermaLink="false">1125020</guid>
-<pubDate>Wed, 03 Jun 2026 04:27:46 +0000</pubDate>
-<description>Using a new gameplay mechanic, bridge the rifts to access new areas. Expand the city to save your people from inevitable doom!</description>
 </item>
 <item>
 <title>Winexy</title>
