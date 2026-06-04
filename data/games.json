@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T15:22:59+00:00",
+  "updated_at": "2026-06-04T17:38:20+00:00",
   "total_count": 1276,
   "active_count": 348,
   "games": [
@@ -3933,6 +3933,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12629,
+          "final": 9471
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 34300,
+          "final": 25700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7705,
+          "final": 5778
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 225100,
+          "final": 168800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2188000,
+          "final": 1641000
         }
       },
       "review_hint": "Very Positive<br>88% of the 3,956 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -3947,7 +3972,7 @@
       "search_text": "car dealer simulator car dealer simulator uncover a goldmine in the used car market! sniff out deals, buy low, modify, and sell high. your journey from amateur grease monkey to car dealer magnate awaits. how fast will you rise in this lucrative venture? casual indie simulation single-player steam achievements full controller support steam cloud family sharing english polish french italian german spanish-spain portuguese---portugal russian czech japanese korean portuguese-brazil schinese thai turkish ukrainian vietnamese dutch very positive very positive<br>88% of the 3,956 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-04T15:22:59+00:00",
       "last_seen": "2026-06-04T15:22:59+00:00",
-      "updated_at": "2026-06-04T15:22:59+00:00"
+      "updated_at": "2026-06-04T17:38:20+00:00"
     },
     {
       "app_id": 645630,
@@ -7007,6 +7032,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 844
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7600,
+          "final": 4940
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27500,
+          "final": 17800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5200,
+          "final": 3380
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 110500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1400000,
+          "final": 910000
         }
       },
       "review_hint": "Very Positive<br>87% of the 23,582 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -7021,7 +7071,7 @@
       "search_text": "deep rock galactic: survivor deep rock galactic: survivor deep rock galactic: survivor is a single player survivor-like auto-shooter. take on hordes of lethal aliens, mine riches, and unlock powerful upgrades to survive, as you wield the full arsenal of deep rock galactic. it's one dwarf against all of planet hoxxes! action single-player steam achievements full controller support steam trading cards camera comfort custom volume controls adjustable difficulty playable without timed input stereo sound steam cloud remote play on tv family sharing english french german spanish-spain schinese italian korean portuguese-brazil tchinese ukrainian hungarian russian japanese polish turkish indonesian spanish-latin very positive very positive<br>87% of the 23,582 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-04T15:22:59+00:00",
       "last_seen": "2026-06-04T15:22:59+00:00",
-      "updated_at": "2026-06-04T15:22:59+00:00"
+      "updated_at": "2026-06-04T17:38:20+00:00"
     },
     {
       "app_id": 1450900,
@@ -13504,6 +13554,31 @@
           "currency": "USD",
           "original": 4999,
           "final": 4499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 30800,
+          "final": 27720
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 74600,
+          "final": 67100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 16800,
+          "final": 15120
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 550000,
+          "final": 495000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 5300000,
+          "final": 4770000
         }
       },
       "review_hint": "",
@@ -13518,7 +13593,7 @@
       "search_text": "house flipper remastered collection house flipper remastered collection guess who's back – and shinier than ever! house flipper remastered collection lets you become a one-person renovation crew. clean, build, decorate, and sell for profit! now with better graphics, voice acting, all expansions in one toolbox, and some more heartfelt addition. it’s flipping time! casual indie simulation single-player steam achievements full controller support camera comfort custom volume controls playable without timed input save anytime stereo sound steam cloud family sharing english french italian german spanish-spain czech dutch greek hungarian japanese korean norwegian polish portuguese-brazil portuguese---portugal romanian russian schinese spanish-latin tchinese turkish ukrainian no user reviews",
       "first_seen": "2026-06-04T15:22:59+00:00",
       "last_seen": "2026-06-04T15:22:59+00:00",
-      "updated_at": "2026-06-04T15:22:59+00:00"
+      "updated_at": "2026-06-04T17:38:20+00:00"
     },
     {
       "app_id": 3326230,
@@ -18671,6 +18746,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 1499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 18700,
+          "final": 9350
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 48800,
+          "final": 24400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9900,
+          "final": 4950
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 390000,
+          "final": 195000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3200000,
+          "final": 1600000
         }
       },
       "review_hint": "Very Positive<br>83% of the 1,306 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -18685,7 +18785,7 @@
       "search_text": "new cycle new cycle new cycle is a city building game with focus on survival. after an apocalyptic series of solar flares, human society has been thrown into disarray. establish a settlement and develop it all the way from humble beginnings to industrial metropolis. indie simulation strategy early access single-player steam achievements steam trading cards steam cloud family sharing english schinese french german japanese korean russian tchinese turkish spanish-spain polish very positive very positive<br>83% of the 1,306 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-04T15:22:59+00:00",
       "last_seen": "2026-06-04T15:22:59+00:00",
-      "updated_at": "2026-06-04T15:22:59+00:00"
+      "updated_at": "2026-06-04T17:38:20+00:00"
     },
     {
       "app_id": 275850,
@@ -21842,6 +21942,31 @@
           "currency": "USD",
           "original": 999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5532,
+          "final": 5532
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 28100,
+          "final": 28100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5300,
+          "final": 5300
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 101000,
+          "final": 101000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 1050000
         }
       },
       "review_hint": "Positive<br>100% of the 26 user reviews for this game are positive.",
@@ -21856,7 +21981,7 @@
       "search_text": "planet zoo: asia animal pack planet zoo: asia animal pack uncover the beauty of asia with the planet zoo: asia animal pack! embark on a breathtaking journey through one of the most bio-diverse continents and discover 7 incredible animals for your zoos. casual simulation strategy single-player downloadable content steam achievements steam trading cards steam workshop steam cloud hdr available family sharing english french german spanish-spain japanese korean portuguese-brazil schinese tchinese italian czech danish dutch norwegian polish russian spanish-latin swedish positive positive<br>100% of the 26 user reviews for this game are positive.",
       "first_seen": "2026-06-04T15:22:59+00:00",
       "last_seen": "2026-06-04T15:22:59+00:00",
-      "updated_at": "2026-06-04T15:22:59+00:00"
+      "updated_at": "2026-06-04T17:38:20+00:00"
     },
     {
       "app_id": 3897800,
@@ -22715,6 +22840,31 @@
           "currency": "USD",
           "original": 1984,
           "final": 1785
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11500,
+          "final": 10350
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37700,
+          "final": 33900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7700,
+          "final": 6930
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 260000,
+          "final": 234000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2100000,
+          "final": 1890000
         }
       },
       "review_hint": "",
@@ -22729,7 +22879,7 @@
       "search_text": "pronoun palace pronoun palace pronoun palace is a word-spelling roguelike set in a dystopian future where the government has taken your pronouns. use spells to manipulate letter tiles, catch fish, and abuse amphetamines to defeat the party and get your pronouns back! casual indie single-player steam achievements full controller support camera comfort custom volume controls adjustable difficulty mouse only option playable without timed input save anytime steam cloud steam leaderboards family sharing english 7 user reviews",
       "first_seen": "2026-06-04T15:22:59+00:00",
       "last_seen": "2026-06-04T15:22:59+00:00",
-      "updated_at": "2026-06-04T15:22:59+00:00"
+      "updated_at": "2026-06-04T17:38:20+00:00"
     },
     {
       "app_id": 3730790,
@@ -27235,6 +27385,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 7600
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 25800,
+          "final": 20600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5400,
+          "final": 4320
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 136000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 1320000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>98% of the 1,853 user reviews for this game are positive.",
@@ -27249,7 +27424,7 @@
       "search_text": "squeakross: home squeak home squeakross: home squeak home in squeakross: home squeak home, solve and transform puzzles into furniture to decorate the perfect home for your rodent friend. collect hundreds of decorations, accessories and stickers in this cozy game full of charm! casual indie single-player steam achievements full controller support camera comfort custom volume controls adjustable difficulty mouse only option playable without timed input save anytime stereo sound steam cloud stats family sharing english french spanish-spain japanese schinese overwhelmingly positive overwhelmingly positive<br>98% of the 1,853 user reviews for this game are positive.",
       "first_seen": "2026-06-04T15:22:59+00:00",
       "last_seen": "2026-06-04T15:22:59+00:00",
-      "updated_at": "2026-06-04T15:22:59+00:00"
+      "updated_at": "2026-06-04T17:38:20+00:00"
     },
     {
       "app_id": 2719750,
@@ -29787,6 +29962,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1699
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10800,
+          "final": 9180
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 49000,
+          "final": 41600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10800,
+          "final": 9180
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 224000,
+          "final": 190400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2240000,
+          "final": 1904000
         }
       },
       "review_hint": "",
@@ -29801,7 +30001,7 @@
       "search_text": "the 7th guest remake the 7th guest remake the iconic game the 7th guest has been brought back to life with modern technology, delivering an atmospheric story like no other. explore a foreboding mansion, solve mind-bending puzzles, and uncover its dark secrets. the 7th guest is the ultimate mystery adventure, reimagined for modern platforms. adventure single-player steam achievements full controller support steam cloud family sharing english french german japanese korean schinese spanish-latin italian polish portuguese-brazil no user reviews",
       "first_seen": "2026-06-04T10:00:57+00:00",
       "last_seen": "2026-06-04T15:22:59+00:00",
-      "updated_at": "2026-06-04T15:22:59+00:00"
+      "updated_at": "2026-06-04T17:38:20+00:00"
     },
     {
       "app_id": 1601570,
@@ -31888,6 +32088,31 @@
           "currency": "USD",
           "original": 999,
           "final": 99
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7500,
+          "final": 750
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 24500,
+          "final": 2400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5700,
+          "final": 570
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 115000,
+          "final": 11500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 110000
         }
       },
       "review_hint": "Mixed<br>52% of the 3,200 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -31902,7 +32127,7 @@
       "search_text": "the quinfall the quinfall embark on an adventurous journey to explore the quinfall universe. be a part of unique battles and an immersive story with dozens of different professions in the depths of medieval times in an all-new mmorpg experience. massively multiplayer multi-player mmo pvp online pvp co-op online co-op steam achievements in-app purchases english french italian german spanish-spain russian turkish japanese portuguese-brazil polish ukrainian korean schinese mixed mixed<br>52% of the 3,200 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-04T10:00:57+00:00",
       "last_seen": "2026-06-04T15:22:59+00:00",
-      "updated_at": "2026-06-04T15:22:59+00:00"
+      "updated_at": "2026-06-04T17:38:20+00:00"
     },
     {
       "app_id": 2716400,
