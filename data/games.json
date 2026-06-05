@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T14:57:53+00:00",
+  "updated_at": "2026-06-05T17:07:35+00:00",
   "total_count": 1397,
   "active_count": 348,
   "games": [
@@ -3470,6 +3470,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 12480
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 32600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9200,
+          "final": 7360
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 224000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 2160000
         }
       },
       "review_hint": "Very Positive<br>89% of the 366 user reviews for this game are positive.",
@@ -3484,7 +3509,7 @@
       "search_text": "calyx calyx a strategy game with a new kind of enemy, calyx puts you in charge of a space mining outpost, locked in battle against powerful plant-aliens. build your base, gather resources, assemble your forces, and take on the calyx. with only an out-of-date ai for company, can you survive? strategy early access single-player steam cloud family sharing english french italian german spanish-spain japanese korean portuguese-brazil russian schinese very positive very positive<br>89% of the 366 user reviews for this game are positive.",
       "first_seen": "2026-06-05T09:58:17+00:00",
       "last_seen": "2026-06-05T14:57:53+00:00",
-      "updated_at": "2026-06-05T14:57:53+00:00"
+      "updated_at": "2026-06-05T17:07:35+00:00"
     },
     {
       "app_id": 3708070,
@@ -6317,6 +6342,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 17800,
+          "final": 3560
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 68800,
+          "final": 13700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8800,
+          "final": 1760
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 380000,
+          "final": 76000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3200000,
+          "final": 640000
         }
       },
       "review_hint": "Mostly Positive<br>78% of the 3,298 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -6331,7 +6381,7 @@
       "search_text": "danganronpa another episode: ultra despair girls danganronpa another episode: ultra despair girls komaru naegi has been imprisoned inside a mysterious apartment for over a year. her rescue is derailed when hundreds of monokumas suddenly attack. she teams up with toko fukawa to survive the rampaging monokumas, escape the crafty monokuma kids, and uncover the secrets of the city. action single-player steam achievements steam trading cards steam cloud remote play on phone remote play on tablet family sharing english japanese tchinese korean mostly positive mostly positive<br>78% of the 3,298 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-05T09:58:17+00:00",
       "last_seen": "2026-06-05T14:57:53+00:00",
-      "updated_at": "2026-06-05T14:57:53+00:00"
+      "updated_at": "2026-06-05T17:07:35+00:00"
     },
     {
       "app_id": 567640,
@@ -7224,6 +7274,31 @@
           "currency": "USD",
           "original": 999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7500,
+          "final": 3750
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 28000,
+          "final": 14000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5000,
+          "final": 2500
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 100000,
+          "final": 50000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1240000,
+          "final": 620000
         }
       },
       "review_hint": "Mostly Positive<br>79% of the 832 user reviews for this game are positive.",
@@ -7238,7 +7313,7 @@
       "search_text": "dino crisis dino crisis raw instinct takes over in this new, adrenaline-pumping journey into survival horror. something is terribly wrong. your covert mission has gone haywire… now you find yourself pursued by a relentless, prehistoric terror. suddenly, your mission becomes a desperate fight for survival. action adventure single-player custom volume controls adjustable difficulty keyboard only option partial controller support family sharing english french italian german spanish-spain japanese mostly positive mostly positive<br>79% of the 832 user reviews for this game are positive.",
       "first_seen": "2026-06-05T09:58:17+00:00",
       "last_seen": "2026-06-05T14:57:53+00:00",
-      "updated_at": "2026-06-05T14:57:53+00:00"
+      "updated_at": "2026-06-05T17:07:35+00:00"
     },
     {
       "app_id": 1272320,
@@ -10398,6 +10473,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12900,
+          "final": 2580
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 43800,
+          "final": 8700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9000,
+          "final": 1800
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 324000,
+          "final": 64800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3100000,
+          "final": 620000
         }
       },
       "review_hint": "Very Positive<br>91% of the 2,476 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -10412,7 +10512,7 @@
       "search_text": "fire pro wrestling world fire pro wrestling world the greatest grappling game returns to take on the world! customize every aspect of the match, from your wrestler to the ring itself, in your fight for the championship belt. simulation sports single-player multi-player pvp online pvp shared/split screen pvp shared/split screen steam achievements steam workshop partial controller support steam cloud remote play on phone remote play on tablet remote play together family sharing english japanese very positive very positive<br>91% of the 2,476 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-05T09:58:17+00:00",
       "last_seen": "2026-06-05T14:57:53+00:00",
-      "updated_at": "2026-06-05T14:57:53+00:00"
+      "updated_at": "2026-06-05T17:07:35+00:00"
     },
     {
       "app_id": 304390,
@@ -12415,6 +12515,31 @@
           "currency": "USD",
           "original": 3499,
           "final": 1049
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 23900,
+          "final": 7170
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 99000,
+          "final": 29700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 14900,
+          "final": 4470
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 580000,
+          "final": 174000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3980000,
+          "final": 1194000
         }
       },
       "review_hint": "Very Positive<br>89% of the 15,974 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -12429,7 +12554,7 @@
       "search_text": "hardspace: shipbreaker hardspace: shipbreaker equipped with cutting-edge salvaging tech, carve &amp; slice spaceships to recover valuable materials. upgrade your gear to take on more lucrative contracts and pay your billion credits debt to lynx corp! simulation single-player steam achievements full controller support steam trading cards steam cloud family sharing english french german schinese russian italian spanish-spain portuguese-brazil tchinese very positive very positive<br>89% of the 15,974 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-05T14:57:53+00:00",
       "last_seen": "2026-06-05T14:57:53+00:00",
-      "updated_at": "2026-06-05T14:57:53+00:00"
+      "updated_at": "2026-06-05T17:07:35+00:00"
     },
     {
       "app_id": 1796470,
@@ -13241,6 +13366,31 @@
           "currency": "USD",
           "original": 999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5900,
+          "final": 4720
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 20900,
+          "final": 16700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3900,
+          "final": 3120
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 130000,
+          "final": 104000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 990000,
+          "final": 792000
         }
       },
       "review_hint": "",
@@ -13255,7 +13405,7 @@
       "search_text": "ice cream simulator ice cream simulator run your dream ice cream shop in ice cream simulator! create delicious ice cream using a variety of ingredients, manage your business, hire staff, decorate your store, handle changing weather and different customers, and enjoy a relaxing first-person simulation experience. casual indie simulation single-player steam achievements partial controller support steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese tchinese turkish arabic czech dutch spanish-latin swedish thai 3 user reviews",
       "first_seen": "2026-06-05T14:57:53+00:00",
       "last_seen": "2026-06-05T14:57:53+00:00",
-      "updated_at": "2026-06-05T14:57:53+00:00"
+      "updated_at": "2026-06-05T17:07:35+00:00"
     },
     {
       "app_id": 4305480,
@@ -17303,6 +17453,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14800,
+          "final": 5920
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 57000,
+          "final": 22800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9800,
+          "final": 3920
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 249000,
+          "final": 99600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2480000,
+          "final": 992000
         }
       },
       "review_hint": "Mostly Positive<br>77% of the 1,683 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -17317,7 +17492,7 @@
       "search_text": "mega man x legacy collection mega man x legacy collection mega man x legacy collection includes the legendary 16-bit titles and the series’ exciting foray into the 32-bit era: mega man x, mega man x2, mega man x3, and mega man x4. test your skills in the new x challenge mode, which pits players against two deadly bosses at once. action single-player steam achievements full controller support steam trading cards steam cloud steam leaderboards family sharing english french italian german spanish-spain japanese tchinese mostly positive mostly positive<br>77% of the 1,683 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-05T14:57:53+00:00",
       "last_seen": "2026-06-05T14:57:53+00:00",
-      "updated_at": "2026-06-05T14:57:53+00:00"
+      "updated_at": "2026-06-05T17:07:35+00:00"
     },
     {
       "app_id": 999020,
@@ -18329,6 +18504,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 29800,
+          "final": 4470
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 119000,
+          "final": 17800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 19800,
+          "final": 2970
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 399000,
+          "final": 59800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4980000,
+          "final": 747000
         }
       },
       "review_hint": "Mostly Positive<br>78% of the 1,969 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -18343,7 +18543,7 @@
       "search_text": "monster hunter rise: sunbreak monster hunter rise: sunbreak monster hunter rise: sunbreak expansion the world of monster hunter rise gets bigger and deeper with this massive expansion featuring new monsters, new locales and more! action single-player multi-player co-op online co-op downloadable content steam achievements full controller support steam trading cards steam cloud hdr available family sharing english french italian german spanish-spain arabic japanese korean polish portuguese-brazil russian schinese tchinese spanish-latin mostly positive mostly positive<br>78% of the 1,969 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-05T09:58:17+00:00",
       "last_seen": "2026-06-05T14:57:53+00:00",
-      "updated_at": "2026-06-05T14:57:53+00:00"
+      "updated_at": "2026-06-05T17:07:35+00:00"
     },
     {
       "app_id": 2246340,
@@ -18631,6 +18831,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 974
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10800,
+          "final": 7020
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 43000,
+          "final": 27900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7800,
+          "final": 5070
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 152800,
+          "final": 99300
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1880000,
+          "final": 1222000
         }
       },
       "review_hint": "Very Positive<br>80% of the 176 user reviews for this game are positive.",
@@ -18645,7 +18870,7 @@
       "search_text": "monster hunter world: iceborne deluxe kit monster hunter world: iceborne deluxe kit expand your ‘monster hunter world: iceborne’ experience with this special ‘deluxe kit’ that adds a wide variety of content ranging from layered armor, gestures, sticker sets, additional character creation options and new decorations to personalize your hunter’s living space! action single-player multi-player co-op downloadable content steam achievements steam trading cards partial controller support steam cloud stats steam leaderboards family sharing english french italian german spanish-spain arabic portuguese-brazil polish tchinese japanese korean russian schinese spanish-latin mostly positive very positive<br>80% of the 176 user reviews for this game are positive.",
       "first_seen": "2026-06-05T14:57:53+00:00",
       "last_seen": "2026-06-05T14:57:53+00:00",
-      "updated_at": "2026-06-05T14:57:53+00:00"
+      "updated_at": "2026-06-05T17:07:35+00:00"
     },
     {
       "app_id": 582010,
@@ -23305,6 +23530,31 @@
           "currency": "USD",
           "original": 5999,
           "final": 599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 46800,
+          "final": 4680
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 179000,
+          "final": 17900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 36500,
+          "final": 3650
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 877800,
+          "final": 87700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 6100000,
+          "final": 610000
         }
       },
       "review_hint": "Very Positive<br>86% of the 874 user reviews for this game are positive.",
@@ -23319,7 +23569,7 @@
       "search_text": "re:zero -starting life in another world- the prophecy of the throne re:zero -starting life in another world- the prophecy of the throne enjoy a new re:zero storyline, fully supervised by the series author tappei nagatsuki! featuring brand new characters designed by the original artist shinichirou otsuka as well as your favorites from the series! adventure strategy single-player steam achievements full controller support steam trading cards steam cloud family sharing english schinese tchinese japanese very positive very positive<br>86% of the 874 user reviews for this game are positive.",
       "first_seen": "2026-06-05T14:57:53+00:00",
       "last_seen": "2026-06-05T14:57:53+00:00",
-      "updated_at": "2026-06-05T14:57:53+00:00"
+      "updated_at": "2026-06-05T17:07:35+00:00"
     },
     {
       "app_id": 2597080,
@@ -28919,6 +29169,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 2399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 22800,
+          "final": 18240
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 86000,
+          "final": 68800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 14800,
+          "final": 11840
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 300000,
+          "final": 240000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3680000,
+          "final": 2944000
         }
       },
       "review_hint": "Mixed<br>55% of the 171 user reviews for this game are positive.",
@@ -28933,7 +29208,7 @@
       "search_text": "street fighter™ 6 - year 2 character pass street fighter™ 6 - year 2 character pass year 2 character pass - 4 additional characters (m. bison, terry, mai, elena) - 4 additional characters' colors: outfit 1 colors 3-10 - bonus: 4,200 drive tickets action adventure single-player multi-player pvp online pvp shared/split screen pvp shared/split screen cross-platform multiplayer downloadable content steam achievements steam trading cards in-app purchases partial controller support steam cloud family sharing english japanese french italian german spanish-spain arabic portuguese-brazil polish russian schinese tchinese korean spanish-latin mixed mixed<br>55% of the 171 user reviews for this game are positive.",
       "first_seen": "2026-06-05T14:57:53+00:00",
       "last_seen": "2026-06-05T14:57:53+00:00",
-      "updated_at": "2026-06-05T14:57:53+00:00"
+      "updated_at": "2026-06-05T17:07:35+00:00"
     },
     {
       "app_id": 3024040,
@@ -34016,6 +34291,31 @@
           "currency": "USD",
           "original": 5999,
           "final": 2999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 39000,
+          "final": 19500
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 199000,
+          "final": 99500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 34900,
+          "final": 17450
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 858000,
+          "final": 429000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 6480000,
+          "final": 3240000
         }
       },
       "review_hint": "Very Positive<br>86% of the 914 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -34030,7 +34330,7 @@
       "search_text": "warriors orochi 4 warriors orochi 4 the supreme &quot;warriors orochi&quot; experience is here! the definitive installment of the &quot;warriors orochi 4&quot;, featuring all the content of the warriors orochi 4: the ultimate upgrade pack, is available now. action single-player multi-player pvp online pvp co-op online co-op shared/split screen co-op shared/split screen steam achievements steam trading cards custom volume controls adjustable difficulty keyboard only option playable without timed input stereo sound partial controller support steam cloud steam leaderboards remote play together family sharing english tchinese japanese korean schinese very positive very positive<br>86% of the 914 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-05T14:57:53+00:00",
       "last_seen": "2026-06-05T14:57:53+00:00",
-      "updated_at": "2026-06-05T14:57:53+00:00"
+      "updated_at": "2026-06-05T17:07:35+00:00"
     },
     {
       "app_id": 3178350,
@@ -35599,6 +35899,31 @@
           "currency": "USD",
           "original": 499,
           "final": 399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 2000,
+          "final": 1600
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 11700,
+          "final": 9300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2000,
+          "final": 1600
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 65500,
+          "final": 52400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 545000,
+          "final": 436000
         }
       },
       "review_hint": "Positive<br>95% of the 21 user reviews for this game are positive.",
@@ -35613,7 +35938,7 @@
       "search_text": "you know the drill you know the drill you know the drill is a relaxing incremental mining game about digging underground to harvest ores. collect resources and use them to upgrade your drill and go even deeper! casual indie simulation strategy single-player steam achievements custom volume controls playable without timed input save anytime partial controller support steam cloud family sharing english portuguese-brazil turkish french german russian schinese positive positive<br>95% of the 21 user reviews for this game are positive.",
       "first_seen": "2026-06-05T09:58:17+00:00",
       "last_seen": "2026-06-05T14:57:53+00:00",
-      "updated_at": "2026-06-05T14:57:53+00:00"
+      "updated_at": "2026-06-05T17:07:35+00:00"
     },
     {
       "app_id": 1481170,
@@ -89673,6 +89998,31 @@
           "currency": "USD",
           "original": 7999,
           "final": 5599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 63900,
+          "final": 44730
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 239000,
+          "final": 167300
+        },
+        "zh-Hans": {
+          "currency": "USD",
+          "original": 7999,
+          "final": 5599
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 990000,
+          "final": 693000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 8980000,
+          "final": 6286000
         }
       },
       "review_hint": "Mixed<br>64% of the 693 user reviews for this game are positive.",
@@ -89687,7 +90037,7 @@
       "search_text": "my hero academia: all’s justice my hero academia: all’s justice smash through your foes in my hero academia: all's justice and dive into variety of game modes where you can experience thrilling 3v3 battles, hero training, and the climactic final war! action single-player multi-player pvp online pvp shared/split screen pvp shared/split screen steam achievements full controller support steam cloud stats family sharing english french italian german spanish-spain tchinese japanese korean mixed mixed<br>64% of the 693 user reviews for this game are positive.",
       "first_seen": "2026-06-05T09:58:17+00:00",
       "last_seen": "2026-06-05T14:57:53+00:00",
-      "updated_at": "2026-06-05T14:57:53+00:00"
+      "updated_at": "2026-06-05T17:07:35+00:00"
     },
     {
       "app_id": 3726250,
@@ -101036,6 +101386,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10800,
+          "final": 8640
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 43000,
+          "final": 34400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7800,
+          "final": 6240
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 150000,
+          "final": 120000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1680000,
+          "final": 1344000
         }
       },
       "review_hint": "Very Positive<br>91% of the 358 user reviews for this game are positive.",
@@ -101050,7 +101425,7 @@
       "search_text": "resident evil requiem - deluxe kit resident evil requiem - deluxe kit requiem for the dead. nightmare for the living. action adventure single-player downloadable content full controller support family sharing english french italian german spanish-spain arabic spanish-latin portuguese-brazil polish russian schinese tchinese japanese korean very positive very positive<br>91% of the 358 user reviews for this game are positive.",
       "first_seen": "2026-06-05T09:58:17+00:00",
       "last_seen": "2026-06-05T14:57:53+00:00",
-      "updated_at": "2026-06-05T14:57:53+00:00"
+      "updated_at": "2026-06-05T17:07:35+00:00"
     },
     {
       "app_id": 2870920,
