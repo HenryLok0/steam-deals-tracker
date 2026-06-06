@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T13:51:06+00:00",
+  "updated_at": "2026-06-06T16:01:09+00:00",
   "total_count": 1453,
   "active_count": 346,
   "games": [
@@ -13403,6 +13403,31 @@
           "currency": "USD",
           "original": 599,
           "final": 359
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4699,
+          "final": 2819
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18400,
+          "final": 11000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4299,
+          "final": 2579
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 87600,
+          "final": 52500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 840000,
+          "final": 504000
         }
       },
       "review_hint": "Mixed<br>51% of the 31 user reviews for this game are positive.",
@@ -13417,7 +13442,7 @@
       "search_text": "guild wars® bonus mission pack guild wars® bonus mission pack step into tyriaʼs past as its greatest heroes, experience their defining moments, and claim exclusive rewards in the bonus mission pack. action adventure massively multiplayer single-player multi-player mmo pvp online pvp co-op online co-op downloadable content family sharing english french italian german spanish-spain japanese korean russian mixed mixed<br>51% of the 31 user reviews for this game are positive.",
       "first_seen": "2026-06-06T13:51:06+00:00",
       "last_seen": "2026-06-06T13:51:06+00:00",
-      "updated_at": "2026-06-06T13:51:06+00:00"
+      "updated_at": "2026-06-06T16:01:09+00:00"
     },
     {
       "app_id": 4103450,
@@ -28968,6 +28993,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8900,
+          "final": 1780
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 31800,
+          "final": 6300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7000,
+          "final": 1400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 205000,
+          "final": 41000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2050000,
+          "final": 410000
         }
       },
       "review_hint": "Mostly Positive<br>78% of the 4,592 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -28982,7 +29032,7 @@
       "search_text": "state of decay: yose state of decay: yose make your stand against the collapse of society in the ultimate zombie survival-fantasy game. explore an open world full of dangers and opportunities that respond to your every decision. recruit a community of playable survivors, each with their own unique skills and talents. action rpg simulation single-player steam achievements full controller support steam trading cards steam cloud steam leaderboards family sharing english french italian german spanish-spain russian portuguese-brazil mostly positive mostly positive<br>78% of the 4,592 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-06T13:51:06+00:00",
       "last_seen": "2026-06-06T13:51:06+00:00",
-      "updated_at": "2026-06-06T13:51:06+00:00"
+      "updated_at": "2026-06-06T16:01:09+00:00"
     },
     {
       "app_id": 2982610,
