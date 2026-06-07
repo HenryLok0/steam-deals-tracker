@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T04:16:11+00:00",
+  "updated_at": "2026-06-07T07:01:25+00:00",
   "total_count": 1466,
   "active_count": 345,
   "games": [
@@ -840,6 +840,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 524
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11900,
+          "final": 4165
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 39800,
+          "final": 13900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7800,
+          "final": 2730
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 180000,
+          "final": 63000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1490000,
+          "final": 521000
         }
       },
       "review_hint": "Very Positive<br>86% of the 1,071 user reviews for this game are positive.",
@@ -854,7 +879,7 @@
       "search_text": "age of empires ii: de - chronicles: battle for greece age of empires ii: de - chronicles: battle for greece chronicles features age of empires ii gameplay set in antiquity. in battle for greece, the first chapter of this multi-part saga, fight with three new ancient civilizations and experience a grand narrative campaign, from the ionian revolt to the peloponnesian war. strategy single-player multi-player pvp online pvp lan pvp co-op online co-op lan co-op cross-platform multiplayer downloadable content steam achievements steam trading cards steam cloud includes level editor family sharing english french italian german japanese korean portuguese-brazil russian schinese spanish-latin tchinese turkish vietnamese spanish-spain polish hindi malay very positive very positive<br>86% of the 1,071 user reviews for this game are positive.",
       "first_seen": "2026-06-06T19:37:16+00:00",
       "last_seen": "2026-06-07T04:16:11+00:00",
-      "updated_at": "2026-06-07T04:16:11+00:00"
+      "updated_at": "2026-06-07T07:01:25+00:00"
     },
     {
       "app_id": 3080080,
@@ -1264,6 +1289,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8900,
+          "final": 2225
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 31800,
+          "final": 7900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9900,
+          "final": 2475
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 205200,
+          "final": 51300
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1990000,
+          "final": 497000
         }
       },
       "review_hint": "Very Positive<br>81% of the 352 user reviews for this game are positive.",
@@ -1278,7 +1328,7 @@
       "search_text": "age of empires iii: definitive edition (base game) age of empires iii: definitive edition (base game) unlock the full game experience of age of empires iii: definitive edition. *note: this dlc unlock is automatically given to people who have previously bought the full base game. strategy single-player multi-player pvp online pvp lan pvp cross-platform multiplayer downloadable content steam achievements steam trading cards steam cloud english french italian german spanish-spain japanese korean portuguese-brazil russian schinese tchinese turkish vietnamese very positive very positive<br>81% of the 352 user reviews for this game are positive.",
       "first_seen": "2026-06-06T19:37:16+00:00",
       "last_seen": "2026-06-07T04:16:11+00:00",
-      "updated_at": "2026-06-07T04:16:11+00:00"
+      "updated_at": "2026-06-07T07:01:25+00:00"
     },
     {
       "app_id": 1959430,
@@ -8255,6 +8305,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 2399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 18700,
+          "final": 14960
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 48800,
+          "final": 39000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10800,
+          "final": 8640
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 340000,
+          "final": 272000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3200000,
+          "final": 2560000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>97% of the 103,912 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -8269,7 +8344,7 @@
       "search_text": "dispatch dispatch dispatch is a superhero workplace comedy where choices matter. manage a dysfunctional team of misfit heroes and strategize who to send to emergencies around the city, all while balancing office politics, personal relationships, and your own quest to become a hero. all episodes out now! action adventure casual indie strategy single-player steam achievements full controller support steam trading cards adjustable text size color alternatives custom volume controls adjustable difficulty mouse only option playable without timed input subtitle options steam cloud family sharing english french italian german spanish-spain japanese korean schinese portuguese-brazil russian tchinese overwhelmingly positive overwhelmingly positive<br>97% of the 103,912 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-06T19:37:16+00:00",
       "last_seen": "2026-06-07T04:16:11+00:00",
-      "updated_at": "2026-06-07T04:16:11+00:00"
+      "updated_at": "2026-06-07T07:01:25+00:00"
     },
     {
       "app_id": 1637320,
@@ -11996,6 +12071,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 494
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 3135
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 8800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5200,
+          "final": 1716
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 150000,
+          "final": 49500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1500000,
+          "final": 495000
         }
       },
       "review_hint": "Very Positive<br>81% of the 1,577 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -12010,7 +12110,7 @@
       "search_text": "gladiator guild manager gladiator guild manager a strategic autobattler sim where you build a team of gladiators, compete in arenas, plan fight tactics, and form alliances. combine fighters, beasts, and mages, develop and equip them to optimize your well-oiled fighting machine, dominate the championships, and leave your mark on the world. indie simulation strategy single-player steam achievements steam cloud steam leaderboards family sharing english french italian german spanish-spain czech japanese korean polish portuguese---portugal portuguese-brazil russian schinese spanish-latin turkish very positive very positive<br>81% of the 1,577 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-06T19:37:16+00:00",
       "last_seen": "2026-06-07T04:16:11+00:00",
-      "updated_at": "2026-06-07T04:16:11+00:00"
+      "updated_at": "2026-06-07T07:01:25+00:00"
     },
     {
       "app_id": 3645890,
@@ -14256,6 +14356,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11800,
+          "final": 5900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 34900,
+          "final": 17400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6800,
+          "final": 3400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 115000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 1075000
         }
       },
       "review_hint": "Very Positive<br>90% of the 18,061 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -14270,7 +14395,7 @@
       "search_text": "holdfast: nations at war holdfast: nations at war fight on multiple fronts in holdfast: nations at war - a multiplayer first and third-person shooter set during the great napoleonic era and ww1. charge into battle with over 150 players per server! action indie massively multiplayer rpg simulation strategy multi-player mmo pvp online pvp steam achievements full controller support steam trading cards steam workshop adjustable text size color alternatives custom volume controls playable without timed input stereo sound surround sound stats steam leaderboards includes level editor includes source sdk english french german spanish-spain japanese korean portuguese-brazil russian schinese tchinese italian czech dutch polish danish greek norwegian romanian swedish turkish very positive very positive<br>90% of the 18,061 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-06T19:37:16+00:00",
       "last_seen": "2026-06-07T04:16:11+00:00",
-      "updated_at": "2026-06-07T04:16:11+00:00"
+      "updated_at": "2026-06-07T07:01:25+00:00"
     },
     {
       "app_id": 3710840,
@@ -18887,6 +19012,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1699
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10800,
+          "final": 9180
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 34000,
+          "final": 28900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7000,
+          "final": 5950
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 231000,
+          "final": 196300
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2280000,
+          "final": 1938000
         }
       },
       "review_hint": "",
@@ -18901,7 +19051,7 @@
       "search_text": "momento momento momento is a cozy room decorator with a twist: the choices you make play out over the course of a lifetime! decorate your room, choose which items are important to you, and discover how the objects you choose will alter the course of the story, in a winding ode to the power of everyday things. casual single-player steam achievements camera comfort custom volume controls adjustable difficulty mouse only option playable without timed input partial controller support steam cloud family sharing english french german spanish-spain japanese korean portuguese-brazil schinese no user reviews",
       "first_seen": "2026-06-06T19:37:16+00:00",
       "last_seen": "2026-06-07T04:16:11+00:00",
-      "updated_at": "2026-06-07T04:16:11+00:00"
+      "updated_at": "2026-06-07T07:01:25+00:00"
     },
     {
       "app_id": 1446780,
@@ -21182,6 +21332,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 23400,
+          "final": 4680
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 92900,
+          "final": 18500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 15300,
+          "final": 3060
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 420000,
+          "final": 84000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3840000,
+          "final": 768000
         }
       },
       "review_hint": "Very Positive<br>84% of the 1,996 user reviews for this game are positive.",
@@ -21196,7 +21371,7 @@
       "search_text": "paleo pines paleo pines welcome to paleo pines, a charming island known for its friendly dinosaurs, quirky townsfolk, and mysterious past. befriend dinos and enlist their help to fix up your ranch and farm crops to create your cozy dino sanctuary! then set out with your companion, lucky, to uncover the island’s secrets. adventure casual indie rpg simulation single-player steam achievements full controller support steam trading cards steam cloud family sharing english french german spanish-spain japanese portuguese-brazil russian italian korean schinese very positive very positive<br>84% of the 1,996 user reviews for this game are positive.",
       "first_seen": "2026-06-06T19:37:16+00:00",
       "last_seen": "2026-06-07T04:16:11+00:00",
-      "updated_at": "2026-06-07T04:16:11+00:00"
+      "updated_at": "2026-06-07T07:01:25+00:00"
     },
     {
       "app_id": 1623730,
@@ -26609,6 +26784,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 9360
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 50000,
+          "final": 30000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7500,
+          "final": 4500
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 168000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3200000,
+          "final": 1920000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>97% of the 8,406 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -26623,7 +26823,7 @@
       "search_text": "shapez 2 - factory shapez 2 - factory dive into a factory-building game with the focus on just that – building huge space factories! design sprawling multi-level factories and satisfying production lines without limits. tackle progressively challenging automation goals at your own pace, without the threat of enemies. casual indie simulation strategy single-player steam achievements steam workshop adjustable text size camera comfort color alternatives custom volume controls adjustable difficulty playable without timed input save anytime stereo sound subtitle options steam cloud family sharing english french german spanish-spain korean turkish polish russian thai japanese portuguese-brazil schinese tchinese overwhelmingly positive overwhelmingly positive<br>97% of the 8,406 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-06T19:37:16+00:00",
       "last_seen": "2026-06-07T04:16:11+00:00",
-      "updated_at": "2026-06-07T04:16:11+00:00"
+      "updated_at": "2026-06-07T07:01:25+00:00"
     },
     {
       "app_id": 307690,
@@ -30213,6 +30413,31 @@
           "currency": "USD",
           "original": 3499,
           "final": 1749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 21800,
+          "final": 10900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 56600,
+          "final": 28300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 12800,
+          "final": 6400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 390000,
+          "final": 195000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3750000,
+          "final": 1875000
         }
       },
       "review_hint": "Mostly Positive<br>73% of the 282 user reviews for this game are positive.",
@@ -30227,7 +30452,7 @@
       "search_text": "tetris® forever tetris® forever celebrate 40 years of tetris® with 15+ games, a new game, and documentary videos casual single-player multi-player pvp shared/split screen pvp shared/split screen steam achievements full controller support steam trading cards steam cloud remote play together family sharing english french italian german spanish-spain japanese korean tchinese mostly positive mostly positive<br>73% of the 282 user reviews for this game are positive.",
       "first_seen": "2026-06-07T04:16:11+00:00",
       "last_seen": "2026-06-07T04:16:11+00:00",
-      "updated_at": "2026-06-07T04:16:11+00:00"
+      "updated_at": "2026-06-07T07:01:25+00:00"
     },
     {
       "app_id": 2366980,
@@ -32515,6 +32740,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9049,
+          "final": 7239
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21800,
+          "final": 17400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5399,
+          "final": 4319
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 151000,
+          "final": 120800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1233000,
+          "final": 986000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>95% of the 779 user reviews for this game are positive.",
@@ -32529,7 +32779,7 @@
       "search_text": "titanium court titanium court a surreal strategy game for clowns and criminals. strategy single-player steam achievements full controller support steam trading cards camera comfort custom volume controls adjustable difficulty keyboard only option mouse only option playable without timed input touch only option steam cloud family sharing english overwhelmingly positive overwhelmingly positive<br>95% of the 779 user reviews for this game are positive.",
       "first_seen": "2026-06-06T19:37:16+00:00",
       "last_seen": "2026-06-07T04:16:11+00:00",
-      "updated_at": "2026-06-07T04:16:11+00:00"
+      "updated_at": "2026-06-07T07:01:25+00:00"
     },
     {
       "app_id": 2221490,
@@ -33951,6 +34201,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 6250
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 16400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 3800
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 115000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 1075000
         }
       },
       "review_hint": "Very Positive<br>90% of the 1,220 user reviews for this game are positive.",
@@ -33965,7 +34240,7 @@
       "search_text": "vellum vellum write on! defend the books in vellum, a co-op, literary roguelike! harness class-defining colors, master an inspired spellbook, and influence the growth of your enemy! as a group or solo, you'll craft plot-twisting builds to rewrite the rules in ink! action adventure indie single-player multi-player co-op online co-op steam achievements full controller support steam trading cards steam cloud family sharing english very positive very positive<br>90% of the 1,220 user reviews for this game are positive.",
       "first_seen": "2026-06-06T19:37:16+00:00",
       "last_seen": "2026-06-07T04:16:11+00:00",
-      "updated_at": "2026-06-07T04:16:11+00:00"
+      "updated_at": "2026-06-07T07:01:25+00:00"
     },
     {
       "app_id": 3112260,
@@ -34720,6 +34995,31 @@
           "currency": "USD",
           "original": 3499,
           "final": 1224
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 21800,
+          "final": 7630
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 56600,
+          "final": 19800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 12800,
+          "final": 4480
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 398000,
+          "final": 139300
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3750000,
+          "final": 1312000
         }
       },
       "review_hint": "Mostly Positive<br>78% of the 1,132 user reviews for this game are positive.",
@@ -34734,7 +35034,7 @@
       "search_text": "wizardry: proving grounds of the mad overlord wizardry: proving grounds of the mad overlord wizardry: proving grounds of the mad overlord is a full 3d remake of the first game in the legendary wizardry series of rpgs. action rpg single-player partial controller support steam cloud family sharing english french italian german spanish-spain japanese very positive mostly positive<br>78% of the 1,132 user reviews for this game are positive.",
       "first_seen": "2026-06-07T04:16:11+00:00",
       "last_seen": "2026-06-07T04:16:11+00:00",
-      "updated_at": "2026-06-07T04:16:11+00:00"
+      "updated_at": "2026-06-07T07:01:25+00:00"
     },
     {
       "app_id": 1448440,
@@ -37219,6 +37519,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 12480
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 32600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9200,
+          "final": 7360
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 224000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 2160000
         }
       },
       "review_hint": "Very Positive<br>83% of the 411 user reviews for this game are positive.",
@@ -37233,7 +37558,7 @@
       "search_text": "aether & iron aether & iron immerse yourself in this decopunk narrative rpg set in an alternate 1930s where anti-gravitational technology has taken cars, roads, and even new york city into the sky. muster a crew, master tactical turn-based combat, and unravel the dark secrets lurking beneath the floating metropolis. adventure casual indie rpg strategy single-player steam achievements full controller support custom volume controls adjustable difficulty mouse only option playable without timed input save anytime stereo sound subtitle options steam cloud family sharing english spanish-spain french german portuguese-brazil russian schinese spanish-latin polish very positive very positive<br>83% of the 411 user reviews for this game are positive.",
       "first_seen": "2026-06-06T19:37:16+00:00",
       "last_seen": "2026-06-07T04:16:11+00:00",
-      "updated_at": "2026-06-07T04:16:11+00:00"
+      "updated_at": "2026-06-07T07:01:25+00:00"
     },
     {
       "app_id": 2541530,
