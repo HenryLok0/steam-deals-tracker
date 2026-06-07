@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T14:00:56+00:00",
+  "updated_at": "2026-06-07T16:05:54+00:00",
   "total_count": 1469,
   "active_count": 346,
   "games": [
@@ -14488,6 +14488,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 18700,
+          "final": 5610
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 48800,
+          "final": 14600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10800,
+          "final": 3240
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 340000,
+          "final": 102000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3200000,
+          "final": 960000
         }
       },
       "review_hint": "Very Positive<br>87% of the 2,736 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -14502,7 +14527,7 @@
       "search_text": "inkbound inkbound a turn-based tactical roguelike from the creators of monster train. play solo or co-op, create powerful builds, and save the atheneum. action indie massively multiplayer rpg simulation strategy single-player multi-player co-op online co-op steam achievements full controller support steam trading cards camera comfort custom volume controls mouse only option playable without timed input steam cloud family sharing english french german japanese schinese very positive very positive<br>87% of the 2,736 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-07T14:00:56+00:00",
       "last_seen": "2026-06-07T14:00:56+00:00",
-      "updated_at": "2026-06-07T14:00:56+00:00"
+      "updated_at": "2026-06-07T16:05:54+00:00"
     },
     {
       "app_id": 2239710,
@@ -30010,6 +30035,31 @@
           "currency": "USD",
           "original": 999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 5280
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 15000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 3360
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 96000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 880000
         }
       },
       "review_hint": "Very Positive<br>92% of the 1,338 user reviews for this game are positive.",
@@ -30024,7 +30074,7 @@
       "search_text": "tangy td tangy td strategic tower defense where you play a witch, place class-based towers, equip them with items that grant powerful abilities, combine them, create unique builds &amp; deal ridiculous amounts of damage! customize your builds with a deep stat system and giant skill tree! action indie strategy single-player steam achievements steam cloud steam leaderboards family sharing english german spanish-spain italian polish portuguese-brazil turkish russian ukrainian very positive very positive<br>92% of the 1,338 user reviews for this game are positive.",
       "first_seen": "2026-06-07T14:00:56+00:00",
       "last_seen": "2026-06-07T14:00:56+00:00",
-      "updated_at": "2026-06-07T14:00:56+00:00"
+      "updated_at": "2026-06-07T16:05:54+00:00"
     },
     {
       "app_id": 2996040,
@@ -42012,6 +42062,31 @@
           "currency": "USD",
           "original": 2000,
           "final": 1600
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 16000,
+          "final": 12800
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 60000,
+          "final": 48000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10000,
+          "final": 8000
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 310000,
+          "final": 248000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3000000,
+          "final": 2400000
         }
       },
       "review_hint": "Very Positive<br>85% of the 532 user reviews for this game are positive.",
@@ -42026,7 +42101,7 @@
       "search_text": "arc raiders - upgrade to deluxe edition arc raiders - upgrade to deluxe edition the upgrade to deluxe edition bundle includes the following content: the wanderer set, lip scar character cosmetic, finger gun rapid fire emote, scrappy body type and outfit, and 2,400 raider tokens. action multi-player pvp online pvp co-op online co-op downloadable content steam achievements full controller support in-app purchases stats english very positive very positive<br>85% of the 532 user reviews for this game are positive.",
       "first_seen": "2026-06-07T09:19:11+00:00",
       "last_seen": "2026-06-07T14:00:56+00:00",
-      "updated_at": "2026-06-07T14:00:56+00:00"
+      "updated_at": "2026-06-07T16:05:54+00:00"
     },
     {
       "app_id": 403430,
