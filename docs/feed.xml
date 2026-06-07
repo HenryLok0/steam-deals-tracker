@@ -4,13 +4,20 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sun, 07 Jun 2026 09:19:11 +0000</lastBuildDate>
+<lastBuildDate>Sun, 07 Jun 2026 14:00:56 +0000</lastBuildDate>
 <item>
-<title>ARC Raiders - Upgrade to Deluxe Edition</title>
-<link>https://store.steampowered.com/app/3948510/</link>
-<guid isPermaLink="false">3948510</guid>
-<pubDate>Sun, 07 Jun 2026 09:19:11 +0000</pubDate>
-<description>The Upgrade to Deluxe edition bundle includes the following content: The Wanderer Set, Lip Scar Character Cosmetic, Finger Gun Rapid Fire Emote, Scrappy Body Type and Outfit, and 2,400 Raider Tokens.</description>
+<title>Inkbound</title>
+<link>https://store.steampowered.com/app/1062810/</link>
+<guid isPermaLink="false">1062810</guid>
+<pubDate>Sun, 07 Jun 2026 14:00:56 +0000</pubDate>
+<description>A turn-based tactical roguelike from the creators of Monster Train. Play solo or co-op, create powerful builds, and save the Atheneum.</description>
+</item>
+<item>
+<title>Tangy TD</title>
+<link>https://store.steampowered.com/app/2245620/</link>
+<guid isPermaLink="false">2245620</guid>
+<pubDate>Sun, 07 Jun 2026 14:00:56 +0000</pubDate>
+<description>Strategic tower defense where you play a witch, place class-based towers, equip them with items that grant powerful abilities, combine them, create unique builds &amp;amp; deal ridiculous amounts of damage! Customize your builds with a deep stat system and giant skill tree!</description>
 </item>
 <item>
 <title>Tetris® Forever</title>
@@ -32,6 +39,13 @@
 <guid isPermaLink="false">2805520</guid>
 <pubDate>Sat, 06 Jun 2026 19:37:16 +0000</pubDate>
 <description>Chronicles features Age of Empires II gameplay set in antiquity. In Battle for Greece, the first chapter of this multi-part saga, fight with three new ancient civilizations and experience a grand narrative campaign, from the Ionian Revolt to the Peloponnesian War.</description>
+</item>
+<item>
+<title>Age of Empires III: Definitive Edition (Base Game)</title>
+<link>https://store.steampowered.com/app/2477660/</link>
+<guid isPermaLink="false">2477660</guid>
+<pubDate>Sat, 06 Jun 2026 19:37:16 +0000</pubDate>
+<description>Unlock the full game experience of Age of Empires III: Definitive Edition. *Note: This DLC unlock is automatically given to people who have previously bought the full base game.</description>
 </item>
 <item>
 <title>Dispatch</title>
@@ -88,13 +102,6 @@
 <guid isPermaLink="false">917950</guid>
 <pubDate>Sat, 06 Jun 2026 19:37:16 +0000</pubDate>
 <description>Write on! Defend the books in Vellum, a co-op, literary roguelike! Harness class-defining colors, master an inspired spellbook, and influence the growth of your enemy! As a group or solo, you'll craft plot-twisting builds to rewrite the rules in Ink!</description>
-</item>
-<item>
-<title>Guild Wars® Bonus Mission Pack</title>
-<link>https://store.steampowered.com/app/4103460/</link>
-<guid isPermaLink="false">4103460</guid>
-<pubDate>Sat, 06 Jun 2026 13:51:06 +0000</pubDate>
-<description>Step into Tyriaʼs past as its greatest heroes, experience their defining moments, and claim exclusive rewards in the Bonus Mission Pack.</description>
 </item>
 <item>
 <title>Gravity Circuit</title>
