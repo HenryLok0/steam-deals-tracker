@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T15:59:26+00:00",
+  "updated_at": "2026-06-08T17:43:10+00:00",
   "total_count": 1496,
   "active_count": 344,
   "games": [
@@ -2686,6 +2686,31 @@
           "currency": "USD",
           "original": 1150,
           "final": 977
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7200,
+          "final": 6120
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26000,
+          "final": 22100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4800,
+          "final": 4080
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 160000,
+          "final": 136000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1300000,
+          "final": 1105000
         }
       },
       "review_hint": "",
@@ -2700,7 +2725,7 @@
       "search_text": "arms of god arms of god gear up for a battle through hell in this roguelite bullet heaven arena autoshooter with doom-inspired gore vibes, metal music, and a satisfying combat feel. wield five weapons at once, upgrade and merge them to forge indestructible builds, and bring divine justice to a world on the brink of chaos. action casual indie rpg early access single-player steam achievements full controller support camera comfort custom volume controls adjustable difficulty keyboard only option mouse only option playable without timed input save anytime stereo sound surround sound stats family sharing english polish french german spanish-spain japanese portuguese-brazil schinese korean russian thai tchinese 5 user reviews",
       "first_seen": "2026-06-08T15:59:26+00:00",
       "last_seen": "2026-06-08T15:59:26+00:00",
-      "updated_at": "2026-06-08T15:59:26+00:00"
+      "updated_at": "2026-06-08T17:43:10+00:00"
     },
     {
       "app_id": 368500,
@@ -3910,6 +3935,31 @@
           "currency": "USD",
           "original": 499,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3300,
+          "final": 1980
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 10200,
+          "final": 6100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1320
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 58000,
+          "final": 34800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 560000,
+          "final": 336000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>96% of the 30,917 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -3924,7 +3974,7 @@
       "search_text": "brotato brotato brotato is a top-down arena shooter roguelite where you play a potato wielding up to 6 weapons at a time to fight off hordes of aliens. choose from a variety of traits and items to create unique builds and survive until help arrives. action casual indie rpg single-player multi-player co-op shared/split screen co-op shared/split screen steam achievements full controller support steam trading cards steam workshop steam cloud remote play on tv remote play together family sharing english french german spanish-spain japanese korean polish portuguese-brazil russian schinese tchinese italian turkish overwhelmingly positive overwhelmingly positive<br>96% of the 30,917 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-08T11:02:50+00:00",
       "last_seen": "2026-06-08T15:59:26+00:00",
-      "updated_at": "2026-06-08T15:59:26+00:00"
+      "updated_at": "2026-06-08T17:43:10+00:00"
     },
     {
       "app_id": 1588550,
@@ -11443,6 +11493,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 1999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 32800,
+          "final": 16400
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 91900,
+          "final": 45900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 20600,
+          "final": 10300
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 374000,
+          "final": 187000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 5040000,
+          "final": 2520000
         }
       },
       "review_hint": "Very Positive<br>96% of the 348 user reviews for this game are positive.",
@@ -11457,7 +11532,7 @@
       "search_text": "fuga: melodies of steel 2 fuga: melodies of steel 2 the sequel to the captivating tale of fuga: melodies of steel has arrived! this turn-based rpg is back with a ramped up battle system for more strategy, as well as a brand new event system that gives you more thrilling choices to affect your experience! rpg simulation strategy single-player steam achievements steam trading cards partial controller support steam cloud family sharing english french japanese spanish-spain spanish-latin portuguese---portugal russian schinese tchinese korean italian german portuguese-brazil very positive very positive<br>96% of the 348 user reviews for this game are positive.",
       "first_seen": "2026-06-08T15:59:26+00:00",
       "last_seen": "2026-06-08T15:59:26+00:00",
-      "updated_at": "2026-06-08T15:59:26+00:00"
+      "updated_at": "2026-06-08T17:43:10+00:00"
     },
     {
       "app_id": 4164900,
@@ -11524,6 +11599,31 @@
           "currency": "USD",
           "original": 1240,
           "final": 992
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7255,
+          "final": 5804
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 23800,
+          "final": 19000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 3360
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 96000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1200000,
+          "final": 960000
         }
       },
       "review_hint": "Positive<br>81% of the 16 user reviews for this game are positive.",
@@ -11538,7 +11638,7 @@
       "search_text": "gacha capsule shop simulator - akihabara gacha capsule shop simulator - akihabara (ea june 8th!) what's it like to open a shop in akihabara? sourcing, displaying, hiring(staff &amp; robots), setting your own prices. from a little shop to a legendary otaku shop filled with rare figures. conquer akihabara with your gacha business skills. (and sometimes physical means too)! casual indie simulation early access single-player steam achievements camera comfort custom volume controls playable without timed input save anytime stereo sound surround sound steam cloud family sharing english french german spanish-spain japanese portuguese-brazil portuguese---portugal russian schinese tchinese turkish korean italian 5 user reviews positive<br>81% of the 16 user reviews for this game are positive.",
       "first_seen": "2026-06-08T15:59:26+00:00",
       "last_seen": "2026-06-08T15:59:26+00:00",
-      "updated_at": "2026-06-08T15:59:26+00:00"
+      "updated_at": "2026-06-08T17:43:10+00:00"
     },
     {
       "app_id": 3892270,
@@ -14081,6 +14181,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 20800,
+          "final": 5200
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 89000,
+          "final": 22200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 12800,
+          "final": 3200
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 388000,
+          "final": 97000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3480000,
+          "final": 870000
         }
       },
       "review_hint": "Very Positive<br>90% of the 28,470 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -14095,7 +14220,7 @@
       "search_text": "hellblade: senua's sacrifice hellblade: senua's sacrifice from the makers of heavenly sword, enslaved: odyssey to the west, and dmc: devil may cry, comes a warrior’s brutal journey into myth and madness. set in the viking age, a broken celtic warrior embarks on a haunting vision quest into viking hell to fight for the soul of her dead lover. action adventure indie single-player steam achievements full controller support steam trading cards steam cloud remote play on tv family sharing english french italian german spanish-spain arabic danish dutch finnish japanese korean norwegian polish portuguese---portugal portuguese-brazil russian schinese swedish tchinese turkish very positive very positive<br>90% of the 28,470 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-08T15:59:26+00:00",
       "last_seen": "2026-06-08T15:59:26+00:00",
-      "updated_at": "2026-06-08T15:59:26+00:00"
+      "updated_at": "2026-06-08T17:43:10+00:00"
     },
     {
       "app_id": 990080,
@@ -15210,6 +15335,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8700,
+          "final": 6960
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 30800,
+          "final": 24600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5900,
+          "final": 4720
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 190000,
+          "final": 152000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1600000,
+          "final": 1280000
         }
       },
       "review_hint": "Mostly Positive<br>70% of the 208 user reviews for this game are positive.",
@@ -15224,7 +15374,7 @@
       "search_text": "killer bean killer bean you are killer bean, a rogue assassin coffee bean, who takes out the trash in this world, one bullet at a time. this is a first person / third person action roguelike. action adventure indie early access single-player adjustable difficulty stereo sound partial controller support steam cloud family sharing english mostly positive mostly positive<br>70% of the 208 user reviews for this game are positive.",
       "first_seen": "2026-06-08T15:59:26+00:00",
       "last_seen": "2026-06-08T15:59:26+00:00",
-      "updated_at": "2026-06-08T15:59:26+00:00"
+      "updated_at": "2026-06-08T17:43:10+00:00"
     },
     {
       "app_id": 379430,
@@ -26682,6 +26832,31 @@
           "currency": "USD",
           "original": 3499,
           "final": 1749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 23000,
+          "final": 11500
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 56600,
+          "final": 28300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 16500,
+          "final": 8250
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 400000,
+          "final": 200000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3750000,
+          "final": 1875000
         }
       },
       "review_hint": "Very Positive<br>89% of the 6,297 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -26696,7 +26871,7 @@
       "search_text": "sea of stars: sunset edition sea of stars: sunset edition sea of stars is a turn-based rpg inspired by the classics. it tells the story of two children of the solstice who will combine the powers of the sun and moon to perform eclipse magic, the only force capable of fending off the monstrous creations of the evil alchemist known as the fleshmancer. adventure indie rpg single-player multi-player co-op shared/split screen co-op shared/split screen steam achievements full controller support steam cloud remote play together family sharing english french german spanish-spain japanese korean portuguese-brazil russian schinese tchinese italian very positive very positive<br>89% of the 6,297 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-08T15:59:26+00:00",
       "last_seen": "2026-06-08T15:59:26+00:00",
-      "updated_at": "2026-06-08T15:59:26+00:00"
+      "updated_at": "2026-06-08T17:43:10+00:00"
     },
     {
       "app_id": 1172620,
