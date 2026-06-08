@@ -4,7 +4,14 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Mon, 08 Jun 2026 07:25:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 08 Jun 2026 11:02:50 +0000</lastBuildDate>
+<item>
+<title>Brotato</title>
+<link>https://store.steampowered.com/app/1942280/</link>
+<guid isPermaLink="false">1942280</guid>
+<pubDate>Mon, 08 Jun 2026 11:02:50 +0000</pubDate>
+<description>Brotato is a top-down arena shooter roguelite where you play a potato wielding up to 6 weapons at a time to fight off hordes of aliens. Choose from a variety of traits and items to create unique builds and survive until help arrives.</description>
+</item>
 <item>
 <title>2 Fights in 2 Tight Spaces</title>
 <link>https://store.steampowered.com/app/3734890/</link>
@@ -95,6 +102,13 @@
 <guid isPermaLink="false">2814990</guid>
 <pubDate>Sun, 07 Jun 2026 19:37:37 +0000</pubDate>
 <description>High-octane action and anime aesthetics collide in this arcade racing game, featuring fighting mechanics and a storyline that hits hard. In this world, some race for glory while others seek power or revenge. Every race is a fight and every battle is personal.</description>
+</item>
+<item>
+<title>Test Drive Unlimited Solar Crown</title>
+<link>https://store.steampowered.com/app/1249970/</link>
+<guid isPermaLink="false">1249970</guid>
+<pubDate>Sun, 07 Jun 2026 19:37:37 +0000</pubDate>
+<description>TDUSC is a lifestyle and social experience that redefines what an open-world racing game can be. Explore a fully recreated Hong Kong Island. Take to the road behind the wheel of exceptional cars and live the ultimate life of luxury.</description>
 </item>
 <item>
 <title>The Planet Crafter</title>
