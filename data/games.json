@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09T15:14:54+00:00",
+  "updated_at": "2026-06-09T17:17:52+00:00",
   "total_count": 1585,
   "active_count": 351,
   "games": [
@@ -1627,6 +1627,31 @@
           "currency": "USD",
           "original": 799,
           "final": 199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5200,
+          "final": 1300
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15200,
+          "final": 3800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3300,
+          "final": 825
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 92000,
+          "final": 23000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 890000,
+          "final": 222000
         }
       },
       "review_hint": "Positive<br>80% of the 20 user reviews for this game are positive.",
@@ -1641,7 +1666,7 @@
       "search_text": "airport ceo - helicopters airport ceo - helicopters lift your airport to a new standard with helicopters! indie simulation strategy single-player downloadable content steam achievements steam workshop steam cloud family sharing english german french spanish-spain portuguese-brazil russian dutch turkish czech schinese italian polish mostly positive positive<br>80% of the 20 user reviews for this game are positive.",
       "first_seen": "2026-06-09T15:14:54+00:00",
       "last_seen": "2026-06-09T15:14:54+00:00",
-      "updated_at": "2026-06-09T15:14:54+00:00"
+      "updated_at": "2026-06-09T17:17:52+00:00"
     },
     {
       "app_id": 4285690,
@@ -3210,6 +3235,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 2124
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14500,
+          "final": 12325
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 46900,
+          "final": 39800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10800,
+          "final": 9180
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 315000,
+          "final": 267700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2650000,
+          "final": 2252000
         }
       },
       "review_hint": "",
@@ -3224,7 +3274,7 @@
       "search_text": "atre: dominance wars atre: dominance wars fantasy kingdom builder with god powers and turn-based tactical combat. build thriving settlements, forge artifacts, command armies with heroes, and ascend from sorcerer to god - wielding spells powerful enough to reshape the world itself. betray your allies or be betrayed. only one can ascend. simulation strategy early access single-player multi-player pvp online pvp co-op online co-op steam achievements camera comfort color alternatives custom volume controls adjustable difficulty mouse only option playable without timed input save anytime subtitle options steam cloud includes level editor family sharing english schinese tchinese 6 user reviews",
       "first_seen": "2026-06-09T15:14:54+00:00",
       "last_seen": "2026-06-09T15:14:54+00:00",
-      "updated_at": "2026-06-09T15:14:54+00:00"
+      "updated_at": "2026-06-09T17:17:52+00:00"
     },
     {
       "app_id": 2457220,
@@ -7826,6 +7876,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 974
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 6175
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 17400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 3770
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 110500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 1072000
         }
       },
       "review_hint": "Very Positive<br>90% of the 544 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -7840,7 +7915,7 @@
       "search_text": "deadly days: roadtrip deadly days: roadtrip loot, shoot, and mow down zombie hordes in this bullet heaven fever dream. embark on a deadly roadtrip, fuel your bus, decide when to extract – and get that sweet inventory management kick when that new slot in your backpack fits just right. action indie early access single-player steam achievements full controller support custom volume controls playable without timed input stereo sound steam cloud steam leaderboards family sharing english german japanese korean schinese french italian spanish-spain polish portuguese-brazil portuguese---portugal russian spanish-latin tchinese turkish ukrainian very positive very positive<br>90% of the 544 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-09T15:14:54+00:00",
       "last_seen": "2026-06-09T15:14:54+00:00",
-      "updated_at": "2026-06-09T15:14:54+00:00"
+      "updated_at": "2026-06-09T17:17:52+00:00"
     },
     {
       "app_id": 2321470,
@@ -19689,6 +19764,31 @@
           "currency": "USD",
           "original": 499,
           "final": 249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3300,
+          "final": 1650
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 10200,
+          "final": 5100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1100
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 60000,
+          "final": 30000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 560000,
+          "final": 280000
         }
       },
       "review_hint": "Very Positive<br>96% of the 453 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -19703,7 +19803,7 @@
       "search_text": "mirage feathers mirage feathers 「maybe one day, i won't have to fight when i fly.」 action indie single-player steam achievements full controller support steam trading cards camera comfort custom volume controls adjustable difficulty keyboard only option mouse only option steam cloud steam leaderboards family sharing schinese english japanese tchinese korean spanish-latin spanish-spain very positive very positive<br>96% of the 453 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-09T09:52:47+00:00",
       "last_seen": "2026-06-09T15:14:54+00:00",
-      "updated_at": "2026-06-09T15:14:54+00:00"
+      "updated_at": "2026-06-09T17:17:52+00:00"
     },
     {
       "app_id": 2474770,
@@ -23519,6 +23619,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 1169
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5300,
+          "final": 4770
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21600,
+          "final": 19400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4400,
+          "final": 3960
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 150000,
+          "final": 135000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1450000,
+          "final": 1305000
         }
       },
       "review_hint": "Very Positive<br>80% of the 618 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -23533,7 +23658,7 @@
       "search_text": "r.i.p. - reincarnation insurance program r.i.p. - reincarnation insurance program welcome to the reincarnation insurance program! this top-down roguelite shooter blends diablo-style looting with survivor-like mayhem. face screen-filling zombie tides, use divine tech to liquidate them into ash, and farm god-tier gear to forge your op build. action adventure casual early access single-player steam achievements steam trading cards partial controller support steam cloud family sharing schinese english japanese tchinese german russian korean very positive very positive<br>80% of the 618 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-09T15:14:54+00:00",
       "last_seen": "2026-06-09T15:14:54+00:00",
-      "updated_at": "2026-06-09T15:14:54+00:00"
+      "updated_at": "2026-06-09T17:17:52+00:00"
     },
     {
       "app_id": 2132850,
@@ -25846,6 +25971,31 @@
           "currency": "USD",
           "original": 1800,
           "final": 1440
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8700,
+          "final": 6960
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 35000,
+          "final": 28000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7400,
+          "final": 5920
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 250000,
+          "final": 200000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2200000,
+          "final": 1760000
         }
       },
       "review_hint": "Mostly Positive<br>78% of the 116 user reviews for this game are positive.",
@@ -25860,7 +26010,7 @@
       "search_text": "road to empress ⅱ road to empress ⅱ play as the protagonist in this live-action interactive palace survival drama! take a dynasty's fate into your own hands in road to empress ii, the new content of the global hit. defy fate, navigate intrigue, and claim the throne of power. you decide it all! adventure casual indie rpg simulation single-player steam achievements in-app purchases family sharing english schinese french german spanish-spain korean thai japanese tchinese 5 user reviews mostly positive<br>78% of the 116 user reviews for this game are positive.",
       "first_seen": "2026-06-09T09:52:47+00:00",
       "last_seen": "2026-06-09T15:14:54+00:00",
-      "updated_at": "2026-06-09T15:14:54+00:00"
+      "updated_at": "2026-06-09T17:17:52+00:00"
     },
     {
       "app_id": 692890,
@@ -26228,6 +26378,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15800,
+          "final": 12640
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 32600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8800,
+          "final": 7040
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 350000,
+          "final": 280000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 2160000
         }
       },
       "review_hint": "Mixed<br>56% of the 1,551 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -26242,7 +26417,7 @@
       "search_text": "samson samson samson returns to tyndalston, a city that shaped him hard, where every fight is close and every escape is earned. he owes dangerous people more than he can pay, and they’re using his sister to force his hand. the clock is ticking. the only way out is through anyone who stands in his way. action adventure racing single-player steam achievements full controller support camera comfort color alternatives custom volume controls playable without timed input stereo sound surround sound steam cloud family sharing english french italian german spanish-spain turkish portuguese-brazil russian mixed mixed<br>56% of the 1,551 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-09T15:14:54+00:00",
       "last_seen": "2026-06-09T15:14:54+00:00",
-      "updated_at": "2026-06-09T15:14:54+00:00"
+      "updated_at": "2026-06-09T17:17:52+00:00"
     },
     {
       "app_id": 3198890,
@@ -30447,6 +30622,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 870
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7900,
+          "final": 5293
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 23800,
+          "final": 15900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4900,
+          "final": 3283
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 144900,
+          "final": 97000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1200000,
+          "final": 804000
         }
       },
       "review_hint": "Mostly Positive<br>77% of the 1,171 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -30461,7 +30661,7 @@
       "search_text": "temtem: swarm temtem: swarm can you survive the swarm? unlock mighty abilities and upgrades, find and collect tems to evolve and become stronger, discover overpowered strategies, and battle massive bosses in this survivor-like bullet heaven! play solo or online co-op with up to 3 players, building the wildest synergies. action casual rpg single-player multi-player co-op online co-op cross-platform multiplayer steam achievements full controller support steam trading cards camera comfort custom volume controls keyboard only option mouse only option playable without timed input stereo sound steam cloud remote play on tv family sharing steam timeline english french german spanish-spain japanese korean polish portuguese-brazil russian schinese thai tchinese italian mostly positive mostly positive<br>77% of the 1,171 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-09T09:52:47+00:00",
       "last_seen": "2026-06-09T15:14:54+00:00",
-      "updated_at": "2026-06-09T15:14:54+00:00"
+      "updated_at": "2026-06-09T17:17:52+00:00"
     },
     {
       "app_id": 3596700,
@@ -32150,6 +32350,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 6250
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 16400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 3800
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 115000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 1075000
         }
       },
       "review_hint": "Very Positive<br>94% of the 749 user reviews for this game are positive.",
@@ -32164,7 +32389,7 @@
       "search_text": "the talos principle 2 - road to elysium the talos principle 2 - road to elysium road to elysium is a three-part coda that allows you to dive deeper into the world of the talos principle 2, reunite with beloved characters, and put your puzzle-solving skills to the test through a series of thought-provoking new stories. action adventure single-player downloadable content steam achievements full controller support steam cloud hdr available family sharing english french german spanish-spain japanese korean polish portuguese-brazil russian schinese tchinese turkish very positive very positive<br>94% of the 749 user reviews for this game are positive.",
       "first_seen": "2026-06-09T15:14:54+00:00",
       "last_seen": "2026-06-09T15:14:54+00:00",
-      "updated_at": "2026-06-09T15:14:54+00:00"
+      "updated_at": "2026-06-09T17:17:52+00:00"
     },
     {
       "app_id": 2806640,
@@ -32941,6 +33166,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1049
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7600,
+          "final": 5320
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 18700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5000,
+          "final": 3500
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 154000,
+          "final": 107800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1550000,
+          "final": 1085000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>97% of the 755 user reviews for this game are positive.",
@@ -32955,7 +33205,7 @@
       "search_text": "touhou chireiden ~ subterranean animism. touhou chireiden ~ subterranean animism. 弾幕は　地獄であるほど　美しい 深ければ深いほど地底は地獄の姿を取り戻す ヘリッシュでラブリーな弾幕シューティング地獄 action indie single-player steam cloud family sharing japanese very positive overwhelmingly positive<br>97% of the 755 user reviews for this game are positive.",
       "first_seen": "2026-06-09T15:14:54+00:00",
       "last_seen": "2026-06-09T15:14:54+00:00",
-      "updated_at": "2026-06-09T15:14:54+00:00"
+      "updated_at": "2026-06-09T17:17:52+00:00"
     },
     {
       "app_id": 1100140,
@@ -33087,6 +33337,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1049
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7600,
+          "final": 5320
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 18700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5000,
+          "final": 3500
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 154000,
+          "final": 107800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1550000,
+          "final": 1085000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>98% of the 1,444 user reviews for this game are positive.",
@@ -33101,7 +33376,7 @@
       "search_text": "touhou kanjuden ~ legacy of lunatic kingdom. touhou kanjuden ~ legacy of lunatic kingdom. 月の都から敵が攻めてきた！ その弾幕が過去最狂難易度を誇るのは当然だろう？ ピュアーでルナティックなシューティング幻想！ action indie single-player partial controller support steam cloud family sharing japanese very positive overwhelmingly positive<br>98% of the 1,444 user reviews for this game are positive.",
       "first_seen": "2026-06-09T15:14:54+00:00",
       "last_seen": "2026-06-09T15:14:54+00:00",
-      "updated_at": "2026-06-09T15:14:54+00:00"
+      "updated_at": "2026-06-09T17:17:52+00:00"
     },
     {
       "app_id": 1139980,
@@ -34105,6 +34380,31 @@
           "currency": "USD",
           "original": 249,
           "final": 186
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 1500,
+          "final": 1125
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 5000,
+          "final": 3700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1250,
+          "final": 937
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 24900,
+          "final": 18600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 250000,
+          "final": 187000
         }
       },
       "review_hint": "Very Positive<br>91% of the 571 user reviews for this game are positive.",
@@ -34119,7 +34419,7 @@
       "search_text": "vampire survivors: operation guns vampire survivors: operation guns grab your blaster, join contra force, and be the bullet hell in vampire survivors: operation guns action casual indie rpg single-player downloadable content steam achievements full controller support steam trading cards steam cloud remote play together family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese turkish ukrainian very positive very positive<br>91% of the 571 user reviews for this game are positive.",
       "first_seen": "2026-06-09T15:14:54+00:00",
       "last_seen": "2026-06-09T15:14:54+00:00",
-      "updated_at": "2026-06-09T15:14:54+00:00"
+      "updated_at": "2026-06-09T17:17:52+00:00"
     },
     {
       "app_id": 427290,
@@ -34682,6 +34982,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 2249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14500,
+          "final": 13050
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 46900,
+          "final": 42200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9300,
+          "final": 8370
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 315000,
+          "final": 283500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2650000,
+          "final": 2385000
         }
       },
       "review_hint": "",
@@ -34696,7 +35021,7 @@
       "search_text": "voidling bound voidling bound hatch, evolve, and upgrade powerful space creatures in this action-packed sci-fi 3rd person shooter that reinvents the monster taming genre! action adventure rpg single-player steam achievements full controller support camera comfort color alternatives custom volume controls adjustable difficulty playable without timed input stereo sound steam cloud stats family sharing english french german spanish-spain japanese korean portuguese-brazil russian schinese positive",
       "first_seen": "2026-06-09T15:14:54+00:00",
       "last_seen": "2026-06-09T15:14:54+00:00",
-      "updated_at": "2026-06-09T15:14:54+00:00"
+      "updated_at": "2026-06-09T17:17:52+00:00"
     },
     {
       "app_id": 2272360,
@@ -35998,6 +36323,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 4750
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 13400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 2900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 85000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 825000
         }
       },
       "review_hint": "Very Positive<br>93% of the 4,614 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -36012,7 +36362,7 @@
       "search_text": "yet another zombie survivors yet another zombie survivors the horde is coming but you're ready to fight it! assemble your team and decide upon their enhancements to find the most efficient synergies against thousands of the undead. survive. then evolve. then break all the limits in this deceivingly simple but addictive bullet heaven game. action casual indie rpg early access single-player steam achievements full controller support camera comfort color alternatives custom volume controls adjustable difficulty keyboard only option mouse only option playable without timed input steam cloud steam leaderboards remote play on tv family sharing english polish schinese french german spanish-spain japanese korean portuguese-brazil russian very positive very positive<br>93% of the 4,614 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-09T15:14:54+00:00",
       "last_seen": "2026-06-09T15:14:54+00:00",
-      "updated_at": "2026-06-09T15:14:54+00:00"
+      "updated_at": "2026-06-09T17:17:52+00:00"
     },
     {
       "app_id": 3833760,
@@ -110483,6 +110833,31 @@
           "currency": "USD",
           "original": 999,
           "final": 99
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 660
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 1800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 420
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 12000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 110000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>97% of the 42,517 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -110497,7 +110872,7 @@
       "search_text": "postal 2 postal 2 live a week in the life of &quot;the postal dude&quot;; a hapless everyman just trying to check off some chores. buying milk, returning an overdue library book, getting gary coleman's autograph, what could possibly go wrong? action adventure indie single-player steam achievements full controller support steam trading cards steam workshop steam cloud includes level editor family sharing english russian schinese spanish-spain turkish overwhelmingly positive overwhelmingly positive<br>97% of the 42,517 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-09T09:52:47+00:00",
       "last_seen": "2026-06-09T15:14:54+00:00",
-      "updated_at": "2026-06-09T15:14:54+00:00"
+      "updated_at": "2026-06-09T17:17:52+00:00"
     },
     {
       "app_id": 1359980,
@@ -131054,6 +131429,31 @@
           "currency": "USD",
           "original": 5999,
           "final": 1499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 44900,
+          "final": 11225
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 169000,
+          "final": 42200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 36800,
+          "final": 9200
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 946000,
+          "final": 236500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 7200000,
+          "final": 1800000
         }
       },
       "review_hint": "Very Positive<br>94% of the 1,524 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -131068,7 +131468,7 @@
       "search_text": "super robot wars 30 super robot wars 30 30 years on, the battle for our world's future continues. super robot wars is a tactical rpg that brings characters and robots from a variety of mecha anime together to battle their mutual foes. rpg simulation strategy single-player steam achievements full controller support steam trading cards steam cloud family sharing english schinese tchinese japanese korean very positive very positive<br>94% of the 1,524 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-09T09:52:47+00:00",
       "last_seen": "2026-06-09T15:14:54+00:00",
-      "updated_at": "2026-06-09T15:14:54+00:00"
+      "updated_at": "2026-06-09T17:17:52+00:00"
     },
     {
       "app_id": 322500,
