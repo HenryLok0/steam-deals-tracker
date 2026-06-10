@@ -4,7 +4,35 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Wed, 10 Jun 2026 07:03:07 +0000</lastBuildDate>
+<lastBuildDate>Wed, 10 Jun 2026 10:08:38 +0000</lastBuildDate>
+<item>
+<title>Blossom: The Seed of Life</title>
+<link>https://store.steampowered.com/app/3576870/</link>
+<guid isPermaLink="false">3576870</guid>
+<pubDate>Wed, 10 Jun 2026 10:08:38 +0000</pubDate>
+<description>Terraform a dead planet back to life in this open world survival crafting game. Explore ruins, gather resources, print machines, drive modular vehicles, grow forests, biomes, and ecosystems. Create life and make it thrive with your own hands.</description>
+</item>
+<item>
+<title>NOBUNAGA'S AMBITION: Awakening</title>
+<link>https://store.steampowered.com/app/1336980/</link>
+<guid isPermaLink="false">1336980</guid>
+<pubDate>Wed, 10 Jun 2026 10:08:38 +0000</pubDate>
+<description>Conquer Warring States Japan under one banner</description>
+</item>
+<item>
+<title>Ostranauts</title>
+<link>https://store.steampowered.com/app/1022980/</link>
+<guid isPermaLink="false">1022980</guid>
+<pubDate>Wed, 10 Jun 2026 10:08:38 +0000</pubDate>
+<description>Navigate your scrappy ship through the boneyard in search of valuable parts in abandoned vessels. Use salvage to upgrade your ship, or sell it for cash to pay down your mounting debt, or restock fuel, air, or food. Fly and role-play aboard your dream spaceship in this hardcore noir space-sim.</description>
+</item>
+<item>
+<title>Teardown</title>
+<link>https://store.steampowered.com/app/1167630/</link>
+<guid isPermaLink="false">1167630</guid>
+<pubDate>Wed, 10 Jun 2026 10:08:38 +0000</pubDate>
+<description>Prepare the perfect heist in a fully destructible, simulated voxel world. Tear down walls with vehicles or use explosives to create your own shortcuts. Shape the environment to your advantage in the most creative ways you can imagine. Play solo or with up to 12 players in multiplayer.</description>
+</item>
 <item>
 <title>Echoes of Elysium</title>
 <link>https://store.steampowered.com/app/2644050/</link>
@@ -153,13 +181,6 @@
 <description>Embedded in a new X4: Timelines storyline, you'll find a wide range of scenarios in which you will experience the many different aspects of X4 gameplay.</description>
 </item>
 <item>
-<title>R.I.P. - Reincarnation Insurance Program</title>
-<link>https://store.steampowered.com/app/3985950/</link>
-<guid isPermaLink="false">3985950</guid>
-<pubDate>Tue, 09 Jun 2026 15:14:54 +0000</pubDate>
-<description>Welcome to the Reincarnation Insurance Program! This top-down roguelite shooter blends Diablo-style looting with Survivor-like mayhem. Face screen-filling zombie tides, use Divine Tech to liquidate them into ash, and farm god-tier gear to forge your OP build.</description>
-</item>
-<item>
 <title>Samson</title>
 <link>https://store.steampowered.com/app/3634520/</link>
 <guid isPermaLink="false">3634520</guid>
@@ -172,13 +193,6 @@
 <guid isPermaLink="false">1100150</guid>
 <pubDate>Tue, 09 Jun 2026 15:14:54 +0000</pubDate>
 <description>弾幕は　地獄であるほど　美しい 深ければ深いほど地底は地獄の姿を取り戻す ヘリッシュでラブリーな弾幕シューティング地獄</description>
-</item>
-<item>
-<title>Touhou Kanjuden ~ Legacy of Lunatic Kingdom.</title>
-<link>https://store.steampowered.com/app/937580/</link>
-<guid isPermaLink="false">937580</guid>
-<pubDate>Tue, 09 Jun 2026 15:14:54 +0000</pubDate>
-<description>月の都から敵が攻めてきた！ その弾幕が過去最狂難易度を誇るのは当然だろう？ ピュアーでルナティックなシューティング幻想！</description>
 </item>
 <item>
 <title>Vampire Survivors: Operation Guns</title>
@@ -200,20 +214,6 @@
 <guid isPermaLink="false">2163330</guid>
 <pubDate>Tue, 09 Jun 2026 15:14:54 +0000</pubDate>
 <description>The Horde is coming but you're ready to fight it! Assemble your team and decide upon their enhancements to find the most efficient synergies against thousands of the undead. Survive. Then evolve. Then break all the limits in this deceivingly simple but addictive bullet heaven game.</description>
-</item>
-<item>
-<title>Road to Empress Ⅱ</title>
-<link>https://store.steampowered.com/app/4148240/</link>
-<guid isPermaLink="false">4148240</guid>
-<pubDate>Tue, 09 Jun 2026 09:52:47 +0000</pubDate>
-<description>Play as the protagonist in this live-action interactive palace survival drama! Take a dynasty's fate into your own hands in Road to Empress II, the new content of the global hit. Defy fate, navigate intrigue, and claim the throne of power. You decide it all!</description>
-</item>
-<item>
-<title>Temtem: Swarm</title>
-<link>https://store.steampowered.com/app/2510960/</link>
-<guid isPermaLink="false">2510960</guid>
-<pubDate>Tue, 09 Jun 2026 09:52:47 +0000</pubDate>
-<description>Can you Survive the Swarm? Unlock mighty abilities and upgrades, find and collect Tems to evolve and become stronger, discover overpowered strategies, and battle massive bosses in this survivor-like bullet heaven! Play solo or online co-op with up to 3 players, building the wildest synergies.</description>
 </item>
 <item>
 <title>Gravity Circuit</title>
