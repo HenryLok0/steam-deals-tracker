@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T04:03:15+00:00",
+  "updated_at": "2026-06-10T07:03:07+00:00",
   "total_count": 1609,
   "active_count": 343,
   "games": [
@@ -4900,6 +4900,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 2399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 17200,
+          "final": 13760
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 56100,
+          "final": 44800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10900,
+          "final": 8720
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 385000,
+          "final": 308000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3100000,
+          "final": 2480000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>95% of the 10,472 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -4914,7 +4939,7 @@
       "search_text": "caves of qud caves of qud inhabit a deeply-simulated science fantasy world and chisel through layers of thousand-year-old civilizations. build a character from over a hundred mutations and cybernetics. the award-winning sandbox roguelike &amp; rpg full of robots, deep lore, and sentient plants. adventure indie rpg strategy single-player steam achievements full controller support steam workshop steam cloud steam leaderboards includes level editor family sharing english overwhelmingly positive overwhelmingly positive<br>95% of the 10,472 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-09T20:10:57+00:00",
       "last_seen": "2026-06-10T04:03:15+00:00",
-      "updated_at": "2026-06-10T04:03:15+00:00"
+      "updated_at": "2026-06-10T07:03:07+00:00"
     },
     {
       "app_id": 504230,
@@ -7401,6 +7426,31 @@
           "currency": "USD",
           "original": 4999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 39800,
+          "final": 3980
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 139000,
+          "final": 13900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 31700,
+          "final": 3170
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 598000,
+          "final": 59800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 5880000,
+          "final": 588000
         }
       },
       "review_hint": "Mostly Positive<br>70% of the 110 user reviews for this game are positive.",
@@ -7415,7 +7465,7 @@
       "search_text": "demon gaze extra demon gaze extra since its release, the original dungeon rpg demon gaze was an instant hit. with its innovative system, engrossing storyline and thrilling challenges, demon gaze extra retains its original flavor while adding enhanced graphics and a number of new elements for an even greater gameplay experience. rpg single-player steam achievements full controller support steam cloud family sharing english tchinese japanese korean mixed mostly positive<br>70% of the 110 user reviews for this game are positive.",
       "first_seen": "2026-06-09T20:10:57+00:00",
       "last_seen": "2026-06-10T04:03:15+00:00",
-      "updated_at": "2026-06-10T04:03:15+00:00"
+      "updated_at": "2026-06-10T07:03:07+00:00"
     },
     {
       "app_id": 1090150,
@@ -7480,6 +7530,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 99
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 13999,
+          "final": 699
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 53000,
+          "final": 2600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7900,
+          "final": 395
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 275000,
+          "final": 13700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2200000,
+          "final": 110000
         }
       },
       "review_hint": "Mixed<br>43% of the 1,971 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -7494,7 +7569,7 @@
       "search_text": "destiny 2: forsaken pack destiny 2: forsaken pack 20 exotic weapons to collect and master. draw trinity ghoul’s bowstring and vanquish waves of enemies with lightning or channel your inner gunslinger and turn opponents to ash with the exotic hand cannon, ace of spades. use your new power to face the challenges that await within the shattered throne dungeon and last wish raid. action adventure single-player multi-player pvp online pvp co-op online co-op downloadable content steam achievements full controller support in-app purchases english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese spanish-latin tchinese mixed mixed<br>43% of the 1,971 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-09T20:10:57+00:00",
       "last_seen": "2026-06-10T04:03:15+00:00",
-      "updated_at": "2026-06-10T04:03:15+00:00"
+      "updated_at": "2026-06-10T07:03:07+00:00"
     },
     {
       "app_id": 1090200,
@@ -7559,6 +7634,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 99
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 13999,
+          "final": 699
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 53000,
+          "final": 2600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7900,
+          "final": 395
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 275000,
+          "final": 13700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2200000,
+          "final": 110000
         }
       },
       "review_hint": "Mostly Negative<br>38% of the 2,527 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -7573,7 +7673,7 @@
       "search_text": "destiny 2: shadowkeep pack destiny 2: shadowkeep pack gear up and prepare to confront the ancient evil that once slumbered beneath the lunar surface. the shadowkeep pack includes access to over 15 exotics, the scarlet keep nightfall, pit of heresy dungeon, and garden of salvation raid. action adventure single-player multi-player pvp online pvp co-op online co-op downloadable content steam achievements full controller support in-app purchases english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese spanish-latin tchinese mostly negative mostly negative<br>38% of the 2,527 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-09T20:10:57+00:00",
       "last_seen": "2026-06-10T04:03:15+00:00",
-      "updated_at": "2026-06-10T04:03:15+00:00"
+      "updated_at": "2026-06-10T07:03:07+00:00"
     },
     {
       "app_id": 1984270,
@@ -9163,6 +9263,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 2399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 17200,
+          "final": 13760
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 56100,
+          "final": 44800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10900,
+          "final": 8720
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 385000,
+          "final": 308000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3100000,
+          "final": 2480000
         }
       },
       "review_hint": "Very Positive<br>94% of the 23,844 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -9177,7 +9302,7 @@
       "search_text": "dwarf fortress dwarf fortress build a fortress and try to help your dwarves survive against a deeply generated world. keep your dwarves happy, grow their community and beware of digging too deeply. the deepest, most intricate simulation of a world that's ever been created. indie simulation strategy single-player steam workshop family sharing english very positive very positive<br>94% of the 23,844 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-09T20:10:57+00:00",
       "last_seen": "2026-06-10T04:03:15+00:00",
-      "updated_at": "2026-06-10T04:03:15+00:00"
+      "updated_at": "2026-06-10T07:03:07+00:00"
     },
     {
       "app_id": 2384580,
@@ -9756,6 +9881,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 8125
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 21300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 4940
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 149500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 1397000
         }
       },
       "review_hint": "Mixed<br>60% of the 469 user reviews for this game are positive.",
@@ -9770,7 +9920,7 @@
       "search_text": "echoes of elysium echoes of elysium survive the skies in echoes of elysium, a co-op airship survival rpg. build and customize your floating fortress, gather resources, and explore a vast procedural clockwork world with up to 6 friends. battle land and skyborne threats while uncovering mysteries in a paradise on the brink. action adventure indie rpg simulation early access single-player multi-player co-op online co-op family sharing english schinese tchinese french japanese portuguese-brazil spanish-spain mostly positive mixed<br>60% of the 469 user reviews for this game are positive.",
       "first_seen": "2026-06-10T04:03:15+00:00",
       "last_seen": "2026-06-10T04:03:15+00:00",
-      "updated_at": "2026-06-10T04:03:15+00:00"
+      "updated_at": "2026-06-10T07:03:07+00:00"
     },
     {
       "app_id": 530611,
@@ -14102,6 +14252,31 @@
           "currency": "USD",
           "original": 1169,
           "final": 993
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5200,
+          "final": 4420
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15200,
+          "final": 12900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3300,
+          "final": 2805
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 92000,
+          "final": 78200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 890000,
+          "final": 756000
         }
       },
       "review_hint": "",
@@ -14116,7 +14291,7 @@
       "search_text": "how to make an atomic bomb in your garden how to make an atomic bomb in your garden an absurd backyard bomb-building simulator. raise funds, plan your approach, hunt down rare parts, and assemble your atomic masterpiece while staying calm and avoiding suspicion from nosy neighbors and federal agents. adventure casual indie simulation single-player stereo sound family sharing english french italian german schinese japanese korean portuguese---portugal russian turkish positive",
       "first_seen": "2026-06-10T04:03:15+00:00",
       "last_seen": "2026-06-10T04:03:15+00:00",
-      "updated_at": "2026-06-10T04:03:15+00:00"
+      "updated_at": "2026-06-10T07:03:07+00:00"
     },
     {
       "app_id": 594650,
@@ -15409,6 +15584,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 4680
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 78900,
+          "final": 23600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 12466,
+          "final": 3739
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 385000,
+          "final": 115500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 810000
         }
       },
       "review_hint": "Mixed<br>53% of the 693 user reviews for this game are positive.",
@@ -15423,7 +15623,7 @@
       "search_text": "let it die: inferno let it die: inferno hell gate tore open the earth! deep within its chaotic depths, where time and space warp, lies the &quot;eye of the reaper&quot;—a treasure granting world-ruling power. you are an immortal raider. descend into the abyss, conquer the reaper's challenge, and seize your future from the bottom of hell! action single-player multi-player pvp online pvp co-op online co-op cross-platform multiplayer steam achievements in-app purchases custom volume controls stereo sound surround sound partial controller support hdr available family sharing english french italian german spanish-spain portuguese-brazil schinese tchinese japanese korean mixed mixed<br>53% of the 693 user reviews for this game are positive.",
       "first_seen": "2026-06-09T20:10:57+00:00",
       "last_seen": "2026-06-10T04:03:15+00:00",
-      "updated_at": "2026-06-10T04:03:15+00:00"
+      "updated_at": "2026-06-10T07:03:07+00:00"
     },
     {
       "app_id": 1627720,
@@ -15491,6 +15691,31 @@
           "currency": "USD",
           "original": 5999,
           "final": 2999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 32800,
+          "final": 16400
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 129000,
+          "final": 64500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 29800,
+          "final": 14900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 836000,
+          "final": 418000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 6480000,
+          "final": 3240000
         }
       },
       "review_hint": "Very Positive<br>93% of the 26,851 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -15505,7 +15730,7 @@
       "search_text": "lies of p lies of p lies of p is a thrilling soulslike that takes the story of pinocchio, turns it on its head, and sets it against the darkly elegant backdrop of the belle epoque era. action adventure rpg single-player steam achievements full controller support camera comfort color alternatives custom volume controls adjustable difficulty save anytime stereo sound surround sound steam cloud family sharing english french german spanish-spain russian japanese schinese tchinese portuguese-brazil polish korean italian very positive very positive<br>93% of the 26,851 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-09T20:10:57+00:00",
       "last_seen": "2026-06-10T04:03:15+00:00",
-      "updated_at": "2026-06-10T04:03:15+00:00"
+      "updated_at": "2026-06-10T07:03:07+00:00"
     },
     {
       "app_id": 1265920,
@@ -17191,6 +17416,31 @@
           "currency": "USD",
           "original": 599,
           "final": 479
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3600,
+          "final": 2880
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 13600,
+          "final": 10800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2600,
+          "final": 2080
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 79000,
+          "final": 63200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 655000,
+          "final": 524000
         }
       },
       "review_hint": "",
@@ -17205,7 +17455,7 @@
       "search_text": "meccha chameleon meccha chameleon paint yourself to blend in! &quot;meccha chameleon&quot; is a new-sensation hide-and-seek game where you paint your white body to mimic the stage. spot, pose, and &quot;artistic skill&quot; are keys to survival. deceive seekers with techniques that put chameleons to shame! supports public matches and streaming. casual multi-player pvp online pvp camera comfort custom volume controls playable without timed input stereo sound surround sound family sharing english japanese spanish-spain schinese korean french italian german arabic portuguese-brazil russian mixed",
       "first_seen": "2026-06-10T04:03:15+00:00",
       "last_seen": "2026-06-10T04:03:15+00:00",
-      "updated_at": "2026-06-10T04:03:15+00:00"
+      "updated_at": "2026-06-10T07:03:07+00:00"
     },
     {
       "app_id": 1798010,
@@ -19353,6 +19603,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14500,
+          "final": 2900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 53500,
+          "final": 10700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8500,
+          "final": 1700
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 240000,
+          "final": 48000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2800000,
+          "final": 560000
         }
       },
       "review_hint": "Mostly Positive<br>77% of the 1,073 user reviews for this game are positive.",
@@ -19367,7 +19642,7 @@
       "search_text": "mothergunship mothergunship mothergunship is a bullet-hell fps where you craft your own guns, fight gigantic bosses, and defeat a robotic alien armada that conquered earth. face off against overwhelming odds in brutal, non-stop combats where thinking on your feet is the only way to survive. action indie single-player multi-player co-op online co-op steam achievements full controller support steam trading cards steam cloud family sharing english french italian german spanish-spain polish russian mostly positive mostly positive<br>77% of the 1,073 user reviews for this game are positive.",
       "first_seen": "2026-06-10T04:03:15+00:00",
       "last_seen": "2026-06-10T04:03:15+00:00",
-      "updated_at": "2026-06-10T04:03:15+00:00"
+      "updated_at": "2026-06-10T07:03:07+00:00"
     },
     {
       "app_id": 2475490,
@@ -20480,6 +20755,31 @@
           "currency": "USD",
           "original": 1799,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10900,
+          "final": 5450
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29800,
+          "final": 14900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6800,
+          "final": 3400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 190000,
+          "final": 95000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1900000,
+          "final": 950000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>96% of the 9,018 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -20494,7 +20794,7 @@
       "search_text": "nova drift nova drift nova drift distills the mechanical depth and strategy of an arpg into classic arcade space combat. control an endlessly evolving bio-mechanical ship, face legions of strange and deadly foes, and ride the wake of a dying star across the void. action indie single-player steam achievements full controller support steam cloud steam leaderboards family sharing english french russian schinese tchinese japanese polish portuguese-brazil korean spanish-spain german overwhelmingly positive overwhelmingly positive<br>96% of the 9,018 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-10T04:03:15+00:00",
       "last_seen": "2026-06-10T04:03:15+00:00",
-      "updated_at": "2026-06-10T04:03:15+00:00"
+      "updated_at": "2026-06-10T07:03:07+00:00"
     },
     {
       "app_id": 242680,
@@ -27765,6 +28065,31 @@
           "currency": "USD",
           "original": 4999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 21800,
+          "final": 2180
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 69800,
+          "final": 6900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 13800,
+          "final": 1380
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 515000,
+          "final": 51500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 5100000,
+          "final": 510000
         }
       },
       "review_hint": "Mostly Positive<br>74% of the 1,671 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -27779,7 +28104,7 @@
       "search_text": "steelrising steelrising paris, 1789. the french revolution has been suppressed with bloodshed by louis xvi and his merciless mechanical army. aegis, a mysterious automaton masterpiece, must confront the king's army alone to save history in this challenging action-rpg. action adventure rpg single-player steam achievements full controller support steam cloud family sharing english french italian german spanish-spain arabic japanese korean polish portuguese-brazil russian schinese tchinese mostly positive mostly positive<br>74% of the 1,671 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-09T20:10:57+00:00",
       "last_seen": "2026-06-10T04:03:15+00:00",
-      "updated_at": "2026-06-10T04:03:15+00:00"
+      "updated_at": "2026-06-10T07:03:07+00:00"
     },
     {
       "app_id": 1364780,
@@ -28693,6 +29018,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1349
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9900,
+          "final": 8910
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 22800,
+          "final": 20500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5900,
+          "final": 5310
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 175000,
+          "final": 157500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1750000,
+          "final": 1575000
         }
       },
       "review_hint": "",
@@ -28707,7 +29057,7 @@
       "search_text": "tavern talk stories: dreamwalker tavern talk stories: dreamwalker welcome tavernkeep! in this d&amp;d-inspired visual novel you will run a cozy seaside tavern, meet adventurers, gather rumours and mix fate-altering drinks to stop dreams from twisting into nightmares. adventure casual indie simulation single-player steam achievements adjustable text size color alternatives custom volume controls mouse only option playable without timed input save anytime subtitle options partial controller support family sharing english german japanese schinese french no user reviews",
       "first_seen": "2026-06-09T20:10:57+00:00",
       "last_seen": "2026-06-10T04:03:15+00:00",
-      "updated_at": "2026-06-10T04:03:15+00:00"
+      "updated_at": "2026-06-10T07:03:07+00:00"
     },
     {
       "app_id": 2996040,
@@ -33739,6 +34089,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 6250
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 16400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 3800
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 115000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 1075000
         }
       },
       "review_hint": "Very Positive<br>92% of the 792 user reviews for this game are positive.",
@@ -33753,7 +34128,7 @@
       "search_text": "wizordum wizordum wizordum is a retro fps that puts you in the role of a mage on a quest to track down the source of chaos. with a wide arsenal of spells and magic items, battle your way through the world of terrabruma in this unique blend of classic 90s shooters and modern gaming elements. action indie single-player steam achievements partial controller support steam cloud steam leaderboards includes level editor family sharing english very positive very positive<br>92% of the 792 user reviews for this game are positive.",
       "first_seen": "2026-06-09T20:10:57+00:00",
       "last_seen": "2026-06-10T04:03:15+00:00",
-      "updated_at": "2026-06-10T04:03:15+00:00"
+      "updated_at": "2026-06-10T07:03:07+00:00"
     },
     {
       "app_id": 1448440,
@@ -34036,6 +34411,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 449
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9800,
+          "final": 2940
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 8000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 1740
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 51000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 495000
         }
       },
       "review_hint": "Very Positive<br>82% of the 376 user reviews for this game are positive.",
@@ -34050,7 +34450,7 @@
       "search_text": "x4: cradle of humanity x4: cradle of humanity x4: cradle of humanity, the second big expansion for x4: foundations, significantly increases the size of the game's universe with new sectors, story missions and game-starts, while also welcoming two terran factions, along with their economy, ships, weapons and stations. action simulation single-player downloadable content steam achievements full controller support steam workshop steam cloud family sharing english german french italian schinese portuguese-brazil spanish-spain tchinese russian korean japanese spanish-latin polish czech very positive very positive<br>82% of the 376 user reviews for this game are positive.",
       "first_seen": "2026-06-09T20:10:57+00:00",
       "last_seen": "2026-06-10T04:03:15+00:00",
-      "updated_at": "2026-06-10T04:03:15+00:00"
+      "updated_at": "2026-06-10T07:03:07+00:00"
     },
     {
       "app_id": 392160,
@@ -34122,6 +34522,31 @@
           "currency": "USD",
           "original": 4999,
           "final": 999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 30800,
+          "final": 6160
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 74600,
+          "final": 14900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 16800,
+          "final": 3360
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 550000,
+          "final": 110000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 5300000,
+          "final": 1060000
         }
       },
       "review_hint": "Mostly Positive<br>78% of the 13,186 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -34136,7 +34561,7 @@
       "search_text": "x4: foundations x4: foundations your journey to building a vast space empire begins behind the controls of a single ship. explore, trade, fight, and build as you rise to command fleets, stations, and entire economies in a living, fully simulated universe that reacts to every decision. action simulation strategy single-player steam achievements full controller support steam trading cards steam workshop adjustable text size camera comfort color alternatives custom volume controls playable without timed input save anytime stereo sound steam cloud family sharing english german french italian schinese portuguese-brazil spanish-spain tchinese russian korean japanese spanish-latin polish czech mostly positive mostly positive<br>78% of the 13,186 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-09T20:10:57+00:00",
       "last_seen": "2026-06-10T04:03:15+00:00",
-      "updated_at": "2026-06-10T04:03:15+00:00"
+      "updated_at": "2026-06-10T07:03:07+00:00"
     },
     {
       "app_id": 1990040,
@@ -34200,6 +34625,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 449
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9800,
+          "final": 2940
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 8000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 1740
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 51000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 495000
         }
       },
       "review_hint": "Very Positive<br>80% of the 451 user reviews for this game are positive.",
@@ -34214,7 +34664,7 @@
       "search_text": "x4: kingdom end x4: kingdom end enjoy a long-awaited reunion with the boron in x4: kingdom end, the fourth expansion for x4: foundations, which completes the collection of the main factions in the x universe. discover the unique boron ships, and fly them through distinctive systems, on a journey of discovery. action simulation single-player downloadable content steam achievements full controller support steam workshop steam cloud family sharing english german french italian schinese portuguese-brazil spanish-spain tchinese russian korean japanese spanish-latin polish czech very positive very positive<br>80% of the 451 user reviews for this game are positive.",
       "first_seen": "2026-06-09T20:10:57+00:00",
       "last_seen": "2026-06-10T04:03:15+00:00",
-      "updated_at": "2026-06-10T04:03:15+00:00"
+      "updated_at": "2026-06-10T07:03:07+00:00"
     },
     {
       "app_id": 1133000,
@@ -34278,6 +34728,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9800,
+          "final": 1960
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 5300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 1160
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 34000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 330000
         }
       },
       "review_hint": "Very Positive<br>80% of the 272 user reviews for this game are positive.",
@@ -34292,7 +34767,7 @@
       "search_text": "x4: split vendetta x4: split vendetta x4: split vendetta is the first big expansion for x4: foundations, greatly increasing the size of the universe and introducing two new split family clans along with their economy, new ships, weapons and station modules. action simulation single-player downloadable content steam achievements full controller support steam workshop steam cloud family sharing english german french italian schinese portuguese-brazil spanish-spain tchinese russian korean japanese spanish-latin polish czech very positive very positive<br>80% of the 272 user reviews for this game are positive.",
       "first_seen": "2026-06-10T04:03:15+00:00",
       "last_seen": "2026-06-10T04:03:15+00:00",
-      "updated_at": "2026-06-10T04:03:15+00:00"
+      "updated_at": "2026-06-10T07:03:07+00:00"
     },
     {
       "app_id": 1701060,
@@ -34356,6 +34831,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 449
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9800,
+          "final": 2940
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 8000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 1740
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 51000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 495000
         }
       },
       "review_hint": "Mostly Positive<br>75% of the 327 user reviews for this game are positive.",
@@ -34370,7 +34870,7 @@
       "search_text": "x4: tides of avarice x4: tides of avarice x4: tides of avarice, the third expansion for x4: foundations, invites you on new exploration adventures. encounter and interact with previously unknown, lawless pirate and scavenger factions, and discover new ships and stations. action simulation single-player downloadable content steam achievements full controller support steam workshop steam cloud family sharing english german french italian schinese portuguese-brazil spanish-spain tchinese russian korean japanese spanish-latin polish czech mostly positive mostly positive<br>75% of the 327 user reviews for this game are positive.",
       "first_seen": "2026-06-10T04:03:15+00:00",
       "last_seen": "2026-06-10T04:03:15+00:00",
-      "updated_at": "2026-06-10T04:03:15+00:00"
+      "updated_at": "2026-06-10T07:03:07+00:00"
     },
     {
       "app_id": 2700340,
@@ -34434,6 +34934,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 5700
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 16000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 3480
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 102000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 990000
         }
       },
       "review_hint": "Mixed<br>44% of the 1,174 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -34448,7 +34973,7 @@
       "search_text": "x4: timelines x4: timelines embedded in a new x4: timelines storyline, you'll find a wide range of scenarios in which you will experience the many different aspects of x4 gameplay. action simulation single-player downloadable content steam achievements full controller support steam workshop steam cloud family sharing english german french italian schinese portuguese-brazil spanish-spain tchinese russian korean japanese spanish-latin polish czech mixed mixed<br>44% of the 1,174 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-09T20:10:57+00:00",
       "last_seen": "2026-06-10T04:03:15+00:00",
-      "updated_at": "2026-06-10T04:03:15+00:00"
+      "updated_at": "2026-06-10T07:03:07+00:00"
     },
     {
       "app_id": 2008980,
@@ -78880,6 +79405,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 3750
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 9800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 2280
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 69000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 645000
         }
       },
       "review_hint": "Very Positive<br>91% of the 6,992 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -78894,7 +79444,7 @@
       "search_text": "furi furi the jailer is the key, kill him and you’ll be free. fight your way free in this ultra-responsive, fast-paced sword-fighting and dual-stick shooting game. action indie single-player steam achievements full controller support steam trading cards steam leaderboards remote play on tv family sharing english french italian german spanish-spain japanese portuguese-brazil russian schinese polish korean very positive very positive<br>91% of the 6,992 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-09T20:10:57+00:00",
       "last_seen": "2026-06-10T04:03:15+00:00",
-      "updated_at": "2026-06-10T04:03:15+00:00"
+      "updated_at": "2026-06-10T07:03:07+00:00"
     },
     {
       "app_id": 3618390,
@@ -85684,6 +86234,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11900,
+          "final": 1190
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 54000,
+          "final": 5400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6800,
+          "final": 680
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 410400,
+          "final": 41000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2319000,
+          "final": 232000
         }
       },
       "review_hint": "Very Positive<br>88% of the 13,809 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -85698,7 +86273,7 @@
       "search_text": "hitman: absolution™ hitman: absolution™ the original assassin is back! betrayed by the agency and hunted by the police, agent 47 finds himself pursuing redemption in a corrupt and twisted world. action single-player steam achievements steam trading cards partial controller support steam cloud family sharing english french german italian spanish-spain polish russian turkish very positive very positive<br>88% of the 13,809 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-09T20:10:57+00:00",
       "last_seen": "2026-06-10T04:03:15+00:00",
-      "updated_at": "2026-06-10T04:03:15+00:00"
+      "updated_at": "2026-06-10T07:03:07+00:00"
     },
     {
       "app_id": 2886620,
@@ -90251,6 +90826,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 18700,
+          "final": 11220
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 48800,
+          "final": 29200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9900,
+          "final": 5940
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 340000,
+          "final": 204000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3200000,
+          "final": 1920000
         }
       },
       "review_hint": "Mostly Positive<br>71% of the 783 user reviews for this game are positive.",
@@ -90265,7 +90865,7 @@
       "search_text": "kaiserpunk kaiserpunk build a city to rule the world in kaiserpunk, a grand city builder blending production-focused city building with world conquest in an alternate 20th century world. manage your city, grow industries, build a military, and defeat rivals to become the greatest empire. simulation strategy single-player steam achievements steam trading cards steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese thai ukrainian swedish turkish mostly positive mostly positive<br>71% of the 783 user reviews for this game are positive.",
       "first_seen": "2026-06-09T20:10:57+00:00",
       "last_seen": "2026-06-10T04:03:15+00:00",
-      "updated_at": "2026-06-10T04:03:15+00:00"
+      "updated_at": "2026-06-10T07:03:07+00:00"
     },
     {
       "app_id": 2756920,
