@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T15:43:37+00:00",
+  "updated_at": "2026-06-10T17:50:57+00:00",
   "total_count": 1622,
   "active_count": 344,
   "games": [
@@ -68,6 +68,31 @@
           "currency": "USD",
           "original": 1489,
           "final": 997
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8642,
+          "final": 5790
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 30600,
+          "final": 20500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5861,
+          "final": 3926
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 188700,
+          "final": 126400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1589000,
+          "final": 1064000
         }
       },
       "review_hint": "",
@@ -82,7 +107,7 @@
       "search_text": "33 immortals 33 immortals 33 immortals is a co-op action-roguelike for 33 players. jump straight into runs, solo or with friends. battle hordes of monsters, defeat massive bosses, and grow stronger each run. use in-game emotes to coordinate and combine powers with your fellow rebels, and face the wrath of god, together. action indie massively multiplayer single-player multi-player co-op online co-op cross-platform multiplayer steam achievements full controller support steam trading cards custom volume controls playable without timed input stereo sound family sharing english french italian german spanish-spain portuguese-brazil spanish-latin japanese korean russian schinese tchinese no user reviews",
       "first_seen": "2026-06-10T15:43:37+00:00",
       "last_seen": "2026-06-10T15:43:37+00:00",
-      "updated_at": "2026-06-10T15:43:37+00:00"
+      "updated_at": "2026-06-10T17:50:57+00:00"
     },
     {
       "app_id": 1182900,
@@ -2551,6 +2576,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11500,
+          "final": 9200
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 28100,
+          "final": 22400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6200,
+          "final": 4960
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 184000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1900000,
+          "final": 1520000
         }
       },
       "review_hint": "",
@@ -2565,7 +2615,7 @@
       "search_text": "artificial extinction 2 artificial extinction 2 a tower defense hybrid where survival depends on strategy and firepower. build turrets, mine resources, and hold the line against relentless ai swarms. switch instantly between commanding the battlefield in rts view or fighting on the ground in fps combat. action single-player steam cloud steam leaderboards family sharing english french german japanese korean polish portuguese-brazil russian schinese spanish-latin ukrainian spanish-spain tchinese thai no user reviews",
       "first_seen": "2026-06-10T15:43:37+00:00",
       "last_seen": "2026-06-10T15:43:37+00:00",
-      "updated_at": "2026-06-10T15:43:37+00:00"
+      "updated_at": "2026-06-10T17:50:57+00:00"
     },
     {
       "app_id": 2208920,
@@ -3994,6 +4044,31 @@
           "currency": "USD",
           "original": 1699,
           "final": 1359
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10800,
+          "final": 8640
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 28800,
+          "final": 23000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6000,
+          "final": 4800
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 190000,
+          "final": 152000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1850000,
+          "final": 1480000
         }
       },
       "review_hint": "Very Positive<br>88% of the 832 user reviews for this game are positive.",
@@ -4008,7 +4083,7 @@
       "search_text": "blossom: the seed of life blossom: the seed of life terraform a dead planet back to life in this open world survival crafting game. explore ruins, gather resources, print machines, drive modular vehicles, grow forests, biomes, and ecosystems. create life and make it thrive with your own hands. adventure indie single-player steam achievements full controller support adjustable text size camera comfort custom volume controls adjustable difficulty playable without timed input save anytime stereo sound steam cloud remote play on tv hdr available family sharing english french german spanish-spain polish portuguese-brazil russian schinese tchinese turkish very positive very positive<br>88% of the 832 user reviews for this game are positive.",
       "first_seen": "2026-06-10T10:08:38+00:00",
       "last_seen": "2026-06-10T15:43:37+00:00",
-      "updated_at": "2026-06-10T15:43:37+00:00"
+      "updated_at": "2026-06-10T17:50:57+00:00"
     },
     {
       "app_id": 1569580,
@@ -4385,6 +4460,31 @@
           "currency": "USD",
           "original": 999,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6100,
+          "final": 5490
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 20000,
+          "final": 18000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 3780
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 108000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 945000
         }
       },
       "review_hint": "",
@@ -4399,7 +4499,7 @@
       "search_text": "burglin' gnomes burglin' gnomes an online co-op game about breaking into houses and causing havoc as a tiny gnome. avoid danger, repurpose stolen household items, and complete tasks to meet the high-gnome’s demands. craft equipment and upgrade your home to make your missions easier and more successful. action adventure single-player multi-player co-op online co-op playable without timed input stereo sound steam cloud family sharing english french italian german spanish-spain finnish japanese korean polish portuguese-brazil russian schinese spanish-latin turkish ukrainian positive",
       "first_seen": "2026-06-10T15:43:37+00:00",
       "last_seen": "2026-06-10T15:43:37+00:00",
-      "updated_at": "2026-06-10T15:43:37+00:00"
+      "updated_at": "2026-06-10T17:50:57+00:00"
     },
     {
       "app_id": 1588550,
@@ -13024,6 +13124,31 @@
           "currency": "USD",
           "original": 999,
           "final": 399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 2640
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 7500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4900,
+          "final": 1960
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 99900,
+          "final": 39900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 990000,
+          "final": 396000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>95% of the 1,650 user reviews for this game are positive.",
@@ -13038,7 +13163,7 @@
       "search_text": "gnomes gnomes gnomes is a turn-based tower defense with deep roguelike progression, set in ever-expanding, procedurally generated biomes. build, farm and defend your village as you push deeper into goblin-infested territory. unlock powerful upgrades and craft your environment to survive the endless goblin horde casual indie strategy single-player steam achievements full controller support camera comfort custom volume controls mouse only option playable without timed input save anytime stereo sound steam cloud steam leaderboards family sharing english japanese schinese tchinese korean french italian german spanish-spain polish portuguese---portugal spanish-latin portuguese-brazil turkish thai russian romanian ukrainian overwhelmingly positive overwhelmingly positive<br>95% of the 1,650 user reviews for this game are positive.",
       "first_seen": "2026-06-10T15:43:37+00:00",
       "last_seen": "2026-06-10T15:43:37+00:00",
-      "updated_at": "2026-06-10T15:43:37+00:00"
+      "updated_at": "2026-06-10T17:50:57+00:00"
     },
     {
       "app_id": 451340,
@@ -13107,6 +13232,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 479
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 3000
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 7800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 1824
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 55200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 516000
         }
       },
       "review_hint": "Mixed<br>69% of the 7,284 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -13121,7 +13271,7 @@
       "search_text": "gold mining simulator gold mining simulator become a gold miner. work hard, dig deep, explore the world, and you’ll become the wealthiest person in alaska. use a variety of specialist machines to find as much gold as you can. indie simulation single-player steam achievements full controller support steam trading cards steam workshop camera comfort custom volume controls adjustable difficulty playable without timed input save anytime stereo sound steam cloud steam leaderboards family sharing english french italian german spanish-spain polish portuguese---portugal russian japanese schinese norwegian turkish dutch mixed mixed<br>69% of the 7,284 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-10T15:43:37+00:00",
       "last_seen": "2026-06-10T15:43:37+00:00",
-      "updated_at": "2026-06-10T15:43:37+00:00"
+      "updated_at": "2026-06-10T17:50:57+00:00"
     },
     {
       "app_id": 3645890,
@@ -19024,6 +19174,31 @@
           "currency": "USD",
           "original": 3499,
           "final": 1749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 20100,
+          "final": 20100
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 65100,
+          "final": 32500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 12900,
+          "final": 12900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 440000,
+          "final": 220000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3650000,
+          "final": 1825000
         }
       },
       "review_hint": "Mixed<br>53% of the 1,497 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -19038,7 +19213,7 @@
       "search_text": "mindseye mindseye mindseye is an ever-expanding gameplay experience with a story campaign, endless stream of new playable content delivered regularly, and the power to create your own games with our simple to use building tool. action adventure single-player steam achievements full controller support steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil schinese spanish-latin tchinese russian ukrainian mixed mixed<br>53% of the 1,497 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-10T15:43:37+00:00",
       "last_seen": "2026-06-10T15:43:37+00:00",
-      "updated_at": "2026-06-10T15:43:37+00:00"
+      "updated_at": "2026-06-10T17:50:57+00:00"
     },
     {
       "app_id": 1672970,
@@ -21084,6 +21259,31 @@
           "currency": "USD",
           "original": 5999,
           "final": 3899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 39000,
+          "final": 17550
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 199000,
+          "final": 89500
+        },
+        "zh-Hans": {
+          "currency": "USD",
+          "original": 5999,
+          "final": 3899
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 1078000,
+          "final": 485100
+        },
+        "ko": {
+          "currency": "USD",
+          "original": 5999,
+          "final": 3899
         }
       },
       "review_hint": "Mostly Positive<br>74% of the 2,255 user reviews for this game are positive.",
@@ -21098,7 +21298,7 @@
       "search_text": "nobunaga's ambition: awakening nobunaga's ambition: awakening conquer warring states japan under one banner simulation single-player steam achievements steam trading cards custom volume controls adjustable difficulty mouse only option playable without timed input save anytime stereo sound surround sound steam cloud family sharing schinese tchinese japanese english very positive mostly positive<br>74% of the 2,255 user reviews for this game are positive.",
       "first_seen": "2026-06-10T10:08:38+00:00",
       "last_seen": "2026-06-10T15:43:37+00:00",
-      "updated_at": "2026-06-10T15:43:37+00:00"
+      "updated_at": "2026-06-10T17:50:57+00:00"
     },
     {
       "app_id": 858210,
@@ -29330,6 +29530,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 1499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 21800,
+          "final": 10900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 84900,
+          "final": 42400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 11900,
+          "final": 5950
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 396000,
+          "final": 198000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3300000,
+          "final": 1650000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>95% of the 74,119 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -29344,7 +29569,7 @@
       "search_text": "teardown teardown prepare the perfect heist in a fully destructible, simulated voxel world. tear down walls with vehicles or use explosives to create your own shortcuts. shape the environment to your advantage in the most creative ways you can imagine. play solo or with up to 12 players in multiplayer. action indie simulation strategy single-player multi-player pvp online pvp co-op online co-op steam achievements full controller support steam workshop steam cloud includes level editor remote play on tablet family sharing english french italian german spanish-spain japanese polish russian schinese overwhelmingly positive overwhelmingly positive<br>95% of the 74,119 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-10T10:08:38+00:00",
       "last_seen": "2026-06-10T15:43:37+00:00",
-      "updated_at": "2026-06-10T15:43:37+00:00"
+      "updated_at": "2026-06-10T17:50:57+00:00"
     },
     {
       "app_id": 2996040,
@@ -33995,6 +34220,31 @@
           "currency": "USD",
           "original": 2299,
           "final": 1954
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 13340,
+          "final": 11339
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37500,
+          "final": 31800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8556,
+          "final": 7272
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 257600,
+          "final": 218900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2438000,
+          "final": 2072000
         }
       },
       "review_hint": "",
@@ -34009,7 +34259,7 @@
       "search_text": "witchspire witchspire step into the ultimate open-world witch adventure. befriend and battle creatures, and conjure up a sanctuary alongside other witches in co-op or single-player. adventure rpg early access single-player multi-player co-op online co-op steam achievements custom volume controls adjustable difficulty playable without timed input save anytime stereo sound subtitle options partial controller support steam cloud family sharing english french german spanish-spain japanese korean portuguese-brazil russian schinese tchinese ukrainian spanish-latin 8 user reviews",
       "first_seen": "2026-06-10T15:43:37+00:00",
       "last_seen": "2026-06-10T15:43:37+00:00",
-      "updated_at": "2026-06-10T15:43:37+00:00"
+      "updated_at": "2026-06-10T17:50:57+00:00"
     },
     {
       "app_id": 1715590,
@@ -34493,6 +34743,31 @@
           "currency": "USD",
           "original": 799,
           "final": 719
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5200,
+          "final": 4680
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15200,
+          "final": 13600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3300,
+          "final": 2970
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 92000,
+          "final": 82800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 890000,
+          "final": 801000
         }
       },
       "review_hint": "Very Positive<br>88% of the 276 user reviews for this game are positive.",
@@ -34507,7 +34782,7 @@
       "search_text": "x4: envoy pack x4: envoy pack whether you're scouting behind enemy lines, smuggling under a false identity, or leading precision strikes with minimal visibility, the x4: envoy pack opens up new strategic and narrative possibilities for your x4 open universe. action simulation strategy single-player downloadable content steam achievements full controller support steam workshop adjustable text size camera comfort color alternatives custom volume controls playable without timed input save anytime stereo sound steam cloud family sharing english german french italian schinese portuguese-brazil spanish-spain tchinese russian korean japanese spanish-latin polish czech very positive very positive<br>88% of the 276 user reviews for this game are positive.",
       "first_seen": "2026-06-10T15:43:37+00:00",
       "last_seen": "2026-06-10T15:43:37+00:00",
-      "updated_at": "2026-06-10T15:43:37+00:00"
+      "updated_at": "2026-06-10T17:50:57+00:00"
     },
     {
       "app_id": 392160,
@@ -34682,6 +34957,31 @@
           "currency": "USD",
           "original": 699,
           "final": 559
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4600,
+          "final": 3680
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 13800,
+          "final": 11000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2900,
+          "final": 2320
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 80000,
+          "final": 64000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 780000,
+          "final": 624000
         }
       },
       "review_hint": "Very Positive<br>88% of the 480 user reviews for this game are positive.",
@@ -34696,7 +34996,7 @@
       "search_text": "x4: hyperion pack x4: hyperion pack the hyperion is back, reimagined and ready to leave its mark on the universe once more! this iconic ship introduces an exciting new ship classification: the expeditionary class. seamlessly blending raw power and agility, the hyperion captures the essence of the paranid like never before. action simulation single-player downloadable content steam achievements full controller support steam workshop steam cloud family sharing english german french italian schinese portuguese-brazil spanish-spain tchinese russian korean japanese spanish-latin polish czech very positive very positive<br>88% of the 480 user reviews for this game are positive.",
       "first_seen": "2026-06-10T15:43:37+00:00",
       "last_seen": "2026-06-10T15:43:37+00:00",
-      "updated_at": "2026-06-10T15:43:37+00:00"
+      "updated_at": "2026-06-10T17:50:57+00:00"
     },
     {
       "app_id": 1990040,
@@ -106374,6 +106674,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11500,
+          "final": 9200
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37700,
+          "final": 30100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7700,
+          "final": 6160
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 260000,
+          "final": 208000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2100000,
+          "final": 1680000
         }
       },
       "review_hint": "Mostly Positive<br>79% of the 2,180 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -106388,7 +106713,7 @@
       "search_text": "ostranauts ostranauts navigate your scrappy ship through the boneyard in search of valuable parts in abandoned vessels. use salvage to upgrade your ship, or sell it for cash to pay down your mounting debt, or restock fuel, air, or food. fly and role-play aboard your dream spaceship in this hardcore noir space-sim. indie rpg simulation early access single-player full controller support camera comfort color alternatives custom volume controls playable without timed input save anytime steam cloud family sharing english mostly positive mostly positive<br>79% of the 2,180 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-10T10:08:38+00:00",
       "last_seen": "2026-06-10T15:43:37+00:00",
-      "updated_at": "2026-06-10T15:43:37+00:00"
+      "updated_at": "2026-06-10T17:50:57+00:00"
     },
     {
       "app_id": 2026000,
