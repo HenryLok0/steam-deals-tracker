@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T16:08:56+00:00",
+  "updated_at": "2026-06-11T18:03:53+00:00",
   "total_count": 1658,
   "active_count": 344,
   "games": [
@@ -3947,6 +3947,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12000,
+          "final": 9000
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 24600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7200,
+          "final": 5400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 172500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2100000,
+          "final": 1575000
         }
       },
       "review_hint": "",
@@ -3961,7 +3986,7 @@
       "search_text": "beastro beastro beastro is a cozy culinary adventure where the fate of the world rests on what's for dinner! farm and gather fresh ingredients, tackle cooking minigames, and create tasty recipes to fuel the caretakers for deckbuilding battles as they seek to save the world. casual indie rpg single-player steam achievements full controller support steam cloud family sharing english schinese spanish-spain japanese 2 user reviews",
       "first_seen": "2026-06-11T16:08:56+00:00",
       "last_seen": "2026-06-11T16:08:56+00:00",
-      "updated_at": "2026-06-11T16:08:56+00:00"
+      "updated_at": "2026-06-11T18:03:53+00:00"
     },
     {
       "app_id": 502280,
@@ -4214,6 +4239,31 @@
           "currency": "USD",
           "original": 799,
           "final": 719
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4800,
+          "final": 4320
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 17500,
+          "final": 15700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3300,
+          "final": 2970
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 105000,
+          "final": 94500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 870000,
+          "final": 783000
         }
       },
       "review_hint": "",
@@ -4228,7 +4278,7 @@
       "search_text": "boxroom boxroom boxroom allows you to design, define and decorate a room - a sanctuary - for your steam library, and then revel in the organisation of your game collection. indie simulation strategy early access single-player steam achievements steam workshop partial controller support steam cloud family sharing english 1 user reviews",
       "first_seen": "2026-06-11T16:08:56+00:00",
       "last_seen": "2026-06-11T16:08:56+00:00",
-      "updated_at": "2026-06-11T16:08:56+00:00"
+      "updated_at": "2026-06-11T18:03:53+00:00"
     },
     {
       "app_id": 1942280,
@@ -10469,6 +10519,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 494
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9900,
+          "final": 3267
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 39800,
+          "final": 13100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4800,
+          "final": 1584
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 148000,
+          "final": 48800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1600000,
+          "final": 528000
         }
       },
       "review_hint": "Mixed<br>61% of the 57 user reviews for this game are positive.",
@@ -10483,7 +10558,7 @@
       "search_text": "fable anniversary - heroes and villains content pack fable anniversary - heroes and villains content pack this additional content pack contains 11 full outfits, 14 weapons and the lion's head helmet. rpg single-player downloadable content steam achievements full controller support steam trading cards family sharing english french italian german spanish-spain japanese korean portuguese-brazil russian tchinese mixed mixed<br>61% of the 57 user reviews for this game are positive.",
       "first_seen": "2026-06-11T16:08:56+00:00",
       "last_seen": "2026-06-11T16:08:56+00:00",
-      "updated_at": "2026-06-11T16:08:56+00:00"
+      "updated_at": "2026-06-11T18:03:53+00:00"
     },
     {
       "app_id": 2369390,
@@ -11363,6 +11438,31 @@
           "currency": "USD",
           "original": 799,
           "final": 495
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6200,
+          "final": 3844
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14800,
+          "final": 9100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3200,
+          "final": 1984
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 98000,
+          "final": 60700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 870000,
+          "final": 539000
         }
       },
       "review_hint": "",
@@ -11377,7 +11477,7 @@
       "search_text": "frog sqwad 🐸 frog sqwad 🐸 🐸up to 8 player co-op extraction puzzle-platformer where you swing, jump, catapult your friends, and eat eat eat until you grow into a humongous megafrog. squad up with your frog friends and storm the sewers for the glory of the swamp king!🐸 action adventure indie multi-player co-op online co-op steam achievements full controller support custom volume controls playable without timed input stereo sound family sharing english french italian german spanish-spain japanese korean russian schinese tchinese polish portuguese-brazil 2 user reviews",
       "first_seen": "2026-06-11T16:08:56+00:00",
       "last_seen": "2026-06-11T16:08:56+00:00",
-      "updated_at": "2026-06-11T16:08:56+00:00"
+      "updated_at": "2026-06-11T18:03:53+00:00"
     },
     {
       "app_id": 4164900,
@@ -13087,6 +13187,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 0
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 2500
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 6500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 1520
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 46000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 430000
         }
       },
       "review_hint": "Very Positive<br>93% of the 1,646 user reviews for this game are positive.",
@@ -13101,7 +13226,7 @@
       "search_text": "happy's humble burger farm happy's humble burger farm congrats, you're hired! serve customers and maintain the happy's humble burger farm restaurant alone on the overnight. but be careful; things fall apart if you mess up! after work, head home and keep your eyes open for a way to escape the barnyard buds and their fast food fever-dream. action adventure indie simulation single-player steam achievements full controller support steam trading cards remote play on phone remote play on tablet remote play on tv family sharing english french italian german japanese korean polish portuguese-brazil russian schinese tchinese turkish spanish-spain very positive very positive<br>93% of the 1,646 user reviews for this game are positive.",
       "first_seen": "2026-06-11T16:08:56+00:00",
       "last_seen": "2026-06-11T16:08:56+00:00",
-      "updated_at": "2026-06-11T16:08:56+00:00"
+      "updated_at": "2026-06-11T18:03:53+00:00"
     },
     {
       "app_id": 1796470,
@@ -16469,6 +16594,31 @@
           "currency": "USD",
           "original": 1799,
           "final": 1259
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11300,
+          "final": 7910
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29800,
+          "final": 20800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6800,
+          "final": 4760
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 200000,
+          "final": 140000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1950000,
+          "final": 1365000
         }
       },
       "review_hint": "Very Positive<br>91% of the 923 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -16483,7 +16633,7 @@
       "search_text": "lost castle 2 lost castle 2 &quot;lost castle 2&quot; is a 2d beat'em up rogue-lite game. explore abundant treasures and items to enhance yourself, master various weapons to showcase your skills, and challenge powerful monsters to demonstrate your strength. a new adventure is calling for treasure hunters! action adventure indie rpg single-player multi-player co-op online co-op lan co-op shared/split screen co-op shared/split screen steam achievements partial controller support steam cloud stats remote play together family sharing english schinese tchinese french german russian japanese korean very positive very positive<br>91% of the 923 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-11T10:42:31+00:00",
       "last_seen": "2026-06-11T16:08:56+00:00",
-      "updated_at": "2026-06-11T16:08:56+00:00"
+      "updated_at": "2026-06-11T18:03:53+00:00"
     },
     {
       "app_id": 2058190,
@@ -27146,6 +27296,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 2699
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 18095,
+          "final": 16285
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 53300,
+          "final": 47900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10888,
+          "final": 9799
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 318800,
+          "final": 286900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2866000,
+          "final": 2579000
         }
       },
       "review_hint": "Mixed<br>57% of the 121 user reviews for this game are positive.",
@@ -27160,7 +27335,7 @@
       "search_text": "spacecraft spacecraft the universe is yours. spacecraft is an online space exploration and building game. explore a vast galaxy of solar systems and planets, mine and craft resources, design and build ships, automate planetary bases and interplanetary logistics, trade and cooperate. adventure indie massively multiplayer simulation early access single-player multi-player mmo co-op online co-op in-app purchases english french german spanish-spain polish portuguese-brazil mixed mixed<br>57% of the 121 user reviews for this game are positive.",
       "first_seen": "2026-06-11T16:08:56+00:00",
       "last_seen": "2026-06-11T16:08:56+00:00",
-      "updated_at": "2026-06-11T16:08:56+00:00"
+      "updated_at": "2026-06-11T18:03:53+00:00"
     },
     {
       "app_id": 996580,
@@ -28340,6 +28515,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 10920
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 28600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8800,
+          "final": 6160
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 196000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 1890000
         }
       },
       "review_hint": "Very Positive<br>86% of the 1,141 user reviews for this game are positive.",
@@ -28354,7 +28554,7 @@
       "search_text": "tales of seikyu tales of seikyu a peaceful farming life sim set on the island of seikyu. grow your farm, restore your ancestral home, form heartfelt bonds with villagers, and shapeshift into different spirit forms to explore a world that moves gently with the seasons. adventure rpg simulation single-player full controller support steam trading cards steam cloud family sharing english schinese japanese german french spanish-latin very positive very positive<br>86% of the 1,141 user reviews for this game are positive.",
       "first_seen": "2026-06-11T16:08:56+00:00",
       "last_seen": "2026-06-11T16:08:56+00:00",
-      "updated_at": "2026-06-11T16:08:56+00:00"
+      "updated_at": "2026-06-11T18:03:53+00:00"
     },
     {
       "app_id": 2076140,
@@ -30313,6 +30513,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 974
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 6175
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 17400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4900,
+          "final": 3185
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 110500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1490000,
+          "final": 968000
         }
       },
       "review_hint": "Very Positive<br>90% of the 3,110 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -30327,7 +30552,7 @@
       "search_text": "the king is watching the king is watching the king is watching is a roguelite kingdom builder. rule by the power of your royal gaze! decide between producing resources, training armies, or balancing both, while adapting to unique events every run indie strategy single-player steam achievements steam cloud family sharing english german spanish-spain russian schinese french japanese korean polish portuguese-brazil very positive very positive<br>90% of the 3,110 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-11T16:08:56+00:00",
       "last_seen": "2026-06-11T16:08:56+00:00",
-      "updated_at": "2026-06-11T16:08:56+00:00"
+      "updated_at": "2026-06-11T18:03:53+00:00"
     },
     {
       "app_id": 2933130,
@@ -31089,6 +31314,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 0
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10900,
+          "final": 10900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37800,
+          "final": 37800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8000,
+          "final": 8000
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 257000,
+          "final": 257000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2600000,
+          "final": 2600000
         }
       },
       "review_hint": "Very Positive<br>84% of the 886 user reviews for this game are positive.",
@@ -31103,7 +31353,7 @@
       "search_text": "the red lantern the red lantern the red lantern is a narrative, dog sledding game about survival. you play as the musher who, along with her team of 5 sled dogs, must find her way home. care for your dogs, discover their stories, and learn how to navigate the unknowns of the alaskan wilderness and prepare for your new life. adventure casual indie rpg single-player steam achievements steam cloud family sharing english very positive very positive<br>84% of the 886 user reviews for this game are positive.",
       "first_seen": "2026-06-11T16:08:56+00:00",
       "last_seen": "2026-06-11T16:08:56+00:00",
-      "updated_at": "2026-06-11T16:08:56+00:00"
+      "updated_at": "2026-06-11T18:03:53+00:00"
     },
     {
       "app_id": 257510,
@@ -45693,6 +45943,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 2799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 24800,
+          "final": 17360
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 99000,
+          "final": 69300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 13600,
+          "final": 9520
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 498000,
+          "final": 348600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4980000,
+          "final": 3486000
         }
       },
       "review_hint": "Mostly Positive<br>76% of the 195 user reviews for this game are positive.",
@@ -45707,7 +45982,7 @@
       "search_text": "azure striker gunvolt trilogy enhanced azure striker gunvolt trilogy enhanced the azure striker gunvolt trilogy enhanced is a collection of three traditional 2d action platformers, “azure striker gunvolt” (2014), “azure striker gunvolt 2” (2016), and “azure striker gunvolt 3” (2022) together in one release, complete with all dlc. action adventure single-player steam achievements full controller support steam cloud family sharing english schinese tchinese japanese korean french italian german spanish-spain portuguese-brazil very positive mostly positive<br>76% of the 195 user reviews for this game are positive.",
       "first_seen": "2026-06-11T10:42:31+00:00",
       "last_seen": "2026-06-11T16:08:56+00:00",
-      "updated_at": "2026-06-11T16:08:56+00:00"
+      "updated_at": "2026-06-11T18:03:53+00:00"
     },
     {
       "app_id": 736260,
