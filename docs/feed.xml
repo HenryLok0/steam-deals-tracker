@@ -4,7 +4,21 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Wed, 10 Jun 2026 20:34:48 +0000</lastBuildDate>
+<lastBuildDate>Thu, 11 Jun 2026 04:17:12 +0000</lastBuildDate>
+<item>
+<title>Exploding Kittens® 2</title>
+<link>https://store.steampowered.com/app/2999030/</link>
+<guid isPermaLink="false">2999030</guid>
+<pubDate>Thu, 11 Jun 2026 04:17:12 +0000</pubDate>
+<description>Download Exploding Kittens® 2 and live your best and most chaotic kitty life! Take a deep whiff of burning furballs, draw a card and pray for victory (and look stylish all the while, thanks to oodles of customisation options for your own adorable avatar).</description>
+</item>
+<item>
+<title>Jujutsu Kaisen Cursed Clash</title>
+<link>https://store.steampowered.com/app/1877020/</link>
+<guid isPermaLink="false">1877020</guid>
+<pubDate>Thu, 11 Jun 2026 04:17:12 +0000</pubDate>
+<description>Master the Jujutsu of your favorite Sorcerers and Cursed Spirits! Bring a friend and dive into the world of JUJUTSU KAISEN in this action-packed, 2-on-2 fighting game!</description>
+</item>
 <item>
 <title>Apocalypse Express</title>
 <link>https://store.steampowered.com/app/3223160/</link>
@@ -74,20 +88,6 @@
 <guid isPermaLink="false">1746030</guid>
 <pubDate>Wed, 10 Jun 2026 20:34:48 +0000</pubDate>
 <description>&amp;quot;Murders on Yangtze River&amp;quot; is an Ace Attorney-like detective game that takes you on a journey through early 20th century China as you solve a series of intriguing cases. Use your logical reasoning and deduction skills to uncover clues, interrogate suspects, and solve the mysteries.</description>
-</item>
-<item>
-<title>Orebound</title>
-<link>https://store.steampowered.com/app/2467810/</link>
-<guid isPermaLink="false">2467810</guid>
-<pubDate>Wed, 10 Jun 2026 20:34:48 +0000</pubDate>
-<description>Orebound is a dwarven themed factory automation game. Play alone or with friends as you build, mine, craft and explore a voxel generated world! Build your fortress, expand your factory, fight off creatures who dwell beneath the mountains and embark on a journey of greatness.</description>
-</item>
-<item>
-<title>Parcel Simulator</title>
-<link>https://store.steampowered.com/app/2424010/</link>
-<guid isPermaLink="false">2424010</guid>
-<pubDate>Wed, 10 Jun 2026 20:34:48 +0000</pubDate>
-<description>Inspect and process parcels and packages in this parcel inspection simulator! Receive and sort deliveries, examine labels for mistakes, and automate to maximise warehouse efficiency. Upgrade and expand your warehouse to build your parcel empire!</description>
 </item>
 <item>
 <title>Peglin</title>
@@ -228,55 +228,6 @@
 <guid isPermaLink="false">1167630</guid>
 <pubDate>Wed, 10 Jun 2026 10:08:38 +0000</pubDate>
 <description>Prepare the perfect heist in a fully destructible, simulated voxel world. Tear down walls with vehicles or use explosives to create your own shortcuts. Shape the environment to your advantage in the most creative ways you can imagine. Play solo or with up to 12 players in multiplayer.</description>
-</item>
-<item>
-<title>Echoes of Elysium</title>
-<link>https://store.steampowered.com/app/2644050/</link>
-<guid isPermaLink="false">2644050</guid>
-<pubDate>Wed, 10 Jun 2026 04:03:15 +0000</pubDate>
-<description>Survive the skies in Echoes of Elysium, a co-op airship survival RPG. Build and customize your floating fortress, gather resources, and explore a vast procedural clockwork world with up to 6 friends. Battle land and skyborne threats while uncovering mysteries in a paradise on the brink.</description>
-</item>
-<item>
-<title>How to Make an Atomic Bomb in Your Garden</title>
-<link>https://store.steampowered.com/app/3700980/</link>
-<guid isPermaLink="false">3700980</guid>
-<pubDate>Wed, 10 Jun 2026 04:03:15 +0000</pubDate>
-<description>An absurd backyard bomb-building simulator. Raise funds, plan your approach, hunt down rare parts, and assemble your atomic masterpiece while staying calm and avoiding suspicion from nosy neighbors and federal agents.</description>
-</item>
-<item>
-<title>MECCHA CHAMELEON</title>
-<link>https://store.steampowered.com/app/4704690/</link>
-<guid isPermaLink="false">4704690</guid>
-<pubDate>Wed, 10 Jun 2026 04:03:15 +0000</pubDate>
-<description>Paint yourself to blend in! &amp;quot;Meccha Chameleon&amp;quot; is a new-sensation hide-and-seek game where you paint your white body to mimic the stage. Spot, pose, and &amp;quot;artistic skill&amp;quot; are keys to survival. Deceive Seekers with techniques that put chameleons to shame! Supports public matches and streaming.</description>
-</item>
-<item>
-<title>MOTHERGUNSHIP</title>
-<link>https://store.steampowered.com/app/574090/</link>
-<guid isPermaLink="false">574090</guid>
-<pubDate>Wed, 10 Jun 2026 04:03:15 +0000</pubDate>
-<description>MOTHERGUNSHIP is a bullet-hell FPS where you craft your own guns, fight gigantic bosses, and defeat a robotic alien armada that conquered Earth. Face off against overwhelming odds in brutal, non-stop combats where thinking on your feet is the only way to survive.</description>
-</item>
-<item>
-<title>Nova Drift</title>
-<link>https://store.steampowered.com/app/858210/</link>
-<guid isPermaLink="false">858210</guid>
-<pubDate>Wed, 10 Jun 2026 04:03:15 +0000</pubDate>
-<description>Nova Drift distills the mechanical depth and strategy of an ARPG into classic arcade space combat. Control an endlessly evolving bio-mechanical ship, face legions of strange and deadly foes, and ride the wake of a dying star across the void.</description>
-</item>
-<item>
-<title>X4: Split Vendetta</title>
-<link>https://store.steampowered.com/app/1133000/</link>
-<guid isPermaLink="false">1133000</guid>
-<pubDate>Wed, 10 Jun 2026 04:03:15 +0000</pubDate>
-<description>X4: Split Vendetta is the first big expansion for X4: Foundations, greatly increasing the size of the universe and introducing two new Split family clans along with their economy, new ships, weapons and station modules.</description>
-</item>
-<item>
-<title>X4: Tides of Avarice</title>
-<link>https://store.steampowered.com/app/1701060/</link>
-<guid isPermaLink="false">1701060</guid>
-<pubDate>Wed, 10 Jun 2026 04:03:15 +0000</pubDate>
-<description>X4: Tides of Avarice, the third expansion for X4: Foundations, invites you on new exploration adventures. Encounter and interact with previously unknown, lawless pirate and scavenger factions, and discover new ships and stations.</description>
 </item>
 <item>
 <title>Gravity Circuit</title>
