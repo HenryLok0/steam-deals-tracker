@@ -4,13 +4,69 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Thu, 11 Jun 2026 10:42:31 +0000</lastBuildDate>
+<lastBuildDate>Thu, 11 Jun 2026 16:08:56 +0000</lastBuildDate>
 <item>
-<title>Azure Striker Gunvolt Trilogy Enhanced</title>
-<link>https://store.steampowered.com/app/3813350/</link>
-<guid isPermaLink="false">3813350</guid>
-<pubDate>Thu, 11 Jun 2026 10:42:31 +0000</pubDate>
-<description>The Azure Striker Gunvolt Trilogy Enhanced is a collection of three traditional 2D action platformers, “Azure Striker Gunvolt” (2014), “Azure Striker Gunvolt 2” (2016), and “Azure Striker Gunvolt 3” (2022) together in one release, complete with all DLC.</description>
+<title>Beastro</title>
+<link>https://store.steampowered.com/app/2417470/</link>
+<guid isPermaLink="false">2417470</guid>
+<pubDate>Thu, 11 Jun 2026 16:08:56 +0000</pubDate>
+<description>Beastro is a cozy culinary adventure where the fate of the world rests on what's for dinner! Farm and gather fresh ingredients, tackle cooking minigames, and create tasty recipes to fuel the Caretakers for deckbuilding battles as they seek to save the world.</description>
+</item>
+<item>
+<title>BOXROOM</title>
+<link>https://store.steampowered.com/app/4335460/</link>
+<guid isPermaLink="false">4335460</guid>
+<pubDate>Thu, 11 Jun 2026 16:08:56 +0000</pubDate>
+<description>BOXROOM allows you to design, define and decorate a room - a sanctuary - for your Steam library, and then revel in the organisation of your game collection.</description>
+</item>
+<item>
+<title>Fable Anniversary - Heroes and Villains Content Pack</title>
+<link>https://store.steampowered.com/app/315151/</link>
+<guid isPermaLink="false">315151</guid>
+<pubDate>Thu, 11 Jun 2026 16:08:56 +0000</pubDate>
+<description>This additional content pack contains 11 full outfits, 14 weapons and the Lion's Head Helmet.</description>
+</item>
+<item>
+<title>Frog Sqwad 🐸</title>
+<link>https://store.steampowered.com/app/3989960/</link>
+<guid isPermaLink="false">3989960</guid>
+<pubDate>Thu, 11 Jun 2026 16:08:56 +0000</pubDate>
+<description>🐸Up to 8 player co-op extraction puzzle-platformer where you swing, jump, catapult your friends, and eat eat EAT until you grow into a humongous Megafrog. Squad up with your frog friends and storm the Sewers for the glory of the Swamp King!🐸</description>
+</item>
+<item>
+<title>Happy's Humble Burger Farm</title>
+<link>https://store.steampowered.com/app/1433340/</link>
+<guid isPermaLink="false">1433340</guid>
+<pubDate>Thu, 11 Jun 2026 16:08:56 +0000</pubDate>
+<description>Congrats, you're hired! Serve customers and maintain the Happy's Humble Burger Farm restaurant alone on the overnight. But be careful; things fall apart if you mess up! After work, head home and keep your eyes open for a way to escape the Barnyard Buds and their fast food fever-dream.</description>
+</item>
+<item>
+<title>SpaceCraft</title>
+<link>https://store.steampowered.com/app/3276050/</link>
+<guid isPermaLink="false">3276050</guid>
+<pubDate>Thu, 11 Jun 2026 16:08:56 +0000</pubDate>
+<description>The Universe is yours. SpaceCraft is an online space exploration and building game. Explore a vast galaxy of solar systems and planets, mine and craft resources, design and build ships, automate planetary bases and interplanetary logistics, trade and cooperate.</description>
+</item>
+<item>
+<title>Tales of Seikyu</title>
+<link>https://store.steampowered.com/app/2340520/</link>
+<guid isPermaLink="false">2340520</guid>
+<pubDate>Thu, 11 Jun 2026 16:08:56 +0000</pubDate>
+<description>A peaceful farming life sim set on the island of Seikyu. Grow your farm, restore your ancestral home, form heartfelt bonds with villagers, and shapeshift into different spirit forms to explore a world that moves gently with the seasons.</description>
+</item>
+<item>
+<title>The King is Watching</title>
+<link>https://store.steampowered.com/app/2753900/</link>
+<guid isPermaLink="false">2753900</guid>
+<pubDate>Thu, 11 Jun 2026 16:08:56 +0000</pubDate>
+<description>The King is Watching is a roguelite kingdom builder. Rule by the power of your royal gaze! Decide between producing resources, training armies, or balancing both, while adapting to unique events every run</description>
+</item>
+<item>
+<title>The Red Lantern</title>
+<link>https://store.steampowered.com/app/1053710/</link>
+<guid isPermaLink="false">1053710</guid>
+<pubDate>Thu, 11 Jun 2026 16:08:56 +0000</pubDate>
+<description>The Red Lantern is a narrative, dog sledding game about survival. You play as the Musher who, along with her team of 5 sled dogs, must find her way home. Care for your dogs, discover their stories, and learn how to navigate the unknowns of the Alaskan wilderness and prepare for your new life.</description>
 </item>
 <item>
 <title>Lost Castle 2</title>
@@ -186,62 +242,6 @@
 <guid isPermaLink="false">532790</guid>
 <pubDate>Wed, 10 Jun 2026 20:34:48 +0000</pubDate>
 <description>You are the Nomad — an elder vampire awakening from a century-long slumber, new to the modern nights. Trapped in your Blood is a stranger’s voice. This entity, a vampire detective known as Fabien, will be your guide to 21st-century Seattle.</description>
-</item>
-<item>
-<title>33 Immortals</title>
-<link>https://store.steampowered.com/app/958520/</link>
-<guid isPermaLink="false">958520</guid>
-<pubDate>Wed, 10 Jun 2026 15:43:37 +0000</pubDate>
-<description>33 Immortals is a co-op action-roguelike for 33 players. Jump straight into runs, solo or with friends. Battle hordes of monsters, defeat massive bosses, and grow stronger each run. Use in-game emotes to coordinate and combine powers with your fellow rebels, and face the Wrath of God, together.</description>
-</item>
-<item>
-<title>Artificial Extinction 2</title>
-<link>https://store.steampowered.com/app/1570450/</link>
-<guid isPermaLink="false">1570450</guid>
-<pubDate>Wed, 10 Jun 2026 15:43:37 +0000</pubDate>
-<description>A Tower Defense hybrid where survival depends on strategy and firepower. Build turrets, mine resources, and hold the line against relentless AI swarms. Switch instantly between commanding the battlefield in RTS view or fighting on the ground in FPS combat.</description>
-</item>
-<item>
-<title>Burglin' Gnomes</title>
-<link>https://store.steampowered.com/app/3844970/</link>
-<guid isPermaLink="false">3844970</guid>
-<pubDate>Wed, 10 Jun 2026 15:43:37 +0000</pubDate>
-<description>An online Co-op game about breaking into houses and causing havoc as a tiny gnome. Avoid danger, repurpose stolen household items, and complete tasks to meet the High-Gnome’s demands. Craft equipment and upgrade your home to make your missions easier and more successful.</description>
-</item>
-<item>
-<title>Gnomes</title>
-<link>https://store.steampowered.com/app/3133060/</link>
-<guid isPermaLink="false">3133060</guid>
-<pubDate>Wed, 10 Jun 2026 15:43:37 +0000</pubDate>
-<description>Gnomes is a turn-based tower defense with deep roguelike progression, set in ever-expanding, procedurally generated biomes. Build, farm and defend your village as you push deeper into goblin-infested territory. Unlock powerful upgrades and craft your environment to survive the endless goblin horde</description>
-</item>
-<item>
-<title>MindsEye</title>
-<link>https://store.steampowered.com/app/3265250/</link>
-<guid isPermaLink="false">3265250</guid>
-<pubDate>Wed, 10 Jun 2026 15:43:37 +0000</pubDate>
-<description>MindsEye is an ever-expanding gameplay experience with a story campaign, endless stream of new playable content delivered regularly, and the power to create your own games with our simple to use building tool.</description>
-</item>
-<item>
-<title>Witchspire</title>
-<link>https://store.steampowered.com/app/2679100/</link>
-<guid isPermaLink="false">2679100</guid>
-<pubDate>Wed, 10 Jun 2026 15:43:37 +0000</pubDate>
-<description>Step into the ultimate open-world witch adventure. Befriend and battle creatures, and conjure up a sanctuary alongside other witches in co-op or single-player.</description>
-</item>
-<item>
-<title>X4: Envoy Pack</title>
-<link>https://store.steampowered.com/app/3778100/</link>
-<guid isPermaLink="false">3778100</guid>
-<pubDate>Wed, 10 Jun 2026 15:43:37 +0000</pubDate>
-<description>Whether you're scouting behind enemy lines, smuggling under a false identity, or leading precision strikes with minimal visibility, the X4: Envoy Pack opens up new strategic and narrative possibilities for your X4 open universe.</description>
-</item>
-<item>
-<title>X4: Hyperion Pack</title>
-<link>https://store.steampowered.com/app/3419300/</link>
-<guid isPermaLink="false">3419300</guid>
-<pubDate>Wed, 10 Jun 2026 15:43:37 +0000</pubDate>
-<description>The Hyperion is back, reimagined and ready to leave its mark on the universe once more! This iconic ship introduces an exciting new ship classification: the Expeditionary class. Seamlessly blending raw power and agility, the Hyperion captures the essence of the Paranid like never before.</description>
 </item>
 <item>
 <title>Gravity Circuit</title>
