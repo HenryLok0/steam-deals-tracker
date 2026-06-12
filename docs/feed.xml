@@ -4,20 +4,62 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Fri, 12 Jun 2026 17:30:48 +0000</lastBuildDate>
+<lastBuildDate>Fri, 12 Jun 2026 20:15:04 +0000</lastBuildDate>
+<item>
+<title>Cat Quest III</title>
+<link>https://store.steampowered.com/app/2305840/</link>
+<guid isPermaLink="false">2305840</guid>
+<pubDate>Fri, 12 Jun 2026 20:15:04 +0000</pubDate>
+<description>In Cat Quest III you play as a purrivateer in a freely explorable 2.5D open-world swarming with Pi-rats. You can sail the seas in your ship for treasures galore! But prepare for peril, as the Pirate King aims to hunt you down...</description>
+</item>
+<item>
+<title>Dead Cells: Return to Castlevania</title>
+<link>https://store.steampowered.com/app/2101430/</link>
+<guid isPermaLink="false">2101430</guid>
+<pubDate>Fri, 12 Jun 2026 20:15:04 +0000</pubDate>
+<description>Battle through the ancient corridors of Dracula’s Castle in this expansion to the acclaimed fast-paced action roguelite Dead Cells. Team up with Richter Belmont &amp;amp; Alucard and wield iconic Castlevania weapons against hordes of monsters to reach the throne room of the Dark Lord himself...</description>
+</item>
+<item>
+<title>Expansion - Hearts of Iron IV: By Blood Alone</title>
+<link>https://store.steampowered.com/app/1880650/</link>
+<guid isPermaLink="false">1880650</guid>
+<pubDate>Fri, 12 Jun 2026 20:15:04 +0000</pubDate>
+<description>Build a new empire, resist foreign aggression or explore the limits of neutrality in Hearts of Iron IV: By Blood Alone. This new expansion for the World War II grand strategy wargame adds new alternate history options and gameplay variety for three nations, as well as other significant changes.</description>
+</item>
+<item>
+<title>Goblin Company</title>
+<link>https://store.steampowered.com/app/3864450/</link>
+<guid isPermaLink="false">3864450</guid>
+<pubDate>Fri, 12 Jun 2026 20:15:04 +0000</pubDate>
+<description>Dig, build rails, and survive underground as a Goblin miner for WHAAG MINING INC. Light your path or the darkness will drain your life. Explore fully destructible biomes, fight hostile creatures, and hunt the legendary Giant Crystal, solo or online co-op</description>
+</item>
+<item>
+<title>Granny: Escape Together</title>
+<link>https://store.steampowered.com/app/3070520/</link>
+<guid isPermaLink="false">3070520</guid>
+<pubDate>Fri, 12 Jun 2026 20:15:04 +0000</pubDate>
+<description>This is a creepy co-op horror game. In which you find yourself locked in a crazy Granny's house. But Granny is not the only danger that awaits you in the house, someone else creepy lives in the basement. You have five days to get out of the house!</description>
+</item>
+<item>
+<title>Wild Terra 2: New Lands</title>
+<link>https://store.steampowered.com/app/1134700/</link>
+<guid isPermaLink="false">1134700</guid>
+<pubDate>Fri, 12 Jun 2026 20:15:04 +0000</pubDate>
+<description>MMORPG full of details that create a unique immersion and the spirit of adventure! Play your role in the life-filled medieval world controlled by players.</description>
+</item>
+<item>
+<title>Wobbly Life</title>
+<link>https://store.steampowered.com/app/1211020/</link>
+<guid isPermaLink="false">1211020</guid>
+<pubDate>Fri, 12 Jun 2026 20:15:04 +0000</pubDate>
+<description>Wobbly Life is a vibrant open-world physics sandbox. Play with your friends online or in local co-op, with exciting jobs, mini games and wacky story missions. Earn cash to spend in the world on clothes, vehicles and houses. There is a whole Wobbly World out there to explore!</description>
+</item>
 <item>
 <title>Card Shark</title>
 <link>https://store.steampowered.com/app/1371720/</link>
 <guid isPermaLink="false">1371720</guid>
 <pubDate>Fri, 12 Jun 2026 15:22:36 +0000</pubDate>
 <description>Card Shark is an adventure game full of cunning, intrigue, and delectable deceit. Enter a world where you’ll need to play your opponents better than you play your cards.</description>
-</item>
-<item>
-<title>Don't Starve: Hamlet</title>
-<link>https://store.steampowered.com/app/712640/</link>
-<guid isPermaLink="false">712640</guid>
-<pubDate>Fri, 12 Jun 2026 15:22:36 +0000</pubDate>
-<description>With new playable characters, biomes, creatures and seasonal effects; Wilson and the whole Don’t Starve cast of characters are spirited away to the thrills of exploration, adaptation and of course, starvation. Will you be ready for the Aporkalypse?</description>
 </item>
 <item>
 <title>DREDGE - The Iron Rig</title>
@@ -76,6 +118,13 @@
 <description>Run your kawaii vending machine company! A relaxing sim where you manage, restock, and repair your vending machines across a charming Japanese city. Pick neighborhoods, stock up on snacks, set the perfect price, upgrade your machines. Enjoy lots of fun minigames along the way.</description>
 </item>
 <item>
+<title>Borderlands: The Pre-Sequel</title>
+<link>https://store.steampowered.com/app/261640/</link>
+<guid isPermaLink="false">261640</guid>
+<pubDate>Fri, 12 Jun 2026 10:19:29 +0000</pubDate>
+<description>Launch into the Borderlands universe and shoot ‘n’ loot your way through a brand new adventure that rockets you onto Pandora’s moon in Borderlands: The Pre-Sequel!</description>
+</item>
+<item>
 <title>Cult of the Lamb Soundtrack</title>
 <link>https://store.steampowered.com/app/2015890/</link>
 <guid isPermaLink="false">2015890</guid>
@@ -95,13 +144,6 @@
 <guid isPermaLink="false">1139900</guid>
 <pubDate>Fri, 12 Jun 2026 10:19:29 +0000</pubDate>
 <description>Ghostrunner offers a unique single-player experience: fast-paced, violent combat, and an original setting that blends science fiction with post-apocalyptic themes. It tells the story of a world that has already ended and its inhabitants who fight to survive.</description>
-</item>
-<item>
-<title>Ghostrunner 2</title>
-<link>https://store.steampowered.com/app/2144740/</link>
-<guid isPermaLink="false">2144740</guid>
-<pubDate>Fri, 12 Jun 2026 10:19:29 +0000</pubDate>
-<description>Blood will run in Ghostrunner 2, a hardcore FPP slasher set in a post-apocalyptic cyberpunk future. Become the ultimate cyber ninja and prepare for epic boss fights, improved skills, an interactive story, new game modes, and captivating synthwave soundtrack.</description>
 </item>
 <item>
 <title>GRIS</title>
