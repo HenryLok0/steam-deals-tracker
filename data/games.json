@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T04:07:34+00:00",
+  "updated_at": "2026-06-13T06:53:12+00:00",
   "total_count": 1821,
   "active_count": 346,
   "games": [
@@ -5071,6 +5071,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14100,
+          "final": 5640
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37800,
+          "final": 15100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7800,
+          "final": 3120
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 112000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2280000,
+          "final": 912000
         }
       },
       "review_hint": "Very Positive<br>94% of the 1,134 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -5085,7 +5110,7 @@
       "search_text": "cat quest iii cat quest iii in cat quest iii you play as a purrivateer in a freely explorable 2.5d open-world swarming with pi-rats. you can sail the seas in your ship for treasures galore! but prepare for peril, as the pirate king aims to hunt you down... action adventure indie rpg single-player multi-player co-op shared/split screen co-op shared/split screen steam achievements full controller support steam cloud remote play together family sharing english french italian german spanish-spain japanese korean portuguese-brazil russian schinese tchinese thai overwhelmingly positive very positive<br>94% of the 1,134 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-12T20:15:04+00:00",
       "last_seen": "2026-06-13T04:07:34+00:00",
-      "updated_at": "2026-06-13T04:07:34+00:00"
+      "updated_at": "2026-06-13T06:53:12+00:00"
     },
     {
       "app_id": 333640,
@@ -7039,6 +7064,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 649
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7900,
+          "final": 3950
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 9900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3800,
+          "final": 1900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 150000,
+          "final": 75000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1400000,
+          "final": 700000
         }
       },
       "review_hint": "Very Positive<br>93% of the 732 user reviews for this game are positive.",
@@ -7053,7 +7103,7 @@
       "search_text": "dark hunting ground dark hunting ground hunt the monsters that swarm the dark hunting ground, collect the spoils, develop your skills freely and wisely and fight to become the strongest hunter! action indie rpg single-player steam achievements full controller support steam cloud family sharing schinese english french japanese tchinese spanish-spain portuguese-brazil korean polish very positive very positive<br>93% of the 732 user reviews for this game are positive.",
       "first_seen": "2026-06-13T04:07:34+00:00",
       "last_seen": "2026-06-13T04:07:34+00:00",
-      "updated_at": "2026-06-13T04:07:34+00:00"
+      "updated_at": "2026-06-13T06:53:12+00:00"
     },
     {
       "app_id": 2201320,
@@ -7717,6 +7767,31 @@
           "currency": "USD",
           "original": 999,
           "final": 699
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 4620
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 13100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 2940
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 84000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 770000
         }
       },
       "review_hint": "Very Positive<br>86% of the 868 user reviews for this game are positive.",
@@ -7731,7 +7806,7 @@
       "search_text": "dead cells: return to castlevania dead cells: return to castlevania battle through the ancient corridors of dracula’s castle in this expansion to the acclaimed fast-paced action roguelite dead cells. team up with richter belmont &amp; alucard and wield iconic castlevania weapons against hordes of monsters to reach the throne room of the dark lord himself... action indie single-player downloadable content steam achievements full controller support steam trading cards steam workshop steam cloud remote play on phone remote play on tablet remote play on tv family sharing english french schinese italian german spanish-spain japanese portuguese---portugal russian turkish korean tchinese portuguese-brazil very positive very positive<br>86% of the 868 user reviews for this game are positive.",
       "first_seen": "2026-06-12T20:15:04+00:00",
       "last_seen": "2026-06-13T04:07:34+00:00",
-      "updated_at": "2026-06-13T04:07:34+00:00"
+      "updated_at": "2026-06-13T06:53:12+00:00"
     },
     {
       "app_id": 1850570,
@@ -8773,6 +8848,31 @@
           "currency": "USD",
           "original": 799,
           "final": 679
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5200,
+          "final": 4420
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15200,
+          "final": 12900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3300,
+          "final": 2805
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 92000,
+          "final": 78200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 890000,
+          "final": 756000
         }
       },
       "review_hint": "Positive<br>92% of the 27 user reviews for this game are positive.",
@@ -8787,7 +8887,7 @@
       "search_text": "don't let it starve don't let it starve a horror roguelike bento-builder. you're trapped in an underground kitchen, forced to feed a half-chef monster. gamble with your life, assemble meals, and master your multipliers. whatever you do, don't let it starve. simulation strategy single-player steam achievements full controller support adjustable difficulty playable without timed input save anytime stereo sound surround sound steam cloud family sharing english german portuguese-brazil russian schinese french spanish-latin japanese italian spanish-spain polish positive positive<br>92% of the 27 user reviews for this game are positive.",
       "first_seen": "2026-06-13T04:07:34+00:00",
       "last_seen": "2026-06-13T04:07:34+00:00",
-      "updated_at": "2026-06-13T04:07:34+00:00"
+      "updated_at": "2026-06-13T06:53:12+00:00"
     },
     {
       "app_id": 219740,
@@ -14853,6 +14953,31 @@
           "currency": "USD",
           "original": 999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6100,
+          "final": 4880
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 15000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3500,
+          "final": 2800
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 96000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 840000
         }
       },
       "review_hint": "Positive<br>100% of the 10 user reviews for this game are positive.",
@@ -14867,7 +14992,7 @@
       "search_text": "goblin company goblin company dig, build rails, and survive underground as a goblin miner for whaag mining inc. light your path or the darkness will drain your life. explore fully destructible biomes, fight hostile creatures, and hunt the legendary giant crystal, solo or online co-op action adventure indie single-player multi-player co-op online co-op steam achievements full controller support camera comfort custom volume controls playable without timed input stereo sound surround sound family sharing english italian german schinese french japanese russian spanish-latin turkish positive positive<br>100% of the 10 user reviews for this game are positive.",
       "first_seen": "2026-06-12T20:15:04+00:00",
       "last_seen": "2026-06-13T04:07:34+00:00",
-      "updated_at": "2026-06-13T04:07:34+00:00"
+      "updated_at": "2026-06-13T06:53:12+00:00"
     },
     {
       "app_id": 431240,
@@ -15129,6 +15254,31 @@
           "currency": "USD",
           "original": 999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 3300
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 9400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 2100
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 60000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 550000
         }
       },
       "review_hint": "Very Positive<br>80% of the 1,356 user reviews for this game are positive.",
@@ -15143,7 +15293,7 @@
       "search_text": "granny: escape together granny: escape together this is a creepy co-op horror game. in which you find yourself locked in a crazy granny's house. but granny is not the only danger that awaits you in the house, someone else creepy lives in the basement. you have five days to get out of the house! action adventure indie single-player multi-player pvp online pvp co-op online co-op steam achievements steam trading cards partial controller support family sharing english mostly positive very positive<br>80% of the 1,356 user reviews for this game are positive.",
       "first_seen": "2026-06-12T20:15:04+00:00",
       "last_seen": "2026-06-13T04:07:34+00:00",
-      "updated_at": "2026-06-13T04:07:34+00:00"
+      "updated_at": "2026-06-13T06:53:12+00:00"
     },
     {
       "app_id": 599140,
@@ -15887,6 +16037,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 959
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7800,
+          "final": 6240
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 22600,
+          "final": 18000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4800,
+          "final": 3840
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 112000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1350000,
+          "final": 1080000
         }
       },
       "review_hint": "Very Positive<br>90% of the 533 user reviews for this game are positive.",
@@ -15901,7 +16076,7 @@
       "search_text": "hackhub - ultimate hacker simulator hackhub - ultimate hacker simulator unravel cyber secrets and foil mass surveillance as a skilled hacker in hackhub. challenge authority, rewrite the rules, and emerge as the ultimate digital rebel. indie simulation strategy early access single-player multi-player steam achievements steam workshop adjustable text size custom volume controls playable without timed input save anytime stereo sound subtitle options surround sound family sharing english spanish-spain polish russian turkish french german tchinese schinese spanish-latin japanese korean portuguese---portugal portuguese-brazil italian arabic bulgarian czech danish finnish greek dutch indonesian norwegian romanian swedish thai ukrainian vietnamese hungarian very positive very positive<br>90% of the 533 user reviews for this game are positive.",
       "first_seen": "2026-06-13T04:07:34+00:00",
       "last_seen": "2026-06-13T04:07:34+00:00",
-      "updated_at": "2026-06-13T04:07:34+00:00"
+      "updated_at": "2026-06-13T06:53:12+00:00"
     },
     {
       "app_id": 459220,
@@ -26216,6 +26391,31 @@
           "currency": "USD",
           "original": 1399,
           "final": 1119
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8200,
+          "final": 6560
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 28500,
+          "final": 22800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5700,
+          "final": 4560
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 220000,
+          "final": 176000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1500000,
+          "final": 1200000
         }
       },
       "review_hint": "",
@@ -26230,7 +26430,7 @@
       "search_text": "rina's undercover train operation rina's undercover train operation a rogue-lite simulation animated game where you play as rina, a special investigator with psychic powers that aims to cut down crime rate on trains. upgrade your skills, combine them, and take down your enemies before they get you! oh, and have fun changing rina's outfits too! simulation single-player steam achievements steam cloud family sharing english japanese korean schinese tchinese no user reviews",
       "first_seen": "2026-06-13T04:07:34+00:00",
       "last_seen": "2026-06-13T04:07:34+00:00",
-      "updated_at": "2026-06-13T04:07:34+00:00"
+      "updated_at": "2026-06-13T06:53:12+00:00"
     },
     {
       "app_id": 4148240,
@@ -26820,6 +27020,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1874
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 11700
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 30600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9200,
+          "final": 6900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 210000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2850000,
+          "final": 2137000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>98% of the 804 user reviews for this game are positive.",
@@ -26834,7 +27059,7 @@
       "search_text": "sani yang's laboratory sani yang's laboratory you wake up in the world of anthropomorphic creatures. after finding you've been the subject of a certain lab's experiments, you must find the ulterior goals hidden from sight. is this lab secretly a threat to the human world? or is there more to it that you simply cannot understand? adventure simulation strategy single-player steam achievements steam trading cards steam workshop custom volume controls playable without timed input save anytime subtitle options steam cloud family sharing english japanese korean schinese tchinese very positive overwhelmingly positive<br>98% of the 804 user reviews for this game are positive.",
       "first_seen": "2026-06-13T04:07:34+00:00",
       "last_seen": "2026-06-13T04:07:34+00:00",
-      "updated_at": "2026-06-13T04:07:34+00:00"
+      "updated_at": "2026-06-13T06:53:12+00:00"
     },
     {
       "app_id": 698670,
@@ -34171,6 +34396,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 0
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 17500,
+          "final": 17500
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 57900,
+          "final": 57900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 16500,
+          "final": 16500
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 370000,
+          "final": 370000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3990000,
+          "final": 3990000
         }
       },
       "review_hint": "Mixed<br>62% of the 1,314 user reviews for this game are positive.",
@@ -34185,7 +34435,7 @@
       "search_text": "wild terra 2: new lands wild terra 2: new lands mmorpg full of details that create a unique immersion and the spirit of adventure! play your role in the life-filled medieval world controlled by players. action indie massively multiplayer rpg multi-player mmo pvp online pvp co-op online co-op steam achievements steam trading cards in-app purchases family sharing english russian french german spanish-spain portuguese-brazil polish italian ukrainian japanese schinese turkish korean mixed mixed<br>62% of the 1,314 user reviews for this game are positive.",
       "first_seen": "2026-06-12T20:15:04+00:00",
       "last_seen": "2026-06-13T04:07:34+00:00",
-      "updated_at": "2026-06-13T04:07:34+00:00"
+      "updated_at": "2026-06-13T06:53:12+00:00"
     },
     {
       "app_id": 1911610,
@@ -34674,6 +34924,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1624
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 10140
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 26500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6600,
+          "final": 4290
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 253000,
+          "final": 164400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 1755000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>97% of the 17,222 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -34688,7 +34963,7 @@
       "search_text": "wobbly life wobbly life wobbly life is a vibrant open-world physics sandbox. play with your friends online or in local co-op, with exciting jobs, mini games and wacky story missions. earn cash to spend in the world on clothes, vehicles and houses. there is a whole wobbly world out there to explore! action adventure casual indie simulation single-player multi-player co-op online co-op shared/split screen co-op shared/split screen steam achievements full controller support steam trading cards steam workshop steam cloud remote play on tv family sharing english french german spanish-spain japanese korean polish portuguese-brazil portuguese---portugal russian schinese tchinese overwhelmingly positive overwhelmingly positive<br>97% of the 17,222 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-12T20:15:04+00:00",
       "last_seen": "2026-06-13T04:07:34+00:00",
-      "updated_at": "2026-06-13T04:07:34+00:00"
+      "updated_at": "2026-06-13T06:53:12+00:00"
     },
     {
       "app_id": 552700,
@@ -79915,6 +80190,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 13800,
+          "final": 6900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 50800,
+          "final": 25400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8800,
+          "final": 4400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 269000,
+          "final": 134500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2200000,
+          "final": 1100000
         }
       },
       "review_hint": "Mostly Negative<br>38% of the 1,415 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -79929,7 +80229,7 @@
       "search_text": "expansion - hearts of iron iv: by blood alone expansion - hearts of iron iv: by blood alone build a new empire, resist foreign aggression or explore the limits of neutrality in hearts of iron iv: by blood alone. this new expansion for the world war ii grand strategy wargame adds new alternate history options and gameplay variety for three nations, as well as other significant changes. simulation strategy single-player multi-player co-op cross-platform multiplayer downloadable content steam achievements steam trading cards steam workshop steam cloud remote play on tablet family sharing english french german polish portuguese-brazil russian spanish-spain japanese schinese korean mostly negative mostly negative<br>38% of the 1,415 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-12T20:15:04+00:00",
       "last_seen": "2026-06-13T04:07:34+00:00",
-      "updated_at": "2026-06-13T04:07:34+00:00"
+      "updated_at": "2026-06-13T06:53:12+00:00"
     },
     {
       "app_id": 2477340,
