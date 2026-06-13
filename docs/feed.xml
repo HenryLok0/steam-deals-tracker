@@ -4,7 +4,21 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sat, 13 Jun 2026 06:53:12 +0000</lastBuildDate>
+<lastBuildDate>Sat, 13 Jun 2026 09:21:18 +0000</lastBuildDate>
+<item>
+<title>Rust - Sunburn Pack</title>
+<link>https://store.steampowered.com/app/1353060/</link>
+<guid isPermaLink="false">1353060</guid>
+<pubDate>Sat, 13 Jun 2026 09:21:18 +0000</pubDate>
+<description>Hit the beach in style with the Sunburn Pack for Rust - a collection of 15 new summer themed goodies!</description>
+</item>
+<item>
+<title>Rust - Voice Props Pack</title>
+<link>https://store.steampowered.com/app/1670430/</link>
+<guid isPermaLink="false">1670430</guid>
+<pubDate>Sat, 13 Jun 2026 09:21:18 +0000</pubDate>
+<description>Tune in to the Voice Props Pack - a selection of audio themed items for Rust!</description>
+</item>
 <item>
 <title>Dark Hunting Ground</title>
 <link>https://store.steampowered.com/app/2494810/</link>
@@ -74,13 +88,6 @@
 <guid isPermaLink="false">1134700</guid>
 <pubDate>Fri, 12 Jun 2026 20:15:04 +0000</pubDate>
 <description>MMORPG full of details that create a unique immersion and the spirit of adventure! Play your role in the life-filled medieval world controlled by players.</description>
-</item>
-<item>
-<title>Wobbly Life</title>
-<link>https://store.steampowered.com/app/1211020/</link>
-<guid isPermaLink="false">1211020</guid>
-<pubDate>Fri, 12 Jun 2026 20:15:04 +0000</pubDate>
-<description>Wobbly Life is a vibrant open-world physics sandbox. Play with your friends online or in local co-op, with exciting jobs, mini games and wacky story missions. Earn cash to spend in the world on clothes, vehicles and houses. There is a whole Wobbly World out there to explore!</description>
 </item>
 <item>
 <title>DREDGE - The Iron Rig</title>
