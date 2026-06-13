@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T14:06:45+00:00",
+  "updated_at": "2026-06-13T16:07:54+00:00",
   "total_count": 1825,
   "active_count": 346,
   "games": [
@@ -26766,6 +26766,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 649
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 3300
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 23800,
+          "final": 11900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5100,
+          "final": 2550
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 166000,
+          "final": 83000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1450000,
+          "final": 725000
         }
       },
       "review_hint": "Very Positive<br>86% of the 1,913 user reviews for this game are positive.",
@@ -26780,7 +26805,7 @@
       "search_text": "rust - voice props pack rust - voice props pack tune in to the voice props pack - a selection of audio themed items for rust! action adventure indie massively multiplayer rpg multi-player mmo pvp online pvp co-op online co-op cross-platform multiplayer downloadable content steam achievements steam trading cards steam workshop in-app purchases valve anti-cheat enabled stats remote play on tablet english french italian german spanish-spain japanese korean russian schinese ukrainian polish portuguese---portugal turkish arabic czech danish dutch finnish greek norwegian portuguese-brazil spanish-latin swedish tchinese vietnamese very positive very positive<br>86% of the 1,913 user reviews for this game are positive.",
       "first_seen": "2026-06-13T09:21:18+00:00",
       "last_seen": "2026-06-13T14:06:45+00:00",
-      "updated_at": "2026-06-13T14:06:45+00:00"
+      "updated_at": "2026-06-13T16:07:54+00:00"
     },
     {
       "app_id": 3464370,
@@ -32578,6 +32603,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7000,
+          "final": 5250
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19900,
+          "final": 14900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4500,
+          "final": 3375
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 130000,
+          "final": 97500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1200000,
+          "final": 900000
         }
       },
       "review_hint": "Very Positive<br>88% of the 829 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -32592,7 +32642,7 @@
       "search_text": "the walking trade the walking trade run a shop in the zombie apocalypse! trade batteries, craft stock, manage your staff, and fend off undead hordes. will you be a hero, or profit at any cost? your choices shape your store - and your fate. indie simulation single-player steam achievements full controller support steam cloud steam leaderboards family sharing english french italian german spanish-spain japanese korean portuguese-brazil russian schinese polish turkish tchinese portuguese---portugal very positive very positive<br>88% of the 829 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-13T14:06:45+00:00",
       "last_seen": "2026-06-13T14:06:45+00:00",
-      "updated_at": "2026-06-13T14:06:45+00:00"
+      "updated_at": "2026-06-13T16:07:54+00:00"
     },
     {
       "app_id": 1121640,
@@ -35747,6 +35797,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1349
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7800,
+          "final": 7020
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21000,
+          "final": 18900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4800,
+          "final": 4320
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 160000,
+          "final": 144000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1250000,
+          "final": 1125000
         }
       },
       "review_hint": "Positive<br>85% of the 14 user reviews for this game are positive.",
@@ -35761,7 +35836,7 @@
       "search_text": "xanthiom 2 xanthiom 2 play through the next chapter in the xanthiom saga, now bigger and better than before! action adventure single-player steam achievements full controller support camera comfort custom volume controls adjustable difficulty keyboard only option playable without timed input steam cloud family sharing english positive positive<br>85% of the 14 user reviews for this game are positive.",
       "first_seen": "2026-06-13T14:06:45+00:00",
       "last_seen": "2026-06-13T14:06:45+00:00",
-      "updated_at": "2026-06-13T14:06:45+00:00"
+      "updated_at": "2026-06-13T16:07:54+00:00"
     },
     {
       "app_id": 3937550,
@@ -134826,6 +134901,31 @@
           "currency": "USD",
           "original": 999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5200,
+          "final": 2600
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 17500,
+          "final": 8700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4000,
+          "final": 2000
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 130000,
+          "final": 65000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1150000,
+          "final": 575000
         }
       },
       "review_hint": "Very Positive<br>89% of the 864 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -134840,7 +134940,7 @@
       "search_text": "rust - sunburn pack rust - sunburn pack hit the beach in style with the sunburn pack for rust - a collection of 15 new summer themed goodies! action adventure indie massively multiplayer rpg multi-player mmo pvp online pvp co-op online co-op cross-platform multiplayer downloadable content steam achievements steam trading cards steam workshop in-app purchases valve anti-cheat enabled stats remote play on tablet english french italian german spanish-spain japanese korean russian schinese ukrainian polish portuguese---portugal turkish arabic czech danish dutch finnish greek norwegian portuguese-brazil spanish-latin swedish tchinese vietnamese very positive very positive<br>89% of the 864 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-13T09:21:18+00:00",
       "last_seen": "2026-06-13T14:06:45+00:00",
-      "updated_at": "2026-06-13T14:06:45+00:00"
+      "updated_at": "2026-06-13T16:07:54+00:00"
     },
     {
       "app_id": 3891560,
