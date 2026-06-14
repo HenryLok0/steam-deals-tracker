@@ -4,7 +4,7 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sun, 14 Jun 2026 07:18:03 +0000</lastBuildDate>
+<lastBuildDate>Sun, 14 Jun 2026 09:40:37 +0000</lastBuildDate>
 <item>
 <title>911 Operator</title>
 <link>https://store.steampowered.com/app/503560/</link>
@@ -27,13 +27,6 @@
 <description>Monster taming meets metroidvania. Collect, train and battle monsters in a lovely side-scroller pixel world.</description>
 </item>
 <item>
-<title>Reverse Dream of the Menasphere</title>
-<link>https://store.steampowered.com/app/4398360/</link>
-<guid isPermaLink="false">4398360</guid>
-<pubDate>Sun, 14 Jun 2026 04:24:54 +0000</pubDate>
-<description>You live a peaceful life alongside your sister Mea, until a fateful meeting with a succubus leads to a life-changing quest you never expected.</description>
-</item>
-<item>
 <title>Strange Seed</title>
 <link>https://store.steampowered.com/app/2463690/</link>
 <guid isPermaLink="false">2463690</guid>
@@ -46,6 +39,13 @@
 <guid isPermaLink="false">4705620</guid>
 <pubDate>Sun, 14 Jun 2026 04:24:54 +0000</pubDate>
 <description>A co-op incremental dump-digging sim. Tear through endless trash, cash in your junk, upgrade your gear, and hunt for the Bitcoin you threw away. Dig with friends, get rich, get distracted, repeat.</description>
+</item>
+<item>
+<title>Adorable Adventures</title>
+<link>https://store.steampowered.com/app/3840230/</link>
+<guid isPermaLink="false">3840230</guid>
+<pubDate>Sat, 13 Jun 2026 19:41:41 +0000</pubDate>
+<description>Play as Boris, a curious baby boar who must learn how to use his nose to reunite with his family after a forest fire. Explore beautiful landscapes, track scents, and uncover secrets as you slowly reconnect with nature in this cozy animal adventure.</description>
 </item>
 <item>
 <title>Dungeon Clawler</title>
