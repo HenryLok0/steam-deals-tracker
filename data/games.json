@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T14:10:28+00:00",
+  "updated_at": "2026-06-14T16:15:46+00:00",
   "total_count": 1842,
   "active_count": 346,
   "games": [
@@ -6108,6 +6108,31 @@
           "currency": "USD",
           "original": 999,
           "final": 699
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6100,
+          "final": 4270
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21600,
+          "final": 15100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 2940
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 135000,
+          "final": 94500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 735000
         }
       },
       "review_hint": "Very Positive<br>86% of the 683 user reviews for this game are positive.",
@@ -6122,7 +6147,7 @@
       "search_text": "cure - a hospital simulator cure - a hospital simulator manage the night shift of an er during the apocalypse, solo or with friends online: diagnose patients. design and grow your hospital, and defend against the undead while treating the living. if you're a creator, connect the game to twitch and make the audience your patients for even more fun! simulation early access single-player multi-player co-op online co-op steam cloud family sharing english very positive very positive<br>86% of the 683 user reviews for this game are positive.",
       "first_seen": "2026-06-14T14:10:28+00:00",
       "last_seen": "2026-06-14T14:10:28+00:00",
-      "updated_at": "2026-06-14T14:10:28+00:00"
+      "updated_at": "2026-06-14T16:15:46+00:00"
     },
     {
       "app_id": 3219180,
