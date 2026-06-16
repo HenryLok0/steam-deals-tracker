@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T04:45:18+00:00",
+  "updated_at": "2026-06-16T08:41:16+00:00",
   "total_count": 1902,
   "active_count": 344,
   "games": [
@@ -3357,6 +3357,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 1499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 18700,
+          "final": 9350
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 48800,
+          "final": 24400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10800,
+          "final": 5400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 340000,
+          "final": 170000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3200000,
+          "final": 1600000
         }
       },
       "review_hint": "Mixed<br>68% of the 1,590 user reviews for this game are positive.",
@@ -3371,7 +3396,7 @@
       "search_text": "call to arms: panzer elite call to arms: panzer elite lead a platoon of wwii tanks in this immersive tpp and fpp game. engage in realistic, tactical combat across historic battlefields. play through campaign or challenge yourself in skirmish mode as either german or us forces. action simulation early access single-player multi-player pvp online pvp co-op online co-op family sharing english mixed mixed<br>68% of the 1,590 user reviews for this game are positive.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 2404880,
@@ -4044,6 +4069,31 @@
           "currency": "USD",
           "original": 4999,
           "final": 3499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 31800,
+          "final": 22260
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 139800,
+          "final": 97800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 19800,
+          "final": 13860
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 699000,
+          "final": 489300
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 5500000,
+          "final": 3850000
         }
       },
       "review_hint": "Mixed<br>56% of the 33,384 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -4058,7 +4108,7 @@
       "search_text": "cities: skylines ii cities: skylines ii raise a city from the ground up and transform it into a thriving metropolis with the most realistic city builder ever. push your creativity and problem-solving to build on a scale you've never experienced. with deep simulation and a living economy, this is world-building without limits. simulation single-player steam achievements full controller support steam cloud family sharing english french italian german japanese korean polish russian schinese portuguese-brazil tchinese spanish-spain mixed mixed<br>56% of the 33,384 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 2427743,
@@ -4115,6 +4165,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 13800,
+          "final": 9660
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 56800,
+          "final": 39700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8800,
+          "final": 6160
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 269000,
+          "final": 188300
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2200000,
+          "final": 1540000
         }
       },
       "review_hint": "Mixed<br>55% of the 459 user reviews for this game are positive.",
@@ -4129,7 +4204,7 @@
       "search_text": "cities: skylines ii - bridges & ports cities: skylines ii - bridges & ports discover the world of possibility where city meets sea. build with new bridges, customize your port, and dive into new marine industries. your waterfront. leveled up. simulation single-player downloadable content steam achievements family sharing english french italian german japanese korean polish russian schinese spanish-latin portuguese-brazil tchinese mixed mixed<br>55% of the 459 user reviews for this game are positive.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 1903340,
@@ -4699,6 +4774,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8900,
+          "final": 890
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 31800,
+          "final": 3100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7000,
+          "final": 700
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 205000,
+          "final": 20500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2050000,
+          "final": 205000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>96% of the 19,118 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -4713,7 +4813,7 @@
       "search_text": "cruelty squad cruelty squad an immersive power fantasy simulator with tactical stealth elements set in a sewage infused garbage world action indie simulation single-player steam achievements steam cloud family sharing english overwhelmingly positive overwhelmingly positive<br>96% of the 19,118 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 3858650,
@@ -6863,6 +6963,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 974
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 6175
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 17400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4800,
+          "final": 3120
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 110500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 1072000
         }
       },
       "review_hint": "Very Positive<br>93% of the 1,787 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -6877,7 +7002,7 @@
       "search_text": "die in the dungeon die in the dungeon fight your way through a mysterious dungeon in this deck-building, turn-based roguelike game where you don't use cards, but dice! deal with enemies by combining powerful dice on your board, boost their effects with magical relics, and risk it all hoping for a good roll on unexpected encounters. indie rpg strategy single-player steam achievements full controller support steam cloud family sharing english french german spanish-spain portuguese-brazil russian turkish japanese polish korean schinese very positive very positive<br>93% of the 1,787 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 1984270,
@@ -7253,6 +7378,31 @@
           "currency": "USD",
           "original": 4999,
           "final": 999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 35000,
+          "final": 7000
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 69800,
+          "final": 13900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 13800,
+          "final": 2760
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 498000,
+          "final": 99600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4980000,
+          "final": 996000
         }
       },
       "review_hint": "Very Positive<br>87% of the 4,153 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -7267,7 +7417,7 @@
       "search_text": "djmax respect v djmax respect v djmax respect v is the latest installment from the creators of the critically acclaimed rhythm game franchise ‘djmax.’ experience tracks from popular artists such as marshmello, porter robinson, and yukika, exclusive full hd music videos, online multiplayer, new game modes, and more! action casual sports single-player multi-player pvp online pvp steam achievements steam trading cards in-app purchases partial controller support remote play on phone remote play on tablet family sharing english korean french italian german spanish-spain russian japanese schinese tchinese portuguese---portugal very positive very positive<br>87% of the 4,153 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 1637320,
@@ -8633,6 +8783,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 624
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 3900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 10200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9200,
+          "final": 2300
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 70000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 675000
         }
       },
       "review_hint": "Very Positive<br>89% of the 3,505 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -8647,7 +8822,7 @@
       "search_text": "eastshade eastshade you are a traveling painter, exploring the island of eastshade. capture the world on canvas using your artist’s easel. talk to the inhabitants to learn about their lives. make friends and help those in need. visit cities, scale summits, unearth mysteries, and discover forgotten places! adventure indie single-player steam achievements full controller support remote play on tv family sharing english french german russian schinese very positive very positive<br>89% of the 3,505 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 4746070,
@@ -8702,6 +8877,31 @@
           "currency": "USD",
           "original": 1000,
           "final": 700
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6006,
+          "final": 4204
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 20700,
+          "final": 14400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4186,
+          "final": 2930
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 131900,
+          "final": 92300
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1092000,
+          "final": 764000
         }
       },
       "review_hint": "Positive<br>93% of the 15 user reviews for this game are positive.",
@@ -8716,7 +8916,7 @@
       "search_text": "eldara eldara descend into eldara, a dark fantasy idle game where every skill, every monster, and every whispered secret carves your path. train 17 skills, hunt legendary beasts, command loyal pets, and unravel a forgotten realm — at your own pace, with progress that never stops. adventure casual indie rpg simulation early access single-player steam achievements custom volume controls adjustable difficulty playable without timed input save anytime steam cloud family sharing english positive positive<br>93% of the 15 user reviews for this game are positive.",
       "first_seen": "2026-06-16T04:45:18+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 530611,
@@ -8984,6 +9184,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1874
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 11700
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 30600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9200,
+          "final": 6900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 210000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 2025000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>97% of the 1,365 user reviews for this game are positive.",
@@ -8998,7 +9223,7 @@
       "search_text": "escape from ever after escape from ever after fight against capitalism in this satirical adventure rpg! when a greedy megacorp from the real world starts taking over fairytales for their cheap labor, a newly-hired storybook hero must climb the corporate ladder, rally together other disgruntled employees, and fight back! adventure indie rpg single-player steam achievements full controller support custom volume controls adjustable difficulty keyboard only option playable without timed input steam cloud family sharing english japanese portuguese-brazil russian schinese spanish-latin german french overwhelmingly positive overwhelmingly positive<br>97% of the 1,365 user reviews for this game are positive.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 2183930,
@@ -9673,6 +9898,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14500,
+          "final": 3625
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 56900,
+          "final": 14200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9800,
+          "final": 2450
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 264000,
+          "final": 66000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2200000,
+          "final": 550000
         }
       },
       "review_hint": "Very Positive<br>84% of the 42,275 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -9687,7 +9937,7 @@
       "search_text": "far cry 3 far cry 3 discover the dark secrets of a lawless island ruled by violence and take the fight to the enemy as you try to escape. you’ll need more than luck to escape alive! action adventure single-player multi-player co-op steam achievements partial controller support english german french italian spanish-spain portuguese---portugal polish danish dutch norwegian swedish czech russian japanese korean schinese tchinese very positive very positive<br>84% of the 42,275 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 3920610,
@@ -14656,6 +14906,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 1499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12900,
+          "final": 6450
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 43800,
+          "final": 21900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9000,
+          "final": 4500
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 309000,
+          "final": 154500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2450000,
+          "final": 1225000
         }
       },
       "review_hint": "Very Positive<br>87% of the 4,155 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -14670,7 +14945,7 @@
       "search_text": "highfleet highfleet battle for survival in the skies of a mysterious future earth in this unique action-strategy game mixing arcade combat, exploration, management and diplomacy. as giant flying ships wage spectacular aerial warfare, a prophecy tells of one who will save the world – could it be you? action adventure indie strategy single-player family sharing english russian very positive very positive<br>87% of the 4,155 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-16T04:45:18+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 589290,
@@ -14970,6 +15245,31 @@
           "currency": "USD",
           "original": 4999,
           "final": 749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 39800,
+          "final": 5970
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 149000,
+          "final": 22300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 29900,
+          "final": 4485
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 583000,
+          "final": 87400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 5480000,
+          "final": 822000
         }
       },
       "review_hint": "Mostly Positive<br>77% of the 891 user reviews for this game are positive.",
@@ -14984,7 +15284,7 @@
       "search_text": "hot wheels unleashed™ 2 - turbocharged hot wheels unleashed™ 2 - turbocharged the world’s raddest cars are back and taking the fun to the next level! race over 130 vehicles with crazy new mechanics and even more vehicle types. plus, build your tracks with stunning new environments and different game modes to have fun off and online! action adventure racing simulation sports single-player multi-player pvp online pvp shared/split screen pvp shared/split screen steam achievements full controller support steam trading cards steam cloud family sharing english french italian german spanish-spain japanese polish portuguese-brazil schinese spanish-latin thai tchinese indonesian mostly positive mostly positive<br>77% of the 891 user reviews for this game are positive.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 219150,
@@ -15763,6 +16063,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 2799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 24800,
+          "final": 17360
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 59900,
+          "final": 41900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 13600,
+          "final": 9520
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 450000,
+          "final": 315000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4200000,
+          "final": 2940000
         }
       },
       "review_hint": "Mostly Positive<br>79% of the 3,557 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -15777,7 +16102,7 @@
       "search_text": "into the radius 2 into the radius 2 into the radius 2 is an immersive vr survival shooter, set in a realm of surreal landscapes and deadly entities known as pechorsk anomaly. arm yourself with realistic weapons and venture deeper into the mysteries that lie within, either solo or with a friend by your side. action adventure indie simulation single-player multi-player co-op online co-op steam achievements tracked controller support vr only custom volume controls adjustable difficulty playable without timed input save anytime stereo sound steam cloud stats steam leaderboards family sharing english mostly positive mostly positive<br>79% of the 3,557 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 1012790,
@@ -15839,6 +16164,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 1499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 18700,
+          "final": 9350
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 48800,
+          "final": 24400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10800,
+          "final": 5400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 340000,
+          "final": 170000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3200000,
+          "final": 1600000
         }
       },
       "review_hint": "Very Positive<br>94% of the 7,594 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -15853,7 +16203,7 @@
       "search_text": "into the radius vr into the radius vr into the radius is a single-player survival shooter in vr. explore the pechorsk zone filled with surreal landscapes and dangerous anomalies. defend yourself with realistic firearms, recover strange artifacts, scavenge for loot, and uncover the mysteries of this unforgiving dystopian environment. action indie single-player steam achievements tracked controller support vr only steam trading cards custom volume controls adjustable difficulty playable without timed input save anytime stereo sound family sharing english french italian german spanish-spain japanese korean russian schinese very positive very positive<br>94% of the 7,594 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-16T04:45:18+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 1372110,
@@ -17602,6 +17952,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 10920
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 28500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9200,
+          "final": 6440
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 196000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 1890000
         }
       },
       "review_hint": "Very Positive<br>86% of the 2,185 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -17616,7 +17991,7 @@
       "search_text": "m.a.s.s. builder m.a.s.s. builder commander, customize and build your mechanical assault skeleton suit (m.a.s.s.) and lead the fight against an alien invasion bent on exterminating the human race. the fate of humanity is in your hands. action indie rpg strategy single-player multi-player co-op online co-op full controller support steam cloud family sharing english japanese schinese thai tchinese very positive very positive<br>86% of the 2,185 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-16T04:45:18+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 1030830,
@@ -19152,6 +19527,31 @@
           "currency": "USD",
           "original": 499,
           "final": 249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3300,
+          "final": 1650
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 9900,
+          "final": 4900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1999,
+          "final": 999
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 49000,
+          "final": 24500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 490000,
+          "final": 245000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>96% of the 557 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -19166,7 +19566,7 @@
       "search_text": "mini cozy room: lo-fi mini cozy room: lo-fi create your own cozy workspace! mini cozy room : lo-fi is a productivity game blending relaxing lo-fi music with room decoration. cute avatars, pets, desktop memos, to-do lists, and a pomodoro timer help boost your focus. feeling lonely? work together with friends in multiplayer mode. casual indie single-player multi-player co-op online co-op steam achievements steam cloud family sharing english japanese schinese tchinese korean french italian german portuguese-brazil spanish-spain russian vietnamese ukrainian thai turkish polish overwhelmingly positive overwhelmingly positive<br>96% of the 557 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 4064510,
@@ -19223,6 +19623,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 1169
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7800,
+          "final": 7020
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 22900,
+          "final": 20600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4800,
+          "final": 4320
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 150000,
+          "final": 135000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1380000,
+          "final": 1242000
         }
       },
       "review_hint": "Positive<br>94% of the 36 user reviews for this game are positive.",
@@ -19237,7 +19662,7 @@
       "search_text": "mole mole pilot the mole, a monstrous post-war drilling machine built to descend deep below the slavic soil. fix failing systems, follow voices of the dead, and pray you can survive whatever is sharing your coffin. will the vessel or your mind break first? adventure indie simulation single-player steam achievements steam cloud family sharing english french german japanese polish portuguese-brazil russian schinese spanish-latin ukrainian positive positive<br>94% of the 36 user reviews for this game are positive.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 2474770,
@@ -20886,6 +21311,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 1949
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 18700,
+          "final": 12155
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 48800,
+          "final": 31700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10800,
+          "final": 7020
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 340000,
+          "final": 221000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3200000,
+          "final": 2080000
         }
       },
       "review_hint": "Mixed<br>64% of the 5,335 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -20900,7 +21350,7 @@
       "search_text": "no more room in hell 2 no more room in hell 2 no more room in hell 2 is an intense 8 player zombie shooter. overcome the endless undead. avoid infection. survive hell together. action indie early access multi-player co-op online co-op cross-platform multiplayer english french italian german spanish-spain portuguese-brazil russian schinese mixed mixed<br>64% of the 5,335 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 1371980,
@@ -24583,6 +25033,31 @@
           "currency": "USD",
           "original": 5999,
           "final": 4199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 46800,
+          "final": 32760
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 179000,
+          "final": 125300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 29800,
+          "final": 20860
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 759000,
+          "final": 531300
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 6480000,
+          "final": 4536000
         }
       },
       "review_hint": "Mixed<br>64% of the 460 user reviews for this game are positive.",
@@ -24597,7 +25072,7 @@
       "search_text": "ride 6 ride 6 live the thrill of asphalt and dirt with ride 6: affirm your biker identity by joining ride fest, race with 250+ bikes from different categories and prove you're the best by challenging real motorcycling legends. racing simulation sports single-player multi-player pvp online pvp cross-platform multiplayer steam achievements full controller support steam trading cards camera comfort custom volume controls adjustable difficulty playable without timed input stereo sound subtitle options surround sound steam cloud family sharing english french italian german spanish-spain japanese portuguese-brazil schinese spanish-latin tchinese mixed mixed<br>64% of the 460 user reviews for this game are positive.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 2073250,
@@ -25949,6 +26424,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 23300,
+          "final": 5825
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 89500,
+          "final": 22300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9500,
+          "final": 2375
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 298000,
+          "final": 74500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3200000,
+          "final": 800000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>95% of the 78,343 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -25963,7 +26463,7 @@
       "search_text": "sid meier's civilization® v sid meier's civilization® v create, discover, and download new player-created maps, scenarios, interfaces, and more! strategy single-player multi-player steam achievements steam trading cards steam cloud remote play on tablet family sharing english french german italian spanish-spain polish japanese korean russian tchinese overwhelmingly positive overwhelmingly positive<br>95% of the 78,343 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 947510,
@@ -26033,6 +26533,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 1999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 31000,
+          "final": 15500
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 126000,
+          "final": 63000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 14800,
+          "final": 7400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 440000,
+          "final": 220000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4500000,
+          "final": 2250000
         }
       },
       "review_hint": "Mixed<br>65% of the 1,213 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -26047,7 +26572,7 @@
       "search_text": "sid meier's civilization® vi: gathering storm sid meier's civilization® vi: gathering storm civilization vi: gathering storm introduces an active planet where geology and climatology present unique new challenges. the second expansion to civilization vi adds new environmental effects, engineering projects, power and consumable resources, as well as the world congress and a new diplomatic victory. strategy single-player multi-player pvp online pvp lan pvp shared/split screen pvp shared/split screen cross-platform multiplayer downloadable content steam achievements steam trading cards steam workshop steam turn notifications remote play together family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese tchinese mixed mixed<br>65% of the 1,213 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 289070,
@@ -26118,6 +26643,31 @@
           "currency": "USD",
           "original": 5999,
           "final": 599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 46500,
+          "final": 4650
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 179000,
+          "final": 17900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 22000,
+          "final": 2200
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 700000,
+          "final": 70000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 6500000,
+          "final": 650000
         }
       },
       "review_hint": "Very Positive<br>84% of the 106,446 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -26132,7 +26682,7 @@
       "search_text": "sid meier’s civilization® vi sid meier’s civilization® vi expand your empire, advance your culture and go head-to-head against history’s greatest leaders. will your civilization stand the test of time? strategy single-player multi-player pvp online pvp lan pvp shared/split screen pvp shared/split screen cross-platform multiplayer steam achievements steam trading cards steam workshop in-app purchases steam turn notifications remote play on tablet remote play together family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese tchinese very positive very positive<br>84% of the 106,446 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 2138710,
@@ -26929,6 +27479,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1874
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 11700
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 30600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9200,
+          "final": 6900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 210000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 2025000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>95% of the 5,799 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -26943,7 +27518,7 @@
       "search_text": "songs of syx songs of syx songs of syx is a fantasy city-builder with vast battles simulating thousands of citizens and soldiers. start off as a small village and build, scheme, and fight your way towards a mighty empire. the mechanics are deep and true to life, where tiny events can spiral into the collapse of kingdoms. casual indie simulation strategy early access single-player steam achievements steam workshop steam cloud includes level editor family sharing english schinese overwhelmingly positive overwhelmingly positive<br>95% of the 5,799 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 1934570,
@@ -27430,6 +28005,31 @@
           "currency": "USD",
           "original": 4999,
           "final": 3249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 39900,
+          "final": 25935
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 149900,
+          "final": 97400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 19800,
+          "final": 12870
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 690000,
+          "final": 448500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 5600000,
+          "final": 3640000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>96% of the 22,719 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -27444,7 +28044,7 @@
       "search_text": "split fiction split fiction embrace mind-blowing moments as you’re pulled deep into the many worlds of split fiction, a boundary-pushing co-op adventure. action adventure multi-player co-op online co-op shared/split screen co-op shared/split screen cross-platform multiplayer steam achievements full controller support steam trading cards captions available camera comfort color alternatives stereo sound surround sound steam cloud remote play together hdr available family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil schinese tchinese overwhelmingly positive overwhelmingly positive<br>96% of the 22,719 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 495420,
@@ -27703,6 +28303,31 @@
           "currency": "USD",
           "original": 4999,
           "final": 1499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 31800,
+          "final": 9540
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 126800,
+          "final": 38000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 19800,
+          "final": 5940
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 699000,
+          "final": 209700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 5500000,
+          "final": 1650000
         }
       },
       "review_hint": "Very Positive<br>86% of the 75,767 user reviews for this game are positive.<br><br>This product has experienced one or more periods of off-topic review activity.  Based on your preferences, the reviews within these periods have been excluded from this product's Review Score.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -27717,7 +28342,7 @@
       "search_text": "stellaris stellaris explore a galaxy full of wonders in this sci-fi grand strategy game from paradox development studios. interact with diverse alien races, discover strange new worlds with unexpected events and expand the reach of your empire. each new adventure holds almost limitless possibilities. simulation strategy single-player multi-player cross-platform multiplayer steam achievements steam trading cards steam workshop steam cloud family sharing english french german spanish-spain polish portuguese-brazil russian schinese japanese korean very positive very positive<br>86% of the 75,767 user reviews for this game are positive.<br><br>this product has experienced one or more periods of off-topic review activity.  based on your preferences, the reviews within these periods have been excluded from this product's review score.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 716670,
@@ -27779,6 +28404,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 13800,
+          "final": 6900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 50800,
+          "final": 25400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8800,
+          "final": 4400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 269000,
+          "final": 134500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2200000,
+          "final": 1100000
         }
       },
       "review_hint": "Mixed<br>64% of the 1,484 user reviews for this game are positive.",
@@ -27793,7 +28443,7 @@
       "search_text": "stellaris: apocalypse stellaris: apocalypse stellaris: apocalypse is a full expansion which redefines stellar warfare for all players with a host of new offensive and defensive options. destroy entire worlds with terrifying new planet-killer weapons, fight against (or alongside) ruthless space pirates, and maybe discover a few non-violent game features as well. simulation strategy single-player multi-player cross-platform multiplayer downloadable content steam achievements steam workshop steam cloud family sharing english french german spanish-spain polish portuguese-brazil russian schinese japanese korean mixed mixed<br>64% of the 1,484 user reviews for this game are positive.",
       "first_seen": "2026-06-16T04:45:18+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 2534090,
@@ -27856,6 +28506,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 13800,
+          "final": 6900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 50800,
+          "final": 25400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8800,
+          "final": 4400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 269000,
+          "final": 134500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2200000,
+          "final": 1100000
         }
       },
       "review_hint": "Mostly Negative<br>29% of the 1,070 user reviews for this game are positive.",
@@ -27870,7 +28545,7 @@
       "search_text": "stellaris: astral planes stellaris: astral planes new core systems and technologies. new planes to explore. new branching narratives. simulation strategy single-player multi-player cross-platform multiplayer downloadable content steam achievements steam trading cards steam workshop steam cloud family sharing english french german spanish-spain polish portuguese-brazil russian schinese japanese korean mostly negative mostly negative<br>29% of the 1,070 user reviews for this game are positive.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 3417840,
@@ -27933,6 +28608,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15800,
+          "final": 12640
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 63800,
+          "final": 51000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10800,
+          "final": 8640
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 339000,
+          "final": 271200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2800000,
+          "final": 2240000
         }
       },
       "review_hint": "Mixed<br>42% of the 949 user reviews for this game are positive.",
@@ -27947,7 +28647,7 @@
       "search_text": "stellaris: biogenesis stellaris: biogenesis take command of the forces of life itself in stellaris: biogenesis. engineer living ships, terraform entire ecosystems, and wield advanced genetic tools to shape the destiny of your empire. will you create a utopia of adaptation and growth or weaponize biology to dominate the stars? simulation strategy single-player multi-player cross-platform multiplayer downloadable content steam achievements steam trading cards steam workshop steam cloud family sharing english french german spanish-spain polish portuguese-brazil russian schinese japanese korean mixed mixed<br>42% of the 949 user reviews for this game are positive.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 2863060,
@@ -28010,6 +28710,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 649
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8400,
+          "final": 4200
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 16400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6200,
+          "final": 3100
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 179000,
+          "final": 89500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1500000,
+          "final": 750000
         }
       },
       "review_hint": "Mostly Negative<br>23% of the 642 user reviews for this game are positive.",
@@ -28024,7 +28749,7 @@
       "search_text": "stellaris: cosmic storms stellaris: cosmic storms a new phenomenon has been observed around the galaxy - storms are sweeping through system. prepare your empire and brace to face this new upcoming threat, and leverage possibilities that open when your opponents are weakened by it. simulation strategy single-player multi-player cross-platform multiplayer downloadable content steam achievements steam trading cards steam workshop steam cloud family sharing english french german spanish-spain polish portuguese-brazil russian schinese japanese korean mostly negative mostly negative<br>23% of the 642 user reviews for this game are positive.",
       "first_seen": "2026-06-16T04:45:18+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 1140001,
@@ -28087,6 +28812,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 13800,
+          "final": 6900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 50800,
+          "final": 25400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8800,
+          "final": 4400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 269000,
+          "final": 134500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2200000,
+          "final": 1100000
         }
       },
       "review_hint": "Mixed<br>69% of the 968 user reviews for this game are positive.",
@@ -28101,7 +28851,7 @@
       "search_text": "stellaris: federations stellaris: federations the supreme art of war is to subdue the enemy without fighting. with the stellaris: federations expansion, players can extend their diplomatic dominion over the galaxy like never before. simulation strategy single-player multi-player cross-platform multiplayer downloadable content steam achievements steam trading cards steam workshop steam cloud family sharing english french german spanish-spain polish portuguese-brazil russian schinese japanese korean mostly positive mixed<br>69% of the 968 user reviews for this game are positive.",
       "first_seen": "2026-06-16T04:45:18+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 2277860,
@@ -28164,6 +28914,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9800,
+          "final": 4900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 38800,
+          "final": 19400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6800,
+          "final": 3400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 199000,
+          "final": 99500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1700000,
+          "final": 850000
         }
       },
       "review_hint": "Mixed<br>42% of the 498 user reviews for this game are positive.",
@@ -28178,7 +28953,7 @@
       "search_text": "stellaris: first contact story pack stellaris: first contact story pack features of first contact include*: new origins broken shackles payback fear of the dark new pre-ftl interaction options that allow for a broader range of interactions with pre-ftl civilizations cloaking technology nobody saw this feature coming! *some features may require content sold separately simulation strategy single-player multi-player cross-platform multiplayer downloadable content steam achievements steam trading cards steam workshop steam cloud family sharing english french german spanish-spain polish portuguese-brazil russian schinese japanese korean mixed mixed<br>42% of the 498 user reviews for this game are positive.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 2380030,
@@ -28241,6 +29016,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9800,
+          "final": 4900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 38800,
+          "final": 19400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6800,
+          "final": 3400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 199000,
+          "final": 99500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1700000,
+          "final": 850000
         }
       },
       "review_hint": "Mixed<br>58% of the 932 user reviews for this game are positive.",
@@ -28255,7 +29055,7 @@
       "search_text": "stellaris: galactic paragons stellaris: galactic paragons add galactic paragons to your empires and experience a new level of character and story as great leaders follow your lead to the stars. with exclusive additions to the all-new council mechanic, leaders who you can shape to amplify the vision for your empire, new civics and more. simulation strategy single-player multi-player cross-platform multiplayer downloadable content steam achievements steam trading cards steam workshop steam cloud family sharing english french german spanish-spain polish portuguese-brazil russian schinese japanese korean mixed mixed<br>58% of the 932 user reviews for this game are positive.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 2863080,
@@ -28318,6 +29118,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9800,
+          "final": 4900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 38800,
+          "final": 19400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6800,
+          "final": 3400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 199000,
+          "final": 99500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1700000,
+          "final": 850000
         }
       },
       "review_hint": "Mixed<br>64% of the 277 user reviews for this game are positive.",
@@ -28332,7 +29157,7 @@
       "search_text": "stellaris: grand archive story pack stellaris: grand archive story pack in the grand archive story pack, uncover and showcase the rarest treasures across the cosmos—both living and inanimate. simulation strategy single-player multi-player cross-platform multiplayer downloadable content steam achievements steam trading cards steam workshop steam cloud family sharing english french german spanish-spain polish portuguese-brazil russian schinese japanese korean mixed mixed<br>64% of the 277 user reviews for this game are positive.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 3283220,
@@ -28395,6 +29220,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 1039
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8400,
+          "final": 6720
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 26200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6200,
+          "final": 4960
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 179000,
+          "final": 143200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1500000,
+          "final": 1200000
         }
       },
       "review_hint": "Mixed<br>41% of the 218 user reviews for this game are positive.",
@@ -28409,7 +29259,7 @@
       "search_text": "stellaris: infernals species pack stellaris: infernals species pack forge your destiny in the stellaris: infernals species pack. adapted to relentless heat and volatile landscapes, you wield the power of extreme environments to reshape the galaxy. will your empire thrive in the heat, or be consumed by the very forces it seeks to command? simulation strategy single-player multi-player cross-platform multiplayer downloadable content steam achievements steam trading cards steam workshop steam cloud family sharing english french german spanish-spain polish portuguese-brazil russian schinese japanese korean mostly negative mixed<br>41% of the 218 user reviews for this game are positive.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 944290,
@@ -28472,6 +29322,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 13800,
+          "final": 6900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 50800,
+          "final": 25400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8800,
+          "final": 4400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 269000,
+          "final": 134500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2200000,
+          "final": 1100000
         }
       },
       "review_hint": "Mixed<br>56% of the 1,145 user reviews for this game are positive.",
@@ -28486,7 +29361,7 @@
       "search_text": "stellaris: megacorp stellaris: megacorp stellaris: megacorp is the latest full expansion for paradox development studio’s iconic sci-fi grand strategy game, which has players ushering in an era of prosperity and profit on a galactic scale. in this economy-focused expansion, players can become the ceo of a powerful corporate empire to expand operations across the stars. simulation strategy single-player multi-player cross-platform multiplayer downloadable content steam achievements steam trading cards steam workshop steam cloud family sharing english french german spanish-spain polish portuguese-brazil russian schinese japanese korean mixed mixed<br>56% of the 1,145 user reviews for this game are positive.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 1522090,
@@ -28549,6 +29424,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 13800,
+          "final": 6900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 50800,
+          "final": 25400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8800,
+          "final": 4400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 269000,
+          "final": 134500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2200000,
+          "final": 1100000
         }
       },
       "review_hint": "Mixed<br>42% of the 1,545 user reviews for this game are positive.",
@@ -28563,7 +29463,7 @@
       "search_text": "stellaris: nemesis stellaris: nemesis nemesis is an expansion to stellaris in which you will be able to determine the fate of a destabilizing galaxy. adding espionage tools, a path to power as the galactic custodian - or the menace option to become the crisis - nemesis gives you the most powerful tools ever available in stellaris. simulation strategy single-player multi-player cross-platform multiplayer downloadable content steam achievements steam trading cards steam workshop steam cloud family sharing english french german spanish-spain polish portuguese-brazil russian schinese japanese korean mixed mixed<br>42% of the 1,545 user reviews for this game are positive.",
       "first_seen": "2026-06-16T04:45:18+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 1889490,
@@ -28626,6 +29526,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 13800,
+          "final": 6900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 50800,
+          "final": 25400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8800,
+          "final": 4400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 269000,
+          "final": 134500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2200000,
+          "final": 1100000
         }
       },
       "review_hint": "Mixed<br>50% of the 1,232 user reviews for this game are positive.",
@@ -28640,7 +29565,7 @@
       "search_text": "stellaris: overlord stellaris: overlord realize your grand design overlord, a new full expansion for stellaris, grants access to new features designed to unlock the next level of your empire. new mechanics to specialize your vassals’ roles within your empire and new magnificent megastructures to project your power further, faster. simulation strategy single-player multi-player cross-platform multiplayer downloadable content steam achievements steam trading cards steam workshop steam cloud family sharing english french german spanish-spain polish portuguese-brazil russian schinese japanese korean mixed mixed<br>50% of the 1,232 user reviews for this game are positive.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 3417850,
@@ -28703,6 +29628,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 13800,
+          "final": 11040
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 50800,
+          "final": 40600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8800,
+          "final": 7040
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 269000,
+          "final": 215200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2200000,
+          "final": 1760000
         }
       },
       "review_hint": "Mixed<br>41% of the 325 user reviews for this game are positive.",
@@ -28717,7 +29667,7 @@
       "search_text": "stellaris: shadows of the shroud stellaris: shadows of the shroud the psionic plane holds untold power—but at what cost? shadows of the shroud is a complete overhaul of the psionic ascension path, introducing new moral dilemmas, patron allegiances, and the ever-present temptation of ultimate destruction. simulation strategy single-player multi-player cross-platform multiplayer downloadable content steam achievements steam trading cards steam workshop steam cloud family sharing english french german spanish-spain polish portuguese-brazil russian schinese japanese korean mostly negative mixed<br>41% of the 325 user reviews for this game are positive.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 2840100,
@@ -28780,6 +29730,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15800,
+          "final": 7900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 63800,
+          "final": 31900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10800,
+          "final": 5400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 339000,
+          "final": 169500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2800000,
+          "final": 1400000
         }
       },
       "review_hint": "Mostly Positive<br>76% of the 833 user reviews for this game are positive.",
@@ -28794,7 +29769,7 @@
       "search_text": "stellaris: the machine age stellaris: the machine age it is an age of technological glory, rapid social change, and unbridled ambition… but in the depths of space, a danger unlike any before encountered is about to emerge, a looming threat that will throw the very meaning of life into question.welcome to the machine age! simulation strategy single-player multi-player cross-platform multiplayer downloadable content steam achievements steam trading cards steam workshop steam cloud family sharing english french german spanish-spain polish portuguese-brazil russian schinese japanese korean mostly positive mostly positive<br>76% of the 833 user reviews for this game are positive.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 625960,
@@ -28861,6 +29836,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1874
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15900,
+          "final": 11925
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 39900,
+          "final": 29900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8900,
+          "final": 6675
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 249900,
+          "final": 187400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2400000,
+          "final": 1800000
         }
       },
       "review_hint": "Mostly Positive<br>74% of the 11,269 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -28875,7 +29875,7 @@
       "search_text": "stoneshard stoneshard stoneshard is a hardcore turn-based rpg about the harsh life of a medieval mercenary: travel with your own caravan, descend into procedurally generated dungeons, learn new skills, survive hunger and injuries - and remember, every mistake can mean death and loss of progress. adventure indie rpg strategy early access single-player steam achievements captions available steam cloud remote play on phone remote play on tablet family sharing english russian german schinese polish italian spanish-latin turkish portuguese-brazil japanese french korean spanish-spain portuguese---portugal mostly positive mostly positive<br>74% of the 11,269 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 1358700,
@@ -29762,6 +30762,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 779
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8300,
+          "final": 4980
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 23800,
+          "final": 14200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5200,
+          "final": 3120
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 150000,
+          "final": 90000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1450000,
+          "final": 870000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>97% of the 32,502 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -29776,7 +30801,7 @@
       "search_text": "tcg card shop simulator tcg card shop simulator open your own local game store. stock shelves with the latest booster packs, or crack them and collect the cards for yourself. set your own prices, hire staff, host events, and expand your card shop. simulation early access single-player steam achievements full controller support steam trading cards camera comfort custom volume controls playable without timed input save anytime steam cloud family sharing english french italian german spanish-spain japanese korean schinese tchinese portuguese-brazil overwhelmingly positive overwhelmingly positive<br>97% of the 32,502 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 1167630,
@@ -31678,6 +32703,31 @@
           "currency": "USD",
           "original": 699,
           "final": 468
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3900,
+          "final": 2613
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 9800,
+          "final": 6500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2500,
+          "final": 1675
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 71000,
+          "final": 47500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 570000,
+          "final": 382000
         }
       },
       "review_hint": "Very Positive<br>91% of the 596 user reviews for this game are positive.",
@@ -31692,7 +32742,7 @@
       "search_text": "tiny terraces tiny terraces a cozy idle farming game, watch tiny guys do tasks around the terrace, expand, progress, and decorate your tiny terrace. casual indie early access single-player steam achievements steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese---portugal russian schinese spanish-latin turkish ukrainian portuguese-brazil hungarian very positive very positive<br>91% of the 596 user reviews for this game are positive.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 585420,
@@ -32589,6 +33639,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 8125
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 21300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6900,
+          "final": 4485
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 200000,
+          "final": 130000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1950000,
+          "final": 1267000
         }
       },
       "review_hint": "Very Positive<br>94% of the 1,773 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -32603,7 +33678,7 @@
       "search_text": "voin voin crafted by a solo developer, voin is a first-person hack-and-slash. cleave through hordes of enemies in fast-paced combat. explore dark fantasy realms filled with secrets and dangers. discover powerful gear and weapons, and face menacing bosses in your quest to cleanse a broken world. action adventure indie rpg early access single-player partial controller support steam cloud family sharing english german portuguese-brazil russian schinese spanish-spain french japanese korean polish ukrainian very positive very positive<br>94% of the 1,773 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 2272360,
@@ -32991,6 +34066,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11900,
+          "final": 4760
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 39900,
+          "final": 15900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7000,
+          "final": 2800
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 220000,
+          "final": 88000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 860000
         }
       },
       "review_hint": "Very Positive<br>94% of the 6,374 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -33005,7 +34105,7 @@
       "search_text": "wingspan wingspan wingspan is a relaxing, award-winning strategy card game about birds for 1 to 5 players. each bird you play extends a chain of powerful combinations in one of your three habitats. your goal is to discover and attract the best birds to your network of wildlife preserves. indie strategy single-player multi-player pvp online pvp shared/split screen pvp co-op online co-op shared/split screen co-op cross-platform multiplayer steam achievements steam trading cards partial controller support steam cloud steam leaderboards steam turn notifications remote play together family sharing english schinese french italian german spanish-spain japanese korean polish portuguese-brazil russian tchinese ukrainian very positive very positive<br>94% of the 6,374 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 3008740,
@@ -33073,6 +34173,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 8750
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 22900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 5320
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 161000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 1505000
         }
       },
       "review_hint": "Very Positive<br>91% of the 1,337 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -33087,7 +34212,7 @@
       "search_text": "winter burrow winter burrow winter burrow is a cozy woodland survival game about a mouse returning home to restore their childhood burrow. explore, gather resources, craft, knit warm sweaters, bake pies and meet the locals. adventure casual indie simulation single-player steam achievements full controller support color alternatives custom volume controls keyboard only option playable without timed input save anytime steam cloud family sharing english french italian german spanish-spain danish japanese korean polish russian schinese tchinese turkish portuguese-brazil very positive very positive<br>91% of the 1,337 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 2679100,
@@ -37585,6 +38710,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 1999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 30800,
+          "final": 15400
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 95000,
+          "final": 47500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 14300,
+          "final": 7150
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 440000,
+          "final": 220000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4900000,
+          "final": 2450000
         }
       },
       "review_hint": "Very Positive<br>80% of the 167 user reviews for this game are positive.",
@@ -37599,7 +38749,7 @@
       "search_text": "agatha christie - death on the nile agatha christie - death on the nile death on the nile is an adventure-detective game, offering a fresh twist on agatha christie’s famous story. set in the lively 1970s, play as hercule poirot and detective jane royce as they solve two connected mysteries. dive into a journey filled with intrigue, deception, and unexpected revelations. adventure single-player steam achievements full controller support steam cloud family sharing english french italian german spanish-spain schinese very positive very positive<br>80% of the 167 user reviews for this game are positive.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 3793540,
@@ -155910,6 +157060,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 1499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 19800,
+          "final": 9900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 65000,
+          "final": 32500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10900,
+          "final": 5450
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 330000,
+          "final": 165000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3293000,
+          "final": 1647000
         }
       },
       "review_hint": "Mostly Positive<br>70% of the 649 user reviews for this game are positive.",
@@ -155924,7 +157099,7 @@
       "search_text": "syberia - remastered syberia - remastered rediscover the clockpunk universe of benoît sokal in this fully remastered version of the first syberia game. join kate walker and oscar, a strange and charming automaton, in pursuit of the brilliant inventor hans voralberg, and embark on an adventure more immersive and poetic than ever. adventure single-player steam achievements partial controller support steam cloud family sharing english french italian german spanish-spain polish russian czech mixed mostly positive<br>70% of the 649 user reviews for this game are positive.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 1471410,
@@ -161164,6 +162339,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 2099
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 18700,
+          "final": 13090
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 48800,
+          "final": 34100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10800,
+          "final": 7560
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 340000,
+          "final": 238000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3200000,
+          "final": 2240000
         }
       },
       "review_hint": "Mostly Positive<br>74% of the 1,677 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -161178,7 +162378,7 @@
       "search_text": "the crust the crust automate a lunar base as you become the savior of humanity exploring the future on the moon. mine, craft, research, and trade resources with earth in this gripping narrative basebuilder. simulation strategy early access single-player steam achievements steam cloud family sharing english russian french german spanish-spain schinese korean portuguese-brazil polish italian spanish-latin japanese mostly positive mostly positive<br>74% of the 1,677 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-15T21:08:17+00:00",
       "last_seen": "2026-06-16T04:45:18+00:00",
-      "updated_at": "2026-06-16T04:45:18+00:00"
+      "updated_at": "2026-06-16T08:41:16+00:00"
     },
     {
       "app_id": 1281590,
