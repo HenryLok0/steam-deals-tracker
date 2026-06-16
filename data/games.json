@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T17:01:15+00:00",
+  "updated_at": "2026-06-16T18:51:08+00:00",
   "total_count": 1926,
   "active_count": 352,
   "games": [
@@ -375,6 +375,31 @@
           "currency": "USD",
           "original": 4999,
           "final": 2499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 31800,
+          "final": 15900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 139800,
+          "final": 69900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 19800,
+          "final": 9900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 699000,
+          "final": 349500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 5500000,
+          "final": 2750000
         }
       },
       "review_hint": "Very Positive<br>82% of the 10,692 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -389,7 +414,7 @@
       "search_text": "age of wonders 4 age of wonders 4 rule a fantasy realm of your own design! explore new magical realms in age of wonders’ signature blend of 4x strategy and turn-based tactical combat. control a faction that grows and changes as you expand your empire with each turn! rpg strategy single-player multi-player pvp online pvp co-op online co-op cross-platform multiplayer steam achievements steam trading cards steam workshop camera comfort chat speech-to-text chat text-to-speech custom volume controls adjustable difficulty playable without timed input save anytime stereo sound surround sound partial controller support steam cloud remote play together family sharing english french german spanish-spain japanese korean polish russian schinese very positive very positive<br>82% of the 10,692 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-16T17:01:15+00:00",
       "last_seen": "2026-06-16T17:01:15+00:00",
-      "updated_at": "2026-06-16T17:01:15+00:00"
+      "updated_at": "2026-06-16T18:51:08+00:00"
     },
     {
       "app_id": 2407270,
@@ -1466,6 +1491,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 874
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 5460
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 14200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9200,
+          "final": 3220
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 320000,
+          "final": 112000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3250000,
+          "final": 1137000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>95% of the 1,491 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -1480,7 +1530,7 @@
       "search_text": "bang-on balls: chronicles bang-on balls: chronicles a quirky, absolutely content-packed, destructible open-world sandbox adventure with combat, platforming, character customization, and collect-a-thon scavenger hunt experience. play solo, 2-player split screen, or online co-op for up to 4 players. no paid cosmetic dlc nonsense. action adventure casual indie single-player multi-player co-op online co-op shared/split screen co-op shared/split screen full controller support steam cloud remote play together family sharing english french german polish russian portuguese-brazil spanish-spain schinese japanese korean turkish very positive overwhelmingly positive<br>95% of the 1,491 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-16T17:01:15+00:00",
       "last_seen": "2026-06-16T17:01:15+00:00",
-      "updated_at": "2026-06-16T17:01:15+00:00"
+      "updated_at": "2026-06-16T18:51:08+00:00"
     },
     {
       "app_id": 602960,
@@ -2576,6 +2626,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 649
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11000,
+          "final": 2860
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 23000,
+          "final": 5900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8500,
+          "final": 2210
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 240000,
+          "final": 62400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2055000,
+          "final": 534000
         }
       },
       "review_hint": "Very Positive<br>94% of the 3,876 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -2590,7 +2665,7 @@
       "search_text": "brigador: up-armored edition brigador: up-armored edition pilot a mech to hunt down and destroy the oppressive government of a cyberpunk autocracy. in this fast-paced, top-down shooter, use overwhelming firepower to destroy columns of tanks and level buildings. unlock up to 56 unique vehicles and 40 weapons. action indie single-player steam achievements full controller support steam trading cards color alternatives custom volume controls adjustable difficulty playable without timed input stereo sound steam cloud includes level editor family sharing english french german spanish-spain japanese portuguese-brazil russian italian schinese tchinese polish korean very positive very positive<br>94% of the 3,876 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-16T17:01:15+00:00",
       "last_seen": "2026-06-16T17:01:15+00:00",
-      "updated_at": "2026-06-16T17:01:15+00:00"
+      "updated_at": "2026-06-16T18:51:08+00:00"
     },
     {
       "app_id": 1942280,
@@ -3785,6 +3860,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 19400,
+          "final": 1940
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 79100,
+          "final": 7900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 17300,
+          "final": 1730
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 285200,
+          "final": 28500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2900000,
+          "final": 290000
         }
       },
       "review_hint": "Mostly Positive<br>73% of the 6,451 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -3799,7 +3899,7 @@
       "search_text": "city car driving city car driving city car driving – realistic car driving simulator, which will help you master the basic skills of the car driving in various traffic conditions, with plunging into the environment most closely resembling the real one. indie racing simulation single-player steam achievements vr supported steam trading cards steam workshop partial controller support steam cloud family sharing english french italian german spanish-spain schinese portuguese---portugal turkish czech japanese russian ukrainian danish finnish dutch greek polish mostly positive mostly positive<br>73% of the 6,451 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-16T17:01:15+00:00",
       "last_seen": "2026-06-16T17:01:15+00:00",
-      "updated_at": "2026-06-16T17:01:15+00:00"
+      "updated_at": "2026-06-16T18:51:08+00:00"
     },
     {
       "app_id": 1903340,
@@ -4184,6 +4284,31 @@
           "currency": "USD",
           "original": 3499,
           "final": 3149
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 22900,
+          "final": 20610
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 89900,
+          "final": 80900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 12900,
+          "final": 11610
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 490000,
+          "final": 441000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4450000,
+          "final": 4005000
         }
       },
       "review_hint": "",
@@ -4198,7 +4323,7 @@
       "search_text": "copa city copa city an economic strategy where top football clubs entrust you with organizing their matches. build in the city, manage its structures and stadium, provide entertainment, food, and security for fans. your success is measured by match readiness. simulation sports strategy single-player steam achievements full controller support custom volume controls playable without timed input save anytime stereo sound subtitle options stats steam leaderboards family sharing english french italian german spanish-spain japanese polish ukrainian korean portuguese-brazil turkish russian 2 user reviews",
       "first_seen": "2026-06-16T17:01:15+00:00",
       "last_seen": "2026-06-16T17:01:15+00:00",
-      "updated_at": "2026-06-16T17:01:15+00:00"
+      "updated_at": "2026-06-16T18:51:08+00:00"
     },
     {
       "app_id": 1608070,
@@ -5904,6 +6029,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 3800
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37900,
+          "final": 15100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9375,
+          "final": 3750
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 198000,
+          "final": 79200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 860000
         }
       },
       "review_hint": "Mostly Positive<br>79% of the 257,121 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -5918,7 +6068,7 @@
       "search_text": "dead by daylight dead by daylight 10 years of horror. 10 years of jump scares and close calls. 10 years of brutal sacrifices and thrilling escapes. trapped forever in a realm of eldritch evil where even death is not an escape, four determined survivors face a bloodthirsty killer in a vicious game of nerve and wits. action multi-player pvp online pvp co-op online co-op cross-platform multiplayer steam achievements full controller support steam trading cards color alternatives custom volume controls stereo sound subtitle options surround sound steam cloud remote play on phone remote play on tablet remote play on tv family sharing english french italian german spanish-spain russian schinese portuguese-brazil thai tchinese japanese korean polish spanish-latin turkish mostly positive mostly positive<br>79% of the 257,121 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-16T17:01:15+00:00",
       "last_seen": "2026-06-16T17:01:15+00:00",
-      "updated_at": "2026-06-16T17:01:15+00:00"
+      "updated_at": "2026-06-16T18:51:08+00:00"
     },
     {
       "app_id": 1634040,
@@ -5989,6 +6139,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 839
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6200,
+          "final": 4340
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 22600,
+          "final": 15800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5623,
+          "final": 3936
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 122000,
+          "final": 85400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1250000,
+          "final": 875000
         }
       },
       "review_hint": "Very Positive<br>82% of the 1,576 user reviews for this game are positive.<br><br>This product has experienced one or more periods of off-topic review activity.  Based on your preferences, the reviews within these periods have been excluded from this product's Review Score.",
@@ -6003,7 +6178,7 @@
       "search_text": "dead by daylight - resident evil chapter dead by daylight - resident evil chapter resident evil is a new chapter for dead by daylight. it includes a killer, nemesis; two survivors, leon s. kennedy and jill valentine; and a new map. purchasing the add-on unlocks the new killer, both survivors, and an exclusive universal charm. action multi-player pvp online pvp co-op online co-op cross-platform multiplayer downloadable content steam achievements full controller support steam trading cards steam cloud remote play on phone remote play on tablet remote play on tv family sharing english french italian german spanish-spain russian schinese portuguese-brazil thai tchinese japanese korean polish spanish-latin turkish very positive very positive<br>82% of the 1,576 user reviews for this game are positive.<br><br>this product has experienced one or more periods of off-topic review activity.  based on your preferences, the reviews within these periods have been excluded from this product's review score.",
       "first_seen": "2026-06-16T17:01:15+00:00",
       "last_seen": "2026-06-16T17:01:15+00:00",
-      "updated_at": "2026-06-16T17:01:15+00:00"
+      "updated_at": "2026-06-16T18:51:08+00:00"
     },
     {
       "app_id": 2102730,
@@ -6074,6 +6249,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 839
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6200,
+          "final": 4340
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 22600,
+          "final": 15800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5623,
+          "final": 3936
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 122000,
+          "final": 85400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1250000,
+          "final": 875000
         }
       },
       "review_hint": "Very Positive<br>84% of the 910 user reviews for this game are positive.<br><br>This product has experienced one or more periods of off-topic review activity.  Based on your preferences, the reviews within these periods have been excluded from this product's Review Score.",
@@ -6088,7 +6288,7 @@
       "search_text": "dead by daylight - resident evil: project w chapter dead by daylight - resident evil: project w chapter only those deemed worthy of uroboros can achieve true potential. dead by daylight: resident evil: project w features a new killer – albert wesker, the mastermind – and new survivors ada wong and rebecca chambers. purchasing this add-on unlocks an exclusive charm: green vial. action multi-player pvp online pvp co-op online co-op cross-platform multiplayer downloadable content steam achievements full controller support steam trading cards steam cloud remote play on phone remote play on tablet remote play on tv family sharing english french italian german spanish-spain russian schinese portuguese-brazil thai tchinese japanese korean polish spanish-latin turkish very positive very positive<br>84% of the 910 user reviews for this game are positive.<br><br>this product has experienced one or more periods of off-topic review activity.  based on your preferences, the reviews within these periods have been excluded from this product's review score.",
       "first_seen": "2026-06-16T17:01:15+00:00",
       "last_seen": "2026-06-16T17:01:15+00:00",
-      "updated_at": "2026-06-16T17:01:15+00:00"
+      "updated_at": "2026-06-16T18:51:08+00:00"
     },
     {
       "app_id": 3884020,
@@ -6162,6 +6362,31 @@
           "currency": "USD",
           "original": 799,
           "final": 559
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4825,
+          "final": 3377
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 16500,
+          "final": 11500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3278,
+          "final": 2294
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 88500,
+          "final": 61900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 850000,
+          "final": 595000
         }
       },
       "review_hint": "Mixed<br>62% of the 834 user reviews for this game are positive.",
@@ -6176,7 +6401,7 @@
       "search_text": "dead by daylight: the walking dead dead by daylight: the walking dead dead by daylight’s the walking dead includes 2 new survivors, rick grimes and michonne. purchasing this add-on unlocks an exclusive sheriff's hat badge and tank in ruins banner. action multi-player pvp online pvp co-op online co-op cross-platform multiplayer downloadable content steam achievements full controller support steam trading cards color alternatives stereo sound subtitle options steam cloud remote play on phone remote play on tablet remote play on tv family sharing english french italian german spanish-spain russian schinese portuguese-brazil thai tchinese japanese korean polish spanish-latin turkish mixed mixed<br>62% of the 834 user reviews for this game are positive.",
       "first_seen": "2026-06-16T17:01:15+00:00",
       "last_seen": "2026-06-16T17:01:15+00:00",
-      "updated_at": "2026-06-16T17:01:15+00:00"
+      "updated_at": "2026-06-16T18:51:08+00:00"
     },
     {
       "app_id": 588650,
@@ -12455,6 +12680,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9900,
+          "final": 4950
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 39800,
+          "final": 19900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4800,
+          "final": 2400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 148000,
+          "final": 74000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1600000,
+          "final": 800000
         }
       },
       "review_hint": "Very Positive<br>93% of the 8,712 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -12469,7 +12719,7 @@
       "search_text": "forts forts unleash your creativity and strategic prowess in forts, the exhilarating physics-based rts! design, construct, and customize imposing fortresses, bristling with devastating firepower, and blast your opponent’s buildings to rubble! action indie strategy single-player multi-player pvp online pvp lan pvp co-op online co-op lan co-op steam achievements steam trading cards captions available steam workshop steam cloud steam leaderboards includes level editor family sharing english french german spanish-spain russian italian japanese korean polish portuguese---portugal portuguese-brazil schinese turkish hungarian tchinese slovak ukrainian very positive very positive<br>93% of the 8,712 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-16T17:01:15+00:00",
       "last_seen": "2026-06-16T17:01:15+00:00",
-      "updated_at": "2026-06-16T17:01:15+00:00"
+      "updated_at": "2026-06-16T18:51:08+00:00"
     },
     {
       "app_id": 3977280,
@@ -12546,6 +12796,31 @@
           "currency": "USD",
           "original": 999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6100,
+          "final": 4880
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21600,
+          "final": 17200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 3360
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 135000,
+          "final": 108000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 840000
         }
       },
       "review_hint": "Positive<br>86% of the 23 user reviews for this game are positive.",
@@ -12560,7 +12835,7 @@
       "search_text": "forts - firebird forts - firebird from a humble firefighter to one of the eagle empire's most decorated commanders, follow lisa del fuego's journey as she overcomes tragedy, demons and electrifying adversaries to become the illustrious firebird in forts' third dlc! action indie strategy single-player multi-player pvp online pvp lan pvp co-op online co-op lan co-op downloadable content steam achievements steam trading cards captions available steam workshop steam cloud steam leaderboards includes level editor family sharing english french german spanish-spain russian italian japanese korean polish portuguese---portugal portuguese-brazil schinese turkish hungarian tchinese slovak ukrainian positive positive<br>86% of the 23 user reviews for this game are positive.",
       "first_seen": "2026-06-16T17:01:15+00:00",
       "last_seen": "2026-06-16T17:01:15+00:00",
-      "updated_at": "2026-06-16T17:01:15+00:00"
+      "updated_at": "2026-06-16T18:51:08+00:00"
     },
     {
       "app_id": 3989960,
@@ -13285,6 +13560,31 @@
           "currency": "USD",
           "original": 999,
           "final": 199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7800,
+          "final": 1560
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 28800,
+          "final": 5700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 840
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 139000,
+          "final": 27800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 220000
         }
       },
       "review_hint": "Very Positive<br>90% of the 30,109 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -13299,7 +13599,7 @@
       "search_text": "goat simulator goat simulator goat simulator is the latest in high-tech goat simulation technology. casual indie simulation single-player multi-player shared/split screen steam achievements full controller support steam trading cards steam workshop steam cloud steam leaderboards includes level editor remote play on tv remote play together family sharing english french italian german spanish-spain arabic japanese korean polish portuguese-brazil russian schinese tchinese turkish very positive very positive<br>90% of the 30,109 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-16T17:01:15+00:00",
       "last_seen": "2026-06-16T17:01:15+00:00",
-      "updated_at": "2026-06-16T17:01:15+00:00"
+      "updated_at": "2026-06-16T18:51:08+00:00"
     },
     {
       "app_id": 2748340,
@@ -16691,6 +16991,31 @@
           "currency": "USD",
           "original": 499,
           "final": 334
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3600,
+          "final": 2412
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 17500,
+          "final": 11700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2600,
+          "final": 1742
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 58000,
+          "final": 38800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 560000,
+          "final": 375000
         }
       },
       "review_hint": "Very Positive<br>84% of the 57 user reviews for this game are positive.",
@@ -16705,7 +17030,7 @@
       "search_text": "jurassic world evolution 3: badlands set jurassic world evolution 3: badlands set build your own jurassic world like never before. nurture generations of awe-inspiring dinosaurs with the series debut of juveniles, create and manage sprawling prehistoric parks around the globe, and let your imagination roar with powerful new creative options. simulation strategy single-player downloadable content full controller support family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil schinese spanish-latin tchinese positive very positive<br>84% of the 57 user reviews for this game are positive.",
       "first_seen": "2026-06-16T17:01:15+00:00",
       "last_seen": "2026-06-16T17:01:15+00:00",
-      "updated_at": "2026-06-16T17:01:15+00:00"
+      "updated_at": "2026-06-16T18:51:08+00:00"
     },
     {
       "app_id": 3651200,
@@ -19185,6 +19510,31 @@
           "currency": "USD",
           "original": 499,
           "final": 399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3899,
+          "final": 3119
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14000,
+          "final": 11200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2899,
+          "final": 2319
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 69900,
+          "final": 55900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 690000,
+          "final": 552000
         }
       },
       "review_hint": "Very Positive<br>82% of the 84 user reviews for this game are positive.",
@@ -19199,7 +19549,7 @@
       "search_text": "medieval dynasty - echoes of nature medieval dynasty - echoes of nature the echoes of nature dlc adds a range of outdoor decoration options, focused on natural elements and seasonal variation. it introduces new types of trees, shrubs, hedges, and stone features that can be placed in the environment. action adventure indie rpg simulation single-player multi-player co-op online co-op downloadable content steam achievements full controller support steam trading cards steam cloud family sharing english german spanish-spain polish french portuguese-brazil japanese portuguese---portugal russian czech turkish ukrainian italian schinese dutch swedish korean hungarian positive very positive<br>82% of the 84 user reviews for this game are positive.",
       "first_seen": "2026-06-16T17:01:15+00:00",
       "last_seen": "2026-06-16T17:01:15+00:00",
-      "updated_at": "2026-06-16T17:01:15+00:00"
+      "updated_at": "2026-06-16T18:51:08+00:00"
     },
     {
       "app_id": 4159030,
@@ -19272,6 +19622,31 @@
           "currency": "USD",
           "original": 499,
           "final": 399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3899,
+          "final": 3119
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14000,
+          "final": 11200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2899,
+          "final": 2319
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 69900,
+          "final": 55900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 690000,
+          "final": 552000
         }
       },
       "review_hint": "Positive<br>91% of the 23 user reviews for this game are positive.",
@@ -19286,7 +19661,7 @@
       "search_text": "medieval dynasty - exquisite pack medieval dynasty - exquisite pack looking for a fresh, elegant look? the exquisite pack dlc offers unique hairstyles, sophisticated clothing, and over a dozen new emblems to distinguish your character and settlement. action adventure indie rpg simulation single-player multi-player co-op online co-op downloadable content steam achievements full controller support steam trading cards steam cloud family sharing english german spanish-spain polish french portuguese-brazil japanese portuguese---portugal russian czech turkish ukrainian italian schinese dutch swedish korean hungarian 9 user reviews positive<br>91% of the 23 user reviews for this game are positive.",
       "first_seen": "2026-06-16T17:01:15+00:00",
       "last_seen": "2026-06-16T17:01:15+00:00",
-      "updated_at": "2026-06-16T17:01:15+00:00"
+      "updated_at": "2026-06-16T18:51:08+00:00"
     },
     {
       "app_id": 3405340,
@@ -23148,6 +23523,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12900,
+          "final": 7740
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 43800,
+          "final": 26200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9000,
+          "final": 5400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 309000,
+          "final": 185400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2450000,
+          "final": 1470000
         }
       },
       "review_hint": "Very Positive<br>87% of the 1,616 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -23162,7 +23562,7 @@
       "search_text": "regiments regiments regiments is a real-time tactics game set in germany 1989. the cold war has gone hot, and the inferno is raging. lead your regiment through the fires of conflict and the fog of war. break through the lines, call in artillery, maneuver, feign retreats, stage defenses, counter-attack. do not relent. indie simulation strategy single-player steam cloud family sharing english russian french italian german spanish-spain portuguese-brazil schinese polish portuguese---portugal czech very positive very positive<br>87% of the 1,616 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-16T17:01:15+00:00",
       "last_seen": "2026-06-16T17:01:15+00:00",
-      "updated_at": "2026-06-16T17:01:15+00:00"
+      "updated_at": "2026-06-16T18:51:08+00:00"
     },
     {
       "app_id": 2138720,
@@ -26583,6 +26983,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 1499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 23200,
+          "final": 11600
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 89500,
+          "final": 44700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9900,
+          "final": 4950
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 350000,
+          "final": 175000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3250000,
+          "final": 1625000
         }
       },
       "review_hint": "Mixed<br>56% of the 1,044 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -26597,7 +27022,7 @@
       "search_text": "sid meier’s civilization® vi: rise and fall sid meier’s civilization® vi: rise and fall the civilization vi: rise and fall expansion brings new choices, strategies, and challenges for players as they guide a civilization through the ages. the expansion introduces new great ages, loyalty, and governors systems, expands existing diplomacy and government systems, and adds eight new civilizations, nine new leaders, a variety of... strategy single-player multi-player pvp online pvp lan pvp shared/split screen pvp shared/split screen cross-platform multiplayer downloadable content steam achievements steam trading cards steam workshop steam turn notifications remote play together family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese tchinese mixed mixed<br>56% of the 1,044 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-16T17:01:15+00:00",
       "last_seen": "2026-06-16T17:01:15+00:00",
-      "updated_at": "2026-06-16T17:01:15+00:00"
+      "updated_at": "2026-06-16T18:51:08+00:00"
     },
     {
       "app_id": 2138710,
@@ -28028,6 +28453,31 @@
           "currency": "USD",
           "original": 999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6800,
+          "final": 3400
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 25800,
+          "final": 12900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4800,
+          "final": 2400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 139000,
+          "final": 69500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 550000
         }
       },
       "review_hint": "Mostly Positive<br>72% of the 499 user reviews for this game are positive.",
@@ -28042,7 +28492,7 @@
       "search_text": "stellaris: ancient relics story pack stellaris: ancient relics story pack uncover the ruins of long-dead civilizations in relic worlds to piece together the story of their rise and eventual downfall. excavate their derelict cities and ships to unearth the truth, discover powerful relics and harness them for your own empire’s ambitions. simulation strategy single-player multi-player cross-platform multiplayer downloadable content steam achievements steam trading cards steam workshop steam cloud family sharing english french german spanish-spain polish portuguese-brazil russian schinese japanese korean mostly positive mostly positive<br>72% of the 499 user reviews for this game are positive.",
       "first_seen": "2026-06-16T17:01:15+00:00",
       "last_seen": "2026-06-16T17:01:15+00:00",
-      "updated_at": "2026-06-16T17:01:15+00:00"
+      "updated_at": "2026-06-16T18:51:08+00:00"
     },
     {
       "app_id": 716670,
@@ -28206,6 +28656,31 @@
           "currency": "USD",
           "original": 999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6800,
+          "final": 3400
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 25800,
+          "final": 12900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4800,
+          "final": 2400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 139000,
+          "final": 69500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 550000
         }
       },
       "review_hint": "Very Positive<br>87% of the 679 user reviews for this game are positive.",
@@ -28220,7 +28695,7 @@
       "search_text": "stellaris: aquatics species pack stellaris: aquatics species pack embrace the life of a seafaring civilization as you sail the open expanses of the galaxy with stellaris' most immersive pack yet. let a wave of new customizable options for your empire crash into stellaris, with a treasure trove of new species portraits, ship set, origins and more. simulation strategy single-player multi-player cross-platform multiplayer downloadable content steam achievements steam trading cards steam workshop steam cloud family sharing english french german spanish-spain polish portuguese-brazil russian schinese japanese korean very positive very positive<br>87% of the 679 user reviews for this game are positive.",
       "first_seen": "2026-06-16T17:01:15+00:00",
       "last_seen": "2026-06-16T17:01:15+00:00",
-      "updated_at": "2026-06-16T17:01:15+00:00"
+      "updated_at": "2026-06-16T18:51:08+00:00"
     },
     {
       "app_id": 2534090,
@@ -29609,6 +30084,31 @@
           "currency": "USD",
           "original": 999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6800,
+          "final": 3400
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 25800,
+          "final": 12900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4800,
+          "final": 2400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 139000,
+          "final": 69500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 550000
         }
       },
       "review_hint": "Mostly Positive<br>74% of the 285 user reviews for this game are positive.",
@@ -29623,7 +30123,7 @@
       "search_text": "stellaris: toxoids species pack stellaris: toxoids species pack stake your claim with the hardiest, most stubborn species in stellaris’ history! gamble the future of your planets for immediate gains, and make the tough sacrifices necessary to survive a hostile galaxy. includes new origins, civics, traits, ship models and more simulation strategy single-player multi-player cross-platform multiplayer downloadable content steam achievements steam trading cards steam workshop steam cloud family sharing english french german spanish-spain polish portuguese-brazil russian schinese japanese korean mostly positive mostly positive<br>74% of the 285 user reviews for this game are positive.",
       "first_seen": "2026-06-16T11:18:27+00:00",
       "last_seen": "2026-06-16T17:01:15+00:00",
-      "updated_at": "2026-06-16T17:01:15+00:00"
+      "updated_at": "2026-06-16T18:51:08+00:00"
     },
     {
       "app_id": 625960,
@@ -33383,6 +33883,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 2009
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 23800,
+          "final": 15946
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 99900,
+          "final": 66900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 15800,
+          "final": 10586
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 388800,
+          "final": 260400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3800000,
+          "final": 2546000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>95% of the 4,682 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -33397,7 +33922,7 @@
       "search_text": "two point museum two point museum curate and manage incredible museums! explore to discover amazing artifacts. design and refine the layout, keep staff happy, guests entertained, donations plentiful… and children off the exhibits casual indie simulation strategy single-player steam achievements full controller support steam trading cards steam workshop adjustable text size camera comfort custom volume controls mouse only option playable without timed input save anytime stereo sound surround sound steam cloud family sharing english french italian german spanish-spain japanese korean portuguese-brazil schinese tchinese turkish polish russian spanish-latin thai overwhelmingly positive overwhelmingly positive<br>95% of the 4,682 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-16T17:01:15+00:00",
       "last_seen": "2026-06-16T17:01:15+00:00",
-      "updated_at": "2026-06-16T17:01:15+00:00"
+      "updated_at": "2026-06-16T18:51:08+00:00"
     },
     {
       "app_id": 391540,
@@ -34627,6 +35152,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 959
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7800,
+          "final": 6240
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 24800,
+          "final": 19800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4600,
+          "final": 3680
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 112000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1350000,
+          "final": 1080000
         }
       },
       "review_hint": "Positive<br>91% of the 37 user reviews for this game are positive.",
@@ -34641,7 +35191,7 @@
       "search_text": "wingspan: asia expansion wingspan: asia expansion explore the wonders of asia in wingspan: asia expansion! discover new birds and bonus cards, compete in duet mode, and immerse yourself in rich landscapes with stunning art and soothing music. compete in fresh challenges, and experience a serene journey with asia's avian marvels! indie strategy single-player multi-player pvp online pvp shared/split screen pvp co-op online co-op shared/split screen co-op cross-platform multiplayer downloadable content steam achievements steam trading cards partial controller support steam cloud steam leaderboards steam turn notifications remote play together family sharing english schinese french italian german spanish-spain japanese korean polish portuguese-brazil russian tchinese ukrainian positive positive<br>91% of the 37 user reviews for this game are positive.",
       "first_seen": "2026-06-16T17:01:15+00:00",
       "last_seen": "2026-06-16T17:01:15+00:00",
-      "updated_at": "2026-06-16T17:01:15+00:00"
+      "updated_at": "2026-06-16T18:51:08+00:00"
     },
     {
       "app_id": 1962870,
@@ -34713,6 +35263,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 959
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7800,
+          "final": 6240
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 24800,
+          "final": 19800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4600,
+          "final": 3680
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 112000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1350000,
+          "final": 1080000
         }
       },
       "review_hint": "Very Positive<br>87% of the 88 user reviews for this game are positive.",
@@ -34727,7 +35302,7 @@
       "search_text": "wingspan: oceania expansion wingspan: oceania expansion in the second expansion to wingspan, we discover the awe-inspiring birds of oceania! the dlc includes new gameplay features, an additional resource - nectar, 95 extraordinary bird cards, and more! indie strategy single-player multi-player pvp online pvp shared/split screen pvp co-op online co-op shared/split screen co-op downloadable content steam achievements steam trading cards partial controller support steam cloud steam leaderboards steam turn notifications remote play together family sharing english schinese french italian german spanish-spain japanese korean polish portuguese-brazil russian tchinese very positive very positive<br>87% of the 88 user reviews for this game are positive.",
       "first_seen": "2026-06-16T17:01:15+00:00",
       "last_seen": "2026-06-16T17:01:15+00:00",
-      "updated_at": "2026-06-16T17:01:15+00:00"
+      "updated_at": "2026-06-16T18:51:08+00:00"
     },
     {
       "app_id": 3008740,
@@ -35728,6 +36303,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1949
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 17000,
+          "final": 13260
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 67000,
+          "final": 52200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9200,
+          "final": 7176
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 396000,
+          "final": 308800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 2106000
         }
       },
       "review_hint": "Very Positive<br>87% of the 319 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -35742,7 +36342,7 @@
       "search_text": "yarimono yarimono the protagonist's life takes a turn after their partner yarimon learns the ultra-invincible move, the &quot;cheat tackle&quot;. while challenging various trainers to participate in the yarimon tournament, the protagonist unexpectedly discovers the secrets of this world. adventure indie rpg single-player steam achievements steam cloud family sharing japanese english schinese tchinese very positive very positive<br>87% of the 319 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-06-16T11:18:27+00:00",
       "last_seen": "2026-06-16T17:01:15+00:00",
-      "updated_at": "2026-06-16T17:01:15+00:00"
+      "updated_at": "2026-06-16T18:51:08+00:00"
     },
     {
       "app_id": 3833760,
