@@ -4,7 +4,21 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Tue, 16 Jun 2026 08:41:16 +0000</lastBuildDate>
+<lastBuildDate>Tue, 16 Jun 2026 11:18:27 +0000</lastBuildDate>
+<item>
+<title>Stellaris: Toxoids Species Pack</title>
+<link>https://store.steampowered.com/app/2115770/</link>
+<guid isPermaLink="false">2115770</guid>
+<pubDate>Tue, 16 Jun 2026 11:18:27 +0000</pubDate>
+<description>Stake your claim with the hardiest, most stubborn species in Stellaris’ history! Gamble the future of your planets for immediate gains, and make the tough sacrifices necessary to survive a hostile galaxy. Includes New Origins, Civics, Traits, Ship Models and more</description>
+</item>
+<item>
+<title>Yarimono</title>
+<link>https://store.steampowered.com/app/2696050/</link>
+<guid isPermaLink="false">2696050</guid>
+<pubDate>Tue, 16 Jun 2026 11:18:27 +0000</pubDate>
+<description>The protagonist's life takes a turn after their partner Yarimon learns the ultra-invincible move, the &amp;quot;Cheat Tackle&amp;quot;. While challenging various trainers to participate in the Yarimon tournament, the protagonist unexpectedly discovers the secrets of this world.</description>
+</item>
 <item>
 <title>Eldara</title>
 <link>https://store.steampowered.com/app/4746070/</link>
@@ -60,6 +74,13 @@
 <guid isPermaLink="false">1522090</guid>
 <pubDate>Tue, 16 Jun 2026 04:45:18 +0000</pubDate>
 <description>Nemesis is an expansion to Stellaris in which you will be able to determine the fate of a destabilizing galaxy. Adding espionage tools, a path to power as the Galactic Custodian - or the Menace option to become the crisis - Nemesis gives you the most powerful tools ever available in Stellaris.</description>
+</item>
+<item>
+<title>Agatha Christie - Death on the Nile</title>
+<link>https://store.steampowered.com/app/3150480/</link>
+<guid isPermaLink="false">3150480</guid>
+<pubDate>Mon, 15 Jun 2026 21:08:17 +0000</pubDate>
+<description>Death on the Nile is an adventure-detective game, offering a fresh twist on Agatha Christie’s famous story. Set in the lively 1970s, play as Hercule Poirot and detective Jane Royce as they solve two connected mysteries. Dive into a journey filled with intrigue, deception, and unexpected revelations.</description>
 </item>
 <item>
 <title>Call to Arms: Panzer Elite</title>
@@ -286,11 +307,25 @@
 <description>Stoneshard is a hardcore turn-based RPG about the harsh life of a medieval mercenary: travel with your own caravan, descend into procedurally generated dungeons, learn new skills, survive hunger and injuries - and remember, every mistake can mean death and loss of progress.</description>
 </item>
 <item>
+<title>Syberia - Remastered</title>
+<link>https://store.steampowered.com/app/3660220/</link>
+<guid isPermaLink="false">3660220</guid>
+<pubDate>Mon, 15 Jun 2026 21:08:17 +0000</pubDate>
+<description>Rediscover the clockpunk universe of Benoît Sokal in this fully remastered version of the first Syberia game. Join Kate Walker and Oscar, a strange and charming automaton, in pursuit of the brilliant inventor Hans Voralberg, and embark on an adventure more immersive and poetic than ever.</description>
+</item>
+<item>
 <title>TCG Card Shop Simulator</title>
 <link>https://store.steampowered.com/app/3070070/</link>
 <guid isPermaLink="false">3070070</guid>
 <pubDate>Mon, 15 Jun 2026 21:08:17 +0000</pubDate>
 <description>Open your own local game store. Stock shelves with the latest booster packs, or crack them and collect the cards for yourself. Set your own prices, hire staff, host events, and expand your card shop.</description>
+</item>
+<item>
+<title>The Crust</title>
+<link>https://store.steampowered.com/app/1465470/</link>
+<guid isPermaLink="false">1465470</guid>
+<pubDate>Mon, 15 Jun 2026 21:08:17 +0000</pubDate>
+<description>Automate a lunar base as you become the savior of humanity exploring the future on the moon. Mine, craft, research, and trade resources with Earth in this gripping narrative basebuilder.</description>
 </item>
 <item>
 <title>Tiny Terraces</title>
