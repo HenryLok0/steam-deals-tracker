@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-16T19:44:01+00:00",
+  "updated_at": "2026-06-17T09:06:14+00:00",
   "base": "USD",
-  "source": "frankfurter",
+  "source": "fallback",
   "rates": {
-    "HKD": 7.8334,
-    "CNY": 6.7564,
-    "JPY": 160.38,
-    "KRW": 1508.85,
-    "TWD": 32.0
+    "HKD": 7.85,
+    "TWD": 32.0,
+    "CNY": 7.25,
+    "JPY": 156.0,
+    "KRW": 1380.0
   }
 }
