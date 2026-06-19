@@ -4,7 +4,63 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Fri, 19 Jun 2026 08:27:09 +0000</lastBuildDate>
+<lastBuildDate>Fri, 19 Jun 2026 10:43:08 +0000</lastBuildDate>
+<item>
+<title>Alone in the Dark</title>
+<link>https://store.steampowered.com/app/1310410/</link>
+<guid isPermaLink="false">1310410</guid>
+<pubDate>Fri, 19 Jun 2026 10:43:08 +0000</pubDate>
+<description>Return to Derceto Manor in this reimagination of Alone in the Dark, a love letter to the 90’s cult classic horror game.</description>
+</item>
+<item>
+<title>Darksiders Genesis</title>
+<link>https://store.steampowered.com/app/710920/</link>
+<guid isPermaLink="false">710920</guid>
+<pubDate>Fri, 19 Jun 2026 10:43:08 +0000</pubDate>
+<description>DARKSIDERS: GENESIS gives players their first look at the world of DARKSIDERS before the events of the original game. Furthermore, it introduces the fourth and last horseman STRIFE, as well as Co-op gameplay for the first time in the history of the franchise.</description>
+</item>
+<item>
+<title>Dusk City</title>
+<link>https://store.steampowered.com/app/2973120/</link>
+<guid isPermaLink="false">2973120</guid>
+<pubDate>Fri, 19 Jun 2026 10:43:08 +0000</pubDate>
+<description>A flourishing civilization had sunk into the sea. The night never dawns...... and a sense of apocalypse hangs over the world. You'll land on an island in such a world, and as you explore the town and ruins, you'll come into contact with fragments of the world's mysteries.</description>
+</item>
+<item>
+<title>Gothic 1</title>
+<link>https://store.steampowered.com/app/65540/</link>
+<guid isPermaLink="false">65540</guid>
+<pubDate>Fri, 19 Jun 2026 10:43:08 +0000</pubDate>
+<description>War has been waged across the kingdom of Myrtana. Orcish hordes invaded human territory and the king of the land needed a lot of ore to forge enough weapons, should his army stand against this threat. Whoever breaks the law in these darkest of times is sentenced to serve in the giant penal colony of Khorinis, mining the so much needed...</description>
+</item>
+<item>
+<title>Kingdoms and Castles</title>
+<link>https://store.steampowered.com/app/569480/</link>
+<guid isPermaLink="false">569480</guid>
+<pubDate>Fri, 19 Jun 2026 10:43:08 +0000</pubDate>
+<description>Kingdoms and Castles is a city-building simulation game about growing a kingdom from a tiny hamlet to a sprawling city and imposing castle. Make trade agreements, alliance, and war with neighboring AI controlled kingdoms. Each villager and resource is individually simulated.</description>
+</item>
+<item>
+<title>SpongeBob SquarePants: Titans of the Tide</title>
+<link>https://store.steampowered.com/app/2479650/</link>
+<guid isPermaLink="false">2479650</guid>
+<pubDate>Fri, 19 Jun 2026 10:43:08 +0000</pubDate>
+<description>Prepare to be scared! A clash between the Flying Dutchman and King Neptune has unleashed ghostly mayhem all over Bikini Bottom. Switch seamlessly between SpongeBob and Patrick, combine their unique skills and save Bikini Bottom from total ghostification!</description>
+</item>
+<item>
+<title>Strange Brigade</title>
+<link>https://store.steampowered.com/app/312670/</link>
+<guid isPermaLink="false">312670</guid>
+<pubDate>Fri, 19 Jun 2026 10:43:08 +0000</pubDate>
+<description>Embark on an exotic journey into danger in this rip-roaring 1930s third person adventure for 1-4 players! Encounter pulse-pounding action, treacherous traps and tales of derring-do!</description>
+</item>
+<item>
+<title>The Witcher: Enhanced Edition Director's Cut</title>
+<link>https://store.steampowered.com/app/20900/</link>
+<guid isPermaLink="false">20900</guid>
+<pubDate>Fri, 19 Jun 2026 10:43:08 +0000</pubDate>
+<description>Become The Witcher, Geralt of Rivia, a legendary monster slayer caught in a web of intrigue woven by forces vying for control of the world. Make difficult decisions and live with the consequences in a game that will immerse you in an extraordinary tale like no other.</description>
+</item>
 <item>
 <title>Alice: Madness Returns</title>
 <link>https://store.steampowered.com/app/19680/</link>
@@ -1005,6 +1061,13 @@
 <guid isPermaLink="false">694280</guid>
 <pubDate>Thu, 18 Jun 2026 20:29:47 +0000</pubDate>
 <description>Hitler’s hordes are back for more in this spine-chilling shooter from the makers of Sniper Elite 4! Abominable occult enemies, epic weapons and a harrowing new campaign for 1-4 players await in 1940s Europe, as you fight to save humankind from undead Armageddon!</description>
+</item>
+<item>
+<title>Love n Life: Happy Student</title>
+<link>https://store.steampowered.com/app/3149980/</link>
+<guid isPermaLink="false">3149980</guid>
+<pubDate>Thu, 18 Jun 2026 15:33:15 +0000</pubDate>
+<description>Love n Life: Happy Student, a unique dating sim, incorporates inventory management for the first time. As a top-scoring third-year student, you are chosen to join the most prestigious college, where you’ll meet gorgeous ladies. Discover intriguing personalities and the school’s mysteries.</description>
 </item>
 </channel>
 </rss>
