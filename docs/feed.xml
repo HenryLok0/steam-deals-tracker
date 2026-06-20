@@ -4,7 +4,7 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sat, 20 Jun 2026 14:10:58 +0000</lastBuildDate>
+<lastBuildDate>Sat, 20 Jun 2026 16:11:29 +0000</lastBuildDate>
 <item>
 <title>Poem of the Starherd</title>
 <link>https://store.steampowered.com/app/3975500/</link>
@@ -137,27 +137,6 @@
 <guid isPermaLink="false">362960</guid>
 <pubDate>Fri, 19 Jun 2026 19:53:09 +0000</pubDate>
 <description>Experience a story-driven RPG where your choices mean all the difference in the world.</description>
-</item>
-<item>
-<title>Thank You For Your Application</title>
-<link>https://store.steampowered.com/app/2881370/</link>
-<guid isPermaLink="false">2881370</guid>
-<pubDate>Fri, 19 Jun 2026 15:27:36 +0000</pubDate>
-<description>Thank You for Your Application is a story-driven interview simulation game. After 15 rounds of interviews, you are reassigned as a junior interviewer, tasked with screening candidates’ resumes according to company requirements and issuing the appropriate thank letters.</description>
-</item>
-<item>
-<title>The Sims™ 4 Get Famous</title>
-<link>https://store.steampowered.com/app/1235720/</link>
-<guid isPermaLink="false">1235720</guid>
-<pubDate>Fri, 19 Jun 2026 15:27:36 +0000</pubDate>
-<description>Reach for the stars and rise to celebrity status with The Sims™ 4 Get Famous. Build your stardom as you pursue an acting career, become an A-lister, and guide your Sims down the unpredictable path to fame.</description>
-</item>
-<item>
-<title>The Witcher 3: Wild Hunt - Blood and Wine</title>
-<link>https://store.steampowered.com/app/378648/</link>
-<guid isPermaLink="false">378648</guid>
-<pubDate>Fri, 19 Jun 2026 15:27:36 +0000</pubDate>
-<description>Become professional monster slayer Geralt of Rivia and explore Toussaint, a remote land untouched by war, where you will unravel the horrifying secret behind a beast terrorizing the kingdom.</description>
 </item>
 </channel>
 </rss>
