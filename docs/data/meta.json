@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-21T07:28:22+00:00",
+  "updated_at": "2026-06-21T09:55:03+00:00",
   "active_count": 350,
-  "total_count": 2210,
+  "total_count": 2212,
   "free_active": 0,
   "sale_active": 350,
-  "new_today_count": 13,
+  "new_today_count": 8,
   "new_free_today": 0,
-  "backfill_pending": 1953,
-  "price_backfill_pending": 0,
+  "backfill_pending": 1955,
+  "price_backfill_pending": 2,
   "expiration_coverage": 0.086,
   "expiration_backfill_pending": 320
 }

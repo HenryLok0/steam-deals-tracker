@@ -4,7 +4,21 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sun, 21 Jun 2026 07:28:22 +0000</lastBuildDate>
+<lastBuildDate>Sun, 21 Jun 2026 09:55:03 +0000</lastBuildDate>
+<item>
+<title>Berserk B.I.T.S</title>
+<link>https://store.steampowered.com/app/2348540/</link>
+<guid isPermaLink="false">2348540</guid>
+<pubDate>Sun, 21 Jun 2026 09:55:03 +0000</pubDate>
+<description>Berserk B.I.T.S is an idle-rpg, auto-battler, chip-collecting game that runs on your desktop. Let your B.I.T do battle and collect items. Collect rare chips and build your deck! Customize and Level up to take down intense Virus bosses as you unravel the mysteries behind the attacks on the Net.</description>
+</item>
+<item>
+<title>Final Fantasy IV (3D Remake)</title>
+<link>https://store.steampowered.com/app/312750/</link>
+<guid isPermaLink="false">312750</guid>
+<pubDate>Sun, 21 Jun 2026 09:55:03 +0000</pubDate>
+<description>FINAL FANTASY IV makes its debut on PC! Lose yourself in this timeless tale of heroes, betrayal, love and redemption.</description>
+</item>
 <item>
 <title>Amber Isle</title>
 <link>https://store.steampowered.com/app/1663040/</link>
@@ -13,32 +27,11 @@
 <description>Welcome to Amber Isle - a quaint, friendly village of prehistoric residents who are in need of a new shopkeep... That’s you! Craft and sell items, upgrade your shop, befriend your Paleofolk neighbours and customise the island to bring the village back to life and welcome even more prehistoric pals!</description>
 </item>
 <item>
-<title>FINAL FANTASY VIII</title>
-<link>https://store.steampowered.com/app/39150/</link>
-<guid isPermaLink="false">39150</guid>
-<pubDate>Sun, 21 Jun 2026 04:42:41 +0000</pubDate>
-<description>It is a time of war. Galbadia, a Global Superpower, has declared war on Dollet, a country whose training academy is home to two personalities: the hot-headed Seifer and the 'lone wolf', Squall Leonhart. Both are equally at conflict with each other as their country is with Galbadia; to others, Squall appears lacking in team spirit, while...</description>
-</item>
-<item>
 <title>Ship, Inc.</title>
 <link>https://store.steampowered.com/app/3496000/</link>
 <guid isPermaLink="false">3496000</guid>
 <pubDate>Sun, 21 Jun 2026 04:42:41 +0000</pubDate>
 <description>Run a wholesome shipping business! Ship, Inc. is a cozy job simulator where you are a packaging employee in a parcel shipment company. Follow the shipment orders, choose the package size, and prepare parcels. Upgrade your office, deliver orders safely and quickly!</description>
-</item>
-<item>
-<title>Wizzerd Quest 2</title>
-<link>https://store.steampowered.com/app/2907890/</link>
-<guid isPermaLink="false">2907890</guid>
-<pubDate>Sun, 21 Jun 2026 04:42:41 +0000</pubDate>
-<description>STOP THE DARK WIZZERD!!! Wizzerd Quest 2 is a retro first-person RPG with unhinged live-action FMV cutscenes, full splitscreen co-op, exciting boss encounters, and a vast open world to explore! Save the Roblins! Save the World! A standalone sequel to the shareware classic Wizzerd Quest!</description>
-</item>
-<item>
-<title>Zombie Army Trilogy</title>
-<link>https://store.steampowered.com/app/301640/</link>
-<guid isPermaLink="false">301640</guid>
-<pubDate>Sun, 21 Jun 2026 04:42:41 +0000</pubDate>
-<description>The cult horror shooter series comes to an apocalyptic conclusion with an epic new third chapter, a heart-pumping new horde mode, and remastered editions of the best-selling Nazi Zombie Army 1 &amp;amp; 2.</description>
 </item>
 <item>
 <title>Shelldiver</title>
@@ -67,34 +60,6 @@
 <guid isPermaLink="false">3939700</guid>
 <pubDate>Sat, 20 Jun 2026 19:41:41 +0000</pubDate>
 <description>Scavenge the beach and run a cozy trinket shop by the sea! Find hidden treasures or trash, clean and repair your finds, put them up for sale, and upgrade your workshop. Dig deeper and faster to make more money and buy back the beach from the greedy hotel.</description>
-</item>
-<item>
-<title>Poem of the Starherd</title>
-<link>https://store.steampowered.com/app/3975500/</link>
-<guid isPermaLink="false">3975500</guid>
-<pubDate>Sat, 20 Jun 2026 09:22:00 +0000</pubDate>
-<description>A relaxing farming simulation game where you take care of humanoid spirits in a mysterious world. Grow crops, raise spirits (animals), live together with someone you love, and enjoy fun-filled days with a variety of approaches!</description>
-</item>
-<item>
-<title>Summer Sisters</title>
-<link>https://store.steampowered.com/app/4353630/</link>
-<guid isPermaLink="false">4353630</guid>
-<pubDate>Sat, 20 Jun 2026 09:22:00 +0000</pubDate>
-<description>It's been years since Yuu last visited the countryside, and this summer, he'll finally be reunited with the sisters Hana, Rina, and Hina! Unfortunately, his mom has to hurry home, so he'll be staying with the three of them for a while. Find out what fun awaits him in Japanese countryside!</description>
-</item>
-<item>
-<title>Two Point Museum: Explorer Upgrade Pack</title>
-<link>https://store.steampowered.com/app/2999850/</link>
-<guid isPermaLink="false">2999850</guid>
-<pubDate>Sat, 20 Jun 2026 09:22:00 +0000</pubDate>
-<description>The Explorer Upgrade Pack brings a selection of decorative items to embellish your halls, walls and floors with bespoke designs and well travelled statues. As well as exclusive items to help your experts replenish faster to send out on more expeditions.</description>
-</item>
-<item>
-<title>Two Point Museum: Fantasy Finds</title>
-<link>https://store.steampowered.com/app/3592600/</link>
-<guid isPermaLink="false">3592600</guid>
-<pubDate>Sat, 20 Jun 2026 09:22:00 +0000</pubDate>
-<description>Two Point Museum Fantasy Finds Map Pack unlocks a new fantasy expedition map, and a treasure trove of magical exhibits that may or may not eat your guests…</description>
 </item>
 </channel>
 </rss>
