@@ -4,7 +4,14 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sun, 21 Jun 2026 19:48:01 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Jun 2026 04:48:22 +0000</lastBuildDate>
+<item>
+<title>Murky Divers</title>
+<link>https://store.steampowered.com/app/2963880/</link>
+<guid isPermaLink="false">2963880</guid>
+<pubDate>Mon, 22 Jun 2026 04:48:22 +0000</pubDate>
+<description>Solo or up to 8 players. Get rid of your employer's failed experiments in abandoned underwater labs. Navigate your submarine, avoid abyssal terrors, and remove all corpses.</description>
+</item>
 <item>
 <title>Godhood</title>
 <link>https://store.steampowered.com/app/917150/</link>
@@ -20,32 +27,11 @@
 <description>Experience a strategic new approach to hunting with weapons and equipment designed for effectively ambushing prey in the wild.</description>
 </item>
 <item>
-<title>Amber Isle</title>
-<link>https://store.steampowered.com/app/1663040/</link>
-<guid isPermaLink="false">1663040</guid>
-<pubDate>Sun, 21 Jun 2026 04:42:41 +0000</pubDate>
-<description>Welcome to Amber Isle - a quaint, friendly village of prehistoric residents who are in need of a new shopkeep... That’s you! Craft and sell items, upgrade your shop, befriend your Paleofolk neighbours and customise the island to bring the village back to life and welcome even more prehistoric pals!</description>
-</item>
-<item>
-<title>Ship, Inc.</title>
-<link>https://store.steampowered.com/app/3496000/</link>
-<guid isPermaLink="false">3496000</guid>
-<pubDate>Sun, 21 Jun 2026 04:42:41 +0000</pubDate>
-<description>Run a wholesome shipping business! Ship, Inc. is a cozy job simulator where you are a packaging employee in a parcel shipment company. Follow the shipment orders, choose the package size, and prepare parcels. Upgrade your office, deliver orders safely and quickly!</description>
-</item>
-<item>
-<title>Wizzerd Quest 2</title>
-<link>https://store.steampowered.com/app/2907890/</link>
-<guid isPermaLink="false">2907890</guid>
-<pubDate>Sun, 21 Jun 2026 04:42:41 +0000</pubDate>
-<description>STOP THE DARK WIZZERD!!! Wizzerd Quest 2 is a retro first-person RPG with unhinged live-action FMV cutscenes, full splitscreen co-op, exciting boss encounters, and a vast open world to explore! Save the Roblins! Save the World! A standalone sequel to the shareware classic Wizzerd Quest!</description>
-</item>
-<item>
-<title>Zombie Army Trilogy</title>
-<link>https://store.steampowered.com/app/301640/</link>
-<guid isPermaLink="false">301640</guid>
-<pubDate>Sun, 21 Jun 2026 04:42:41 +0000</pubDate>
-<description>The cult horror shooter series comes to an apocalyptic conclusion with an epic new third chapter, a heart-pumping new horde mode, and remastered editions of the best-selling Nazi Zombie Army 1 &amp;amp; 2.</description>
+<title>Final Fantasy IV (3D Remake)</title>
+<link>https://store.steampowered.com/app/312750/</link>
+<guid isPermaLink="false">312750</guid>
+<pubDate>Sun, 21 Jun 2026 09:55:03 +0000</pubDate>
+<description>FINAL FANTASY IV makes its debut on PC! Lose yourself in this timeless tale of heroes, betrayal, love and redemption.</description>
 </item>
 </channel>
 </rss>
