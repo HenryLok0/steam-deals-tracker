@@ -4,7 +4,21 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Mon, 22 Jun 2026 08:52:24 +0000</lastBuildDate>
+<lastBuildDate>Mon, 22 Jun 2026 12:11:05 +0000</lastBuildDate>
+<item>
+<title>Cozy Cleaner</title>
+<link>https://store.steampowered.com/app/2742710/</link>
+<guid isPermaLink="false">2742710</guid>
+<pubDate>Mon, 22 Jun 2026 12:11:05 +0000</pubDate>
+<description>Cozy Cleaner is a relaxing cleaning game where you tidy and organize rooms messed up by playful cats. Pick up clutter, wipe away dirt, and bring order back to every space for a calming, refreshing experience with cozy soundtracks.</description>
+</item>
+<item>
+<title>SOS OPS!</title>
+<link>https://store.steampowered.com/app/2475460/</link>
+<guid isPermaLink="false">2475460</guid>
+<pubDate>Mon, 22 Jun 2026 12:11:05 +0000</pubDate>
+<description>SOS OPS! is more than a game. Your task is to save the city. You will find yourself in the epicenter of madness, where co-op missions with friends will raise the adrenaline to the limit!</description>
+</item>
 <item>
 <title>Murky Divers</title>
 <link>https://store.steampowered.com/app/2963880/</link>
@@ -25,13 +39,6 @@
 <guid isPermaLink="false">2532370</guid>
 <pubDate>Sun, 21 Jun 2026 19:48:01 +0000</pubDate>
 <description>Experience a strategic new approach to hunting with weapons and equipment designed for effectively ambushing prey in the wild.</description>
-</item>
-<item>
-<title>Final Fantasy IV (3D Remake)</title>
-<link>https://store.steampowered.com/app/312750/</link>
-<guid isPermaLink="false">312750</guid>
-<pubDate>Sun, 21 Jun 2026 09:55:03 +0000</pubDate>
-<description>FINAL FANTASY IV makes its debut on PC! Lose yourself in this timeless tale of heroes, betrayal, love and redemption.</description>
 </item>
 </channel>
 </rss>
