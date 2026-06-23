@@ -4,7 +4,21 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Mon, 22 Jun 2026 20:52:38 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Jun 2026 03:53:03 +0000</lastBuildDate>
+<item>
+<title>FISH</title>
+<link>https://store.steampowered.com/app/4312850/</link>
+<guid isPermaLink="false">4312850</guid>
+<pubDate>Tue, 23 Jun 2026 03:53:03 +0000</pubDate>
+<description>FISH is a Platformer Run &amp;amp; Gun Shooter where you play as an armed FISH violently exploring through multiple levels. The game features a funny, unique stylized artstyle that could get a chuckle out of you!</description>
+</item>
+<item>
+<title>Monster Prom 4: Monster Con</title>
+<link>https://store.steampowered.com/app/2869860/</link>
+<guid isPermaLink="false">2869860</guid>
+<pubDate>Tue, 23 Jun 2026 03:53:03 +0000</pubDate>
+<description>Can you find love at the nerdiest convention ever? &amp;quot;Monster Con&amp;quot; goes back to the multiplayer dating sim formula: go through absurd and funny situations as you find love among six sexy monsters! Who will you romance? The mimic who cosplays? The idol clown? Or the eldritch cutie? (There's also Liam)</description>
+</item>
 <item>
 <title>Besiege</title>
 <link>https://store.steampowered.com/app/346010/</link>
@@ -137,6 +151,13 @@
 <guid isPermaLink="false">2742710</guid>
 <pubDate>Mon, 22 Jun 2026 12:11:05 +0000</pubDate>
 <description>Cozy Cleaner is a relaxing cleaning game where you tidy and organize rooms messed up by playful cats. Pick up clutter, wipe away dirt, and bring order back to every space for a calming, refreshing experience with cozy soundtracks.</description>
+</item>
+<item>
+<title>SOS OPS!</title>
+<link>https://store.steampowered.com/app/2475460/</link>
+<guid isPermaLink="false">2475460</guid>
+<pubDate>Mon, 22 Jun 2026 12:11:05 +0000</pubDate>
+<description>SOS OPS! is more than a game. Your task is to save the city. You will find yourself in the epicenter of madness, where co-op missions with friends will raise the adrenaline to the limit!</description>
 </item>
 </channel>
 </rss>
