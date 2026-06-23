@@ -4,7 +4,42 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Tue, 23 Jun 2026 09:47:51 +0000</lastBuildDate>
+<lastBuildDate>Tue, 23 Jun 2026 14:56:26 +0000</lastBuildDate>
+<item>
+<title>Deer &amp; Boy</title>
+<link>https://store.steampowered.com/app/1803140/</link>
+<guid isPermaLink="false">1803140</guid>
+<pubDate>Tue, 23 Jun 2026 14:56:26 +0000</pubDate>
+<description>In this poetic cinematic platformer, a runaway boy meets a fawn. As their bond grows, so do their abilities and the emotional weight of their journey, where silence speaks louder than words.</description>
+</item>
+<item>
+<title>Dimhaven - The Lost Source</title>
+<link>https://store.steampowered.com/app/2458980/</link>
+<guid isPermaLink="false">2458980</guid>
+<pubDate>Tue, 23 Jun 2026 14:56:26 +0000</pubDate>
+<description>Are you ready for an adventure? Challenges, exploration and puzzles in a narrative driven experience, pick up your camera and test your wits in this first-person mystery by the team behind Quern!</description>
+</item>
+<item>
+<title>Kudo’s Kuppa</title>
+<link>https://store.steampowered.com/app/2743810/</link>
+<guid isPermaLink="false">2743810</guid>
+<pubDate>Tue, 23 Jun 2026 14:56:26 +0000</pubDate>
+<description>ORCSOFT’s surreal summer buddy comedy VN about two painfully available best friends, their crush-worthy moms, and the awkwardly inconvenient feelings that surface—sometimes when we least expect them...</description>
+</item>
+<item>
+<title>Moldwasher</title>
+<link>https://store.steampowered.com/app/3688130/</link>
+<guid isPermaLink="false">3688130</guid>
+<pubDate>Tue, 23 Jun 2026 14:56:26 +0000</pubDate>
+<description>Clean moldy messes as a brave food hero! Equip your high-pressure spray, choose the right nozzle, and clear away sticky messes in this cozy, arcade-style fridge-cleaning adventure.</description>
+</item>
+<item>
+<title>Rift Wizard 3</title>
+<link>https://store.steampowered.com/app/4366330/</link>
+<guid isPermaLink="false">4366330</guid>
+<pubDate>Tue, 23 Jun 2026 14:56:26 +0000</pubDate>
+<description>Rift Wizard is a hardcore combat strategy roguelike and wizard simulator featuring an extremely deep build system. Customize your Wizard with more than 500 spells and magical artifacts. Blast, summon, or enchant your way through 20 levels of pure turn based chaos.</description>
+</item>
 <item>
 <title>FISH</title>
 <link>https://store.steampowered.com/app/4312850/</link>
@@ -137,20 +172,6 @@
 <guid isPermaLink="false">1933740</guid>
 <pubDate>Mon, 22 Jun 2026 20:52:38 +0000</pubDate>
 <description>Redo is a world without sorrow created by the virtuadoll Regret. Virtuadoll songs give Redo residents respite from their struggles. Our protagonists discover the truth and form the Go-Home Club to return to reality. Make your way home with companions bearing heavy burdens in this school-themed RPG.</description>
-</item>
-<item>
-<title>Cozy Cleaner</title>
-<link>https://store.steampowered.com/app/2742710/</link>
-<guid isPermaLink="false">2742710</guid>
-<pubDate>Mon, 22 Jun 2026 12:11:05 +0000</pubDate>
-<description>Cozy Cleaner is a relaxing cleaning game where you tidy and organize rooms messed up by playful cats. Pick up clutter, wipe away dirt, and bring order back to every space for a calming, refreshing experience with cozy soundtracks.</description>
-</item>
-<item>
-<title>SOS OPS!</title>
-<link>https://store.steampowered.com/app/2475460/</link>
-<guid isPermaLink="false">2475460</guid>
-<pubDate>Mon, 22 Jun 2026 12:11:05 +0000</pubDate>
-<description>SOS OPS! is more than a game. Your task is to save the city. You will find yourself in the epicenter of madness, where co-op missions with friends will raise the adrenaline to the limit!</description>
 </item>
 </channel>
 </rss>
