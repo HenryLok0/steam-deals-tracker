@@ -4,6 +4,20 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sun, 28 Jun 2026 19:25:46 +0000</lastBuildDate>
+<lastBuildDate>Mon, 29 Jun 2026 04:16:06 +0000</lastBuildDate>
+<item>
+<title>Library Of Ruina</title>
+<link>https://store.steampowered.com/app/1256670/</link>
+<guid isPermaLink="false">1256670</guid>
+<pubDate>Mon, 29 Jun 2026 04:16:06 +0000</pubDate>
+<description>&amp;quot;May you find your book in this place.&amp;quot; Combat between the guests and the librarians breaks out as if it were on a stage. Defeated guests turn into books, and the Library grows onward. And eventually, get your hands on… The one singular, perfect book.</description>
+</item>
+<item>
+<title>Lobotomy Corporation | Monster Management Simulation</title>
+<link>https://store.steampowered.com/app/568220/</link>
+<guid isPermaLink="false">568220</guid>
+<pubDate>Mon, 29 Jun 2026 04:16:06 +0000</pubDate>
+<description>A roguelite monster-management simulation inspired by the likes of the SCP Foundation, Cabin in the Woods, and Warehouse 13. Order your employees to perform work with the creatures and watch as it unfolds; harness greater energy, and expand the facility</description>
+</item>
 </channel>
 </rss>
