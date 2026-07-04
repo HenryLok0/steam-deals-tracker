@@ -4,27 +4,13 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sat, 04 Jul 2026 08:41:47 +0000</lastBuildDate>
-<item>
-<title>Party Animals</title>
-<link>https://store.steampowered.com/app/1260320/</link>
-<guid isPermaLink="false">1260320</guid>
-<pubDate>Sat, 04 Jul 2026 08:41:47 +0000</pubDate>
-<description>Fight your friends as puppies, kittens and other fuzzy creatures in PARTY ANIMALS! Paw it out with your friends remotely, or huddle together for chaotic fun on the same screen. Interact with the world under our realistic physics engine. Did I mention PUPPIES?</description>
-</item>
+<lastBuildDate>Sat, 04 Jul 2026 13:40:21 +0000</lastBuildDate>
 <item>
 <title>White Knuckle</title>
 <link>https://store.steampowered.com/app/3195790/</link>
 <guid isPermaLink="false">3195790</guid>
 <pubDate>Sat, 04 Jul 2026 03:28:00 +0000</pubDate>
 <description>White Knuckle is a first-person roguelite speed-climbing game. Ascend through the guts of SUB-STRUCTURE 17 using precision movement mechanics. Sharp reflexes and resource management will bring you out from under ten thousand meters of concrete and decay.</description>
-</item>
-<item>
-<title>Master Healer Kale with useless party</title>
-<link>https://store.steampowered.com/app/4634490/</link>
-<guid isPermaLink="false">4634490</guid>
-<pubDate>Fri, 03 Jul 2026 09:23:42 +0000</pubDate>
-<description>A short incremental game where you play as a Healer in a party. Your main job is to keep your party alive. Upgrade 200+ skills in a skill tree, from healing to party damage. Designed to be completed in around 4 hours.</description>
 </item>
 </channel>
 </rss>
