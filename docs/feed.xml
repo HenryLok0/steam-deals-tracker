@@ -4,6 +4,20 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Mon, 06 Jul 2026 17:34:31 +0000</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 20:02:17 +0000</lastBuildDate>
+<item>
+<title>Esports Manager 2026</title>
+<link>https://store.steampowered.com/app/2749950/</link>
+<guid isPermaLink="false">2749950</guid>
+<pubDate>Mon, 06 Jul 2026 20:02:17 +0000</pubDate>
+<description>Build and lead your own professional esports organization. Scout players, manage contracts, develop talent, hire staff, grow your brand, and compete for championship titles in a deep and realistic management simulation.</description>
+</item>
+<item>
+<title>Space Engineers 2</title>
+<link>https://store.steampowered.com/app/1133870/</link>
+<guid isPermaLink="false">1133870</guid>
+<pubDate>Mon, 06 Jul 2026 20:02:17 +0000</pubDate>
+<description>Space Engineers 2 is a playable Early Access Alpha sandbox focused on engineering, exploration, and colonization in a fully destructible universe. Design and build ships, stations, and planetary bases while uncovering the story of Miro and Ivan Sokol. Help shape the future of the Almagest system.</description>
+</item>
 </channel>
 </rss>
