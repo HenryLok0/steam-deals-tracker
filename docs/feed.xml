@@ -4,6 +4,13 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Thu, 09 Jul 2026 06:36:43 +0000</lastBuildDate>
+<lastBuildDate>Thu, 09 Jul 2026 09:50:33 +0000</lastBuildDate>
+<item>
+<title>The Walking Dead: The Telltale Definitive Series</title>
+<link>https://store.steampowered.com/app/1449690/</link>
+<guid isPermaLink="false">1449690</guid>
+<pubDate>Thu, 09 Jul 2026 09:50:33 +0000</pubDate>
+<description>The Walking Dead: The Telltale Definitive Series contains all 4 Seasons, 400 Days, and The Walking Dead: Michonne, which includes over 50 hours of gameplay across 23 unique episodes.</description>
+</item>
 </channel>
 </rss>
