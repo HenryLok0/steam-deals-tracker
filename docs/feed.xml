@@ -4,7 +4,7 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Fri, 10 Jul 2026 14:34:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 10 Jul 2026 16:49:45 +0000</lastBuildDate>
 <item>
 <title>Call of the Elder Gods</title>
 <link>https://store.steampowered.com/app/2174380/</link>
@@ -753,13 +753,6 @@
 <guid isPermaLink="false">268500</guid>
 <pubDate>Thu, 09 Jul 2026 19:50:49 +0000</pubDate>
 <description>XCOM 2 is the sequel to XCOM: Enemy Unknown, the 2012 award-winning strategy game of the year. Earth has changed and is now under alien rule. Facing impossible odds you must rebuild XCOM, and ignite a global resistance to reclaim our world and save humanity.</description>
-</item>
-<item>
-<title>Cat Mail Co.</title>
-<link>https://store.steampowered.com/app/4380490/</link>
-<guid isPermaLink="false">4380490</guid>
-<pubDate>Thu, 09 Jul 2026 15:16:50 +0000</pubDate>
-<description>Run a cozy cat post office. Sort and deliver parcels from the daily boat, organizing everything your way. At night, the moon reveals hidden truths about packages. Clear a strange backlog, help locals, and unlock new abilities and destinations.</description>
 </item>
 </channel>
 </rss>
