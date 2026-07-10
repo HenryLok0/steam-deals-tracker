@@ -4,7 +4,28 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Fri, 10 Jul 2026 06:36:45 +0000</lastBuildDate>
+<lastBuildDate>Fri, 10 Jul 2026 09:41:01 +0000</lastBuildDate>
+<item>
+<title>Breathedge</title>
+<link>https://store.steampowered.com/app/738520/</link>
+<guid isPermaLink="false">738520</guid>
+<pubDate>Fri, 10 Jul 2026 09:41:01 +0000</pubDate>
+<description>Survive in outer space! Together with your immortal chicken, discover the truth behind your sudden spaceship crash. Craft tools, pilot vehicles, and even control space stations to survive and explore the wreckage.</description>
+</item>
+<item>
+<title>Craftopia</title>
+<link>https://store.steampowered.com/app/1307550/</link>
+<guid isPermaLink="false">1307550</guid>
+<pubDate>Fri, 10 Jul 2026 09:41:01 +0000</pubDate>
+<description>Craftopia is the brand new multiplayer survival action game made in Japan. We combined many features we find enjoyable, such as hunting, farming, hack-and-slash, building, automation to develop this game.</description>
+</item>
+<item>
+<title>Homeworld 3</title>
+<link>https://store.steampowered.com/app/1840080/</link>
+<guid isPermaLink="false">1840080</guid>
+<pubDate>Fri, 10 Jul 2026 09:41:01 +0000</pubDate>
+<description>Tactical, beautiful, and wholly unique, the GOTY-winning sci-fi RTS returns with Homeworld 3. Assume control and battle through fleet combat in dazzling, fully 3D space while the award-winning story unfolds on a galactic scale.</description>
+</item>
 <item>
 <title>Against the Storm - Supporter Pack</title>
 <link>https://store.steampowered.com/app/2712950/</link>
@@ -18,13 +39,6 @@
 <guid isPermaLink="false">1000030</guid>
 <pubDate>Fri, 10 Jul 2026 03:38:12 +0000</pubDate>
 <description>Hit the road in this massive sequel to the million-selling Cook, Serve, Delicious series. Manage your food truck, cook delicious dishes and serve customers as you take the road trip of a lifetime across war-torn America.</description>
-</item>
-<item>
-<title>Crab God</title>
-<link>https://store.steampowered.com/app/2289390/</link>
-<guid isPermaLink="false">2289390</guid>
-<pubDate>Fri, 10 Jul 2026 03:38:12 +0000</pubDate>
-<description>Crab God is an atmospheric underwater strategy game. Guide your Crabling colony through wild ocean depths, and defend the egg of the next Crab God.Restore and protect diverse coral reefs, making a difference in the real world as you progress in-game. Make waves, praise the claw!</description>
 </item>
 <item>
 <title>Cryptmaster</title>
@@ -53,13 +67,6 @@
 <guid isPermaLink="false">798510</guid>
 <pubDate>Fri, 10 Jul 2026 03:38:12 +0000</pubDate>
 <description>SUPER DRAGON BALL HEROES WORLD MISSION is a Tactical-Card game packed with exhilarating confrontation, deep card game strategy and a thrilling storyline taking place in the wide Dragon Ball Heroes universe!</description>
-</item>
-<item>
-<title>Wartales - Expansion: The Curse of Rigel</title>
-<link>https://store.steampowered.com/app/4165520/</link>
-<guid isPermaLink="false">4165520</guid>
-<pubDate>Fri, 10 Jul 2026 03:38:12 +0000</pubDate>
-<description>Hidden deep within the Alazar mountains lies the County of Rigel, a secluded valley where light barely pierces the mist. Its people whisper of the Weald, an ancient forest known for its strange mists and warping the minds of those who enter.</description>
 </item>
 <item>
 <title>WRC Generations – The FIA WRC Official Game</title>
@@ -181,13 +188,6 @@
 <description>Welcome to the zombie apocalypse experience of a lifetime – more beautiful than ever. Caught in an epic zombie outbreak on the tropical island of Banoi, your only thought is: Survive!</description>
 </item>
 <item>
-<title>Dead Rising 2: Off the Record</title>
-<link>https://store.steampowered.com/app/45770/</link>
-<guid isPermaLink="false">45770</guid>
-<pubDate>Thu, 09 Jul 2026 19:50:49 +0000</pubDate>
-<description>You are Frank West – photojournalist and original hero of the Dead Rising Willamette incident – taking center stage experiencing the re-imagined Fortune City outbreak.</description>
-</item>
-<item>
 <title>Destiny of Immortal</title>
 <link>https://store.steampowered.com/app/2377930/</link>
 <guid isPermaLink="false">2377930</guid>
@@ -228,20 +228,6 @@
 <guid isPermaLink="false">3167020</guid>
 <pubDate>Thu, 09 Jul 2026 19:50:49 +0000</pubDate>
 <description>Escape from Duckov is a PVE indie survival RPG — in a duck's world!. Scavenge for resources, build your hideout, and upgrade your gear in the world of Duckov. Start from nothing and rise to the top. Outwit hostile ducks, survive, or make it out alive.</description>
-</item>
-<item>
-<title>Euro Truck Simulator 2 - Iberia</title>
-<link>https://store.steampowered.com/app/1209460/</link>
-<guid isPermaLink="false">1209460</guid>
-<pubDate>Thu, 09 Jul 2026 19:50:49 +0000</pubDate>
-<description>The Iberian Peninsula is full of rich and diverse landscapes, from semi-arid southeastern deserts to the green coniferous forests. Be an important part of the strong export economy and deliver cargo from Iberia through Europe.</description>
-</item>
-<item>
-<title>Euro Truck Simulator 2 - Italia</title>
-<link>https://store.steampowered.com/app/558244/</link>
-<guid isPermaLink="false">558244</guid>
-<pubDate>Thu, 09 Jul 2026 19:50:49 +0000</pubDate>
-<description>Italia DLC expands Euro Truck Simulator 2 with SCS Software's rendition of the beautiful European country Italy with its rich history, modern industry, traditional architecture, and diverse natural environments.</description>
 </item>
 <item>
 <title>Euro Truck Simulator 2 - Scandinavia</title>
@@ -300,13 +286,6 @@
 <description>Take center stage in Hatsune Miku’s premier rhythm game starring the world’s #1 virtual pop star! With a stunner setlist and enormous wardrobe to style, it’s Miku’s ultimate tour—all it needs is you.</description>
 </item>
 <item>
-<title>Hello Kitty Island Adventure - Wheatflour Wonderland</title>
-<link>https://store.steampowered.com/app/3890520/</link>
-<guid isPermaLink="false">3890520</guid>
-<pubDate>Thu, 09 Jul 2026 19:50:49 +0000</pubDate>
-<description>Cogimyun, a beloved new Sanrio character, is coming to Hello Kitty Island Adventure in the whimsical world of Wheatflour Wonderland. Craft magic wands, transform into critters, solve puzzles to collect hidden Wheathearts, and explore our richest world yet.</description>
-</item>
-<item>
 <title>High On Life</title>
 <link>https://store.steampowered.com/app/1583230/</link>
 <guid isPermaLink="false">1583230</guid>
@@ -361,13 +340,6 @@
 <guid isPermaLink="false">1880620</guid>
 <pubDate>Thu, 09 Jul 2026 19:50:49 +0000</pubDate>
 <description>Once upon a time a katamari rolled through both past and present. In this story across time, the adage endures: Let The Good Times Roll! Now onward through new worlds to roll up thy heart's desires and to restore the stars!</description>
-</item>
-<item>
-<title>Plague Inc: Evolved Soundtrack</title>
-<link>https://store.steampowered.com/app/315960/</link>
-<guid isPermaLink="false">315960</guid>
-<pubDate>Thu, 09 Jul 2026 19:50:49 +0000</pubDate>
-<description>The original Plague Inc: Evolved soundtrack, featuring all of the tracks from Plague Inc: Evolved as well as the music from the original Plague Inc. game - including the haunting main theme, the paranoid notes of Neurax worm mind control and the aggressive style of the zombie-producing Necroa virus (plus a surprise bonus track!).</description>
 </item>
 <item>
 <title>Planet Zoo: Africa Pack</title>
@@ -531,6 +503,13 @@
 <description>Enter Tahnra, a land savaged by war. You, a fresh academy graduate with humble beginnings, will grow to lead a grand army against a corrupt adversary. Gather heroes, form bonds, and lead your force in turn-based battles. Make use of tactics, terrain, morale and more to bring peace to the land!</description>
 </item>
 <item>
+<title>Tails of Iron</title>
+<link>https://store.steampowered.com/app/1283410/</link>
+<guid isPermaLink="false">1283410</guid>
+<pubDate>Thu, 09 Jul 2026 19:50:49 +0000</pubDate>
+<description>Tails of Iron is an epic RPG Adventure with punishingly brutal combat. As Redgi, heir to the throne, you must embark on a perilous quest to reclaim your Kingdom. Explore a deceivingly charming world. Assemble a band of brave companions. Banish the merciless Frog clan!</description>
+</item>
+<item>
 <title>Tempest Rising</title>
 <link>https://store.steampowered.com/app/1486920/</link>
 <guid isPermaLink="false">1486920</guid>
@@ -650,11 +629,25 @@
 <description>The Bhashiva Character Pack introduces Bhashiva, The White Tiger, as a new playable Legendary Lord alongside a deadly company of mercenary Tiger Warrior units for the armies of Grand Cathay.</description>
 </item>
 <item>
+<title>Tyrion Cuthbert: Attorney of the Arcane</title>
+<link>https://store.steampowered.com/app/1590230/</link>
+<guid isPermaLink="false">1590230</guid>
+<pubDate>Thu, 09 Jul 2026 19:50:49 +0000</pubDate>
+<description>In Tyrion Cuthbert: Attorney of the Arcane, you play as a defense attorney who practices law in a world of fantasy and wizards. You must defend clients accused of various crimes committed using magic and use the rules of magic to prove them innocent.</description>
+</item>
+<item>
 <title>Valkyria Chronicles 4 Complete Edition</title>
 <link>https://store.steampowered.com/app/790820/</link>
 <guid isPermaLink="false">790820</guid>
 <pubDate>Thu, 09 Jul 2026 19:50:49 +0000</pubDate>
 <description>A Continent Engulfed in the Bitter Flames of War! Commander Claude Wallace and his childhood friends set out to fight in a desperate war, but bone-chilling blizzards, waves of imperial soldiers, and the godlike powers of the Valkyria stand between them and victory.</description>
+</item>
+<item>
+<title>Valkyria Chronicles™</title>
+<link>https://store.steampowered.com/app/294860/</link>
+<guid isPermaLink="false">294860</guid>
+<pubDate>Thu, 09 Jul 2026 19:50:49 +0000</pubDate>
+<description>The critically acclaimed Valkyria Chronicles is now available on PC in 1080p True HD, including all previously released DLC!</description>
 </item>
 <item>
 <title>Vanquish</title>
