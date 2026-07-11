@@ -4,7 +4,7 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sat, 11 Jul 2026 13:26:07 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Jul 2026 15:43:40 +0000</lastBuildDate>
 <item>
 <title>Wartales - Contract: The Tavern Opens!</title>
 <link>https://store.steampowered.com/app/2903960/</link>
@@ -116,41 +116,6 @@
 <guid isPermaLink="false">1411740</guid>
 <pubDate>Fri, 10 Jul 2026 19:37:39 +0000</pubDate>
 <description>Urbek is a city building game where you can build your own neighbourhoods: from nightlife district to industrial district. Don't exhaust your natural resources before you have an educated population to build more efficient structures.</description>
-</item>
-<item>
-<title>Dune: Spice Wars - House Vernius of Ix</title>
-<link>https://store.steampowered.com/app/2807090/</link>
-<guid isPermaLink="false">2807090</guid>
-<pubDate>Fri, 10 Jul 2026 14:34:27 +0000</pubDate>
-<description>In the heart of the Ixian Confederation, House Vernius, masters of science and engineering, established itself as the Empire's primary supplier of cutting-edge technology. Adapting to the constraints of the Butlerian Jihad, they discreetly explore forbidden self-learning tech.</description>
-</item>
-<item>
-<title>Forest Escape: Last Train</title>
-<link>https://store.steampowered.com/app/4090360/</link>
-<guid isPermaLink="false">4090360</guid>
-<pubDate>Fri, 10 Jul 2026 14:34:27 +0000</pubDate>
-<description>Forest Escape: Last Train is a co-op surreal horror game for 1–4 players. Explore bizarre nightmare locations, gather resources, solve the insane Warden's twisted puzzles, and keep your locomotive running as you fight to escape his unhinged world.</description>
-</item>
-<item>
-<title>Never Grave: The Witch and The Curse</title>
-<link>https://store.steampowered.com/app/2395770/</link>
-<guid isPermaLink="false">2395770</guid>
-<pubDate>Fri, 10 Jul 2026 14:34:27 +0000</pubDate>
-<description>A Metroidvania x Roguelite where you journey with the aid of a cursed hat. Use a variety of magic or possess your enemies to reach the lowest levels! Bring back loot, build new facilities in your village, make a living and strengthen yourself for the next battle! Supports up to 4-player multiplayer.</description>
-</item>
-<item>
-<title>Roguebook</title>
-<link>https://store.steampowered.com/app/1076200/</link>
-<guid isPermaLink="false">1076200</guid>
-<pubDate>Fri, 10 Jul 2026 14:34:27 +0000</pubDate>
-<description>Embrace the challenge of a roguelike deckbuilder with unique mechanics from the developers of Faeria and Richard Garfield, creator of Magic: The Gathering™. Build a team of two heroes, unleash powerful combos and defeat the legends of the Roguebook!</description>
-</item>
-<item>
-<title>Wildgate</title>
-<link>https://store.steampowered.com/app/3504780/</link>
-<guid isPermaLink="false">3504780</guid>
-<pubDate>Fri, 10 Jul 2026 14:34:27 +0000</pubDate>
-<description>Wildgate is a PvPvE multiplayer shooter that blends tactical ship-to-ship combat with fast-paced first-person action. Evade deadly environmental hazards, search for powerful weapons and ship upgrades, and be the first crew to escape with the Artifact... or the last crew left flying.</description>
 </item>
 </channel>
 </rss>
