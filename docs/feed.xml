@@ -4,7 +4,14 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sat, 11 Jul 2026 08:00:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Jul 2026 13:26:07 +0000</lastBuildDate>
+<item>
+<title>Wartales - Contract: The Tavern Opens!</title>
+<link>https://store.steampowered.com/app/2903960/</link>
+<guid isPermaLink="false">2903960</guid>
+<pubDate>Sat, 11 Jul 2026 13:26:07 +0000</pubDate>
+<description>Manage and expand your own tavern in this management and simulation expansion for Wartales. During your adventures, secure wealth and prestige for your troop.</description>
+</item>
 <item>
 <title>Empires of the Undergrowth - Supporter Pack</title>
 <link>https://store.steampowered.com/app/3402630/</link>
@@ -46,13 +53,6 @@
 <guid isPermaLink="false">3213120</guid>
 <pubDate>Sat, 11 Jul 2026 02:52:55 +0000</pubDate>
 <description>Machinefall is a post-apocalyptic real time strategy game set on a fully playable global map. Lead humanity’s last survivors as they build bases, gather resources, and wage massive battles against an overwhelming machine swarm. Progress through technological eras from Stone Age to Atomic Age.</description>
-</item>
-<item>
-<title>SKALD: Against the Black Priory</title>
-<link>https://store.steampowered.com/app/1069160/</link>
-<guid isPermaLink="false">1069160</guid>
-<pubDate>Sat, 11 Jul 2026 02:52:55 +0000</pubDate>
-<description>SKALD:Against the Black Priory is a retro-style party-based RPG set in a grim-dark fantasy world of tragic heroes, violent deaths and Lovecraftian horror. Take a chance and roll the dice as you embark on a compelling story filled with deadly creatures, branching story and tactical, turn-based combat</description>
 </item>
 <item>
 <title>Urbek City Builder - Trains</title>
@@ -146,25 +146,11 @@
 <description>Embrace the challenge of a roguelike deckbuilder with unique mechanics from the developers of Faeria and Richard Garfield, creator of Magic: The Gathering™. Build a team of two heroes, unleash powerful combos and defeat the legends of the Roguebook!</description>
 </item>
 <item>
-<title>Breathedge</title>
-<link>https://store.steampowered.com/app/738520/</link>
-<guid isPermaLink="false">738520</guid>
-<pubDate>Fri, 10 Jul 2026 09:41:01 +0000</pubDate>
-<description>Survive in outer space! Together with your immortal chicken, discover the truth behind your sudden spaceship crash. Craft tools, pilot vehicles, and even control space stations to survive and explore the wreckage.</description>
-</item>
-<item>
-<title>Craftopia</title>
-<link>https://store.steampowered.com/app/1307550/</link>
-<guid isPermaLink="false">1307550</guid>
-<pubDate>Fri, 10 Jul 2026 09:41:01 +0000</pubDate>
-<description>Craftopia is the brand new multiplayer survival action game made in Japan. We combined many features we find enjoyable, such as hunting, farming, hack-and-slash, building, automation to develop this game.</description>
-</item>
-<item>
-<title>Homeworld 3</title>
-<link>https://store.steampowered.com/app/1840080/</link>
-<guid isPermaLink="false">1840080</guid>
-<pubDate>Fri, 10 Jul 2026 09:41:01 +0000</pubDate>
-<description>Tactical, beautiful, and wholly unique, the GOTY-winning sci-fi RTS returns with Homeworld 3. Assume control and battle through fleet combat in dazzling, fully 3D space while the award-winning story unfolds on a galactic scale.</description>
+<title>Wildgate</title>
+<link>https://store.steampowered.com/app/3504780/</link>
+<guid isPermaLink="false">3504780</guid>
+<pubDate>Fri, 10 Jul 2026 14:34:27 +0000</pubDate>
+<description>Wildgate is a PvPvE multiplayer shooter that blends tactical ship-to-ship combat with fast-paced first-person action. Evade deadly environmental hazards, search for powerful weapons and ship upgrades, and be the first crew to escape with the Artifact... or the last crew left flying.</description>
 </item>
 </channel>
 </rss>
