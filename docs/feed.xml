@@ -4,7 +4,21 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sat, 11 Jul 2026 05:33:31 +0000</lastBuildDate>
+<lastBuildDate>Sat, 11 Jul 2026 08:00:50 +0000</lastBuildDate>
+<item>
+<title>Empires of the Undergrowth - Supporter Pack</title>
+<link>https://store.steampowered.com/app/3402630/</link>
+<guid isPermaLink="false">3402630</guid>
+<pubDate>Sat, 11 Jul 2026 08:00:50 +0000</pubDate>
+<description>The Empires of the Undergrowth Supporter Pack features the official Empires of the Undergrowth soundtrack, 4k wallpapers, a new ant skin for your colonies, and more.</description>
+</item>
+<item>
+<title>Summer Days in the Joyful Countryside</title>
+<link>https://store.steampowered.com/app/3606380/</link>
+<guid isPermaLink="false">3606380</guid>
+<pubDate>Sat, 11 Jul 2026 08:00:50 +0000</pubDate>
+<description>Welcome your nieces to your rural home to help them enjoy a summer vacation of relaxation, farming, and gaming!</description>
+</item>
 <item>
 <title>Battle Brothers - Beasts &amp; Exploration</title>
 <link>https://store.steampowered.com/app/961930/</link>
@@ -18,13 +32,6 @@
 <guid isPermaLink="false">1067690</guid>
 <pubDate>Sat, 11 Jul 2026 02:52:55 +0000</pubDate>
 <description>The 'Warriors of the North' DLC for Battle Brothers expands the game with a more distinct northern region, as well as different starting scenarios to pick for your mercenary company. Face an entirely new faction of barbarians in battle, and wear new viking and rus themed gear!</description>
-</item>
-<item>
-<title>Car Mechanic Simulator 2021 - Pickup DLC</title>
-<link>https://store.steampowered.com/app/4651970/</link>
-<guid isPermaLink="false">4651970</guid>
-<pubDate>Sat, 11 Jul 2026 02:52:55 +0000</pubDate>
-<description>Car Mechanic Simulator 2021 - Pickup DLC includes 6 versatile pickup trucks built for heavy loads and off-road adventures:</description>
 </item>
 <item>
 <title>Data Center</title>
@@ -46,13 +53,6 @@
 <guid isPermaLink="false">1069160</guid>
 <pubDate>Sat, 11 Jul 2026 02:52:55 +0000</pubDate>
 <description>SKALD:Against the Black Priory is a retro-style party-based RPG set in a grim-dark fantasy world of tragic heroes, violent deaths and Lovecraftian horror. Take a chance and roll the dice as you embark on a compelling story filled with deadly creatures, branching story and tactical, turn-based combat</description>
-</item>
-<item>
-<title>The Ember Guardian</title>
-<link>https://store.steampowered.com/app/3570060/</link>
-<guid isPermaLink="false">3570060</guid>
-<pubDate>Sat, 11 Jul 2026 02:52:55 +0000</pubDate>
-<description>Defend the embers of hope in this roguelike strategy game set in a post-apocalyptic world. Recruit and command workers to gather resources, build your camp and set up your defenses during the day. When night falls, fend off waves of deadly creatures with powerful, upgradable weapons.</description>
 </item>
 <item>
 <title>Urbek City Builder - Trains</title>
@@ -132,18 +132,18 @@
 <description>Forest Escape: Last Train is a co-op surreal horror game for 1–4 players. Explore bizarre nightmare locations, gather resources, solve the insane Warden's twisted puzzles, and keep your locomotive running as you fight to escape his unhinged world.</description>
 </item>
 <item>
+<title>Never Grave: The Witch and The Curse</title>
+<link>https://store.steampowered.com/app/2395770/</link>
+<guid isPermaLink="false">2395770</guid>
+<pubDate>Fri, 10 Jul 2026 14:34:27 +0000</pubDate>
+<description>A Metroidvania x Roguelite where you journey with the aid of a cursed hat. Use a variety of magic or possess your enemies to reach the lowest levels! Bring back loot, build new facilities in your village, make a living and strengthen yourself for the next battle! Supports up to 4-player multiplayer.</description>
+</item>
+<item>
 <title>Roguebook</title>
 <link>https://store.steampowered.com/app/1076200/</link>
 <guid isPermaLink="false">1076200</guid>
 <pubDate>Fri, 10 Jul 2026 14:34:27 +0000</pubDate>
 <description>Embrace the challenge of a roguelike deckbuilder with unique mechanics from the developers of Faeria and Richard Garfield, creator of Magic: The Gathering™. Build a team of two heroes, unleash powerful combos and defeat the legends of the Roguebook!</description>
-</item>
-<item>
-<title>Wildgate</title>
-<link>https://store.steampowered.com/app/3504780/</link>
-<guid isPermaLink="false">3504780</guid>
-<pubDate>Fri, 10 Jul 2026 14:34:27 +0000</pubDate>
-<description>Wildgate is a PvPvE multiplayer shooter that blends tactical ship-to-ship combat with fast-paced first-person action. Evade deadly environmental hazards, search for powerful weapons and ship upgrades, and be the first crew to escape with the Artifact... or the last crew left flying.</description>
 </item>
 <item>
 <title>Breathedge</title>
