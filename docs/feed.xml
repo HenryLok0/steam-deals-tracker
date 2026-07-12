@@ -4,13 +4,13 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sun, 12 Jul 2026 08:22:39 +0000</lastBuildDate>
+<lastBuildDate>Sun, 12 Jul 2026 13:26:56 +0000</lastBuildDate>
 <item>
-<title>Gatekeeper</title>
-<link>https://store.steampowered.com/app/2106670/</link>
-<guid isPermaLink="false">2106670</guid>
-<pubDate>Sun, 12 Jul 2026 08:22:39 +0000</pubDate>
-<description>Gatekeeper is a fast-paced rogue-like. Go on a quest to chase down Chaos and reclaim the stolen Heart of Time, fighting your way through relentless enemy forces. Play solo or in 4-player co-op and become the next Gatekeeper!</description>
+<title>Goblin Camp</title>
+<link>https://store.steampowered.com/app/2431980/</link>
+<guid isPermaLink="false">2431980</guid>
+<pubDate>Sun, 12 Jul 2026 13:26:56 +0000</pubDate>
+<description>Build a new home for your goblins! Grow your settlement from a little encampment to a bustling city in a beautiful procedurally generated northern forest. Fish, farm, explore the forest and harness the spirits in a unique fantasy citybuilder inspired by Finnish mythology.</description>
 </item>
 <item>
 <title>Wartales - Expansion: Pirates of Belerion</title>
@@ -74,13 +74,6 @@
 <guid isPermaLink="false">1700870</guid>
 <pubDate>Sat, 11 Jul 2026 19:09:03 +0000</pubDate>
 <description>Clanfolk is a colony sim set in the Scottish Highlands. Harness your environment to survive - fish, gather, hunt, and farm as you prepare for the winter. Build an inn, trade with other clans, have children and marry them off - live life and prosper across the generations.</description>
-</item>
-<item>
-<title>Wartales - Contract: The Tavern Opens!</title>
-<link>https://store.steampowered.com/app/2903960/</link>
-<guid isPermaLink="false">2903960</guid>
-<pubDate>Sat, 11 Jul 2026 13:26:07 +0000</pubDate>
-<description>Manage and expand your own tavern in this management and simulation expansion for Wartales. During your adventures, secure wealth and prestige for your troop.</description>
 </item>
 </channel>
 </rss>
