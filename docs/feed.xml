@@ -4,20 +4,48 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sun, 12 Jul 2026 15:49:24 +0000</lastBuildDate>
+<lastBuildDate>Sun, 12 Jul 2026 19:09:42 +0000</lastBuildDate>
+<item>
+<title>Goat Simulator 3</title>
+<link>https://store.steampowered.com/app/850190/</link>
+<guid isPermaLink="false">850190</guid>
+<pubDate>Sun, 12 Jul 2026 19:09:42 +0000</pubDate>
+<description>Pilgor's baaack! Gather your herd and venture forth into Goat Simulator 3; an all-new (at least on Steam), totally realistic, sandbox farmyard experience. Invite up to three friends in local or online co-op, create carnage as a team, or compete in mini-games and then not be friends anymore.</description>
+</item>
+<item>
+<title>Lightyear Frontier</title>
+<link>https://store.steampowered.com/app/1677110/</link>
+<guid isPermaLink="false">1677110</guid>
+<pubDate>Sun, 12 Jul 2026 19:09:42 +0000</pubDate>
+<description>In Lightyear Frontier you use your powerful trusty mech to farm on a large beautiful alien planet. Settle your homestead, farm and deliver produce to remote colonies, gather and manage resources, build, craft, explore, expand, improve your mech, meet neighbors, and make a place to call your own.</description>
+</item>
+<item>
+<title>PAW Patrol World</title>
+<link>https://store.steampowered.com/app/1952520/</link>
+<guid isPermaLink="false">1952520</guid>
+<pubDate>Sun, 12 Jul 2026 19:09:42 +0000</pubDate>
+<description>Explore the world of PAW Patrol like never before and stop Mayor Humdinger’s super blimp mayhem, in a free-roaming 3D adventure full of pup-tastic fun!</description>
+</item>
+<item>
+<title>Prison Architect</title>
+<link>https://store.steampowered.com/app/233450/</link>
+<guid isPermaLink="false">233450</guid>
+<pubDate>Sun, 12 Jul 2026 19:09:42 +0000</pubDate>
+<description>Only the world’s most ruthless Warden can contain the world’s most ruthless inmates. Design and develop your personalized penitentiary in Prison Architect.</description>
+</item>
+<item>
+<title>Smash Hit Museum</title>
+<link>https://store.steampowered.com/app/4182480/</link>
+<guid isPermaLink="false">4182480</guid>
+<pubDate>Sun, 12 Jul 2026 19:09:42 +0000</pubDate>
+<description>Smash stones. Collect artifacts. Build the world’s most profitable museum. A short clicker game set in the archeology room of a museum. Build up your collection and Upgrade until you break it.</description>
+</item>
 <item>
 <title>Goblin Camp</title>
 <link>https://store.steampowered.com/app/2431980/</link>
 <guid isPermaLink="false">2431980</guid>
 <pubDate>Sun, 12 Jul 2026 13:26:56 +0000</pubDate>
 <description>Build a new home for your goblins! Grow your settlement from a little encampment to a bustling city in a beautiful procedurally generated northern forest. Fish, farm, explore the forest and harness the spirits in a unique fantasy citybuilder inspired by Finnish mythology.</description>
-</item>
-<item>
-<title>Wartales - Expansion: Pirates of Belerion</title>
-<link>https://store.steampowered.com/app/2692400/</link>
-<guid isPermaLink="false">2692400</guid>
-<pubDate>Sun, 12 Jul 2026 08:22:39 +0000</pubDate>
-<description>Discover a land unlike anything you’ve seen with the first expansion to the world of Wartales! Unravel the secrets of the new region's storyline, discover new factions and master the new way to travel: navigation.</description>
 </item>
 <item>
 <title>Angels Fall First</title>
@@ -62,18 +90,18 @@
 <description>&amp;quot;Zagan the Apostate&amp;quot; is inviting you to his ominous laboratory. Recruit the zealous scientist and former Inquisition member to your crew, set sail to an eldritch castle island and experience a new campaign. Will you unveil the secrets of the Inquisition’s holy flame?</description>
 </item>
 <item>
+<title>Shredders</title>
+<link>https://store.steampowered.com/app/1874170/</link>
+<guid isPermaLink="false">1874170</guid>
+<pubDate>Sun, 12 Jul 2026 03:17:41 +0000</pubDate>
+<description>Break into the snowboarding event of the year in the hope of scoring a wildcard entry to an exclusive invitational. To prove you’re up to the challenge, master the art of park riding, buttering, rails and massive kickers and earn your place in the world of snowboarding.</description>
+</item>
+<item>
 <title>Unboxathon</title>
 <link>https://store.steampowered.com/app/3565100/</link>
 <guid isPermaLink="false">3565100</guid>
 <pubDate>Sun, 12 Jul 2026 03:17:41 +0000</pubDate>
 <description>Unboxathon is a cute content-packed incremental game about opening mystery boxes. Find rare items, upgrade your skills, and unlock new boxes &amp;amp; features! Collect shiny items, pop bubble wrap, and materialize artifacts out of thin air. Can you find your lost childhood plush?</description>
-</item>
-<item>
-<title>Clanfolk</title>
-<link>https://store.steampowered.com/app/1700870/</link>
-<guid isPermaLink="false">1700870</guid>
-<pubDate>Sat, 11 Jul 2026 19:09:03 +0000</pubDate>
-<description>Clanfolk is a colony sim set in the Scottish Highlands. Harness your environment to survive - fish, gather, hunt, and farm as you prepare for the winter. Build an inn, trade with other clans, have children and marry them off - live life and prosper across the generations.</description>
 </item>
 </channel>
 </rss>
