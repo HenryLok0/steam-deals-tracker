@@ -4,27 +4,69 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sat, 11 Jul 2026 19:09:03 +0000</lastBuildDate>
+<lastBuildDate>Sun, 12 Jul 2026 03:17:41 +0000</lastBuildDate>
+<item>
+<title>Angels Fall First</title>
+<link>https://store.steampowered.com/app/367270/</link>
+<guid isPermaLink="false">367270</guid>
+<pubDate>Sun, 12 Jul 2026 03:17:41 +0000</pubDate>
+<description>From commanding the battle standing on the bridge of your flagship all the way down to tactical infantry firefights - AFF brings together all the combat you ever loved in a rich science fiction setting. Boarding, pilotable capital ships, deep weapon customization and full Bot support included!</description>
+</item>
+<item>
+<title>ANTONBLAST</title>
+<link>https://store.steampowered.com/app/1887400/</link>
+<guid isPermaLink="false">1887400</guid>
+<pubDate>Sun, 12 Jul 2026 03:17:41 +0000</pubDate>
+<description>ANTONBLAST is a fast-paced explosive action platformer that's all about destruction. Play as the enraged Dynamite Anton (or his cranked-out coworker Annie) and use your Mighty F’n Hammer to demolish bizarre worlds, tussle with screen-filling bosses, and steal your Spirits back from Satan!</description>
+</item>
+<item>
+<title>Double Dragon Gaiden: Rise Of The Dragons</title>
+<link>https://store.steampowered.com/app/1967260/</link>
+<guid isPermaLink="false">1967260</guid>
+<pubDate>Sun, 12 Jul 2026 03:17:41 +0000</pubDate>
+<description>The Double Dragon brothers return in this fresh addition to the iconic franchise. With roguelite elements, every playthrough is a chance at new action. Tag in with 2 of 4 starter characters or unlock 20 additional characters, each with their own special moves and playstyles. Online &amp;amp; Local Co-op.</description>
+</item>
+<item>
+<title>Outhold</title>
+<link>https://store.steampowered.com/app/3767740/</link>
+<guid isPermaLink="false">3767740</guid>
+<pubDate>Sun, 12 Jul 2026 03:17:41 +0000</pubDate>
+<description>Outhold is a short, strategic incremental game that blends tower defense with a deep meta-progression. Experiment with builds and find overpowered synergies to defend the dwindling fires of Outhold.</description>
+</item>
+<item>
+<title>Shadow Gambit: Yuki's Wish</title>
+<link>https://store.steampowered.com/app/2304810/</link>
+<guid isPermaLink="false">2304810</guid>
+<pubDate>Sun, 12 Jul 2026 03:17:41 +0000</pubDate>
+<description>Yuki and Kuma from Shadow Tactics: Blades of the Shogun return! Recruit them to your pirate crew, explore the enchanted Japanese island “Dragon’s Dream”, and experience six new story missions. Will you solve the dragon's riddle and fulfill Yuki's wish?</description>
+</item>
+<item>
+<title>Shadow Gambit: Zagan's Ritual</title>
+<link>https://store.steampowered.com/app/2576620/</link>
+<guid isPermaLink="false">2576620</guid>
+<pubDate>Sun, 12 Jul 2026 03:17:41 +0000</pubDate>
+<description>&amp;quot;Zagan the Apostate&amp;quot; is inviting you to his ominous laboratory. Recruit the zealous scientist and former Inquisition member to your crew, set sail to an eldritch castle island and experience a new campaign. Will you unveil the secrets of the Inquisition’s holy flame?</description>
+</item>
+<item>
+<title>Shredders</title>
+<link>https://store.steampowered.com/app/1874170/</link>
+<guid isPermaLink="false">1874170</guid>
+<pubDate>Sun, 12 Jul 2026 03:17:41 +0000</pubDate>
+<description>Break into the snowboarding event of the year in the hope of scoring a wildcard entry to an exclusive invitational. To prove you’re up to the challenge, master the art of park riding, buttering, rails and massive kickers and earn your place in the world of snowboarding.</description>
+</item>
+<item>
+<title>Unboxathon</title>
+<link>https://store.steampowered.com/app/3565100/</link>
+<guid isPermaLink="false">3565100</guid>
+<pubDate>Sun, 12 Jul 2026 03:17:41 +0000</pubDate>
+<description>Unboxathon is a cute content-packed incremental game about opening mystery boxes. Find rare items, upgrade your skills, and unlock new boxes &amp;amp; features! Collect shiny items, pop bubble wrap, and materialize artifacts out of thin air. Can you find your lost childhood plush?</description>
+</item>
 <item>
 <title>Clanfolk</title>
 <link>https://store.steampowered.com/app/1700870/</link>
 <guid isPermaLink="false">1700870</guid>
 <pubDate>Sat, 11 Jul 2026 19:09:03 +0000</pubDate>
 <description>Clanfolk is a colony sim set in the Scottish Highlands. Harness your environment to survive - fish, gather, hunt, and farm as you prepare for the winter. Build an inn, trade with other clans, have children and marry them off - live life and prosper across the generations.</description>
-</item>
-<item>
-<title>Desolation Seed</title>
-<link>https://store.steampowered.com/app/1818470/</link>
-<guid isPermaLink="false">1818470</guid>
-<pubDate>Sat, 11 Jul 2026 19:09:03 +0000</pubDate>
-<description>An atmospheric survival shooter placing you inside a hyper-violent maze of urban waste, environmental biohazards, and societal ruin. Scavenge, explore, and survive while finding a path out of a late stage modern Shinar</description>
-</item>
-<item>
-<title>Techtonica</title>
-<link>https://store.steampowered.com/app/1457320/</link>
-<guid isPermaLink="false">1457320</guid>
-<pubDate>Sat, 11 Jul 2026 19:09:03 +0000</pubDate>
-<description>Techtonica is a first-person factory automation game with a gripping mystery about mining your way out from the depths of an alien planet. Explore bioluminescent caves, mold destructible terrain, construct a massive subterranean factory. Dig your way toward answers &amp;amp; discover the secrets of Calyx.</description>
 </item>
 <item>
 <title>Wartales - Contract: The Tavern Opens!</title>
@@ -46,118 +88,6 @@
 <guid isPermaLink="false">3606380</guid>
 <pubDate>Sat, 11 Jul 2026 08:00:50 +0000</pubDate>
 <description>Welcome your nieces to your rural home to help them enjoy a summer vacation of relaxation, farming, and gaming!</description>
-</item>
-<item>
-<title>Battle Brothers - Beasts &amp; Exploration</title>
-<link>https://store.steampowered.com/app/961930/</link>
-<guid isPermaLink="false">961930</guid>
-<pubDate>Sat, 11 Jul 2026 02:52:55 +0000</pubDate>
-<description>The 'Beasts &amp;amp; Exploration' DLC for Battle Brothers expands the game with a larger world, hidden legendary locations, a crafting system, armor attachments, new equipment, as well as a variety of new opponents, contracts and events!</description>
-</item>
-<item>
-<title>Battle Brothers - Warriors of the North</title>
-<link>https://store.steampowered.com/app/1067690/</link>
-<guid isPermaLink="false">1067690</guid>
-<pubDate>Sat, 11 Jul 2026 02:52:55 +0000</pubDate>
-<description>The 'Warriors of the North' DLC for Battle Brothers expands the game with a more distinct northern region, as well as different starting scenarios to pick for your mercenary company. Face an entirely new faction of barbarians in battle, and wear new viking and rus themed gear!</description>
-</item>
-<item>
-<title>Car Mechanic Simulator 2021 - Pickup DLC</title>
-<link>https://store.steampowered.com/app/4651970/</link>
-<guid isPermaLink="false">4651970</guid>
-<pubDate>Sat, 11 Jul 2026 02:52:55 +0000</pubDate>
-<description>Car Mechanic Simulator 2021 - Pickup DLC includes 6 versatile pickup trucks built for heavy loads and off-road adventures:</description>
-</item>
-<item>
-<title>Data Center</title>
-<link>https://store.steampowered.com/app/4170200/</link>
-<guid isPermaLink="false">4170200</guid>
-<pubDate>Sat, 11 Jul 2026 02:52:55 +0000</pubDate>
-<description>Build, cable, and automate. Assemble racks, servers, and switches, connect enough capacity for each app, earn money from processed data, and unlock gear and bigger customers with XP and reputation. Follow colored data packets as your center comes to life.</description>
-</item>
-<item>
-<title>Machinefall</title>
-<link>https://store.steampowered.com/app/3213120/</link>
-<guid isPermaLink="false">3213120</guid>
-<pubDate>Sat, 11 Jul 2026 02:52:55 +0000</pubDate>
-<description>Machinefall is a post-apocalyptic real time strategy game set on a fully playable global map. Lead humanity’s last survivors as they build bases, gather resources, and wage massive battles against an overwhelming machine swarm. Progress through technological eras from Stone Age to Atomic Age.</description>
-</item>
-<item>
-<title>SKALD: Against the Black Priory</title>
-<link>https://store.steampowered.com/app/1069160/</link>
-<guid isPermaLink="false">1069160</guid>
-<pubDate>Sat, 11 Jul 2026 02:52:55 +0000</pubDate>
-<description>SKALD:Against the Black Priory is a retro-style party-based RPG set in a grim-dark fantasy world of tragic heroes, violent deaths and Lovecraftian horror. Take a chance and roll the dice as you embark on a compelling story filled with deadly creatures, branching story and tactical, turn-based combat</description>
-</item>
-<item>
-<title>The Ember Guardian</title>
-<link>https://store.steampowered.com/app/3570060/</link>
-<guid isPermaLink="false">3570060</guid>
-<pubDate>Sat, 11 Jul 2026 02:52:55 +0000</pubDate>
-<description>Defend the embers of hope in this roguelike strategy game set in a post-apocalyptic world. Recruit and command workers to gather resources, build your camp and set up your defenses during the day. When night falls, fend off waves of deadly creatures with powerful, upgradable weapons.</description>
-</item>
-<item>
-<title>Urbek City Builder - Trains</title>
-<link>https://store.steampowered.com/app/2696580/</link>
-<guid isPermaLink="false">2696580</guid>
-<pubDate>Sat, 11 Jul 2026 02:52:55 +0000</pubDate>
-<description>Build an intricate web of trains and stations to connect your population for heightened productivity in work and science. Link key buildings like iron mines to steelworks for maximum industrial efficiency.</description>
-</item>
-<item>
-<title>Battle Brothers - Blazing Deserts</title>
-<link>https://store.steampowered.com/app/1361280/</link>
-<guid isPermaLink="false">1361280</guid>
-<pubDate>Fri, 10 Jul 2026 19:37:39 +0000</pubDate>
-<description>The 'Blazing Deserts' DLC for Battle Brothers expands the game with a new land to the south. Visit independent city states, fight in the arena, face desert raiders and southern beasts in battle. Wear new gear inspired by Arabian and Persian cultures and test your mettle in a new late game crisis!</description>
-</item>
-<item>
-<title>Dig for TCG Cards With Your Friends</title>
-<link>https://store.steampowered.com/app/4854180/</link>
-<guid isPermaLink="false">4854180</guid>
-<pubDate>Fri, 10 Jul 2026 19:37:39 +0000</pubDate>
-<description>A cozy junkyard card-collecting sim - now with online co-op. Dig through mountains of trash with friends, hunt rare collectible cards, sell your junk for profit, and upgrade your gear.</description>
-</item>
-<item>
-<title>Galaxy Burger</title>
-<link>https://store.steampowered.com/app/2749770/</link>
-<guid isPermaLink="false">2749770</guid>
-<pubDate>Fri, 10 Jul 2026 19:37:39 +0000</pubDate>
-<description>🌴👩‍🍳🍔 A stress-free cooking game that lets you relax! Cook up burgers for mecha cats and aliens. Play solo or with up to 7 friends!</description>
-</item>
-<item>
-<title>GERONIMO</title>
-<link>https://store.steampowered.com/app/2019620/</link>
-<guid isPermaLink="false">2019620</guid>
-<pubDate>Fri, 10 Jul 2026 19:37:39 +0000</pubDate>
-<description>GERONIMO is an immersive, tactical CQB shooter built for Virtual Reality that depicts a modern-day world in which Tier 1 operators are called to implement unconventional operations as members of elite teams. Breaching, in-depth character and weapon customization and more! &amp;quot;Who Dares, Wins&amp;quot;</description>
-</item>
-<item>
-<title>INSANIO</title>
-<link>https://store.steampowered.com/app/4177650/</link>
-<guid isPermaLink="false">4177650</guid>
-<pubDate>Fri, 10 Jul 2026 19:37:39 +0000</pubDate>
-<description>Autobattler where you send misfits into vehicular combat. Your job is to prepare them, deploy them, watch them struggle and finally watch them die or win in massive explosions.</description>
-</item>
-<item>
-<title>The Hong Kong Massacre</title>
-<link>https://store.steampowered.com/app/741510/</link>
-<guid isPermaLink="false">741510</guid>
-<pubDate>Fri, 10 Jul 2026 19:37:39 +0000</pubDate>
-<description>Blast your way through the streets of Hong Kong in a fast-paced, top-down shooter. Inspired by classic action movies, The Hong Kong Massacre places you at the center of a hard-boiled revenge story, filled with brutal, cinematic shootouts and vivid underworld locations.</description>
-</item>
-<item>
-<title>UnLoop</title>
-<link>https://store.steampowered.com/app/2672470/</link>
-<guid isPermaLink="false">2672470</guid>
-<pubDate>Fri, 10 Jul 2026 19:37:39 +0000</pubDate>
-<description>⚠️VR-only. Your mic is recording. Your actions too.⚠️ Infiltrate a retro space station. Get trapped in a time loop. Your past copies will replay every word you said and every mistake you made. You're the team. You're also the problem.</description>
-</item>
-<item>
-<title>Urbek City Builder</title>
-<link>https://store.steampowered.com/app/1411740/</link>
-<guid isPermaLink="false">1411740</guid>
-<pubDate>Fri, 10 Jul 2026 19:37:39 +0000</pubDate>
-<description>Urbek is a city building game where you can build your own neighbourhoods: from nightlife district to industrial district. Don't exhaust your natural resources before you have an educated population to build more efficient structures.</description>
 </item>
 </channel>
 </rss>
