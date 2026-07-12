@@ -4,7 +4,21 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sun, 12 Jul 2026 05:49:09 +0000</lastBuildDate>
+<lastBuildDate>Sun, 12 Jul 2026 08:22:39 +0000</lastBuildDate>
+<item>
+<title>Gatekeeper</title>
+<link>https://store.steampowered.com/app/2106670/</link>
+<guid isPermaLink="false">2106670</guid>
+<pubDate>Sun, 12 Jul 2026 08:22:39 +0000</pubDate>
+<description>Gatekeeper is a fast-paced rogue-like. Go on a quest to chase down Chaos and reclaim the stolen Heart of Time, fighting your way through relentless enemy forces. Play solo or in 4-player co-op and become the next Gatekeeper!</description>
+</item>
+<item>
+<title>Wartales - Expansion: Pirates of Belerion</title>
+<link>https://store.steampowered.com/app/2692400/</link>
+<guid isPermaLink="false">2692400</guid>
+<pubDate>Sun, 12 Jul 2026 08:22:39 +0000</pubDate>
+<description>Discover a land unlike anything you’ve seen with the first expansion to the world of Wartales! Unravel the secrets of the new region's storyline, discover new factions and master the new way to travel: navigation.</description>
+</item>
 <item>
 <title>Angels Fall First</title>
 <link>https://store.steampowered.com/app/367270/</link>
@@ -48,13 +62,6 @@
 <description>&amp;quot;Zagan the Apostate&amp;quot; is inviting you to his ominous laboratory. Recruit the zealous scientist and former Inquisition member to your crew, set sail to an eldritch castle island and experience a new campaign. Will you unveil the secrets of the Inquisition’s holy flame?</description>
 </item>
 <item>
-<title>Shredders</title>
-<link>https://store.steampowered.com/app/1874170/</link>
-<guid isPermaLink="false">1874170</guid>
-<pubDate>Sun, 12 Jul 2026 03:17:41 +0000</pubDate>
-<description>Break into the snowboarding event of the year in the hope of scoring a wildcard entry to an exclusive invitational. To prove you’re up to the challenge, master the art of park riding, buttering, rails and massive kickers and earn your place in the world of snowboarding.</description>
-</item>
-<item>
 <title>Unboxathon</title>
 <link>https://store.steampowered.com/app/3565100/</link>
 <guid isPermaLink="false">3565100</guid>
@@ -74,20 +81,6 @@
 <guid isPermaLink="false">2903960</guid>
 <pubDate>Sat, 11 Jul 2026 13:26:07 +0000</pubDate>
 <description>Manage and expand your own tavern in this management and simulation expansion for Wartales. During your adventures, secure wealth and prestige for your troop.</description>
-</item>
-<item>
-<title>Empires of the Undergrowth - Supporter Pack</title>
-<link>https://store.steampowered.com/app/3402630/</link>
-<guid isPermaLink="false">3402630</guid>
-<pubDate>Sat, 11 Jul 2026 08:00:50 +0000</pubDate>
-<description>The Empires of the Undergrowth Supporter Pack features the official Empires of the Undergrowth soundtrack, 4k wallpapers, a new ant skin for your colonies, and more.</description>
-</item>
-<item>
-<title>Summer Days in the Joyful Countryside</title>
-<link>https://store.steampowered.com/app/3606380/</link>
-<guid isPermaLink="false">3606380</guid>
-<pubDate>Sat, 11 Jul 2026 08:00:50 +0000</pubDate>
-<description>Welcome your nieces to your rural home to help them enjoy a summer vacation of relaxation, farming, and gaming!</description>
 </item>
 </channel>
 </rss>
