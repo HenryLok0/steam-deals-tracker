@@ -4,7 +4,21 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Mon, 13 Jul 2026 06:07:07 +0000</lastBuildDate>
+<lastBuildDate>Mon, 13 Jul 2026 09:33:35 +0000</lastBuildDate>
+<item>
+<title>Cabernet</title>
+<link>https://store.steampowered.com/app/2401410/</link>
+<guid isPermaLink="false">2401410</guid>
+<pubDate>Mon, 13 Jul 2026 09:33:35 +0000</pubDate>
+<description>Cabernet is a 2D narrative RPG set in a 19th century Eastern European inspired world, with a modern twist. Guide Liza, a young vampire in her new unlife among the unsuspecting townsfolk. Will you retain your humanity or descend further into the horror you have become?</description>
+</item>
+<item>
+<title>The Battle of Polytopia</title>
+<link>https://store.steampowered.com/app/874390/</link>
+<guid isPermaLink="false">874390</guid>
+<pubDate>Mon, 13 Jul 2026 09:33:35 +0000</pubDate>
+<description>Welcome to the unique, turn-based strategy game set in the strange, flat world of the Square. Lead one of 16 distinct civilizations to victory by expanding your empire, researching technologies, and ultimately become ruler of the world! Play in single-player or multiplayer mode for up to 16 players.</description>
+</item>
 <item>
 <title>Dark Deity</title>
 <link>https://store.steampowered.com/app/1374840/</link>
@@ -60,13 +74,6 @@
 <guid isPermaLink="false">2431980</guid>
 <pubDate>Sun, 12 Jul 2026 13:26:56 +0000</pubDate>
 <description>Build a new home for your goblins! Grow your settlement from a little encampment to a bustling city in a beautiful procedurally generated northern forest. Fish, farm, explore the forest and harness the spirits in a unique fantasy citybuilder inspired by Finnish mythology.</description>
-</item>
-<item>
-<title>Wartales - Expansion: Pirates of Belerion</title>
-<link>https://store.steampowered.com/app/2692400/</link>
-<guid isPermaLink="false">2692400</guid>
-<pubDate>Sun, 12 Jul 2026 08:22:39 +0000</pubDate>
-<description>Discover a land unlike anything you’ve seen with the first expansion to the world of Wartales! Unravel the secrets of the new region's storyline, discover new factions and master the new way to travel: navigation.</description>
 </item>
 </channel>
 </rss>
