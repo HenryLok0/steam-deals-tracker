@@ -4,7 +4,63 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Wed, 15 Jul 2026 05:23:58 +0000</lastBuildDate>
+<lastBuildDate>Wed, 15 Jul 2026 08:19:15 +0000</lastBuildDate>
+<item>
+<title>Achilles: Legends Untold</title>
+<link>https://store.steampowered.com/app/1314000/</link>
+<guid isPermaLink="false">1314000</guid>
+<pubDate>Wed, 15 Jul 2026 08:19:15 +0000</pubDate>
+<description>Rewrite fate with every strike. Face gods, mythic heroes, and legendary beasts in this souls-like Action RPG set in ancient Greece. Master brutal combat, unlock divine skills, and shape Achilles into the warrior only you can become.</description>
+</item>
+<item>
+<title>Backpack Dungeon</title>
+<link>https://store.steampowered.com/app/4478640/</link>
+<guid isPermaLink="false">4478640</guid>
+<pubDate>Wed, 15 Jul 2026 08:19:15 +0000</pubDate>
+<description>A unique pixel-art backpack management roguelike. Your backpack isn't just storage—it's your combat core. Item placement, adjacency, and trigger mechanics determine your survival in the dungeon. A mental challenge of spatial planning and strategy.</description>
+</item>
+<item>
+<title>Flux Empyrean</title>
+<link>https://store.steampowered.com/app/3843410/</link>
+<guid isPermaLink="false">3843410</guid>
+<pubDate>Wed, 15 Jul 2026 08:19:15 +0000</pubDate>
+<description>The Flux is not keen on giving away its secrets, and you’re one of them. Sail a vast planet under a blanket of stars and use your tools and wits to remind yourself of what was lost and what could come next. An open world mystery about understanding the end of the world.</description>
+</item>
+<item>
+<title>Stay: Your Forever Pet!</title>
+<link>https://store.steampowered.com/app/4385270/</link>
+<guid isPermaLink="false">4385270</guid>
+<pubDate>Wed, 15 Jul 2026 08:19:15 +0000</pubDate>
+<description>A cozy pet sim where you raise Ember, your magical fox-like companion. Bring her home, care for her, and venture into the Otherlands together -- deepening your bond one adventure at a time.</description>
+</item>
+<item>
+<title>SUPER BOMBERMAN COLLECTION</title>
+<link>https://store.steampowered.com/app/3756010/</link>
+<guid isPermaLink="false">3756010</guid>
+<pubDate>Wed, 15 Jul 2026 08:19:15 +0000</pubDate>
+<description>Party battle game &amp;quot;SUPER BOMBERMAN&amp;quot; is now available as a collection featuring a total of 7 titles with 12 versions across JP, EUR and USA, including the long-awaited localised versions of the unreleased SUPER BOMBERMAN 4 and 5! Including Boss Rush mode, support functions, libraries and more!</description>
+</item>
+<item>
+<title>The Outlast Trials - Reagent Starter Pack</title>
+<link>https://store.steampowered.com/app/2328320/</link>
+<guid isPermaLink="false">2328320</guid>
+<pubDate>Wed, 15 Jul 2026 08:19:15 +0000</pubDate>
+<description>Get ready with the Reagent Starter Pack, which includes exclusive items.</description>
+</item>
+<item>
+<title>Three Kingdoms : Alias</title>
+<link>https://store.steampowered.com/app/4549610/</link>
+<guid isPermaLink="false">4549610</guid>
+<pubDate>Wed, 15 Jul 2026 08:19:15 +0000</pubDate>
+<description>A world where officers hide their names and abilities. Can you spot Zhuge Liang? A hardcore turn-based strategy simulation for true Three Kingdoms devotees.</description>
+</item>
+<item>
+<title>Yu-Gi-Oh! Legacy of the Duelist : Link Evolution</title>
+<link>https://store.steampowered.com/app/1150640/</link>
+<guid isPermaLink="false">1150640</guid>
+<pubDate>Wed, 15 Jul 2026 08:19:15 +0000</pubDate>
+<description>Build your Deck from over 10,000 cards and take on the most iconic Duelists from the Yu-Gi-Oh! universe. Relive the stories from the original Yu-Gi-Oh! animated series through Yu-Gi-Oh! VRAINS!</description>
+</item>
 <item>
 <title>Achilles: Survivor</title>
 <link>https://store.steampowered.com/app/2922410/</link>
@@ -172,20 +228,6 @@
 <guid isPermaLink="false">3013550</guid>
 <pubDate>Tue, 14 Jul 2026 19:23:56 +0000</pubDate>
 <description>Yu-Gi-Oh! EARLY DAYS COLLECTION is packed with classic Yu-Gi-Oh! games from the very early days of Dueling — bursting with retro RPGs and strategic card games with beloved anime characters!</description>
-</item>
-<item>
-<title>Atari 50: The First Console War</title>
-<link>https://store.steampowered.com/app/3101170/</link>
-<guid isPermaLink="false">3101170</guid>
-<pubDate>Tue, 14 Jul 2026 08:12:03 +0000</pubDate>
-<description>It’s about to go down! In a series of exclusive interviews, the game makers who lived through the first console war explain how and why this unique chapter of video-game history unfolded.</description>
-</item>
-<item>
-<title>Project Winter</title>
-<link>https://store.steampowered.com/app/774861/</link>
-<guid isPermaLink="false">774861</guid>
-<pubDate>Tue, 14 Jul 2026 08:12:03 +0000</pubDate>
-<description>Project Winter 2.0: Cabin Fever is an 8-player survival and social deception game where teamwork is vital, but betrayal is inevitable. Face the wilderness, uncover traitors, and survive paranoia in this streamlined yet chaotic multiplayer experience.</description>
 </item>
 </channel>
 </rss>
