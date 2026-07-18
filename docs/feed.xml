@@ -4,7 +4,28 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sat, 18 Jul 2026 05:17:53 +0000</lastBuildDate>
+<lastBuildDate>Sat, 18 Jul 2026 07:56:32 +0000</lastBuildDate>
+<item>
+<title>Gladio Mori</title>
+<link>https://store.steampowered.com/app/2689120/</link>
+<guid isPermaLink="false">2689120</guid>
+<pubDate>Sat, 18 Jul 2026 07:56:32 +0000</pubDate>
+<description>Gladio Mori is a physics-driven multiplayer gladiator combat game featuring dismemberment, organ-specific damage, and a fully customizable move editor. Craft your own fighting style or use community created movesets to fight your way to glory.</description>
+</item>
+<item>
+<title>Loco Motive</title>
+<link>https://store.steampowered.com/app/1709880/</link>
+<guid isPermaLink="false">1709880</guid>
+<pubDate>Sat, 18 Jul 2026 07:56:32 +0000</pubDate>
+<description>There's been a murder aboard the Reuss Express, and you're the suspects! Prove your innocence in this comedy 'point n' click' murder mystery - packed with twists, laughs, and larger-than-life characters!</description>
+</item>
+<item>
+<title>World Tree Ranch: Elven Legacy</title>
+<link>https://store.steampowered.com/app/3586450/</link>
+<guid isPermaLink="false">3586450</guid>
+<pubDate>Sat, 18 Jul 2026 07:56:32 +0000</pubDate>
+<description>You awaken with no memories in a tranquil elven village devoted to worshipping the World Tree. All the elves living here are girls, and they have a unique request—they ask for your help in having children...</description>
+</item>
 <item>
 <title>Comic Book Store Simulator</title>
 <link>https://store.steampowered.com/app/3354220/</link>
@@ -55,18 +76,18 @@
 <description>Build and run your own medieval tavern. Cook meals, brew drinks, design every room, hire and manage staff, serve unique guests, handle fights and chaos, and grow from a humble innkeeper into a tavern legend.</description>
 </item>
 <item>
-<title>Toy Keeper</title>
-<link>https://store.steampowered.com/app/4867330/</link>
-<guid isPermaLink="false">4867330</guid>
-<pubDate>Sat, 18 Jul 2026 02:44:53 +0000</pubDate>
-<description>Sort 2,694 toys across a massive three-floor toy store, unlock powerful upgrades, and turn complete chaos into perfect organization in this cozy 3D cleanup game.</description>
-</item>
-<item>
 <title>Wildfrost</title>
 <link>https://store.steampowered.com/app/1811990/</link>
 <guid isPermaLink="false">1811990</guid>
 <pubDate>Sat, 18 Jul 2026 02:44:53 +0000</pubDate>
 <description>Take on the elements in Wildfrost, a tactical roguelike deckbuilder! Journey across a frozen tundra, collecting cards strong enough to banish the eternal winter…</description>
+</item>
+<item>
+<title>CD Market - Music Label Sim</title>
+<link>https://store.steampowered.com/app/4622330/</link>
+<guid isPermaLink="false">4622330</guid>
+<pubDate>Fri, 17 Jul 2026 19:15:29 +0000</pubDate>
+<description>CD Market is a music industry management sim where you build a record label on your own terms, from vinyl to digital. Stay small, or grow into something bigger. Discover artists, shape careers, and survive decades of changing formats, trends, rivals, and crises.</description>
 </item>
 <item>
 <title>Database Detective: Minor Crimes Division</title>
@@ -130,6 +151,13 @@
 <guid isPermaLink="false">3981100</guid>
 <pubDate>Fri, 17 Jul 2026 13:45:09 +0000</pubDate>
 <description>Finally, it's that time of the year to clean up this leafy mess. It's been a while since the last time you've done it, so don't waste any second and derust your raking skills!</description>
+</item>
+<item>
+<title>Meta Ghost: Breaking Show</title>
+<link>https://store.steampowered.com/app/2507980/</link>
+<guid isPermaLink="false">2507980</guid>
+<pubDate>Fri, 17 Jul 2026 08:14:39 +0000</pubDate>
+<description>Immerse yourself in the reality show — &amp;quot;Breaking Show&amp;quot;, where you engage in real-time battles with various intelligent machines using cybernetic enhancements and weapons. Whether for personal gain or lofty ideals. Fight! Until you reach the final victory on this Rogue-lite journey.</description>
 </item>
 <item>
 <title>Warhammer 40,000: Space Marine 2 - Iron Hands Chapter Pack</title>
