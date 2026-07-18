@@ -4,27 +4,69 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Fri, 17 Jul 2026 19:15:29 +0000</lastBuildDate>
+<lastBuildDate>Sat, 18 Jul 2026 02:44:53 +0000</lastBuildDate>
 <item>
-<title>CD Market - Music Label Sim</title>
-<link>https://store.steampowered.com/app/4622330/</link>
-<guid isPermaLink="false">4622330</guid>
-<pubDate>Fri, 17 Jul 2026 19:15:29 +0000</pubDate>
-<description>CD Market is a music industry management sim where you build a record label on your own terms, from vinyl to digital. Stay small, or grow into something bigger. Discover artists, shape careers, and survive decades of changing formats, trends, rivals, and crises.</description>
+<title>Comic Book Store Simulator</title>
+<link>https://store.steampowered.com/app/3354220/</link>
+<guid isPermaLink="false">3354220</guid>
+<pubDate>Sat, 18 Jul 2026 02:44:53 +0000</pubDate>
+<description>Manage your very own comic book store! You can unlock over 70+ unique comic licenses, each having 5 volumes for you to sell to your customers! Upgrade your tools, hire staffs, and expand your store so you can have the best comic book store in the world!</description>
 </item>
 <item>
-<title>Cheat Death</title>
-<link>https://store.steampowered.com/app/3756340/</link>
-<guid isPermaLink="false">3756340</guid>
-<pubDate>Fri, 17 Jul 2026 19:15:29 +0000</pubDate>
-<description>Play dice poker with the Grim Reaper in a dark strategic roguelite. Build powerful poker hands from cursed dice, stack upgrades, rig the odds, sabotage Death, and survive deadly mini-games with your life on the line.</description>
+<title>Lured In</title>
+<link>https://store.steampowered.com/app/4178020/</link>
+<guid isPermaLink="false">4178020</guid>
+<pubDate>Sat, 18 Jul 2026 02:44:53 +0000</pubDate>
+<description>Run your own cozy aquarium! Travel far and wide to catch exotic fish. Put them on display for idle profits, or sell them for instant cash. Unlock research for new upgrades, and ascend for powerful bonuses. Customize your shop, character, and tanks to make your aquarium your own!</description>
 </item>
 <item>
-<title>Colonies of The Remnant</title>
-<link>https://store.steampowered.com/app/2872600/</link>
-<guid isPermaLink="false">2872600</guid>
-<pubDate>Fri, 17 Jul 2026 19:15:29 +0000</pubDate>
-<description>In a post-apocalyptic world build and lead your own colony under the constant threat of the undead. Recruit survivors, assign roles and decide how your group survives. Fight enemy colonies or form alliances in FPS or TPS combat.</description>
+<title>Magical Girl Witch Trials</title>
+<link>https://store.steampowered.com/app/3101040/</link>
+<guid isPermaLink="false">3101040</guid>
+<pubDate>Sat, 18 Jul 2026 02:44:53 +0000</pubDate>
+<description>Thirteen girls awaken, only to find themselves in a prison. What awaits them: a Witch Trial. Help them prepare for the trial by exploring the prison in order to find the witch hidden amongst them. Find the witch, learn what kind of magic she holds, dispel the lies, and prepare for the execution.</description>
+</item>
+<item>
+<title>Monument Valley 3</title>
+<link>https://store.steampowered.com/app/3132930/</link>
+<guid isPermaLink="false">3132930</guid>
+<pubDate>Sat, 18 Jul 2026 02:44:53 +0000</pubDate>
+<description>Set sail for a world-changing adventure as you guide Noor in their quest through a series of mind-bending illusions and atmospheric puzzles. Can you unlock the secrets of the mysterious world – and the meaning behind the Sacred Light?</description>
+</item>
+<item>
+<title>Pax Dei</title>
+<link>https://store.steampowered.com/app/1995520/</link>
+<guid isPermaLink="false">1995520</guid>
+<pubDate>Sat, 18 Jul 2026 02:44:53 +0000</pubDate>
+<description>Welcome to a vast, social sandbox MMO inspired by the legends of the medieval era. Here, myths are real, ghosts exist, and magic is unquestioned. Join thousands of players as you explore the land, build your home, forge your reputation, and craft your own stories. What world will you make?</description>
+</item>
+<item>
+<title>Starbound</title>
+<link>https://store.steampowered.com/app/211820/</link>
+<guid isPermaLink="false">211820</guid>
+<pubDate>Sat, 18 Jul 2026 02:44:53 +0000</pubDate>
+<description>You’ve fled your home, only to find yourself lost in space with a damaged ship. Your only option is to beam down to the planet below, repair your ship and set off to explore the universe...</description>
+</item>
+<item>
+<title>Tavern Legends</title>
+<link>https://store.steampowered.com/app/3160880/</link>
+<guid isPermaLink="false">3160880</guid>
+<pubDate>Sat, 18 Jul 2026 02:44:53 +0000</pubDate>
+<description>Build and run your own medieval tavern. Cook meals, brew drinks, design every room, hire and manage staff, serve unique guests, handle fights and chaos, and grow from a humble innkeeper into a tavern legend.</description>
+</item>
+<item>
+<title>Toy Keeper</title>
+<link>https://store.steampowered.com/app/4867330/</link>
+<guid isPermaLink="false">4867330</guid>
+<pubDate>Sat, 18 Jul 2026 02:44:53 +0000</pubDate>
+<description>Sort 2,694 toys across a massive three-floor toy store, unlock powerful upgrades, and turn complete chaos into perfect organization in this cozy 3D cleanup game.</description>
+</item>
+<item>
+<title>Wildfrost</title>
+<link>https://store.steampowered.com/app/1811990/</link>
+<guid isPermaLink="false">1811990</guid>
+<pubDate>Sat, 18 Jul 2026 02:44:53 +0000</pubDate>
+<description>Take on the elements in Wildfrost, a tactical roguelike deckbuilder! Journey across a frozen tundra, collecting cards strong enough to banish the eternal winter…</description>
 </item>
 <item>
 <title>Database Detective: Minor Crimes Division</title>
@@ -69,13 +111,6 @@
 <description>Subway Builder is a hyperrealistic transit simulation game. Build a new subway system from the ground up while dealing with real-world constraints and costs. Craft the subway system your city deserves.</description>
 </item>
 <item>
-<title>The House of Tesla: Definitive Edition</title>
-<link>https://store.steampowered.com/app/2738230/</link>
-<guid isPermaLink="false">2738230</guid>
-<pubDate>Fri, 17 Jul 2026 19:15:29 +0000</pubDate>
-<description>Solve intricate puzzles to activate Nikola Tesla's creations, restore Wardenclyffe Tower, and unlock hidden devices in his New York lab. Explore the Chicago World's Fair in this mind-bending puzzle adventure.</description>
-</item>
-<item>
 <title>The Life and Suffering of Sir Brante</title>
 <link>https://store.steampowered.com/app/1272160/</link>
 <guid isPermaLink="false">1272160</guid>
@@ -95,20 +130,6 @@
 <guid isPermaLink="false">3981100</guid>
 <pubDate>Fri, 17 Jul 2026 13:45:09 +0000</pubDate>
 <description>Finally, it's that time of the year to clean up this leafy mess. It's been a while since the last time you've done it, so don't waste any second and derust your raking skills!</description>
-</item>
-<item>
-<title>Commandos: Origins</title>
-<link>https://store.steampowered.com/app/1479730/</link>
-<guid isPermaLink="false">1479730</guid>
-<pubDate>Fri, 17 Jul 2026 08:14:39 +0000</pubDate>
-<description>ALARM! You have been selected for a mission which will shape the fate of the entire world. Witness the very beginning of the legendary elite WWII force in Commandos: Origins. The long-awaited sequel to the Commandos series brings you right back to the foundation of the real-time tactics genre.</description>
-</item>
-<item>
-<title>Meta Ghost: Breaking Show</title>
-<link>https://store.steampowered.com/app/2507980/</link>
-<guid isPermaLink="false">2507980</guid>
-<pubDate>Fri, 17 Jul 2026 08:14:39 +0000</pubDate>
-<description>Immerse yourself in the reality show — &amp;quot;Breaking Show&amp;quot;, where you engage in real-time battles with various intelligent machines using cybernetic enhancements and weapons. Whether for personal gain or lofty ideals. Fight! Until you reach the final victory on this Rogue-lite journey.</description>
 </item>
 <item>
 <title>Warhammer 40,000: Space Marine 2 - Iron Hands Chapter Pack</title>
@@ -132,13 +153,6 @@
 <description>Your favorite pawn shop experience is finally getting a sequel! Haggle like your life depends on it in this funny tycoon game. You never know WHAT is gonna stumble through that door!</description>
 </item>
 <item>
-<title>Dungeons 4</title>
-<link>https://store.steampowered.com/app/1643310/</link>
-<guid isPermaLink="false">1643310</guid>
-<pubDate>Fri, 17 Jul 2026 02:52:29 +0000</pubDate>
-<description>The Absolute Evil and its trusted *cough* servant, the Dark Elf Thalya, return in Dungeons 4 after the events of its fabulous predecessor to bring about their triumph over the forces of good once more.</description>
-</item>
-<item>
 <title>Empyrion - Galactic Survival</title>
 <link>https://store.steampowered.com/app/383120/</link>
 <guid isPermaLink="false">383120</guid>
@@ -153,13 +167,6 @@
 <description>Step into the role of a hands-on mayor and build your town from the ground up. Plan neighborhoods, automate logistics, and grow your community—all while juggling workers, infrastructure, and day-to-day chaos to create your dream town. Play solo for total control, or bring friends for co-op mayhem.</description>
 </item>
 <item>
-<title>Luto</title>
-<link>https://store.steampowered.com/app/1729740/</link>
-<guid isPermaLink="false">1729740</guid>
-<pubDate>Fri, 17 Jul 2026 02:52:29 +0000</pubDate>
-<description>Luto is a psychological horror experience where you take on the role of someone unable to leave their home. Every attempt to escape will lead you deeper into the unknown, where nothing is as it seems and everything will test your senses.</description>
-</item>
-<item>
 <title>Passpartout 2: The Lost Artist</title>
 <link>https://store.steampowered.com/app/1571100/</link>
 <guid isPermaLink="false">1571100</guid>
@@ -172,118 +179,6 @@
 <guid isPermaLink="false">2441700</guid>
 <pubDate>Fri, 17 Jul 2026 02:52:29 +0000</pubDate>
 <description>UNDERGROUND MECH FIGHTS! Wrap yourself in 5 tons of metal &amp;amp; go smashing through a dark scene of full-on metal-on-metal violence!</description>
-</item>
-<item>
-<title>BOOK OF HOURS</title>
-<link>https://store.steampowered.com/app/1028310/</link>
-<guid isPermaLink="false">1028310</guid>
-<pubDate>Thu, 16 Jul 2026 19:16:38 +0000</pubDate>
-<description>Restore a crumbling occult library by a winter sea. Build the world’s foremost collection of grimoires and arcana. Master the invisible arts. BOOK OF HOURS is a narrative crafting RPG set in a 1930s world of hidden gods and secret histories. What sort of Librarian will you choose to be?</description>
-</item>
-<item>
-<title>Dead Weight</title>
-<link>https://store.steampowered.com/app/2646720/</link>
-<guid isPermaLink="false">2646720</guid>
-<pubDate>Thu, 16 Jul 2026 19:16:38 +0000</pubDate>
-<description>Face the Ancient Gods! Set the sails of your flying pirate ship and embark on a roguelite adventure in the steampunk world of Dead Weight. Explore floating islands in search of loot. Choose a class and enjoy turn-based tactical combat on tiny battlefields where every step matters.</description>
-</item>
-<item>
-<title>Detective Grimoire</title>
-<link>https://store.steampowered.com/app/272600/</link>
-<guid isPermaLink="false">272600</guid>
-<pubDate>Thu, 16 Jul 2026 19:16:38 +0000</pubDate>
-<description>Detective Grimoire has been called to investigate a murder. The owner of a small tourist attraction, seemingly killed by the mythical creature his attraction is based around... Explore the area, inspect the crime scene, grill suspects, solve puzzles, hunt for clues &amp;amp; uncover the secret of the swamp!</description>
-</item>
-<item>
-<title>Diggin</title>
-<link>https://store.steampowered.com/app/4157430/</link>
-<guid isPermaLink="false">4157430</guid>
-<pubDate>Thu, 16 Jul 2026 19:16:38 +0000</pubDate>
-<description>Drill into the depths of a meteor crater in this incremental adventure. Mine ores, unlock upgrades and find the cosmic treasure that lies below! Can you uncover what happened to the Moles that came before you?</description>
-</item>
-<item>
-<title>F1® 25</title>
-<link>https://store.steampowered.com/app/3059520/</link>
-<guid isPermaLink="false">3059520</guid>
-<pubDate>Thu, 16 Jul 2026 19:16:38 +0000</pubDate>
-<description>Rewrite The Grid with the ultimate evolution in racing: EA SPORTS™ F1® 25: 2026 Season Edition. Get F1® 25 and the 2026 Season Pack in one bundle for the most complete Formula One® experience.</description>
-</item>
-<item>
-<title>Funnel Runners</title>
-<link>https://store.steampowered.com/app/3712080/</link>
-<guid isPermaLink="false">3712080</guid>
-<pubDate>Thu, 16 Jul 2026 19:16:38 +0000</pubDate>
-<description>Trapped in a doomed city, you and up to 7 friends must scavenge parts, fix your van, and escape the brutal tornado that approaches. A first-person co-op survival game with escalating disasters and total environmental destruction.</description>
-</item>
-<item>
-<title>GROUND BRANCH</title>
-<link>https://store.steampowered.com/app/16900/</link>
-<guid isPermaLink="false">16900</guid>
-<pubDate>Thu, 16 Jul 2026 19:16:38 +0000</pubDate>
-<description>From one of the developers behind the original Rainbow Six® and Ghost Recon® games, comes a thinking-man's first-person shooter featuring in-depth character and weapon customization. Take your time. Think ahead. Get the job done.</description>
-</item>
-<item>
-<title>K-pop Idol Stories: Road to Debut</title>
-<link>https://store.steampowered.com/app/1662160/</link>
-<guid isPermaLink="false">1662160</guid>
-<pubDate>Thu, 16 Jul 2026 19:16:38 +0000</pubDate>
-<description>The ultimate crossover between K-pop and Life Simulation! Step into the role of manager and build your dream idol group by scouting talent, managing schedules, choosing outfits, planning social media, and organizing the perfect album. Can you make it to debut?</description>
-</item>
-<item>
-<title>Looking For Fael</title>
-<link>https://store.steampowered.com/app/2521170/</link>
-<guid isPermaLink="false">2521170</guid>
-<pubDate>Thu, 16 Jul 2026 19:16:38 +0000</pubDate>
-<description>Hello, this is Fael... Listen, this is going to sound strange, but... I think I'm lost in the apartment. Right now... I... I don't know where I am. Can you come and help me?</description>
-</item>
-<item>
-<title>Moss: The Forgotten Relic</title>
-<link>https://store.steampowered.com/app/3914860/</link>
-<guid isPermaLink="false">3914860</guid>
-<pubDate>Thu, 16 Jul 2026 19:16:38 +0000</pubDate>
-<description>Moss: The Forgotten Relic is an emotional and atmospheric adventure set in the pages of a living storybook, brimming with myth and ancient magic. Guide a tiny but determined hero on a heartfelt journey of challenge, courage, and connection.</description>
-</item>
-<item>
-<title>PowerWash Simulator 2 - Adventure Time Pack</title>
-<link>https://store.steampowered.com/app/4173830/</link>
-<guid isPermaLink="false">4173830</guid>
-<pubDate>Thu, 16 Jul 2026 19:16:38 +0000</pubDate>
-<description>What time is it?! The new Adventure Time Pack is set to bring the Ooo to PowerWash Simulator TwOoo. Grab your friends and blast away grime from distant lands or clean up the wreckage of the world as a solo adventurer in five jobs from the world of Adventure Time – the fun will never end!</description>
-</item>
-<item>
-<title>Storebound</title>
-<link>https://store.steampowered.com/app/3417410/</link>
-<guid isPermaLink="false">3417410</guid>
-<pubDate>Thu, 16 Jul 2026 19:16:38 +0000</pubDate>
-<description>A 1-3 player co-op puzzle horror game set in an accursed megastore. Work together to decode the store's twisted logic, and find a way out before the lurking horrors doom you to shop forever.</description>
-</item>
-<item>
-<title>The Mermaid Mask</title>
-<link>https://store.steampowered.com/app/1696770/</link>
-<guid isPermaLink="false">1696770</guid>
-<pubDate>Thu, 16 Jul 2026 19:16:38 +0000</pubDate>
-<description>An impossible locked-room murder: Captain Mortuga lies dead beside an ancient cauldron aboard the world’s strangest submarine, crewed by sketchy suspects. A handcrafted point-and-click with sharp humour and tricky puzzles. Dive into the next mystery from the creators of Tangle Tower &amp;amp; Crow Country.</description>
-</item>
-<item>
-<title>The NOexistenceN of Lilith</title>
-<link>https://store.steampowered.com/app/4643090/</link>
-<guid isPermaLink="false">4643090</guid>
-<pubDate>Thu, 16 Jul 2026 19:16:38 +0000</pubDate>
-<description>Lilith has returned from the fantasy world to become your desktop companion. Watch her wander freely across your screen with lively animations and dynamic real-time behaviors. Spend cozy everyday moments together as she keeps you company and eases the stress of daily life.</description>
-</item>
-<item>
-<title>Tung Tung Tung Survival</title>
-<link>https://store.steampowered.com/app/4855760/</link>
-<guid isPermaLink="false">4855760</guid>
-<pubDate>Thu, 16 Jul 2026 19:16:38 +0000</pubDate>
-<description>Tung Tung Tung Survival is a first-person single-player survival horror experience set across a dense, isolated 1km × 1km island. Search every corner for the scattered parts you need to repair your boat and escape. But you are not alone. You were never alone.</description>
-</item>
-<item>
-<title>Welcome to the Game III</title>
-<link>https://store.steampowered.com/app/3869850/</link>
-<guid isPermaLink="false">3869850</guid>
-<pubDate>Thu, 16 Jul 2026 19:16:38 +0000</pubDate>
-<description>Navigate the internet's dark net, searching for pieces of a puzzle that once combined will clear your outstanding debt. Scan strange websites for info, hack into PCs while defending your own, and buy/sell goods &amp;amp; services, all while avoiding threats in this strategic, suspenseful horror game.</description>
 </item>
 <item>
 <title>The Mound: Omen of Cthulhu – Lost Explorers' Swords Pack</title>
