@@ -4,14 +4,7 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sat, 18 Jul 2026 07:56:32 +0000</lastBuildDate>
-<item>
-<title>Gladio Mori</title>
-<link>https://store.steampowered.com/app/2689120/</link>
-<guid isPermaLink="false">2689120</guid>
-<pubDate>Sat, 18 Jul 2026 07:56:32 +0000</pubDate>
-<description>Gladio Mori is a physics-driven multiplayer gladiator combat game featuring dismemberment, organ-specific damage, and a fully customizable move editor. Craft your own fighting style or use community created movesets to fight your way to glory.</description>
-</item>
+<lastBuildDate>Sat, 18 Jul 2026 13:22:21 +0000</lastBuildDate>
 <item>
 <title>Loco Motive</title>
 <link>https://store.steampowered.com/app/1709880/</link>
@@ -74,6 +67,13 @@
 <guid isPermaLink="false">3160880</guid>
 <pubDate>Sat, 18 Jul 2026 02:44:53 +0000</pubDate>
 <description>Build and run your own medieval tavern. Cook meals, brew drinks, design every room, hire and manage staff, serve unique guests, handle fights and chaos, and grow from a humble innkeeper into a tavern legend.</description>
+</item>
+<item>
+<title>Toy Keeper</title>
+<link>https://store.steampowered.com/app/4867330/</link>
+<guid isPermaLink="false">4867330</guid>
+<pubDate>Sat, 18 Jul 2026 02:44:53 +0000</pubDate>
+<description>Sort 2,694 toys across a massive three-floor toy store, unlock powerful upgrades, and turn complete chaos into perfect organization in this cozy 3D cleanup game.</description>
 </item>
 <item>
 <title>Wildfrost</title>
@@ -151,20 +151,6 @@
 <guid isPermaLink="false">3981100</guid>
 <pubDate>Fri, 17 Jul 2026 13:45:09 +0000</pubDate>
 <description>Finally, it's that time of the year to clean up this leafy mess. It's been a while since the last time you've done it, so don't waste any second and derust your raking skills!</description>
-</item>
-<item>
-<title>Meta Ghost: Breaking Show</title>
-<link>https://store.steampowered.com/app/2507980/</link>
-<guid isPermaLink="false">2507980</guid>
-<pubDate>Fri, 17 Jul 2026 08:14:39 +0000</pubDate>
-<description>Immerse yourself in the reality show — &amp;quot;Breaking Show&amp;quot;, where you engage in real-time battles with various intelligent machines using cybernetic enhancements and weapons. Whether for personal gain or lofty ideals. Fight! Until you reach the final victory on this Rogue-lite journey.</description>
-</item>
-<item>
-<title>Warhammer 40,000: Space Marine 2 - Iron Hands Chapter Pack</title>
-<link>https://store.steampowered.com/app/3871390/</link>
-<guid isPermaLink="false">3871390</guid>
-<pubDate>Fri, 17 Jul 2026 08:14:39 +0000</pubDate>
-<description>Rise above the concerns of flesh with the Iron Hands Chapter Pack, for the flesh is weak! This Pack contains over 25 cosmetic items and heraldry for 4 Iron Hands Successor Chapters. This DLC is available as part of the Season Pass 2.</description>
 </item>
 <item>
 <title>The Mound: Omen of Cthulhu – Lost Explorers' Swords Pack</title>
