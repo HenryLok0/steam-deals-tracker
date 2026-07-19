@@ -4,7 +4,21 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sun, 19 Jul 2026 15:45:04 +0000</lastBuildDate>
+<lastBuildDate>Sun, 19 Jul 2026 19:10:43 +0000</lastBuildDate>
+<item>
+<title>Dune: Imperium</title>
+<link>https://store.steampowered.com/app/1689500/</link>
+<guid isPermaLink="false">1689500</guid>
+<pubDate>Sun, 19 Jul 2026 19:10:43 +0000</pubDate>
+<description>The award-winning board game of strategy and intrigue in the iconic universe of Dune. The Spice must flow.</description>
+</item>
+<item>
+<title>Rising World</title>
+<link>https://store.steampowered.com/app/324080/</link>
+<guid isPermaLink="false">324080</guid>
+<pubDate>Sun, 19 Jul 2026 19:10:43 +0000</pubDate>
+<description>Rising World is a voxel based open-world sandbox game, featuring a procedurally generated world, playable in single and multi-player.</description>
+</item>
 <item>
 <title>Chest Buster</title>
 <link>https://store.steampowered.com/app/4624560/</link>
@@ -32,20 +46,6 @@
 <guid isPermaLink="false">916350</guid>
 <pubDate>Sun, 19 Jul 2026 03:14:34 +0000</pubDate>
 <description>A Single-Player Survival Horror Adventure: play as a cast of characters exploring an isolated village haunted by an ancient ritual—but beware, its labyrinthine roads will change each time you lose all your characters.</description>
-</item>
-<item>
-<title>Creaks</title>
-<link>https://store.steampowered.com/app/956030/</link>
-<guid isPermaLink="false">956030</guid>
-<pubDate>Sat, 18 Jul 2026 19:09:43 +0000</pubDate>
-<description>The ground starts shaking, light bulbs are breaking - and something rather unusual is happening right behind the walls of your very room. Equipped with nothing but wit and courage, you slowly descend into a world inhabited by avian folk and seemingly deadly furniture monsters.</description>
-</item>
-<item>
-<title>The Operator</title>
-<link>https://store.steampowered.com/app/1771980/</link>
-<guid isPermaLink="false">1771980</guid>
-<pubDate>Sat, 18 Jul 2026 19:09:43 +0000</pubDate>
-<description>Welcome to the FDI. As our newest Operator, your role is to use your detective skills to assist our field agents and investigate mysterious crimes. Use cutting-edge FDI software to dig for clues, solve puzzles, and uncover the truth.</description>
 </item>
 <item>
 <title>The Life and Suffering of Sir Brante</title>
