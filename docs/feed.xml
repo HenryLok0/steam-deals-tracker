@@ -4,20 +4,27 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Mon, 20 Jul 2026 09:20:14 +0000</lastBuildDate>
+<lastBuildDate>Mon, 20 Jul 2026 14:12:28 +0000</lastBuildDate>
+<item>
+<title>Afallon</title>
+<link>https://store.steampowered.com/app/2597810/</link>
+<guid isPermaLink="false">2597810</guid>
+<pubDate>Mon, 20 Jul 2026 14:12:28 +0000</pubDate>
+<description>Afallon is a single-player RPG with the feel of an MMO. Choose your class and race to forge a unique character, explore a large open world with diverse zones and biomes, and experience a living world that changes based on your actions.</description>
+</item>
+<item>
+<title>EverRail</title>
+<link>https://store.steampowered.com/app/4134600/</link>
+<guid isPermaLink="false">4134600</guid>
+<pubDate>Mon, 20 Jul 2026 14:12:28 +0000</pubDate>
+<description>Every passenger is a life. Every death brings the end closer. An open world survival crafting game where you explore, scavenge, and craft to endure on the frozen exomoon Inara. Command and upgrade your ever-moving train, solo or with up to 4 players. Move or freeze.</description>
+</item>
 <item>
 <title>Deep Space Outpost</title>
 <link>https://store.steampowered.com/app/1712110/</link>
 <guid isPermaLink="false">1712110</guid>
 <pubDate>Mon, 20 Jul 2026 09:20:14 +0000</pubDate>
 <description>Deep Space Outpost is a space station building &amp;amp; survival game, involving resource and base management. Build your space station tile by tile, mine asteroids, refine materials and keep your station operational.</description>
-</item>
-<item>
-<title>Dominion Of The Forgotten</title>
-<link>https://store.steampowered.com/app/3825860/</link>
-<guid isPermaLink="false">3825860</guid>
-<pubDate>Mon, 20 Jul 2026 09:20:14 +0000</pubDate>
-<description>Dominion Of The Forgotten is a build-crafting Roguelike. As an explorer of the United Expedition, venture into a mist-shrouded ancient continent in search of lost Dominions. Explore, battle, collect Relics, and extract safely during time-limited expeditions.</description>
 </item>
 <item>
 <title>Feed the Reactor</title>
