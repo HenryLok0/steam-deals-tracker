@@ -4,7 +4,21 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sun, 19 Jul 2026 19:10:43 +0000</lastBuildDate>
+<lastBuildDate>Mon, 20 Jul 2026 03:54:53 +0000</lastBuildDate>
+<item>
+<title>Feed the Reactor</title>
+<link>https://store.steampowered.com/app/4009730/</link>
+<guid isPermaLink="false">4009730</guid>
+<pubDate>Mon, 20 Jul 2026 03:54:53 +0000</pubDate>
+<description>An incremental unfolding game about feeding fuel into a reactor. Combine elements to produce energy, unlock exotic technologies and explore a strange galaxy.</description>
+</item>
+<item>
+<title>Rise of Piracy</title>
+<link>https://store.steampowered.com/app/1400660/</link>
+<guid isPermaLink="false">1400660</guid>
+<pubDate>Mon, 20 Jul 2026 03:54:53 +0000</pubDate>
+<description>The perfect blend of Action, Adventure and RTS. Begin your journey as the lowly captain of a small vessel. End as the commander of a threatening fleet. Rise to glory how you see fit. Trade, fight, recruit, grow, pillage, ally, destroy &amp;amp; conquer.</description>
+</item>
 <item>
 <title>Dune: Imperium</title>
 <link>https://store.steampowered.com/app/1689500/</link>
@@ -18,34 +32,6 @@
 <guid isPermaLink="false">324080</guid>
 <pubDate>Sun, 19 Jul 2026 19:10:43 +0000</pubDate>
 <description>Rising World is a voxel based open-world sandbox game, featuring a procedurally generated world, playable in single and multi-player.</description>
-</item>
-<item>
-<title>Chest Buster</title>
-<link>https://store.steampowered.com/app/4624560/</link>
-<guid isPermaLink="false">4624560</guid>
-<pubDate>Sun, 19 Jul 2026 13:23:46 +0000</pubDate>
-<description>An incremental battle game where destroying treasure chests instantly brings item effects into battle to fight enemies. Break all the seals on the Abyss Chest and liberate the great being who will save the world!</description>
-</item>
-<item>
-<title>Little Problems: A Cozy Detective Game</title>
-<link>https://store.steampowered.com/app/2653470/</link>
-<guid isPermaLink="false">2653470</guid>
-<pubDate>Sun, 19 Jul 2026 03:14:34 +0000</pubDate>
-<description>Little Problems is a Cozy Detective game about solving minor inconveniences, everyday misunderstandings, and of course, little problems. This game is not about saving the world; it's about enriching it, one case at a time.</description>
-</item>
-<item>
-<title>NITRO GEN OMEGA</title>
-<link>https://store.steampowered.com/app/2525510/</link>
-<guid isPermaLink="false">2525510</guid>
-<pubDate>Sun, 19 Jul 2026 03:14:34 +0000</pubDate>
-<description>A sandbox tactical RPG of steel, fire, friendship, and shonen anime. Assemble your crew, customize your Mech, and lead them in cinematic turn-based battles through a world ruled by rogue AI. The bonds you forge will decide who survives!</description>
-</item>
-<item>
-<title>Saturnalia</title>
-<link>https://store.steampowered.com/app/916350/</link>
-<guid isPermaLink="false">916350</guid>
-<pubDate>Sun, 19 Jul 2026 03:14:34 +0000</pubDate>
-<description>A Single-Player Survival Horror Adventure: play as a cast of characters exploring an isolated village haunted by an ancient ritual—but beware, its labyrinthine roads will change each time you lose all your characters.</description>
 </item>
 <item>
 <title>The Life and Suffering of Sir Brante</title>
