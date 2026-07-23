@@ -4,7 +4,14 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Thu, 23 Jul 2026 05:46:16 +0000</lastBuildDate>
+<lastBuildDate>Thu, 23 Jul 2026 08:34:50 +0000</lastBuildDate>
+<item>
+<title>Atomcraft</title>
+<link>https://store.steampowered.com/app/2803490/</link>
+<guid isPermaLink="false">2803490</guid>
+<pubDate>Thu, 23 Jul 2026 08:34:50 +0000</pubDate>
+<description>A sandbox adventure where every pixel is physically and chemically simulated! Build intricate, fully functional machines from the pixels around you. Harvest, react, and manipulate all 118 elements to craft everything from simple tools to complex systems.</description>
+</item>
 <item>
 <title>Birds of War</title>
 <link>https://store.steampowered.com/app/4223300/</link>
@@ -130,13 +137,6 @@
 <guid isPermaLink="false">3907790</guid>
 <pubDate>Wed, 22 Jul 2026 14:02:49 +0000</pubDate>
 <description>Oxygen Train is an open-world survival train game. Wake up in a world lacking oxygen. Chop trees, mine, gather resources, upgrade your unique train. Survive by planting, fishing, farming, exploring, fighting. Build your train kingdom. Supports 1-8 online co-op.</description>
-</item>
-<item>
-<title>Reap and Rush</title>
-<link>https://store.steampowered.com/app/3116700/</link>
-<guid isPermaLink="false">3116700</guid>
-<pubDate>Wed, 22 Jul 2026 08:33:35 +0000</pubDate>
-<description>Reap and Rush is an absurdly addictive action roguelike. Step into the role of an underworld envoy thrust into a chaotic underworld. Fight through hordes of Yaoguai, leveling-up skills to become a soul-harvesting reaper and unravel a shocking conspiracy across endless cycles...</description>
 </item>
 <item>
 <title>The Life and Suffering of Sir Brante</title>
