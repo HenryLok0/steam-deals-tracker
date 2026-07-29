@@ -4,7 +4,14 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Wed, 29 Jul 2026 05:44:03 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 08:45:18 +0000</lastBuildDate>
+<item>
+<title>IDLE_DIRECTIVE</title>
+<link>https://store.steampowered.com/app/4599710/</link>
+<guid isPermaLink="false">4599710</guid>
+<pubDate>Wed, 29 Jul 2026 08:45:18 +0000</pubDate>
+<description>Idly gather and manage resources to repair what's left of a decaying world. Scavenge forgotten ruins, meet scattered survivors, and push back against the inevitable collapse. IDLE_DIRECTIVE is a grid-based inventory and resource management idle game.</description>
+</item>
 <item>
 <title>Brutal Legend</title>
 <link>https://store.steampowered.com/app/225260/</link>
@@ -27,32 +34,11 @@
 <description>Build your apiary on islands above the clouds, travel on your medocycle, crossbreed bees with unique traits and create a cozy home in the sky. Grow plants, explore islands and send healing honey down to Earth, where people still hope for your help.</description>
 </item>
 <item>
-<title>LEGO® STAR WARS™: The Force Awakens</title>
-<link>https://store.steampowered.com/app/438640/</link>
-<guid isPermaLink="false">438640</guid>
-<pubDate>Wed, 29 Jul 2026 02:52:20 +0000</pubDate>
-<description>The No. 1 LEGO® videogame franchise triumphantly returns with a fun-filled, humorous journey based on the blockbuster film. The game will also feature brand new story content from the Star Wars Universe that explores the time between Star Wars: Return of the Jedi and Star Wars: The Force Awakens.</description>
-</item>
-<item>
 <title>Lunarium</title>
 <link>https://store.steampowered.com/app/2939790/</link>
 <guid isPermaLink="false">2939790</guid>
 <pubDate>Wed, 29 Jul 2026 02:52:20 +0000</pubDate>
 <description>Lunarium is an atmospheric fantasy A-RPG. Play as Ave, a light-armored knight, who teams up with Lune, a mysterious Starfarer. Together, they journey to save a dying world, engaging in challenging battles to retrieve the lost glow of the stars and forsaken memories, unveiling cosmic secrets.</description>
-</item>
-<item>
-<title>Reaper Actual</title>
-<link>https://store.steampowered.com/app/2995670/</link>
-<guid isPermaLink="false">2995670</guid>
-<pubDate>Wed, 29 Jul 2026 02:52:20 +0000</pubDate>
-<description>Reaper Actual is an Open-World Persistent Shooter where hundreds of players engage in FPS combat against each other and 5 NPC Factions on the massive war-torn island of Marova. Level your Reapers, maintain a home Base, and complete missions to earn gear and reshape the world.</description>
-</item>
-<item>
-<title>Shadow Warrior 3: Definitive Edition</title>
-<link>https://store.steampowered.com/app/1036890/</link>
-<guid isPermaLink="false">1036890</guid>
-<pubDate>Wed, 29 Jul 2026 02:52:20 +0000</pubDate>
-<description>Take an adrenaline-fueled journey through a mythical Japanese realm in the Definitive Edition of Shadow Warrior 3, packed with new features, and enjoy an ultraviolent blend of fast-paced gunplay, razor-sharp melee combat, and spectacular free-running movement.</description>
 </item>
 <item>
 <title>Tainted Grail: Conquest</title>
@@ -88,13 +74,6 @@
 <guid isPermaLink="false">4805300</guid>
 <pubDate>Tue, 28 Jul 2026 19:37:07 +0000</pubDate>
 <description>Take up the holy duties of the new Priest class and brave a fallen sanctum in the Celestial Ruins Expansion for Heroes of Hammerwatch II.</description>
-</item>
-<item>
-<title>LEGO® The Incredibles</title>
-<link>https://store.steampowered.com/app/818320/</link>
-<guid isPermaLink="false">818320</guid>
-<pubDate>Tue, 28 Jul 2026 19:37:07 +0000</pubDate>
-<description>Experience the thrilling adventures of the Parr family as they conquer crime and family life through both Disney-Pixar films The Incredibles and Incredibles 2, in a LEGO® world full of fun and humor.</description>
 </item>
 <item>
 <title>My Infamous Dungeon</title>
