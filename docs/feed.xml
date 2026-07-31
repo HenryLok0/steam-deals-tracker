@@ -4,7 +4,28 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Fri, 31 Jul 2026 08:53:57 +0000</lastBuildDate>
+<lastBuildDate>Fri, 31 Jul 2026 14:14:21 +0000</lastBuildDate>
+<item>
+<title>DragonSword : Awakening - Costume : Coral Summer Mischief</title>
+<link>https://store.steampowered.com/app/4911300/</link>
+<guid isPermaLink="false">4911300</guid>
+<pubDate>Fri, 31 Jul 2026 14:14:21 +0000</pubDate>
+<description>Purchasing this content lets you obtain &amp;quot;Coral Summer Mischief&amp;quot; which adorns Astria's outfit, and &amp;quot;Sunshine Heartshot&amp;quot; which adorns the weapon's appearance.</description>
+</item>
+<item>
+<title>DragonSword : Awakening - Costume : White Flower of the Blue Waves</title>
+<link>https://store.steampowered.com/app/4911310/</link>
+<guid isPermaLink="false">4911310</guid>
+<pubDate>Fri, 31 Jul 2026 14:14:21 +0000</pubDate>
+<description>Purchasing this content lets you obtain &amp;quot;White Flower of the Blue Waves&amp;quot; which adorns Reina's outfit, and &amp;quot;Petals at the Wave's Edge&amp;quot; which adorns the weapon's appearance.</description>
+</item>
+<item>
+<title>Galactic Civilizations IV: Federations &amp; Empires</title>
+<link>https://store.steampowered.com/app/4130610/</link>
+<guid isPermaLink="false">4130610</guid>
+<pubDate>Fri, 31 Jul 2026 14:14:21 +0000</pubDate>
+<description>The largest governance overhaul in the history of the series. Federations &amp;amp; Empires adds four new forms of government to Galactic Civilizations IV, each with its own UI, resources, ships, and political mechanics, giving you four different ways to play.</description>
+</item>
 <item>
 <title>Wolfenstein: Youngblood</title>
 <link>https://store.steampowered.com/app/1056960/</link>
@@ -235,13 +256,6 @@
 <guid isPermaLink="false">3282420</guid>
 <pubDate>Thu, 30 Jul 2026 19:37:00 +0000</pubDate>
 <description>Build the ultimate Zoo in this number-go-up roguelike deckbuilder. Find powerful mythical animals, boost them with snacks, and even manipulate the board itself. Break the game by scoring millions (and more) with insane combos.</description>
-</item>
-<item>
-<title>Baldur's Gate 3 - Digital Deluxe Edition DLC</title>
-<link>https://store.steampowered.com/app/2378500/</link>
-<guid isPermaLink="false">2378500</guid>
-<pubDate>Thu, 30 Jul 2026 14:09:16 +0000</pubDate>
-<description>The Digital Deluxe Edition includes both practical and cosmetic in-game items, such as a unique custom dice skin and the Mask of the Shapeshifter from Divinity: Original Sin 2. As well as the Original Game Soundtrack for Baldur's Gate 3, digital Artbook and printable pre-made Origin character sheets</description>
 </item>
 </channel>
 </rss>
