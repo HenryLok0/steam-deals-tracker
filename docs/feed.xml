@@ -4,7 +4,14 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Fri, 31 Jul 2026 05:58:33 +0000</lastBuildDate>
+<lastBuildDate>Fri, 31 Jul 2026 08:53:57 +0000</lastBuildDate>
+<item>
+<title>Wolfenstein: Youngblood</title>
+<link>https://store.steampowered.com/app/1056960/</link>
+<guid isPermaLink="false">1056960</guid>
+<pubDate>Fri, 31 Jul 2026 08:53:57 +0000</pubDate>
+<description>Wolfenstein: Youngblood is the first modern co-op Wolfenstein adventure. Team up with a friend or play solo as one of BJ Blazkowicz’s twin daughters and wield a powerful arsenal of new weapons, gadgets, and abilities to liberate Paris from the Nazis.</description>
+</item>
 <item>
 <title>DEATHLOOP</title>
 <link>https://store.steampowered.com/app/1252330/</link>
@@ -125,6 +132,13 @@
 <description>Now includes all three premium DLC packs (Unto the Evil, Hell Followed, and Bloodfall), maps, modes, and weapons, as well as all feature updates including Arcade Mode, Photo Mode, and the latest Update 6.66, which brings further multiplayer improvements as well as revamps multiplayer progression.</description>
 </item>
 <item>
+<title>Dwarves: Glory, Death and Loot</title>
+<link>https://store.steampowered.com/app/2205850/</link>
+<guid isPermaLink="false">2205850</guid>
+<pubDate>Thu, 30 Jul 2026 19:37:00 +0000</pubDate>
+<description>Build and command your own party of Dwarves in this mix of Auto Battler, Strategy, and RPG. Prepare formations, assign equipment, and decide the fate of up to 10 Beardlings, as you lead the raid party through reckless runs filled with Glory, Death, and Loot!</description>
+</item>
+<item>
 <title>Fallout 3: Game of the Year Edition</title>
 <link>https://store.steampowered.com/app/22370/</link>
 <guid isPermaLink="false">22370</guid>
@@ -172,6 +186,13 @@
 <guid isPermaLink="false">2984850</guid>
 <pubDate>Thu, 30 Jul 2026 19:37:00 +0000</pubDate>
 <description>Rita is a cozy adventure where a little chicklet solves word-based puzzles to transform the world around her. Follow her story across generations, meet her grandchicklet, and be a part of her legacy.</description>
+</item>
+<item>
+<title>Signy &amp; Mino: Against All Gods</title>
+<link>https://store.steampowered.com/app/2379160/</link>
+<guid isPermaLink="false">2379160</guid>
+<pubDate>Thu, 30 Jul 2026 19:37:00 +0000</pubDate>
+<description>Signy &amp;amp; Mino is a Tag-Team Battle RPG where every move combos together! Discover your hidden powers as you find yourself hurtled into a conflict among the gods</description>
 </item>
 <item>
 <title>Sudden Strike 5</title>
