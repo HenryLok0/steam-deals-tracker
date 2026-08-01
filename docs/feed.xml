@@ -4,7 +4,14 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sat, 01 Aug 2026 05:47:58 +0000</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 08:25:17 +0000</lastBuildDate>
+<item>
+<title>Manga Club Advisor wants to support Saeki Sasara</title>
+<link>https://store.steampowered.com/app/4295960/</link>
+<guid isPermaLink="false">4295960</guid>
+<pubDate>Sat, 01 Aug 2026 08:25:17 +0000</pubDate>
+<description>One day, a student in your class blurts out, &amp;quot;I want to make manga!&amp;quot; As her homeroom teacher, you decide to create a club with her and carefully guide Saeki-san in achieving her dream.</description>
+</item>
 <item>
 <title>Everdell</title>
 <link>https://store.steampowered.com/app/1722840/</link>
@@ -55,6 +62,13 @@
 <description>If you enjoyed the game and want to support our team, purchasing this pack is the best way to express yourself!</description>
 </item>
 <item>
+<title>WARSHIFT 2</title>
+<link>https://store.steampowered.com/app/3522360/</link>
+<guid isPermaLink="false">3522360</guid>
+<pubDate>Fri, 31 Jul 2026 19:38:21 +0000</pubDate>
+<description>WARSHIFT 2 blends RTS, Action, and RPG progression. Build bases and command troops, mechs, battleships, and aircraft carriers. Then take direct control of your hero and fight alongside your army. Customize your heroes with weapons and upgrades.</description>
+</item>
+<item>
 <title>Waterpark Simulator</title>
 <link>https://store.steampowered.com/app/3293260/</link>
 <guid isPermaLink="false">3293260</guid>
@@ -74,6 +88,13 @@
 <guid isPermaLink="false">4911310</guid>
 <pubDate>Fri, 31 Jul 2026 14:14:21 +0000</pubDate>
 <description>Purchasing this content lets you obtain &amp;quot;White Flower of the Blue Waves&amp;quot; which adorns Reina's outfit, and &amp;quot;Petals at the Wave's Edge&amp;quot; which adorns the weapon's appearance.</description>
+</item>
+<item>
+<title>Wolfenstein: Youngblood</title>
+<link>https://store.steampowered.com/app/1056960/</link>
+<guid isPermaLink="false">1056960</guid>
+<pubDate>Fri, 31 Jul 2026 08:53:57 +0000</pubDate>
+<description>Wolfenstein: Youngblood is the first modern co-op Wolfenstein adventure. Team up with a friend or play solo as one of BJ Blazkowicz’s twin daughters and wield a powerful arsenal of new weapons, gadgets, and abilities to liberate Paris from the Nazis.</description>
 </item>
 </channel>
 </rss>
