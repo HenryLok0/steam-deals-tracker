@@ -4,7 +4,14 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sun, 02 Aug 2026 19:15:10 +0000</lastBuildDate>
+<lastBuildDate>Mon, 03 Aug 2026 03:19:15 +0000</lastBuildDate>
+<item>
+<title>A Difficult Game About Climbing</title>
+<link>https://store.steampowered.com/app/2497920/</link>
+<guid isPermaLink="false">2497920</guid>
+<pubDate>Mon, 03 Aug 2026 03:19:15 +0000</pubDate>
+<description>This is a difficult game about climbing.</description>
+</item>
 <item>
 <title>The Legend of Heroes: Trails beyond the Horizon</title>
 <link>https://store.steampowered.com/app/3316940/</link>
@@ -18,48 +25,6 @@
 <guid isPermaLink="false">437920</guid>
 <pubDate>Sun, 02 Aug 2026 19:15:10 +0000</pubDate>
 <description>With your brilliant robe and magic powers, it’s time to build some Tricky Towers! Stack your bricks in this land of fable, whose marvelous tower will be the most stable? Battle your friends and rise to fame, in this frantic physics game.</description>
-</item>
-<item>
-<title>GRANDIA HD Remaster</title>
-<link>https://store.steampowered.com/app/1034860/</link>
-<guid isPermaLink="false">1034860</guid>
-<pubDate>Sun, 02 Aug 2026 03:17:20 +0000</pubDate>
-<description>GRANDIA HD Remaster brings enhanced visuals to both gameplay and cinematic videos.</description>
-</item>
-<item>
-<title>GRANDIA II HD Remaster</title>
-<link>https://store.steampowered.com/app/330390/</link>
-<guid isPermaLink="false">330390</guid>
-<pubDate>Sun, 02 Aug 2026 03:17:20 +0000</pubDate>
-<description>Grandia II is back and better than ever! The classic Japanese RPG returns with enhanced visuals, new difficulty level, and features both keyboard and gamepad support!</description>
-</item>
-<item>
-<title>LUNAR Remastered Collection</title>
-<link>https://store.steampowered.com/app/3255380/</link>
-<guid isPermaLink="false">3255380</guid>
-<pubDate>Sun, 02 Aug 2026 03:17:20 +0000</pubDate>
-<description>Dive into the enchanting worlds of LUNAR: Silver Star Story Complete and LUNAR 2: Eternal Blue Complete! Tag along on Alex and Hiro's quests and challenge enemies like the Magic Emperor and God of Destruction to save the world from dire peril in two adventures set 1000 years apart from each other!</description>
-</item>
-<item>
-<title>Spirit of the North</title>
-<link>https://store.steampowered.com/app/1213700/</link>
-<guid isPermaLink="false">1213700</guid>
-<pubDate>Sun, 02 Aug 2026 03:17:20 +0000</pubDate>
-<description>Spirit of the North is a single-player 3rd-person adventure game inspired by the breathtaking and mysterious landscapes of Iceland. Play as an ordinary red fox whose story becomes entwined with the guardian of the Northern Lights, a female spirit fox.</description>
-</item>
-<item>
-<title>Spirit of the North 2</title>
-<link>https://store.steampowered.com/app/1778840/</link>
-<guid isPermaLink="false">1778840</guid>
-<pubDate>Sun, 02 Aug 2026 03:17:20 +0000</pubDate>
-<description>Unveil the mysteries of a beautiful ancient world in this breathtaking 3rd-Person Adventure, a sequel to the acclaimed ‘Spirit of the North.’ Take on the role of an isolated fox with a raven companion on a quest to restore the lost guardians and return home.</description>
-</item>
-<item>
-<title>Super Mining Mechs</title>
-<link>https://store.steampowered.com/app/2830150/</link>
-<guid isPermaLink="false">2830150</guid>
-<pubDate>Sun, 02 Aug 2026 03:17:20 +0000</pubDate>
-<description>Build your own Super Mining Mech and explore the underground in search of new natural resources. Customize your mech with unlockable parts to dig deeper than ever - by yourself or with up to 7 friends in online co-op multiplayer! So, what are you waiting for? There’s mining to be done!</description>
 </item>
 </channel>
 </rss>
