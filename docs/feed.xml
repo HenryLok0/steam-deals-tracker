@@ -4,7 +4,56 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Mon, 03 Aug 2026 17:03:47 +0000</lastBuildDate>
+<lastBuildDate>Mon, 03 Aug 2026 19:41:44 +0000</lastBuildDate>
+<item>
+<title>Anomaly President</title>
+<link>https://store.steampowered.com/app/3156330/</link>
+<guid isPermaLink="false">3156330</guid>
+<pubDate>Mon, 03 Aug 2026 19:41:44 +0000</pubDate>
+<description>In this presidential rogue-like action game, gather votes and run for presidency by day, then transform into a warrior to take down your enemies by night! Master unique skills to become a swordmaster, a cyber mage, or anything in between, and overthrow the ruthless president!</description>
+</item>
+<item>
+<title>BlazBlue Entropy Effect</title>
+<link>https://store.steampowered.com/app/2273430/</link>
+<guid isPermaLink="false">2273430</guid>
+<pubDate>Mon, 03 Aug 2026 19:41:44 +0000</pubDate>
+<description>Enjoy action-packed flashy combat with incredibly satisfying combos and responsive controls! Numerous characters, each with completely unique playstyles and loads of unlockable moves &amp;amp; upgrades! This action roguelike sets the bar for fluid fast-paced action.</description>
+</item>
+<item>
+<title>Bomb Rush Cyberfunk</title>
+<link>https://store.steampowered.com/app/1353230/</link>
+<guid isPermaLink="false">1353230</guid>
+<pubDate>Mon, 03 Aug 2026 19:41:44 +0000</pubDate>
+<description>Bomb Rush Cyberfunk is 1 second per second of advanced funkstyle. Battle rival crews and dispatch militarized police to conquer the five boroughs of New Amsterdam. Become All City.</description>
+</item>
+<item>
+<title>MechWarrior 5: Mercenaries - Chaos Reign</title>
+<link>https://store.steampowered.com/app/4371500/</link>
+<guid isPermaLink="false">4371500</guid>
+<pubDate>Mon, 03 Aug 2026 19:41:44 +0000</pubDate>
+<description>Three years after the Clan war and the Tukayyid truce, chaos looms across the Inner Sphere. ComStar’s betrayal and a high-profile assassination shatter fragile unity. Commander Jake Mason uncovers critical Clan intel that could shift the war. New campaigns, mechs, and more await.</description>
+</item>
+<item>
+<title>Super Woden: Rally Edge</title>
+<link>https://store.steampowered.com/app/3218630/</link>
+<guid isPermaLink="false">3218630</guid>
+<pubDate>Mon, 03 Aug 2026 19:41:44 +0000</pubDate>
+<description>The spin-off of the acclaimed Super Woden saga, blending classic arcade essence with great depth and a genuine love for car culture. With a unique personality, Rally Edge takes you back to an era where fun goes beyond realism.</description>
+</item>
+<item>
+<title>The Ascent</title>
+<link>https://store.steampowered.com/app/979690/</link>
+<guid isPermaLink="false">979690</guid>
+<pubDate>Mon, 03 Aug 2026 19:41:44 +0000</pubDate>
+<description>The Ascent is a solo and co-op Action-shooter RPG set in a cyberpunk world. The mega corporation that owns you and everyone, The Ascent Group, has just collapsed. Can you survive without it?</description>
+</item>
+<item>
+<title>The Ascent - Cyber Heist</title>
+<link>https://store.steampowered.com/app/1802470/</link>
+<guid isPermaLink="false">1802470</guid>
+<pubDate>Mon, 03 Aug 2026 19:41:44 +0000</pubDate>
+<description>Completed The Ascent but are itching for more? Cyber Heist is for you! Solo or in co-op with your friends, take on new challenging missions, explore brand new environments, fight your way against new enemies, and experience new ways of fighting using melee weapons!</description>
+</item>
 <item>
 <title>Kin and Conquest</title>
 <link>https://store.steampowered.com/app/4540820/</link>
@@ -18,20 +67,6 @@
 <guid isPermaLink="false">2497920</guid>
 <pubDate>Mon, 03 Aug 2026 03:19:15 +0000</pubDate>
 <description>This is a difficult game about climbing.</description>
-</item>
-<item>
-<title>The Legend of Heroes: Trails beyond the Horizon</title>
-<link>https://store.steampowered.com/app/3316940/</link>
-<guid isPermaLink="false">3316940</guid>
-<pubDate>Sun, 02 Aug 2026 19:15:10 +0000</pubDate>
-<description>The future of an entire continent is at stake in this milestone entry in the Trails series! Explore the vast Calvard Republic with three different protagonists, nurture connections, and master powerful skills in both real-time and turn-based battles as you uncover the secrets at the core of Zemuria!</description>
-</item>
-<item>
-<title>Tricky Towers</title>
-<link>https://store.steampowered.com/app/437920/</link>
-<guid isPermaLink="false">437920</guid>
-<pubDate>Sun, 02 Aug 2026 19:15:10 +0000</pubDate>
-<description>With your brilliant robe and magic powers, it’s time to build some Tricky Towers! Stack your bricks in this land of fable, whose marvelous tower will be the most stable? Battle your friends and rise to fame, in this frantic physics game.</description>
 </item>
 </channel>
 </rss>
