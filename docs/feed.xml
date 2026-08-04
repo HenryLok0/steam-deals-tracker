@@ -4,7 +4,7 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Tue, 04 Aug 2026 14:22:47 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 16:46:02 +0000</lastBuildDate>
 <item>
 <title>Big Walk</title>
 <link>https://store.steampowered.com/app/1478500/</link>
@@ -235,13 +235,6 @@
 <guid isPermaLink="false">1802470</guid>
 <pubDate>Mon, 03 Aug 2026 19:41:44 +0000</pubDate>
 <description>Completed The Ascent but are itching for more? Cyber Heist is for you! Solo or in co-op with your friends, take on new challenging missions, explore brand new environments, fight your way against new enemies, and experience new ways of fighting using melee weapons!</description>
-</item>
-<item>
-<title>Kin and Conquest</title>
-<link>https://store.steampowered.com/app/4540820/</link>
-<guid isPermaLink="false">4540820</guid>
-<pubDate>Mon, 03 Aug 2026 14:45:42 +0000</pubDate>
-<description>An incremental / idle action adventure game where you must battle foes, mine rocks, defeat bosses, and grow stronger in your quest to conquer the mountain and defeat the Evil Geomancer.</description>
 </item>
 </channel>
 </rss>
