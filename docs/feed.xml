@@ -4,7 +4,7 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Tue, 04 Aug 2026 02:48:21 +0000</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 05:41:01 +0000</lastBuildDate>
 <item>
 <title>Descenders</title>
 <link>https://store.steampowered.com/app/681280/</link>
@@ -186,13 +186,6 @@
 <guid isPermaLink="false">4540820</guid>
 <pubDate>Mon, 03 Aug 2026 14:45:42 +0000</pubDate>
 <description>An incremental / idle action adventure game where you must battle foes, mine rocks, defeat bosses, and grow stronger in your quest to conquer the mountain and defeat the Evil Geomancer.</description>
-</item>
-<item>
-<title>A Difficult Game About Climbing</title>
-<link>https://store.steampowered.com/app/2497920/</link>
-<guid isPermaLink="false">2497920</guid>
-<pubDate>Mon, 03 Aug 2026 03:19:15 +0000</pubDate>
-<description>This is a difficult game about climbing.</description>
 </item>
 </channel>
 </rss>
