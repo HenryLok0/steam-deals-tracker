@@ -4,7 +4,7 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Wed, 05 Aug 2026 14:17:04 +0000</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 16:25:56 +0000</lastBuildDate>
 <item>
 <title>Forspoken</title>
 <link>https://store.steampowered.com/app/1680880/</link>
@@ -214,20 +214,6 @@
 <guid isPermaLink="false">4547970</guid>
 <pubDate>Tue, 04 Aug 2026 19:42:16 +0000</pubDate>
 <description>The only game in the world that's more anticipated than GTA VI. Pih 2 is a one-hit-kill comedy FPS. Fight various types of enemy pihs and bosses in increasingly ridiculous situations, dodge instant death and try not to rage when everything goes wrong.</description>
-</item>
-<item>
-<title>Big Walk</title>
-<link>https://store.steampowered.com/app/1478500/</link>
-<guid isPermaLink="false">1478500</guid>
-<pubDate>Tue, 04 Aug 2026 14:22:47 +0000</pubDate>
-<description>Hang out and get lost with close friends in a big world. A cooperative online walker-talker from the creators of Untitled Goose Game.</description>
-</item>
-<item>
-<title>Liquidation</title>
-<link>https://store.steampowered.com/app/896250/</link>
-<guid isPermaLink="false">896250</guid>
-<pubDate>Tue, 04 Aug 2026 14:22:47 +0000</pubDate>
-<description>Enter the war-torn world of Veá, where sci-fi and fantasy collide in Liquidation, an immersive RTS. Lead your armies and harness powerful abilities in a high-stakes battle for Quenrium, the mysterious substance that holds Veá’s fate.</description>
 </item>
 </channel>
 </rss>
