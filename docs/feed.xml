@@ -4,7 +4,21 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Thu, 06 Aug 2026 08:41:42 +0000</lastBuildDate>
+<lastBuildDate>Thu, 06 Aug 2026 14:19:16 +0000</lastBuildDate>
+<item>
+<title>Dig, Dig, Die</title>
+<link>https://store.steampowered.com/app/4074010/</link>
+<guid isPermaLink="false">4074010</guid>
+<pubDate>Thu, 06 Aug 2026 14:19:16 +0000</pubDate>
+<description>Online co-op horror for 1–6 players. Board a cursed flying ship, raid haunted graveyards for loot, and survive monsters that hear every sound. Beware of UFO abductions, grab boosters from vending machines, gamble in the onboard casino, and embrace pure chaos with friends in voice chat.</description>
+</item>
+<item>
+<title>Twinkleby</title>
+<link>https://store.steampowered.com/app/3362960/</link>
+<guid isPermaLink="false">3362960</guid>
+<pubDate>Thu, 06 Aug 2026 14:19:16 +0000</pubDate>
+<description>Twinkleby is a cozy decoration game where you map out an archipelago of floating islands and build dioramas for a society of spacefaring Neighbours. Expand your collection, discover antique secrets, decorate, and when you change your mind – evict everyone and throw their furniture into space!</description>
+</item>
 <item>
 <title>Doloc Town</title>
 <link>https://store.steampowered.com/app/2285550/</link>
@@ -90,6 +104,13 @@
 <description>A momentum-fueled Roguelite FPS where speed is damage. Dual-wield overpowered weapon combos and bend time to obliterate robot hordes and overthrow billionaire bosses!</description>
 </item>
 <item>
+<title>Mazey Village</title>
+<link>https://store.steampowered.com/app/1766240/</link>
+<guid isPermaLink="false">1766240</guid>
+<pubDate>Wed, 05 Aug 2026 19:39:24 +0000</pubDate>
+<description>Mazey Village is a cozy town-restoring adventure where a tornado scatters homes, villagers, and their precious belongings. Explore surrounding maps to recover lost items, rebuild homes, and bring warmth and life back to the village.</description>
+</item>
+<item>
 <title>Moonlighter</title>
 <link>https://store.steampowered.com/app/606150/</link>
 <guid isPermaLink="false">606150</guid>
@@ -123,27 +144,6 @@
 <guid isPermaLink="false">2104870</guid>
 <pubDate>Wed, 05 Aug 2026 19:39:24 +0000</pubDate>
 <description>Expand your Stranded: Alien Dawn experience. After liberating Hope, the first sentient android, you are driven to refuge in the Outer Worlds. Make your stand against the ruthless manufacturing consortium attempting to destroy her before she achieves full sentience</description>
-</item>
-<item>
-<title>Kynseed</title>
-<link>https://store.steampowered.com/app/758870/</link>
-<guid isPermaLink="false">758870</guid>
-<pubDate>Wed, 05 Aug 2026 14:17:04 +0000</pubDate>
-<description>Embark on a lifetime of adventure in a beautiful world of creativity and intrigue. Raise a family, customise your farm, run a business, craft items, and battle some marvellously malevolent monsters.</description>
-</item>
-<item>
-<title>Lost &amp; Found: A This Bed We Made Story</title>
-<link>https://store.steampowered.com/app/4333200/</link>
-<guid isPermaLink="false">4333200</guid>
-<pubDate>Wed, 05 Aug 2026 14:17:04 +0000</pubDate>
-<description>Lost &amp;amp; Found is a standalone, short story game taking place aboard a 1960s transatlantic ship. Play as Sophie Roy in her new job as a stewardess, and help solve a curious series of thefts in this narrative-driven mystery set after the events of This Bed We Made.</description>
-</item>
-<item>
-<title>This Bed We Made</title>
-<link>https://store.steampowered.com/app/1243850/</link>
-<guid isPermaLink="false">1243850</guid>
-<pubDate>Wed, 05 Aug 2026 14:17:04 +0000</pubDate>
-<description>This Bed We Made is a third-person mystery game in which you play as a maid in a 1950s hotel and snoop around strangers' rooms to uncover their deadly secrets. Discover what links guests together in this tale of love, heartbreak and murder!</description>
 </item>
 </channel>
 </rss>
