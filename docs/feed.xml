@@ -4,7 +4,14 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Thu, 06 Aug 2026 05:40:56 +0000</lastBuildDate>
+<lastBuildDate>Thu, 06 Aug 2026 08:41:42 +0000</lastBuildDate>
+<item>
+<title>Doloc Town</title>
+<link>https://store.steampowered.com/app/2285550/</link>
+<guid isPermaLink="false">2285550</guid>
+<pubDate>Thu, 06 Aug 2026 08:41:42 +0000</pubDate>
+<description>Play as a young scavenger and construct your vertical farm one platform at a time under extreme weather. Evolving from a scrap-gathering survivor into an easygoing farming tycoon. Transform the climate, and remake the wasteland into your personal Eden.</description>
+</item>
 <item>
 <title>ANONYMOUS;CODE</title>
 <link>https://store.steampowered.com/app/2291020/</link>
@@ -137,27 +144,6 @@
 <guid isPermaLink="false">1243850</guid>
 <pubDate>Wed, 05 Aug 2026 14:17:04 +0000</pubDate>
 <description>This Bed We Made is a third-person mystery game in which you play as a maid in a 1950s hotel and snoop around strangers' rooms to uncover their deadly secrets. Discover what links guests together in this tale of love, heartbreak and murder!</description>
-</item>
-<item>
-<title>How Many Dudes?</title>
-<link>https://store.steampowered.com/app/3934270/</link>
-<guid isPermaLink="false">3934270</guid>
-<pubDate>Wed, 05 Aug 2026 08:40:24 +0000</pubDate>
-<description>How many dudes does it take to beat up a gorilla? A thousand toddlers? A horse-sized duck? A GOD? Enter the Dude Ranch and find out in this roguelike dudebuilder where you recruit an army of dudes to fight ridiculous battles.</description>
-</item>
-<item>
-<title>Kill The Shadow</title>
-<link>https://store.steampowered.com/app/2660230/</link>
-<guid isPermaLink="false">2660230</guid>
-<pubDate>Wed, 05 Aug 2026 08:40:24 +0000</pubDate>
-<description>Kill the Shadow is a detective game with multiple endings, featuring 2.5D pixel art and semi-open exploration and investigation. Play as Lucas, a former police officer, alongside a mysterious Shadow who can see the “past.” Remember—every choice you make will change the fate of countless characters!</description>
-</item>
-<item>
-<title>The Spell Brigade</title>
-<link>https://store.steampowered.com/app/2904000/</link>
-<guid isPermaLink="false">2904000</guid>
-<pubDate>Wed, 05 Aug 2026 08:40:24 +0000</pubDate>
-<description>Survivors-like with ONLINE CO-OP for 1-4 players. Team up with your wizard friends to slay hordes of dark creatures. Complete team-based objectives, unlock new upgrades and create overpowered spell synergies. Friend nor foe is safe in this friendly fire bullet hell!</description>
 </item>
 </channel>
 </rss>
