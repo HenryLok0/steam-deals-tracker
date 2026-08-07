@@ -4,20 +4,27 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Fri, 07 Aug 2026 07:20:19 +0000</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 13:10:30 +0000</lastBuildDate>
+<item>
+<title>Frozen Ship</title>
+<link>https://store.steampowered.com/app/3423990/</link>
+<guid isPermaLink="false">3423990</guid>
+<pubDate>Fri, 07 Aug 2026 13:10:30 +0000</pubDate>
+<description>Frozen Ship is a narrative adventure set in the harsh conditions of a post-apocalyptic world, combining open-world survival with managing an entire mobile city.</description>
+</item>
+<item>
+<title>Quake Live</title>
+<link>https://store.steampowered.com/app/282440/</link>
+<guid isPermaLink="false">282440</guid>
+<pubDate>Fri, 07 Aug 2026 13:10:30 +0000</pubDate>
+<description>Experience the most exciting and fast-paced FPS gameplay while competing with players from around the world in over 100 arenas, a dozen game modes, and with persistent career stats tracking, in this online features-focused successor to Quake III Arena.</description>
+</item>
 <item>
 <title>Beyond Citadel</title>
 <link>https://store.steampowered.com/app/3371240/</link>
 <guid isPermaLink="false">3371240</guid>
 <pubDate>Fri, 07 Aug 2026 07:20:19 +0000</pubDate>
 <description>Beyond Citadel is an anime style retro throwback shooter inspired by the classics of the 90's, with realistic gunplay mechanics, anime violence and fast paced combat. Fight your way through the heavily armed mechanical fortress and discover the secret that lies beneath.</description>
-</item>
-<item>
-<title>BRUTAL JOHN 2</title>
-<link>https://store.steampowered.com/app/1859620/</link>
-<guid isPermaLink="false">1859620</guid>
-<pubDate>Fri, 07 Aug 2026 07:20:19 +0000</pubDate>
-<description>Join BRUTAL JOHN and BRUTAL DOG in a ultraviolent old-school FPS set in a world overrun by crypto-mining technologies, where it’s up to you to destroy them and reclaim control. Prepare for an adrenaline ride that pays homage to the best shooters of the '90s.</description>
 </item>
 <item>
 <title>Cellar Keeper</title>
@@ -256,13 +263,6 @@
 <guid isPermaLink="false">4074010</guid>
 <pubDate>Thu, 06 Aug 2026 14:19:16 +0000</pubDate>
 <description>Online co-op horror for 1–6 players. Board a cursed flying ship, raid haunted graveyards for loot, and survive monsters that hear every sound. Beware of UFO abductions, grab boosters from vending machines, gamble in the onboard casino, and embrace pure chaos with friends in voice chat.</description>
-</item>
-<item>
-<title>Doloc Town</title>
-<link>https://store.steampowered.com/app/2285550/</link>
-<guid isPermaLink="false">2285550</guid>
-<pubDate>Thu, 06 Aug 2026 08:41:42 +0000</pubDate>
-<description>Play as a young scavenger and construct your vertical farm one platform at a time under extreme weather. Evolving from a scrap-gathering survivor into an easygoing farming tycoon. Transform the climate, and remake the wasteland into your personal Eden.</description>
 </item>
 <item>
 <title>Moonlighter</title>
