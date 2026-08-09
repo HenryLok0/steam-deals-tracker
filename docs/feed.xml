@@ -4,7 +4,21 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sun, 09 Aug 2026 15:20:41 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 18:45:45 +0000</lastBuildDate>
+<item>
+<title>ANIMAL WELL</title>
+<link>https://store.steampowered.com/app/813230/</link>
+<guid isPermaLink="false">813230</guid>
+<pubDate>Sun, 09 Aug 2026 18:45:45 +0000</pubDate>
+<description>Explore a dense, interconnected labyrinth, and unravel its many secrets. Collect items to manipulate your environment in surprising and meaningful ways. Encounter beautiful and unsettling creatures, as you attempt to survive what lurks in the dark. There is more than what you see.</description>
+</item>
+<item>
+<title>SpaceEngine</title>
+<link>https://store.steampowered.com/app/314650/</link>
+<guid isPermaLink="false">314650</guid>
+<pubDate>Sun, 09 Aug 2026 18:45:45 +0000</pubDate>
+<description>The world's first science-based photorealistic interactive 3D planetarium that models the entire Universe, using procedural generation for uncharted areas.</description>
+</item>
 <item>
 <title>Maltese's Fluffy Onsen</title>
 <link>https://store.steampowered.com/app/3404470/</link>
@@ -39,48 +53,6 @@
 <guid isPermaLink="false">3376690</guid>
 <pubDate>Sun, 09 Aug 2026 01:57:15 +0000</pubDate>
 <description>THE HOUSE OF THE DEAD 2: Remake is a remake of the second entry in the well-known and popular rail-shooter series. Take on the lone role of a secret agent as James or Gary, or team up in co-op mode to neutralize the dangerous undead monsters standing in your way.</description>
-</item>
-<item>
-<title>Fallout 2: A Post Nuclear Role Playing Game</title>
-<link>https://store.steampowered.com/app/38410/</link>
-<guid isPermaLink="false">38410</guid>
-<pubDate>Sat, 08 Aug 2026 18:41:36 +0000</pubDate>
-<description>Fallout® 2 is the sequel to the critically acclaimed game that took RPG'ing out of the dungeons and into a dynamic, apocalyptic retro-future. It's been 80 long years since your ancestors trod across the wastelands.</description>
-</item>
-<item>
-<title>Fallout 3</title>
-<link>https://store.steampowered.com/app/22300/</link>
-<guid isPermaLink="false">22300</guid>
-<pubDate>Sat, 08 Aug 2026 18:41:36 +0000</pubDate>
-<description>Vault-Tec engineers have worked around the clock on an interactive reproduction of Wasteland life for you to enjoy from the comfort of your own vault. Included is an expansive world, unique combat, shockingly realistic visuals, tons of player choice, and an incredible cast of dynamic characters.</description>
-</item>
-<item>
-<title>Vampire Hunters</title>
-<link>https://store.steampowered.com/app/2206270/</link>
-<guid isPermaLink="false">2206270</guid>
-<pubDate>Sat, 08 Aug 2026 18:41:36 +0000</pubDate>
-<description>To hunt vampires, you'll need guns. Lots of guns. Mow down hordes of undead creatures by stacking your guns into absurd, over-the-top builds. Unleash your firepower and survive the mayhem in this Roguelite Survivors FPS.</description>
-</item>
-<item>
-<title>VConnect</title>
-<link>https://store.steampowered.com/app/4818300/</link>
-<guid isPermaLink="false">4818300</guid>
-<pubDate>Sat, 08 Aug 2026 18:41:36 +0000</pubDate>
-<description>VConnect is a stream overlay used to create on screen effects of all kind upon raids, subs, follows and more. With a Set-Up Wizard for less experienced users and an extensive Node System for power users, it's perfect to bring your ideas to life without the need to know coding!</description>
-</item>
-<item>
-<title>Moonlighter</title>
-<link>https://store.steampowered.com/app/606150/</link>
-<guid isPermaLink="false">606150</guid>
-<pubDate>Wed, 05 Aug 2026 19:39:24 +0000</pubDate>
-<description>Moonlighter is an Action RPG with rogue-lite elements that demonstrates two sides of the coin – revealing everyday routines of Will, an adventurous shopkeeper that secretly dreams of becoming a hero.</description>
-</item>
-<item>
-<title>Breathedge</title>
-<link>https://store.steampowered.com/app/738520/</link>
-<guid isPermaLink="false">738520</guid>
-<pubDate>Fri, 10 Jul 2026 09:41:01 +0000</pubDate>
-<description>Survive in outer space! Together with your immortal chicken, discover the truth behind your sudden spaceship crash. Craft tools, pilot vehicles, and even control space stations to survive and explore the wreckage.</description>
 </item>
 </channel>
 </rss>
