@@ -4,7 +4,14 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sun, 09 Aug 2026 07:00:51 +0000</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 12:56:18 +0000</lastBuildDate>
+<item>
+<title>Maltese's Fluffy Onsen</title>
+<link>https://store.steampowered.com/app/3404470/</link>
+<guid isPermaLink="false">3404470</guid>
+<pubDate>Sun, 09 Aug 2026 12:56:18 +0000</pubDate>
+<description>Run a bathhouse visited by animals! Maltese's Fluffy Onsen is a relaxing simulation game that you can enjoy while doing other tasks, as it sits at the bottom of your screen. Place baths with different temperatures and rest areas to help a variety of animal friends unwind.</description>
+</item>
 <item>
 <title>Minimalist Tower Defense</title>
 <link>https://store.steampowered.com/app/2617400/</link>
@@ -34,6 +41,13 @@
 <description>THE HOUSE OF THE DEAD 2: Remake is a remake of the second entry in the well-known and popular rail-shooter series. Take on the lone role of a secret agent as James or Gary, or team up in co-op mode to neutralize the dangerous undead monsters standing in your way.</description>
 </item>
 <item>
+<title>Fallout 2: A Post Nuclear Role Playing Game</title>
+<link>https://store.steampowered.com/app/38410/</link>
+<guid isPermaLink="false">38410</guid>
+<pubDate>Sat, 08 Aug 2026 18:41:36 +0000</pubDate>
+<description>Fallout® 2 is the sequel to the critically acclaimed game that took RPG'ing out of the dungeons and into a dynamic, apocalyptic retro-future. It's been 80 long years since your ancestors trod across the wastelands.</description>
+</item>
+<item>
 <title>Fallout 3</title>
 <link>https://store.steampowered.com/app/22300/</link>
 <guid isPermaLink="false">22300</guid>
@@ -53,13 +67,6 @@
 <guid isPermaLink="false">4818300</guid>
 <pubDate>Sat, 08 Aug 2026 18:41:36 +0000</pubDate>
 <description>VConnect is a stream overlay used to create on screen effects of all kind upon raids, subs, follows and more. With a Set-Up Wizard for less experienced users and an extensive Node System for power users, it's perfect to bring your ideas to life without the need to know coding!</description>
-</item>
-<item>
-<title>FIRE STATE</title>
-<link>https://store.steampowered.com/app/3738830/</link>
-<guid isPermaLink="false">3738830</guid>
-<pubDate>Sat, 08 Aug 2026 12:53:52 +0000</pubDate>
-<description>Experience lifelike visuals and fluid controls from a realistic bodycam-style perspective in the world's first shooter with playable 3DGS environments. Compete in classic PVP, join a co-op campaign, or face horror levels.</description>
 </item>
 <item>
 <title>Moonlighter</title>
