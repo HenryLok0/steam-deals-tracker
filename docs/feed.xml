@@ -4,7 +4,21 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sun, 09 Aug 2026 18:45:45 +0000</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 02:02:02 +0000</lastBuildDate>
+<item>
+<title>Alba: A Wildlife Adventure</title>
+<link>https://store.steampowered.com/app/1337010/</link>
+<guid isPermaLink="false">1337010</guid>
+<pubDate>Mon, 10 Aug 2026 02:02:02 +0000</pubDate>
+<description>Even the smallest person can make a big difference. Join Alba, as she sets out to save her beautiful island and its wildlife. And possibly start a revolution.</description>
+</item>
+<item>
+<title>Monument Valley</title>
+<link>https://store.steampowered.com/app/1927720/</link>
+<guid isPermaLink="false">1927720</guid>
+<pubDate>Mon, 10 Aug 2026 02:02:02 +0000</pubDate>
+<description>Embark on a journey of forgiveness through impossible environments and illusionary puzzles. Experience this meditative and calming puzzle game by manipulating monuments and creating evolving paths to explore new, surreal, and mysterious worlds.</description>
+</item>
 <item>
 <title>ANIMAL WELL</title>
 <link>https://store.steampowered.com/app/813230/</link>
@@ -18,41 +32,6 @@
 <guid isPermaLink="false">314650</guid>
 <pubDate>Sun, 09 Aug 2026 18:45:45 +0000</pubDate>
 <description>The world's first science-based photorealistic interactive 3D planetarium that models the entire Universe, using procedural generation for uncharted areas.</description>
-</item>
-<item>
-<title>Maltese's Fluffy Onsen</title>
-<link>https://store.steampowered.com/app/3404470/</link>
-<guid isPermaLink="false">3404470</guid>
-<pubDate>Sun, 09 Aug 2026 12:56:18 +0000</pubDate>
-<description>Run a bathhouse visited by animals! Maltese's Fluffy Onsen is a relaxing simulation game that you can enjoy while doing other tasks, as it sits at the bottom of your screen. Place baths with different temperatures and rest areas to help a variety of animal friends unwind.</description>
-</item>
-<item>
-<title>Minimalist Tower Defense</title>
-<link>https://store.steampowered.com/app/2617400/</link>
-<guid isPermaLink="false">2617400</guid>
-<pubDate>Sun, 09 Aug 2026 07:00:51 +0000</pubDate>
-<description>Collect resources and establish a defense line before dark And then Facing countless enemies</description>
-</item>
-<item>
-<title>THE HOUSE OF THE DEAD: Remake</title>
-<link>https://store.steampowered.com/app/1694600/</link>
-<guid isPermaLink="false">1694600</guid>
-<pubDate>Sun, 09 Aug 2026 07:00:51 +0000</pubDate>
-<description>THE HOUSE OF THE DEAD: Remake is a remade version of the game introduced in 1997 in arcade platform. A classic arcade rail-shooter receives a whole new entourage and gameplay changes to suit modern gaming standards.</description>
-</item>
-<item>
-<title>Operation: Tango</title>
-<link>https://store.steampowered.com/app/1335790/</link>
-<guid isPermaLink="false">1335790</guid>
-<pubDate>Sun, 09 Aug 2026 01:57:15 +0000</pubDate>
-<description>It takes two to save the world in this cooperative spy adventure. Pair up with a friend as Agent or Hacker—with only your voices to connect you—and work together to bring a hi-tech global menace to its knees. Now with a FREE CONTENT UPDATE!</description>
-</item>
-<item>
-<title>THE HOUSE OF THE DEAD 2: Remake</title>
-<link>https://store.steampowered.com/app/3376690/</link>
-<guid isPermaLink="false">3376690</guid>
-<pubDate>Sun, 09 Aug 2026 01:57:15 +0000</pubDate>
-<description>THE HOUSE OF THE DEAD 2: Remake is a remake of the second entry in the well-known and popular rail-shooter series. Take on the lone role of a secret agent as James or Gary, or team up in co-op mode to neutralize the dangerous undead monsters standing in your way.</description>
 </item>
 </channel>
 </rss>
