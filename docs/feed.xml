@@ -4,7 +4,7 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Tue, 11 Aug 2026 01:57:01 +0000</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 04:13:51 +0000</lastBuildDate>
 <item>
 <title>Assemble with Care</title>
 <link>https://store.steampowered.com/app/1202900/</link>
@@ -221,20 +221,6 @@
 <guid isPermaLink="false">3755930</guid>
 <pubDate>Mon, 10 Aug 2026 19:01:05 +0000</pubDate>
 <description>A fantasy roguelite RPG where heroes reincarnate to stop the mystic dragon Umbra. Master turn-based combat, sever giant bosses, and shape your Karma through a journey filled with relics and evolving NPC interactions.</description>
-</item>
-<item>
-<title>Alba: A Wildlife Adventure</title>
-<link>https://store.steampowered.com/app/1337010/</link>
-<guid isPermaLink="false">1337010</guid>
-<pubDate>Mon, 10 Aug 2026 02:02:02 +0000</pubDate>
-<description>Even the smallest person can make a big difference. Join Alba, as she sets out to save her beautiful island and its wildlife. And possibly start a revolution.</description>
-</item>
-<item>
-<title>Monument Valley</title>
-<link>https://store.steampowered.com/app/1927720/</link>
-<guid isPermaLink="false">1927720</guid>
-<pubDate>Mon, 10 Aug 2026 02:02:02 +0000</pubDate>
-<description>Embark on a journey of forgiveness through impossible environments and illusionary puzzles. Experience this meditative and calming puzzle game by manipulating monuments and creating evolving paths to explore new, surreal, and mysterious worlds.</description>
 </item>
 </channel>
 </rss>
