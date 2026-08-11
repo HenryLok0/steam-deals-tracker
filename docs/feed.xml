@@ -4,7 +4,28 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Tue, 11 Aug 2026 07:12:25 +0000</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 13:12:27 +0000</lastBuildDate>
+<item>
+<title>Ballatory</title>
+<link>https://store.steampowered.com/app/3957050/</link>
+<guid isPermaLink="false">3957050</guid>
+<pubDate>Tue, 11 Aug 2026 13:12:27 +0000</pubDate>
+<description>Ballatory is a short incremental idler where you build and upgrade a chaotic swarm of bouncing balls to destroy cores and earn crazy amounts of money.</description>
+</item>
+<item>
+<title>DreamEcho</title>
+<link>https://store.steampowered.com/app/3226060/</link>
+<guid isPermaLink="false">3226060</guid>
+<pubDate>Tue, 11 Aug 2026 13:12:27 +0000</pubDate>
+<description>&amp;quot;Dream Echoes&amp;quot; is an atypical top-down RogueLite ARPG centered on loot grinding and meta-progression. Explore the dream world, collect &amp;quot;Concepts&amp;quot;, and enjoy highly free combinative combat. Upon waking, gather &amp;quot;Memories&amp;quot; to carry some &amp;quot;Concepts&amp;quot; into your next adventure…</description>
+</item>
+<item>
+<title>Jurassic World Evolution 3: Rebirth Expansion</title>
+<link>https://store.steampowered.com/app/4131670/</link>
+<guid isPermaLink="false">4131670</guid>
+<pubDate>Tue, 11 Aug 2026 13:12:27 +0000</pubDate>
+<description>Delve into a game expanding narrative inspired by the dramatic events of Jurassic World Rebirth. Take control of three top-secret locations, and come face to face with four new dinosaurs, including the terrifying Distortus rex!</description>
+</item>
 <item>
 <title>BLACK SOULS II</title>
 <link>https://store.steampowered.com/app/3855540/</link>
@@ -62,13 +83,6 @@
 <description>Earth is dying and humanity is running out of time. 12 light years from home, Tau Ceti f offers a small sliver of hope. When the colony ship Cassiopeia crash lands on the planet, its crew soon realize they are far from being alone. In space, death takes many forms.</description>
 </item>
 <item>
-<title>Etrian Odyssey HD</title>
-<link>https://store.steampowered.com/app/1868180/</link>
-<guid isPermaLink="false">1868180</guid>
-<pubDate>Tue, 11 Aug 2026 01:57:01 +0000</pubDate>
-<description>Beyond the village of Etria lies a mysterious forest with a colossal crack opening to a puzzling labyrinth. Lead a team of explorers into the dungeon with the promise of riches, fame, and adventure!</description>
-</item>
-<item>
 <title>Fahrenheit: Indigo Prophecy Remastered</title>
 <link>https://store.steampowered.com/app/312840/</link>
 <guid isPermaLink="false">312840</guid>
@@ -88,6 +102,13 @@
 <guid isPermaLink="false">1147550</guid>
 <pubDate>Tue, 11 Aug 2026 01:57:01 +0000</pubDate>
 <description>A new political Party has won a landslide in the General Election, and for some reason the editor at the news station you work at has done a runner. Now it’s up to you, the Janitor, to take over the editing booth in this tumultuous time - will you help the government, or stand in their way?</description>
+</item>
+<item>
+<title>Oddsparks: An Automation Adventure</title>
+<link>https://store.steampowered.com/app/1817800/</link>
+<guid isPermaLink="false">1817800</guid>
+<pubDate>Tue, 11 Aug 2026 01:57:01 +0000</pubDate>
+<description>Oddsparks is a blend of automation and real-time strategy for both the die-hard fans of the automation genre and the automation-curious. Explore a strange fantasy world, uncover the mysteries of the past, automate your workshops, and go on adventures with your odd &amp;amp; adorable Sparks!</description>
 </item>
 <item>
 <title>Persona 3 Portable</title>
@@ -172,6 +193,13 @@
 <guid isPermaLink="false">4289340</guid>
 <pubDate>Tue, 11 Aug 2026 01:57:01 +0000</pubDate>
 <description>UNHUMAN is a 2D idle extraction shooter set in a cyberpunk dystopia. Raid hostile zones, loot valuable gear, fight enemies before extraction, and craft powerful weapons. Progress through a deep skill tree, install augments, and transcend humanity. Start as a scavenger. Become UNHUMAN.</description>
+</item>
+<item>
+<title>Car Wash Simulator</title>
+<link>https://store.steampowered.com/app/992840/</link>
+<guid isPermaLink="false">992840</guid>
+<pubDate>Mon, 10 Aug 2026 19:01:05 +0000</pubDate>
+<description>Build a local car wash into a massive detailing empire! Master advanced cleaning techniques with vibrant active foams, beat the clock for extra tips, and buy or lease new properties. Play it clean or risk everything with high-paying shady deals and secret backroom plantations.</description>
 </item>
 <item>
 <title>Conquest of Elysium 5</title>
