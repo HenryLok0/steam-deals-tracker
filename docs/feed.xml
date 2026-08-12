@@ -4,7 +4,35 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Wed, 12 Aug 2026 07:37:06 +0000</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 13:16:28 +0000</lastBuildDate>
+<item>
+<title>Security 51</title>
+<link>https://store.steampowered.com/app/4246860/</link>
+<guid isPermaLink="false">4246860</guid>
+<pubDate>Wed, 12 Aug 2026 13:16:28 +0000</pubDate>
+<description>You're a security officer deep within Area 51. Scan the staff, verify clearances, and decide who can enter the elevator and who absolutely mustn't leave. The deeper you go, the less certain you are that anyone standing before you is still human.</description>
+</item>
+<item>
+<title>Steel Division 2</title>
+<link>https://store.steampowered.com/app/919640/</link>
+<guid isPermaLink="false">919640</guid>
+<pubDate>Wed, 12 Aug 2026 13:16:28 +0000</pubDate>
+<description>Steel Division 2 is a historically-accurate WW2 real-time strategy game set on the Eastern Front. Features 1:1-scale turn-based army management and real-time tactical battles with thousands of men at your order.</description>
+</item>
+<item>
+<title>Survival Log</title>
+<link>https://store.steampowered.com/app/4164790/</link>
+<guid isPermaLink="false">4164790</guid>
+<pubDate>Wed, 12 Aug 2026 13:16:28 +0000</pubDate>
+<description>The apocalypse is here, and you saw it coming. Survival Log is a zombie-apocalypse hoarding survival sim. Hoard supplies, reinforce your home, and optimize every run before zombies flood the city. Every failure becomes experience. You must adapt and survive this time.</description>
+</item>
+<item>
+<title>Weed Supermarket Simulator</title>
+<link>https://store.steampowered.com/app/4156580/</link>
+<guid isPermaLink="false">4156580</guid>
+<pubDate>Wed, 12 Aug 2026 13:16:28 +0000</pubDate>
+<description>Weed Supermarket Simulator is a chill store sim where you grow weed, develop new strains, set prices, and keep your shelves stocked. Expand your business and optimize it for maximum profit. Manage employees, handle inventory, and turn your shop into a high-performing business.</description>
+</item>
 <item>
 <title>Hariti</title>
 <link>https://store.steampowered.com/app/4018740/</link>
@@ -146,6 +174,13 @@
 <description>DWARF COMBAT! Stonewards is a 1-4 player co-op first-person roguelite defense game. Lead a crew of stubborn dwarves from your base camp to aid nearby kingdoms, mine deep for resources, forge powerful upgrades, and hold the line against relentless monster attacks.</description>
 </item>
 <item>
+<title>Sword &amp; Shield Simulator</title>
+<link>https://store.steampowered.com/app/2052650/</link>
+<guid isPermaLink="false">2052650</guid>
+<pubDate>Tue, 11 Aug 2026 19:05:19 +0000</pubDate>
+<description>Become a medieval blacksmith. Smelt ore, hammer steel at the anvil, grind the edge, and design your own swords. Craft shields, forge tools and everyday ironwork, fill customer contracts, and earn your coin blade by blade. Your forge, your legend.</description>
+</item>
+<item>
 <title>Swordcery</title>
 <link>https://store.steampowered.com/app/1817030/</link>
 <guid isPermaLink="false">1817030</guid>
@@ -172,27 +207,6 @@
 <guid isPermaLink="false">3929470</guid>
 <pubDate>Tue, 11 Aug 2026 19:05:19 +0000</pubDate>
 <description>Warhounds is a turn-based tactics game about an elite mercenary squad with an old-school action movie vibe, inspired by XCOM and Jagged Alliance. Recruit unique fighters, upgrade your base, and fight for Africa’s future. No fake RNG - only true ballistics and lethal tactics.</description>
-</item>
-<item>
-<title>Ballatory</title>
-<link>https://store.steampowered.com/app/3957050/</link>
-<guid isPermaLink="false">3957050</guid>
-<pubDate>Tue, 11 Aug 2026 13:12:27 +0000</pubDate>
-<description>Ballatory is a short incremental idler where you build and upgrade a chaotic swarm of bouncing balls to destroy cores and earn crazy amounts of money.</description>
-</item>
-<item>
-<title>DreamEcho</title>
-<link>https://store.steampowered.com/app/3226060/</link>
-<guid isPermaLink="false">3226060</guid>
-<pubDate>Tue, 11 Aug 2026 13:12:27 +0000</pubDate>
-<description>&amp;quot;Dream Echoes&amp;quot; is an atypical top-down RogueLite ARPG centered on loot grinding and meta-progression. Explore the dream world, collect &amp;quot;Concepts&amp;quot;, and enjoy highly free combinative combat. Upon waking, gather &amp;quot;Memories&amp;quot; to carry some &amp;quot;Concepts&amp;quot; into your next adventure…</description>
-</item>
-<item>
-<title>Jurassic World Evolution 3: Rebirth Expansion</title>
-<link>https://store.steampowered.com/app/4131670/</link>
-<guid isPermaLink="false">4131670</guid>
-<pubDate>Tue, 11 Aug 2026 13:12:27 +0000</pubDate>
-<description>Delve into a game expanding narrative inspired by the dramatic events of Jurassic World Rebirth. Take control of three top-secret locations, and come face to face with four new dinosaurs, including the terrifying Distortus rex!</description>
 </item>
 </channel>
 </rss>
