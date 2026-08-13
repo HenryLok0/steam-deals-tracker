@@ -4,7 +4,35 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Thu, 13 Aug 2026 07:38:38 +0000</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 13:18:21 +0000</lastBuildDate>
+<item>
+<title>Duskfade</title>
+<link>https://store.steampowered.com/app/2542020/</link>
+<guid isPermaLink="false">2542020</guid>
+<pubDate>Thu, 13 Aug 2026 13:18:21 +0000</pubDate>
+<description>Shatter the shackles of time as you jump, swing, and slash through a fantastic world in this love letter to classic 3D action platformers. Zirian, accompanied by his mechanical Cuckoo, must save his sister from a mysterious Clock Tower that has plunged the land into eternal night.</description>
+</item>
+<item>
+<title>Emergency Room Simulator</title>
+<link>https://store.steampowered.com/app/2438110/</link>
+<guid isPermaLink="false">2438110</guid>
+<pubDate>Thu, 13 Aug 2026 13:18:21 +0000</pubDate>
+<description>In Emergency Room Simulator, step into the role of an ER doctor: run targeted tests, treat patients, and save lives when it matters most. Experience intense shifts in a fast-paced medical environment.</description>
+</item>
+<item>
+<title>Servant of the Lake</title>
+<link>https://store.steampowered.com/app/3636770/</link>
+<guid isPermaLink="false">3636770</guid>
+<pubDate>Thu, 13 Aug 2026 13:18:21 +0000</pubDate>
+<description>Begin your new job as a servant at the mysterious Vanderboom estate. Solve puzzles, serve the family and uncover their dark alchemical secrets in Servant of the Lake, a new upcoming single-player point-and-click adventure in the Rusty Lake series.</description>
+</item>
+<item>
+<title>VanySlash</title>
+<link>https://store.steampowered.com/app/2871010/</link>
+<guid isPermaLink="false">2871010</guid>
+<pubDate>Thu, 13 Aug 2026 13:18:21 +0000</pubDate>
+<description>Heroine, a close-combat magic-user, and her partner, an axe to fight and collect magical Tools!</description>
+</item>
 <item>
 <title>Age of Wonders: Planetfall - Invasions</title>
 <link>https://store.steampowered.com/app/1137801/</link>
@@ -53,6 +81,13 @@
 <guid isPermaLink="false">1926520</guid>
 <pubDate>Thu, 13 Aug 2026 02:12:07 +0000</pubDate>
 <description>Dedicate your life to saving others. As soon as you receive the emergency call, speed off to the site of the accident in your ambulance, sirens wailing. Apply first aid and transport the seriously injured to hospital. Every second counts!</description>
+</item>
+<item>
+<title>Big Bad Pharma</title>
+<link>https://store.steampowered.com/app/4953610/</link>
+<guid isPermaLink="false">4953610</guid>
+<pubDate>Thu, 13 Aug 2026 02:12:07 +0000</pubDate>
+<description>A cosy pharmacy-stocking sim with a wicked streak. Clock in, sort the shelves, chase satisfying upgrades, and slowly climb the corporate ladder of a pharmacy that maybe shouldn't exist. Tidy. Satisfying. A little bit evil.</description>
 </item>
 <item>
 <title>Greedy Greedy Gnomes</title>
@@ -172,34 +207,6 @@
 <guid isPermaLink="false">4883580</guid>
 <pubDate>Wed, 12 Aug 2026 19:05:06 +0000</pubDate>
 <description>An online co-op game for 1-6 players where you fish with your friends to feed The One Fish! Catch fish of all shapes, sizes, and whimsical effects to keep up with its ever-growing appetite.</description>
-</item>
-<item>
-<title>Security 51</title>
-<link>https://store.steampowered.com/app/4246860/</link>
-<guid isPermaLink="false">4246860</guid>
-<pubDate>Wed, 12 Aug 2026 13:16:28 +0000</pubDate>
-<description>You're a security officer deep within Area 51. Scan the staff, verify clearances, and decide who can enter the elevator and who absolutely mustn't leave. The deeper you go, the less certain you are that anyone standing before you is still human.</description>
-</item>
-<item>
-<title>Steel Division 2</title>
-<link>https://store.steampowered.com/app/919640/</link>
-<guid isPermaLink="false">919640</guid>
-<pubDate>Wed, 12 Aug 2026 13:16:28 +0000</pubDate>
-<description>Steel Division 2 is a historically-accurate WW2 real-time strategy game set on the Eastern Front. Features 1:1-scale turn-based army management and real-time tactical battles with thousands of men at your order.</description>
-</item>
-<item>
-<title>Survival Log</title>
-<link>https://store.steampowered.com/app/4164790/</link>
-<guid isPermaLink="false">4164790</guid>
-<pubDate>Wed, 12 Aug 2026 13:16:28 +0000</pubDate>
-<description>The apocalypse is here, and you saw it coming. Survival Log is a zombie-apocalypse hoarding survival sim. Hoard supplies, reinforce your home, and optimize every run before zombies flood the city. Every failure becomes experience. You must adapt and survive this time.</description>
-</item>
-<item>
-<title>Weed Supermarket Simulator</title>
-<link>https://store.steampowered.com/app/4156580/</link>
-<guid isPermaLink="false">4156580</guid>
-<pubDate>Wed, 12 Aug 2026 13:16:28 +0000</pubDate>
-<description>Weed Supermarket Simulator is a chill store sim where you grow weed, develop new strains, set prices, and keep your shelves stocked. Expand your business and optimize it for maximum profit. Manage employees, handle inventory, and turn your shop into a high-performing business.</description>
 </item>
 </channel>
 </rss>
