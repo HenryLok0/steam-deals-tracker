@@ -4,13 +4,41 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sat, 15 Aug 2026 18:33:56 +0000</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 01:32:58 +0000</lastBuildDate>
 <item>
-<title>Dinotica</title>
-<link>https://store.steampowered.com/app/3336520/</link>
-<guid isPermaLink="false">3336520</guid>
-<pubDate>Sat, 15 Aug 2026 18:33:56 +0000</pubDate>
-<description>Welcome to Dinotica! Stomp into a mysterious and dangerous world filled with action, adventure, and companionship! Together, you'll fight, build, farm, and more as you work toward creating a unique home that is truly your own.</description>
+<title>A Total War Saga: TROY - MYTHOS</title>
+<link>https://store.steampowered.com/app/1553061/</link>
+<guid isPermaLink="false">1553061</guid>
+<pubDate>Sun, 16 Aug 2026 01:32:58 +0000</pubDate>
+<description>The battle for Troy cannot be waged by man alone. In this big, bold Expansion Pack, recruit monsters and creatures of myth to fight at your side, turning the tide of war on new fantastical battlefields and a refreshed campaign map.</description>
+</item>
+<item>
+<title>Axon TD: Uprising - Tower Defense</title>
+<link>https://store.steampowered.com/app/2296550/</link>
+<guid isPermaLink="false">2296550</guid>
+<pubDate>Sun, 16 Aug 2026 01:32:58 +0000</pubDate>
+<description>Axon TD lets you expand the map boundaries themselves. A huge arsenal of towers and a wide variety of enemies clash in a battlefield that grows to your whims. Engage in single, cooperative, and roguelite gameplay.</description>
+</item>
+<item>
+<title>OFF</title>
+<link>https://store.steampowered.com/app/3339880/</link>
+<guid isPermaLink="false">3339880</guid>
+<pubDate>Sun, 16 Aug 2026 01:32:58 +0000</pubDate>
+<description>“I’m the Batter. I’ve been entrusted with a sacred mission.” -- One of the most influential RPGs of the last 20 years is finally coming to Steam. Take control of the Batter as he seeks to purify an uncanny and hopeless world haunted by specters, guided by a cryptic, grinning cat called The Judge.</description>
+</item>
+<item>
+<title>Placid Plastic Deck - A Quiet Quest</title>
+<link>https://store.steampowered.com/app/2510020/</link>
+<guid isPermaLink="false">2510020</guid>
+<pubDate>Sun, 16 Aug 2026 01:32:58 +0000</pubDate>
+<description>A story-driven adventure featuring card battles, multiple-choice dialogue, and funny characters! A friendship to mend, and a cast of opponents to beat, each with a uniquely built deck. But you're in luck… yours is all ducks!</description>
+</item>
+<item>
+<title>YOU and ME and HER: A Love Story</title>
+<link>https://store.steampowered.com/app/1293820/</link>
+<guid isPermaLink="false">1293820</guid>
+<pubDate>Sun, 16 Aug 2026 01:32:58 +0000</pubDate>
+<description>YOU and ME and HER: A Love Story is the visual novel medium in its purest form. Will Shinichi choose Miyuki, the beautiful queen bee of the school, or the endearingly awkward misfit Aoi? With art by Tsuji Santa, these beautifully rendered romances will stay with you forever.</description>
 </item>
 <item>
 <title>Flowers and Deities</title>
@@ -20,20 +48,6 @@
 <description>Flowers and Deities is a strategy deckbuilder roguelite where you command a blood-soaked lizardkin army through escalating arena battles, spending every drop of spilled blood to cast spells, summon creatures, and survive long enough to claim the favor of the Gods</description>
 </item>
 <item>
-<title>Konbini Cleanup</title>
-<link>https://store.steampowered.com/app/4951190/</link>
-<guid isPermaLink="false">4951190</guid>
-<pubDate>Sat, 15 Aug 2026 18:33:56 +0000</pubDate>
-<description>Konbini Cleanup is a cozy organizing simulator where you sort 2,928 products in a messy konbini. Clean, learn abilities, and restore order in a calm and atmospheric environment.</description>
-</item>
-<item>
-<title>Milling machine simulator</title>
-<link>https://store.steampowered.com/app/1787960/</link>
-<guid isPermaLink="false">1787960</guid>
-<pubDate>Sat, 15 Aug 2026 18:33:56 +0000</pubDate>
-<description>Milling machine simulator will inspire novices and experts alike. Realistic physics and movements allow you to familiarize yourself with the machine in a 3D workshop setting. Enjoy playing around, learning and prototyping in Free milling mode. Or challenge yourself in Career mode.</description>
-</item>
-<item>
 <title>Wagotabi: A Japanese Journey</title>
 <link>https://store.steampowered.com/app/2701720/</link>
 <guid isPermaLink="false">2701720</guid>
@@ -41,116 +55,18 @@
 <description>Wagotabi is an educational RPG teaching Japanese from the ground up. Immerse yourself in the language through interactive dialogues, quest-solving, and puzzles, all while exploring Japan and its rich culture. Will you become a Japanese master?</description>
 </item>
 <item>
+<title>For The King</title>
+<link>https://store.steampowered.com/app/527230/</link>
+<guid isPermaLink="false">527230</guid>
+<pubDate>Sat, 15 Aug 2026 12:42:21 +0000</pubDate>
+<description>For The King is a strategic RPG that blends tabletop and roguelike elements in a challenging adventure that spans the realms. Set off on a single player experience or play cooperatively both online and locally.</description>
+</item>
+<item>
 <title>Sister Other Paranoia</title>
 <link>https://store.steampowered.com/app/4240150/</link>
 <guid isPermaLink="false">4240150</guid>
 <pubDate>Sat, 15 Aug 2026 06:42:46 +0000</pubDate>
 <description>A dark visual novel by acclaimed creator nyalra. Overly sensitive to other people's emotions, the protagonist—a light novel writer—develops the ability to read minds, only to be driven even deeper into isolation. His sole remaining comfort is his younger sister, gifted yet lonely.</description>
-</item>
-<item>
-<title>Car Service Together</title>
-<link>https://store.steampowered.com/app/3501070/</link>
-<guid isPermaLink="false">3501070</guid>
-<pubDate>Sat, 15 Aug 2026 01:23:33 +0000</pubDate>
-<description>Car Service Together is a 1-4 co-op &amp;amp; single player simulation game where you and/or with your friends start from scratch and build your way up. Work together to successfully run your own service center. Team up, manage your business, and create the ultimate car service !</description>
-</item>
-<item>
-<title>CULTIC: Chapter Two</title>
-<link>https://store.steampowered.com/app/3918090/</link>
-<guid isPermaLink="false">3918090</guid>
-<pubDate>Sat, 15 Aug 2026 01:23:33 +0000</pubDate>
-<description>The fight continues in CULTIC: Chapter Two! Blast your way through a brand new campaign full of tense firefights, new locations, weapons, and enemies, and horrifying surprises in the thrilling conclusion to CULTIC!</description>
-</item>
-<item>
-<title>EZ2ON REBOOT : R</title>
-<link>https://store.steampowered.com/app/1477590/</link>
-<guid isPermaLink="false">1477590</guid>
-<pubDate>Sat, 15 Aug 2026 01:23:33 +0000</pubDate>
-<description>EZ2ON REBOOT : R – The latest entry in the beloved rhythm-action franchise is now released on Steam! Revisit the huge collection of classics with remastered audiovisual. Catch up with the freshest new songs and experiences.</description>
-</item>
-<item>
-<title>Forefront</title>
-<link>https://store.steampowered.com/app/2981220/</link>
-<guid isPermaLink="false">2981220</guid>
-<pubDate>Sat, 15 Aug 2026 01:23:33 +0000</pubDate>
-<description>Forefront is an intense VR shooter featuring 32-player large-scale battles, land, sea, and air vehicles, and immersive, tactical combat. You are the tip of the spear in the war between a global energy giant and resistance forces. Which side will you take?</description>
-</item>
-<item>
-<title>Orcs Must Die! 3</title>
-<link>https://store.steampowered.com/app/1522820/</link>
-<guid isPermaLink="false">1522820</guid>
-<pubDate>Sat, 15 Aug 2026 01:23:33 +0000</pubDate>
-<description>Slice, burn, toss, zap, grind and gib massive hordes of repugnant orcs in this long-awaited successor to the award-winning Orcs Must Die! series.</description>
-</item>
-<item>
-<title>Strange Jigsaws</title>
-<link>https://store.steampowered.com/app/2702170/</link>
-<guid isPermaLink="false">2702170</guid>
-<pubDate>Sat, 15 Aug 2026 01:23:33 +0000</pubDate>
-<description>A game of strange jigsaws.</description>
-</item>
-<item>
-<title>What The Dub?!</title>
-<link>https://store.steampowered.com/app/1495860/</link>
-<guid isPermaLink="false">1495860</guid>
-<pubDate>Sat, 15 Aug 2026 01:23:33 +0000</pubDate>
-<description>What The Dub?! is a multiplayer party game where each player overdubs missing dialogue from hilariously awful B-movies, outdated PSAs, and bizarre industrial films, with their own witty (or just plain stupid) dubs!</description>
-</item>
-<item>
-<title>CULTIC</title>
-<link>https://store.steampowered.com/app/1684930/</link>
-<guid isPermaLink="false">1684930</guid>
-<pubDate>Fri, 14 Aug 2026 18:58:25 +0000</pubDate>
-<description>Death is only the beginning. Crawl from your grave and gear up to fight your way through the ranks of a mysterious and twisted cult. You, your guns, and your dynamite will have to shoot, slide, blast, duck, dodge, and maybe throw a gib or two to survive in this old-school-inspired shooter.</description>
-</item>
-<item>
-<title>Dino Party</title>
-<link>https://store.steampowered.com/app/1939390/</link>
-<guid isPermaLink="false">1939390</guid>
-<pubDate>Fri, 14 Aug 2026 18:58:25 +0000</pubDate>
-<description>A 2–4 player party brawler where classic party-game chaos meets fast, punchy combat. Score goals, steal stars, dodge hazards, and sabotage your friends in chaotic minigames!</description>
-</item>
-<item>
-<title>Fellwood</title>
-<link>https://store.steampowered.com/app/4632540/</link>
-<guid isPermaLink="false">4632540</guid>
-<pubDate>Fri, 14 Aug 2026 18:58:25 +0000</pubDate>
-<description>Build a wild fantasy lumber empire that bombards a forest across the valley with axes, ballistas, cannons, and magic. Harvest flying logs, stack absurd upgrades, and automate your way to unstoppable woodcutting power.</description>
-</item>
-<item>
-<title>I.T. Never Ends</title>
-<link>https://store.steampowered.com/app/4225400/</link>
-<guid isPermaLink="false">4225400</guid>
-<pubDate>Fri, 14 Aug 2026 18:58:25 +0000</pubDate>
-<description>The printer is bleeding, the Wi-Fi is haunted, and Ticket #666 just came in. As the latest hire for a company run by cosmic horrors, your job is simple: Swipe to survive. Make binary decisions to survive the night shift in this dark comedy desktop simulator. I.T truly never ends.</description>
-</item>
-<item>
-<title>Pegfinity</title>
-<link>https://store.steampowered.com/app/3947040/</link>
-<guid isPermaLink="false">3947040</guid>
-<pubDate>Fri, 14 Aug 2026 18:58:25 +0000</pubDate>
-<description>Launch balls, hit pegs, make numbers go wild. A short pachinko-inspired physics incremental about chaotic upgrades, combos, and ridiculous score-chasing chaos!</description>
-</item>
-<item>
-<title>Static Dread: The Submarine</title>
-<link>https://store.steampowered.com/app/4042160/</link>
-<guid isPermaLink="false">4042160</guid>
-<pubDate>Fri, 14 Aug 2026 18:58:25 +0000</pubDate>
-<description>Descend into Lovecraftian horror aboard a claustrophobic military submarine. Assign tasks as a captain’s right hand, analyze sonar signals, make hard decisions, and keep the crew from madness. Dark horrors lurk both within… and beyond the hull.</description>
-</item>
-<item>
-<title>Stick It to the Stickman</title>
-<link>https://store.steampowered.com/app/2085540/</link>
-<guid isPermaLink="false">2085540</guid>
-<pubDate>Fri, 14 Aug 2026 18:58:25 +0000</pubDate>
-<description>Stick it to the Stickman is a physics-based brawler where you fight heaps of red stickmen to become the boss. Choose from hundreds of unique moves to construct the perfect combat machine and fight your way to the top of the corporate ladder.</description>
-</item>
-<item>
-<title>Wicked Seed</title>
-<link>https://store.steampowered.com/app/2767530/</link>
-<guid isPermaLink="false">2767530</guid>
-<pubDate>Fri, 14 Aug 2026 18:58:25 +0000</pubDate>
-<description>A modern-day horror RPG with tactical combat and survival horror roots. Customize your loadout, manage limited resources, and exploit enemy weaknesses in tense, strategic encounters.</description>
 </item>
 <item>
 <title>Deponia</title>
