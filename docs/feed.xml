@@ -4,7 +4,42 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sun, 16 Aug 2026 18:33:21 +0000</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 01:25:40 +0000</lastBuildDate>
+<item>
+<title>Mad Games Tycoon 2</title>
+<link>https://store.steampowered.com/app/1342330/</link>
+<guid isPermaLink="false">1342330</guid>
+<pubDate>Mon, 17 Aug 2026 01:25:40 +0000</pubDate>
+<description>Start your own game development studio in 1976. Build your own offices, production facilities and server rooms. Develop the games of your dreams and produce the next next-gen console. Rise from a small garage company to a huge corporation.</description>
+</item>
+<item>
+<title>Melvor Idle: Atlas of Discovery</title>
+<link>https://store.steampowered.com/app/2492940/</link>
+<guid isPermaLink="false">2492940</guid>
+<pubDate>Mon, 17 Aug 2026 01:25:40 +0000</pubDate>
+<description>Atlas of Discovery, Melvor Idle’s second expansion, is all about exploration! Discover eight new Combat Areas packed with dozens of monsters to fight and hundreds of new items to find. Unlock two new exploration skills, try the all-new Ancient Relics Gamemode… and more!</description>
+</item>
+<item>
+<title>Melvor Idle: Into the Abyss</title>
+<link>https://store.steampowered.com/app/2860590/</link>
+<guid isPermaLink="false">2860590</guid>
+<pubDate>Mon, 17 Aug 2026 01:25:40 +0000</pubDate>
+<description>Discover a new dimension to Melvor Idle as you descend into the Abyssal Realm! Encounter new challenges, unique environments and mechanics while mastering new Abyssal Skills. As you delve deeper, the stakes get higher… but will you rise to glory?</description>
+</item>
+<item>
+<title>Melvor Idle: Throne of the Herald</title>
+<link>https://store.steampowered.com/app/2055140/</link>
+<guid isPermaLink="false">2055140</guid>
+<pubDate>Mon, 17 Aug 2026 01:25:40 +0000</pubDate>
+<description>Throne of the Herald expansion continues the story of our hero as you discover more about the mystic forces that surround the lands of Melvor, and the dark forces that remain hidden outside of the Capital. New locations to explore, new gear to craft, and even more monsters to fight!</description>
+</item>
+<item>
+<title>Styx: Blades of Greed</title>
+<link>https://store.steampowered.com/app/3290690/</link>
+<guid isPermaLink="false">3290690</guid>
+<pubDate>Mon, 17 Aug 2026 01:25:40 +0000</pubDate>
+<description>The master of stealth is back! Explore the dizzying heights of the Iserian Continent and cunningly eliminate your enemies. Thanks to your Quartz powers, you are freer than ever. Be creative: Never has it felt so good to be greedy.</description>
+</item>
 <item>
 <title>Internet Survivor Survivors</title>
 <link>https://store.steampowered.com/app/4625810/</link>
@@ -32,20 +67,6 @@
 <guid isPermaLink="false">567990</guid>
 <pubDate>Sun, 16 Aug 2026 18:33:21 +0000</pubDate>
 <description>Sally Face Episodes 2 - 5. Plus the Sally Face Original Soundtrack.</description>
-</item>
-<item>
-<title>Total War: ROME II - Empire Divided Campaign Pack</title>
-<link>https://store.steampowered.com/app/694880/</link>
-<guid isPermaLink="false">694880</guid>
-<pubDate>Sun, 16 Aug 2026 18:33:21 +0000</pubDate>
-<description>PLEASE NOTE: This content requires the base game Total War™: ROME II to play.The year is 270 AD and The Roman Empire is on the brink of economic collapse. Divided into three distinct seats of power, and with Barbarians and Eastern Empires ready to swarm her crumbling borders, it is time to do or die.</description>
-</item>
-<item>
-<title>Total War: ROME II - Rise of the Republic Campaign Pack</title>
-<link>https://store.steampowered.com/app/850010/</link>
-<guid isPermaLink="false">850010</guid>
-<pubDate>Sun, 16 Aug 2026 18:33:21 +0000</pubDate>
-<description>Total War: ROME II – Rise of the Republic is a thrilling new campaign pack charting the events surrounding Rome in the 4th century BC.</description>
 </item>
 <item>
 <title>A Total War Saga: TROY - MYTHOS</title>
@@ -81,20 +102,6 @@
 <guid isPermaLink="false">1293820</guid>
 <pubDate>Sun, 16 Aug 2026 01:32:58 +0000</pubDate>
 <description>YOU and ME and HER: A Love Story is the visual novel medium in its purest form. Will Shinichi choose Miyuki, the beautiful queen bee of the school, or the endearingly awkward misfit Aoi? With art by Tsuji Santa, these beautifully rendered romances will stay with you forever.</description>
-</item>
-<item>
-<title>Flowers and Deities</title>
-<link>https://store.steampowered.com/app/3816000/</link>
-<guid isPermaLink="false">3816000</guid>
-<pubDate>Sat, 15 Aug 2026 18:33:56 +0000</pubDate>
-<description>Flowers and Deities is a strategy deckbuilder roguelite where you command a blood-soaked lizardkin army through escalating arena battles, spending every drop of spilled blood to cast spells, summon creatures, and survive long enough to claim the favor of the Gods</description>
-</item>
-<item>
-<title>Wagotabi: A Japanese Journey</title>
-<link>https://store.steampowered.com/app/2701720/</link>
-<guid isPermaLink="false">2701720</guid>
-<pubDate>Sat, 15 Aug 2026 18:33:56 +0000</pubDate>
-<description>Wagotabi is an educational RPG teaching Japanese from the ground up. Immerse yourself in the language through interactive dialogues, quest-solving, and puzzles, all while exploring Japan and its rich culture. Will you become a Japanese master?</description>
 </item>
 <item>
 <title>Deponia</title>
