@@ -4,7 +4,35 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Thu, 20 Aug 2026 06:51:02 +0000</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 12:54:37 +0000</lastBuildDate>
+<item>
+<title>Death In Abyss</title>
+<link>https://store.steampowered.com/app/2076520/</link>
+<guid isPermaLink="false">2076520</guid>
+<pubDate>Thu, 20 Aug 2026 12:54:37 +0000</pubDate>
+<description>Death In Abyss is an intense flight shooter that challenges you to utilize your maneuverability and explosive firepower to survive against the deep-sea hostilities. In your descent, the nightmares can only get worse.</description>
+</item>
+<item>
+<title>Gallipoli</title>
+<link>https://store.steampowered.com/app/3065940/</link>
+<guid isPermaLink="false">3065940</guid>
+<pubDate>Thu, 20 Aug 2026 12:54:37 +0000</pubDate>
+<description>Land on the beaches of Gallipoli and fight intense 50-player objective-based battles on the Ottoman Fronts! Experience WW1 trench warfare and desert expeditions as one of 10 historic classes, armed with authentic weaponry. Gallipoli brings the most immersive WW1 FPS battles yet.</description>
+</item>
+<item>
+<title>PengPong</title>
+<link>https://store.steampowered.com/app/2766910/</link>
+<guid isPermaLink="false">2766910</guid>
+<pubDate>Thu, 20 Aug 2026 12:54:37 +0000</pubDate>
+<description>PengPong is a bullet-hell roguelike where pinball meets gambling. Bounce your way through chaos and bet it all to survive.</description>
+</item>
+<item>
+<title>Repterra</title>
+<link>https://store.steampowered.com/app/2768380/</link>
+<guid isPermaLink="false">2768380</guid>
+<pubDate>Thu, 20 Aug 2026 12:54:37 +0000</pubDate>
+<description>Repterra is a base-building survival RTS set in a world overrun by dinosaurs. Manage your colony while battling massive dino hordes. Breed and ride your own dinos, unlock permanent upgrades, and fight to reclaim the world for humanity.</description>
+</item>
 <item>
 <title>Deadlock Station</title>
 <link>https://store.steampowered.com/app/2327640/</link>
@@ -67,6 +95,13 @@
 <guid isPermaLink="false">733140</guid>
 <pubDate>Thu, 20 Aug 2026 01:23:38 +0000</pubDate>
 <description>This first expansion brings back one of the most popular factions of the Endless Universe: the Vaulters. Explore the galaxy with your special teleport ability, assault and take control of enemy fleets, and fulfill your everlasting quest for survival by finding a new home for your people.</description>
+</item>
+<item>
+<title>Galactic Vault</title>
+<link>https://store.steampowered.com/app/3585460/</link>
+<guid isPermaLink="false">3585460</guid>
+<pubDate>Thu, 20 Aug 2026 01:23:38 +0000</pubDate>
+<description>Build devastating weapons on the fly in this blend of movement shooter and roguelike action. Sprint, slide, and dash to plunder high-tech vaults. Stack gun upgrades, abilities, and grenades for wild synergies as you survive a spreading infestation.</description>
 </item>
 <item>
 <title>MarginCall</title>
