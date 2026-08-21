@@ -4,7 +4,21 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Fri, 21 Aug 2026 03:43:43 +0000</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 06:52:06 +0000</lastBuildDate>
+<item>
+<title>Grim Trials</title>
+<link>https://store.steampowered.com/app/2621930/</link>
+<guid isPermaLink="false">2621930</guid>
+<pubDate>Fri, 21 Aug 2026 06:52:06 +0000</pubDate>
+<description>Prove your worth. Hack and blast your way through the Grim Trials. Explore the (after)life of the Academy – a training ground for aspiring Grim Reapers. Befriend fellow Reapers, learn from your mentors, and uncover the secrets of your life and love before your death.</description>
+</item>
+<item>
+<title>Re:Store the Record Store</title>
+<link>https://store.steampowered.com/app/4902600/</link>
+<guid isPermaLink="false">4902600</guid>
+<pubDate>Fri, 21 Aug 2026 06:52:06 +0000</pubDate>
+<description>Re:Store the Record Store is a game about tidying up an indie record store after the owner had to run off to chase down his escaped monkey. Featuring over 1000 items to pick up, sort through and return back into the crates where they belong. Take your time to look through everything or speedrun it!</description>
+</item>
 <item>
 <title>BroomSweeper</title>
 <link>https://store.steampowered.com/app/3473250/</link>
@@ -53,13 +67,6 @@
 <guid isPermaLink="false">1635450</guid>
 <pubDate>Fri, 21 Aug 2026 01:27:27 +0000</pubDate>
 <description>Fish, farm, craft, gather, cook, loot or steal from other players and build a campsite or a village with your friends in an open-world multiplayer sandbox game without rules!</description>
-</item>
-<item>
-<title>Mad King Redemption</title>
-<link>https://store.steampowered.com/app/2369580/</link>
-<guid isPermaLink="false">2369580</guid>
-<pubDate>Fri, 21 Aug 2026 01:27:27 +0000</pubDate>
-<description>Mad King Redemption is a unique blend of a traditional beat'em'up game with strong roguelite progression, mixed in a pixelated graphic style in a 2.5D world. Relieve the king from his madness while beating up corrupted enemies, in a fresh way at every run!</description>
 </item>
 <item>
 <title>Trombone Champ</title>
@@ -200,27 +207,6 @@
 <guid isPermaLink="false">2768380</guid>
 <pubDate>Thu, 20 Aug 2026 12:54:37 +0000</pubDate>
 <description>Repterra is a base-building survival RTS set in a world overrun by dinosaurs. Manage your colony while battling massive dino hordes. Breed and ride your own dinos, unlock permanent upgrades, and fight to reclaim the world for humanity.</description>
-</item>
-<item>
-<title>DJMAX RESPECT V - CLEAR PASS : S20 PREMIUM TICKET</title>
-<link>https://store.steampowered.com/app/4745140/</link>
-<guid isPermaLink="false">4745140</guid>
-<pubDate>Thu, 20 Aug 2026 06:51:02 +0000</pubDate>
-<description>By purchasing this product, you can receive the premium product rewards for Clear Pass Season 20. Clear Pass Season 20 runs for 90 days.</description>
-</item>
-<item>
-<title>LABYRINTHOS: The Depths Want You</title>
-<link>https://store.steampowered.com/app/3883290/</link>
-<guid isPermaLink="false">3883290</guid>
-<pubDate>Thu, 20 Aug 2026 06:51:02 +0000</pubDate>
-<description>Ascend the sunken labyrinth called the Tower and choose your path to escape to the surface. Battle foes, forge relationships, and find power in this roguelite dark fantasy RPG.</description>
-</item>
-<item>
-<title>Shao Song I</title>
-<link>https://store.steampowered.com/app/4292950/</link>
-<guid isPermaLink="false">4292950</guid>
-<pubDate>Thu, 20 Aug 2026 06:51:02 +0000</pubDate>
-<description>Experience an immersive live-action historical game. Reincarnate as Southern Song’s controversial Emperor Zhao Gou, where every choice shapes the dynasty’s fate. Amid Jingkang’s ruin, defy destiny, restore your homeland and stand firm with the oath: The Song may fall, but the realm shall never fall!</description>
 </item>
 </channel>
 </rss>
