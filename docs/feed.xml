@@ -4,7 +4,7 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Fri, 21 Aug 2026 12:53:20 +0000</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 15:23:00 +0000</lastBuildDate>
 <item>
 <title>Re:Store the Record Store</title>
 <link>https://store.steampowered.com/app/4902600/</link>
@@ -186,27 +186,6 @@
 <guid isPermaLink="false">230290</guid>
 <pubDate>Thu, 20 Aug 2026 18:42:36 +0000</pubDate>
 <description>Create &amp;amp; destroy on an unimaginable scale with a realistic physics-based space simulator. Explore the beauty of our universe and the fragility of our planet. Use science to bend the laws of gravity, collide planets, boil away oceans, fire epic space lasers, and customize your universe.</description>
-</item>
-<item>
-<title>Gallipoli</title>
-<link>https://store.steampowered.com/app/3065940/</link>
-<guid isPermaLink="false">3065940</guid>
-<pubDate>Thu, 20 Aug 2026 12:54:37 +0000</pubDate>
-<description>Land on the beaches of Gallipoli and fight intense 50-player objective-based battles on the Ottoman Fronts! Experience WW1 trench warfare and desert expeditions as one of 10 historic classes, armed with authentic weaponry. Gallipoli brings the most immersive WW1 FPS battles yet.</description>
-</item>
-<item>
-<title>PengPong</title>
-<link>https://store.steampowered.com/app/2766910/</link>
-<guid isPermaLink="false">2766910</guid>
-<pubDate>Thu, 20 Aug 2026 12:54:37 +0000</pubDate>
-<description>PengPong is a bullet-hell roguelike where pinball meets gambling. Bounce your way through chaos and bet it all to survive.</description>
-</item>
-<item>
-<title>Repterra</title>
-<link>https://store.steampowered.com/app/2768380/</link>
-<guid isPermaLink="false">2768380</guid>
-<pubDate>Thu, 20 Aug 2026 12:54:37 +0000</pubDate>
-<description>Repterra is a base-building survival RTS set in a world overrun by dinosaurs. Manage your colony while battling massive dino hordes. Breed and ride your own dinos, unlock permanent upgrades, and fight to reclaim the world for humanity.</description>
 </item>
 </channel>
 </rss>
