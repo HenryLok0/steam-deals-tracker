@@ -4,7 +4,7 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Mon, 24 Aug 2026 01:27:39 +0000</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 03:47:10 +0000</lastBuildDate>
 <item>
 <title>Don't Stop, Girlypop!</title>
 <link>https://store.steampowered.com/app/2610650/</link>
@@ -32,27 +32,6 @@
 <guid isPermaLink="false">1430680</guid>
 <pubDate>Sun, 23 Aug 2026 18:33:22 +0000</pubDate>
 <description>Hunted by mercenaries of an enemy with untold power, the fighter Pseudo and the creature under his protection begin a perilous quest to the edges of strange lands.</description>
-</item>
-<item>
-<title>PANICORE</title>
-<link>https://store.steampowered.com/app/2695940/</link>
-<guid isPermaLink="false">2695940</guid>
-<pubDate>Sun, 23 Aug 2026 01:35:50 +0000</pubDate>
-<description>PANICORE is a survival horror game that mixes permadeath, AI monsters and a co-op experience up to 5 players (4 players in demo). Try to escape and don't get caught, but beware: they don't only hear your steps, but also your voice.</description>
-</item>
-<item>
-<title>Project Hospital - Hospital Services</title>
-<link>https://store.steampowered.com/app/1282550/</link>
-<guid isPermaLink="false">1282550</guid>
-<pubDate>Sun, 23 Aug 2026 01:35:50 +0000</pubDate>
-<description>Hospital Services expansion pack introduces Administrative department with pharmacy, cafeteria, janitor management, staff training and visitors. Pathology department allows you to figure out what went wrong with your lost cases.</description>
-</item>
-<item>
-<title>Vivid World</title>
-<link>https://store.steampowered.com/app/2468550/</link>
-<guid isPermaLink="false">2468550</guid>
-<pubDate>Sun, 23 Aug 2026 01:35:50 +0000</pubDate>
-<description>A follow-up to the hit game Vivid Knight, Vivid World is a completely new party-building, roguelike strategy game! Our story takes place in the Underworld, a land ruled by demons. Utilize and master our protagonist, Lemuria's new Jewel Magic to conquer strange dungeons.</description>
 </item>
 </channel>
 </rss>
