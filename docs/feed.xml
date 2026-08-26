@@ -4,13 +4,55 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Tue, 25 Aug 2026 18:42:31 +0000</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 01:27:52 +0000</lastBuildDate>
 <item>
-<title>Aquarist</title>
-<link>https://store.steampowered.com/app/1430760/</link>
-<guid isPermaLink="false">1430760</guid>
-<pubDate>Tue, 25 Aug 2026 18:42:31 +0000</pubDate>
-<description>Build beautiful aquariums, care for exotic marine life, complete creative customer jobs, and grow your own aquarium business into a world-class oceanarium in this relaxing sandbox simulation.</description>
+<title>1666: Amsterdam</title>
+<link>https://store.steampowered.com/app/3949550/</link>
+<guid isPermaLink="false">3949550</guid>
+<pubDate>Wed, 26 Aug 2026 01:27:52 +0000</pubDate>
+<description>Every 333 years, something stirs. 1666: Amsterdam is a 3rd person Dark, Story-Led, Action-Adventure where Noa, the Collector, wields witchcraft to uncover demonic entities hiding behind human faces. Investigate by day. Face your demons at night.</description>
+</item>
+<item>
+<title>Hacknet</title>
+<link>https://store.steampowered.com/app/365450/</link>
+<guid isPermaLink="false">365450</guid>
+<pubDate>Wed, 26 Aug 2026 01:27:52 +0000</pubDate>
+<description>Hacknet is an immersive, terminal-based hacking simulator for PC. Dive down a rabbit hoIe as you follow the instructions of a recently deceased hacker, whose death may not have been the accident the media reports.</description>
+</item>
+<item>
+<title>HUMANKIND™ - Together We Rule Expansion Pack</title>
+<link>https://store.steampowered.com/app/1833990/</link>
+<guid isPermaLink="false">1833990</guid>
+<pubDate>Wed, 26 Aug 2026 01:27:52 +0000</pubDate>
+<description>Unite HUMANKIND™ with the Together We Rule Expansion Pack! Features the Congress of Humankind, 1 new currency (Leverage), 1 new quarter unlocking new inter-empires actions (Embassy), 3 new units (Agent), 6 New Cultures with Diplomatic Affinity, and more...</description>
+</item>
+<item>
+<title>Sludgineers</title>
+<link>https://store.steampowered.com/app/4073860/</link>
+<guid isPermaLink="false">4073860</guid>
+<pubDate>Wed, 26 Aug 2026 01:27:52 +0000</pubDate>
+<description>Clean, mine and refine pollution in this active incremental game. Cruise through the countryside earning cash and resources, build a refinery, process materials, upgrade equipment, unlock new areas and complete quests.</description>
+</item>
+<item>
+<title>Sokogram</title>
+<link>https://store.steampowered.com/app/4054100/</link>
+<guid isPermaLink="false">4054100</guid>
+<pubDate>Wed, 26 Aug 2026 01:27:52 +0000</pubDate>
+<description>Sokogram merges Nonogram logic grids with Sokoban box-pushing puzzles. Each level blends both systems into one unified challenge with handcrafted designs that reward deduction over guessing.</description>
+</item>
+<item>
+<title>Terminator: Resistance Annihilation Line</title>
+<link>https://store.steampowered.com/app/1755190/</link>
+<guid isPermaLink="false">1755190</guid>
+<pubDate>Wed, 26 Aug 2026 01:27:52 +0000</pubDate>
+<description>An empty outpost. An ominous mission. A familiar face. Return to the world of Terminator: Resistance and assist Sergeant Kyle Reese in an expedition beyond Skynet’s lethal Annihilation Line.</description>
+</item>
+<item>
+<title>Western Rye</title>
+<link>https://store.steampowered.com/app/2358630/</link>
+<guid isPermaLink="false">2358630</guid>
+<pubDate>Wed, 26 Aug 2026 01:27:52 +0000</pubDate>
+<description>Western Rye is an open world survival crafting adventure game set in the old west American Frontier. Create your dream outlaw! Survive the the wild west, farm, build your ranch, endure the weather, fight and forge your legend with friends or alone. In Western Rye, the wild west just got wilder!</description>
 </item>
 <item>
 <title>Blood Dungeon</title>
@@ -34,25 +76,11 @@
 <description>Funguys Swarm is a cartoony survivor bullet hell where the forest is on fire. Become a Funguy, arm yourself with forest-crafted weapons, and unleash some bonkers powers on the Fireking’s army. And maybe... just maybe, save the day if you’re skilled (or lucky) enough.</description>
 </item>
 <item>
-<title>Gedonia 2</title>
-<link>https://store.steampowered.com/app/2566340/</link>
-<guid isPermaLink="false">2566340</guid>
-<pubDate>Tue, 25 Aug 2026 18:42:31 +0000</pubDate>
-<description>Gedonia 2 is an online coop RPG, which allows up to 4 players to freely explore living open world and build absolutely unique characters. An expanded and improved sequel for RPG Gedonia.</description>
-</item>
-<item>
 <title>Mega Man Battle Network Legacy Collection Vol. 2</title>
 <link>https://store.steampowered.com/app/1798020/</link>
 <guid isPermaLink="false">1798020</guid>
 <pubDate>Tue, 25 Aug 2026 18:42:31 +0000</pubDate>
 <description>The renowned Mega Man Battle Network series, which has expanded into anime and comics, is back. Volume 2 includes six action packed games from both versions of Mega Man Battle Network 4 to both versions of Mega Man Battle Network 6, plus additional features like a gallery and online play!</description>
-</item>
-<item>
-<title>Mega Man Legacy Collection</title>
-<link>https://store.steampowered.com/app/363440/</link>
-<guid isPermaLink="false">363440</guid>
-<pubDate>Tue, 25 Aug 2026 18:42:31 +0000</pubDate>
-<description>Mega Man Legacy Collection is a celebration of the 8-bit history of Capcom’s iconic Blue Bomber featuring faithful reproductions of the series’ origins with the original six Mega Man games.</description>
 </item>
 <item>
 <title>Polylithic</title>
@@ -83,32 +111,11 @@
 <description>Live life on the tracks and discover the joy of train simulation. Whether looking for a relaxing run on the rails or seeking the thrill of mastering your virtual train driver career, find your way in Train Sim World 7.</description>
 </item>
 <item>
-<title>Hero Siege - Extra Inventory &amp; Stash Space</title>
-<link>https://store.steampowered.com/app/998550/</link>
-<guid isPermaLink="false">998550</guid>
-<pubDate>Tue, 25 Aug 2026 12:52:36 +0000</pubDate>
-<description>+1 Stash and Inventory Tab</description>
-</item>
-<item>
-<title>House Builder</title>
-<link>https://store.steampowered.com/app/1244630/</link>
-<guid isPermaLink="false">1244630</guid>
-<pubDate>Tue, 25 Aug 2026 12:52:36 +0000</pubDate>
-<description>Become a one-man construction crew! Travel around the world and through the ages to build iconic designs! Beware of unpleasant temperatures and dangerous fauna!</description>
-</item>
-<item>
 <title>MEGA MAN X DiVE Offline</title>
 <link>https://store.steampowered.com/app/2183650/</link>
 <guid isPermaLink="false">2183650</guid>
 <pubDate>Tue, 25 Aug 2026 12:52:36 +0000</pubDate>
 <description>Mega Man X DiVE reimagined the world of the Mega Man X series, and now it's getting an offline version! Strengthen your characters and weapons with a variety of powerups to make them all your own. Then test them out in the side-scrolling action of &amp;quot;what-if&amp;quot; worlds in Mega Man X!</description>
-</item>
-<item>
-<title>Hero Siege - Prophet (Class)</title>
-<link>https://store.steampowered.com/app/4204900/</link>
-<guid isPermaLink="false">4204900</guid>
-<pubDate>Tue, 25 Aug 2026 06:52:44 +0000</pubDate>
-<description>The Prophet is a versatile character class capable of spell casting, summoning minions or phase shifting into various creatures of the wilderness. She is one with the nature and channels the energy of the forest to fight by her side.</description>
 </item>
 <item>
 <title>Mega Man Legacy Collection 2</title>
@@ -132,118 +139,6 @@
 <description>Senren＊Banka is a Japanese-style visual novel produced by Yuzusoft, a Japanese developer of romance VNs. This game commemorated Yuzusoft's 10th anniversary. It won numerous awards on the year of its release in Japan for its art, music, and characters.</description>
 </item>
 <item>
-<title>Smashing Bottles</title>
-<link>https://store.steampowered.com/app/4637870/</link>
-<guid isPermaLink="false">4637870</guid>
-<pubDate>Tue, 25 Aug 2026 06:52:44 +0000</pubDate>
-<description>Smashing Bottles is a short and satisfying incremental game where you break bottles to earn money, upgrade your bat, discover new bottles, and cause chaos! Will you smash enough bottles to buy the universe?</description>
-</item>
-<item>
-<title>Carrier Command 2</title>
-<link>https://store.steampowered.com/app/1489630/</link>
-<guid isPermaLink="false">1489630</guid>
-<pubDate>Tue, 25 Aug 2026 01:24:10 +0000</pubDate>
-<description>Carrier Command 2 is the real-time strategy game that puts you in command of a futuristic carrier capable of deploying a vast array of aircraft and amphibious units. Compete against AI or human players and hop into every single vehicle to take matters into your own hands!</description>
-</item>
-<item>
-<title>Crimson Desert</title>
-<link>https://store.steampowered.com/app/3321460/</link>
-<guid isPermaLink="false">3321460</guid>
-<pubDate>Tue, 25 Aug 2026 01:24:10 +0000</pubDate>
-<description>Crimson Desert is an open-world action-adventure set on the continent of Pywel. Join Kliff on his journey to rebuild the Greymane faction and to save the land from a looming threat. From vast wilderness and cities to ruins and the mysterious Abyss, forge your path through battles and discovery.</description>
-</item>
-<item>
-<title>Dokimon: The Great Fairy Island</title>
-<link>https://store.steampowered.com/app/3314520/</link>
-<guid isPermaLink="false">3314520</guid>
-<pubDate>Tue, 25 Aug 2026 01:24:10 +0000</pubDate>
-<description>Hop in your *all new* Hovercraft or Submarine and explore &amp;quot;The Great Fairy Island&amp;quot; in this short side-story DLC where the Xer's are once again up to their shenanigans!</description>
-</item>
-<item>
-<title>Eternal Strands</title>
-<link>https://store.steampowered.com/app/1491410/</link>
-<guid isPermaLink="false">1491410</guid>
-<pubDate>Tue, 25 Aug 2026 01:24:10 +0000</pubDate>
-<description>A next-generation action experience where the elements obey you, the terrain bends to your will, and every victory is entirely your own.</description>
-</item>
-<item>
-<title>Here Comes The Swarm</title>
-<link>https://store.steampowered.com/app/3052730/</link>
-<guid isPermaLink="false">3052730</guid>
-<pubDate>Tue, 25 Aug 2026 01:24:10 +0000</pubDate>
-<description>Here Comes the Swarm is a survival RTS with a pause button! Create your strategy, build, manage, and defend your settlements at your own pace. Take the fight to the hive mind and lead expeditions to deliver a deadly blow and eradicate your foes. Will you reclaim Ulora from the relentless Swarm?</description>
-</item>
-<item>
-<title>Hero Siege - Bard (Class)</title>
-<link>https://store.steampowered.com/app/3305660/</link>
-<guid isPermaLink="false">3305660</guid>
-<pubDate>Tue, 25 Aug 2026 01:24:10 +0000</pubDate>
-<description>Shred the battlefield with face-melting solos and thunderous riffs! The Bard storms into Hero Siege with amps cranked to 11, fusing the fury of death metal with the raw brutality of the pit.</description>
-</item>
-<item>
-<title>Hero Siege - Butcher Class</title>
-<link>https://store.steampowered.com/app/2735920/</link>
-<guid isPermaLink="false">2735920</guid>
-<pubDate>Tue, 25 Aug 2026 01:24:10 +0000</pubDate>
-<description>The Butcher epitomizes brute strength and an insatiable thirst for carnage. With each strike of his trusty cleaver, he revels in the symphony of bloodshed. Fueled by a primal urge to rend flesh and crush bone, the Butcher is both feared and revered on the battlefield.</description>
-</item>
-<item>
-<title>Hero Siege - Exo Class</title>
-<link>https://store.steampowered.com/app/2556720/</link>
-<guid isPermaLink="false">2556720</guid>
-<pubDate>Tue, 25 Aug 2026 01:24:10 +0000</pubDate>
-<description>The Prophet of the sun and moon. She embodies the celestial duality of light and darkness, inflicting freezing cold damage and burning her enemies to cinders. She can control the power of the solar system leaving behind a trail of absolute destruction.</description>
-</item>
-<item>
-<title>Hero Siege - Stormweaver</title>
-<link>https://store.steampowered.com/app/2799870/</link>
-<guid isPermaLink="false">2799870</guid>
-<pubDate>Tue, 25 Aug 2026 01:24:10 +0000</pubDate>
-<description>The Stormweaver commands the tempestuous power of thunder and lightning, shocking through the undead with electrifying grace. With each crack of thunder and flash of lightning she leaves the battlefields full of steaming ash.</description>
-</item>
-<item>
-<title>Mega Man 11</title>
-<link>https://store.steampowered.com/app/742300/</link>
-<guid isPermaLink="false">742300</guid>
-<pubDate>Tue, 25 Aug 2026 01:24:10 +0000</pubDate>
-<description>Mega Man is back! The newest entry in this iconic series blends classic, challenging 2D platforming action with a fresh new visual style. The new Double Gear system boosts Mega Man's speed and power for a new twist to the satisfying gameplay the series is known for.</description>
-</item>
-<item>
-<title>Mega Man Star Force Legacy Collection</title>
-<link>https://store.steampowered.com/app/3500390/</link>
-<guid isPermaLink="false">3500390</guid>
-<pubDate>Tue, 25 Aug 2026 01:24:10 +0000</pubDate>
-<description>The Mega Man Star Force series, which expanded into an anime, is back in the Mega Man Star Force Legacy Collection! This collection includes seven games and additional features like a gallery of illustrations and music! Online play is also supported!</description>
-</item>
-<item>
-<title>Microsoft Flight Simulator X: Steam Edition</title>
-<link>https://store.steampowered.com/app/314160/</link>
-<guid isPermaLink="false">314160</guid>
-<pubDate>Tue, 25 Aug 2026 01:24:10 +0000</pubDate>
-<description>Take to the skies in the World’s favourite flight simulator! The multi award winning Microsoft Flight Simulator X lands on Steam for the first time. Take off from anywhere in the world, flying some of the world’s most iconic aircraft to any one of 24,000 destinations.</description>
-</item>
-<item>
-<title>Bar After Bar</title>
-<link>https://store.steampowered.com/app/4596010/</link>
-<guid isPermaLink="false">4596010</guid>
-<pubDate>Mon, 24 Aug 2026 18:44:12 +0000</pubDate>
-<description>Bar After Bar is a multiplayer game where 5 friends drive to the top of a mountain. You will be mixing drinks and throwing them at each other the whole way up. The drunker you get, the harder it is to drive. How far can you make it?</description>
-</item>
-<item>
-<title>Combolands: Roguelike Citybuilder</title>
-<link>https://store.steampowered.com/app/4075620/</link>
-<guid isPermaLink="false">4075620</guid>
-<pubDate>Mon, 24 Aug 2026 18:44:12 +0000</pubDate>
-<description>A mini citybuilding roguelike. Place buildings, stack combos, and master deep strategy in short bursts to create a tiny thriving metropolis!</description>
-</item>
-<item>
-<title>Din's Champion</title>
-<link>https://store.steampowered.com/app/2880010/</link>
-<guid isPermaLink="false">2880010</guid>
-<pubDate>Mon, 24 Aug 2026 18:44:12 +0000</pubDate>
-<description>The evil goddess seeks to devour and remake the world… and you are what stands in her way. Fight and kill, expand your skill tree, craft and build, and lead the world’s people to victory in Din’s Champion, a multiplayer fantasy action-RPG where every choice matters, and the choices are endless.</description>
-</item>
-<item>
 <title>Dokimon Quest</title>
 <link>https://store.steampowered.com/app/2019300/</link>
 <guid isPermaLink="false">2019300</guid>
@@ -251,81 +146,11 @@
 <description>A monster-taming RPG meets GBC-era nostalgia. Capture and train 140+ Dokimon across 15+ towns. &amp;quot;Whoa, watch out — Dokimon are dangerous!&amp;quot; Uncover the mystery behind your missing childhood friend in the Xelos region.</description>
 </item>
 <item>
-<title>Dragon's Dogma 2</title>
-<link>https://store.steampowered.com/app/2054970/</link>
-<guid isPermaLink="false">2054970</guid>
-<pubDate>Mon, 24 Aug 2026 18:44:12 +0000</pubDate>
-<description>Dragon’s Dogma 2 is a single player, narrative driven action-RPG that challenges the players to choose their own experience – from the appearance of their Arisen, their vocation, their party, how to approach different situations and more - in a truly immersive fantasy world.</description>
-</item>
-<item>
-<title>Eslabong</title>
-<link>https://store.steampowered.com/app/4560660/</link>
-<guid isPermaLink="false">4560660</guid>
-<pubDate>Mon, 24 Aug 2026 18:44:12 +0000</pubDate>
-<description>Arena combat meets mercenary club management. Recruit from a dynamic market, build your squad, and compete season after season in leagues and cups.</description>
-</item>
-<item>
-<title>FEED THE AI</title>
-<link>https://store.steampowered.com/app/4486870/</link>
-<guid isPermaLink="false">4486870</guid>
-<pubDate>Mon, 24 Aug 2026 18:44:12 +0000</pubDate>
-<description>Feed the AI. Collect data. Unlock upgrades. Watch the algorithm grow beyond your control. An active incremental where you feed an evolving AI with data and shape what it becomes. Will it save the world... or take it over?</description>
-</item>
-<item>
-<title>Iron Blight</title>
-<link>https://store.steampowered.com/app/4001350/</link>
-<guid isPermaLink="false">4001350</guid>
-<pubDate>Mon, 24 Aug 2026 18:44:12 +0000</pubDate>
-<description>Iron Blight is a survival horror game set in a cold, rainy Eastern Bloc town. You are trapped in a room as abominations claw at your door, with nowhere to run. You must survive the feverish night, uncover the horrors lurking in the shadows, and above all, find your wife, Valeria.</description>
-</item>
-<item>
-<title>Loot Frog</title>
-<link>https://store.steampowered.com/app/4294860/</link>
-<guid isPermaLink="false">4294860</guid>
-<pubDate>Mon, 24 Aug 2026 18:44:12 +0000</pubDate>
-<description>Loot Frog is an incremental action bullet hell about breaking pots, collecting gems, and fighting an evil cult. Upgrade your gear, unlock new abilities, explore diverse biomes, and push deeper into increasingly chaotic battles.</description>
-</item>
-<item>
 <title>Microsoft Flight Simulator Suite: Themes Reimagined</title>
 <link>https://store.steampowered.com/app/5004030/</link>
 <guid isPermaLink="false">5004030</guid>
 <pubDate>Mon, 24 Aug 2026 18:44:12 +0000</pubDate>
 <description>Fully immerse yourself in the world of flight with this digital soundtrack to accompany you on your aviation journey. This suite of 21 unreleased original pieces is inspired by popular trailer scores created by Finishing Move Inc. for Microsoft Flight Simulator.</description>
-</item>
-<item>
-<title>Money for Girls: Amortized</title>
-<link>https://store.steampowered.com/app/4833450/</link>
-<guid isPermaLink="false">4833450</guid>
-<pubDate>Mon, 24 Aug 2026 18:44:12 +0000</pubDate>
-<description>A girl detective faces her darkest mystery yet, in this horror-romance visual novel with stickers, fashion, and bad ends.</description>
-</item>
-<item>
-<title>Ryse: Son of Rome</title>
-<link>https://store.steampowered.com/app/302510/</link>
-<guid isPermaLink="false">302510</guid>
-<pubDate>Mon, 24 Aug 2026 18:44:12 +0000</pubDate>
-<description>“Ryse: Son of Rome” tells the story of Marius Titus, a young Roman soldier who witnesses the murder of his family at the hands of barbarian bandits, then travels with the Roman army to Britannia to seek revenge.</description>
-</item>
-<item>
-<title>Titanic Escape Simulator™</title>
-<link>https://store.steampowered.com/app/4645360/</link>
-<guid isPermaLink="false">4645360</guid>
-<pubDate>Mon, 24 Aug 2026 18:44:12 +0000</pubDate>
-<description>Investigate a dark mystery aboard the RMS Titanic before the final night becomes a fight for survival. Explore, solve puzzles, uncover secrets, and make impossible choices as history’s most famous ship sinks beneath the Atlantic.</description>
-</item>
-<item>
-<title>Union Of Rivals</title>
-<link>https://store.steampowered.com/app/4263170/</link>
-<guid isPermaLink="false">4263170</guid>
-<pubDate>Mon, 24 Aug 2026 18:44:12 +0000</pubDate>
-<description>A deep colony sim and city builder. Manage resources and production chains to build the railroad from East to West. Found towns, harvest and refine the goods that fuel the line, then persuade or outlast the settlements in your path. Every citizen has a name, a trait, and a breaking point.</description>
-</item>
-<item>
-<title>Yakuza 0 Director's Cut</title>
-<link>https://store.steampowered.com/app/2988580/</link>
-<guid isPermaLink="false">2988580</guid>
-<pubDate>Mon, 24 Aug 2026 18:44:12 +0000</pubDate>
-<description>Discover the decadence and danger of 1980's Japan as you fight like hell through its neon-lit entertainment districts in the definitive edition of the action-adventure crime drama that created yakuza legends.</description>
 </item>
 </channel>
 </rss>
