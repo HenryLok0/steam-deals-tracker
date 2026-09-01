@@ -4,7 +4,63 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Tue, 01 Sep 2026 18:02:46 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 20:46:19 +0000</lastBuildDate>
+<item>
+<title>007 First Light</title>
+<link>https://store.steampowered.com/app/3768760/</link>
+<guid isPermaLink="false">3768760</guid>
+<pubDate>Tue, 01 Sep 2026 20:46:19 +0000</pubDate>
+<description>Earn the Number. 007 First Light is a thrilling espionage action-adventure game from IO Interactive. Follow James Bond as a young, resourceful and sometimes reckless recruit in MI6's training programme, and discover an origin story of the world’s most famous spy.</description>
+</item>
+<item>
+<title>Hydroneer</title>
+<link>https://store.steampowered.com/app/1106840/</link>
+<guid isPermaLink="false">1106840</guid>
+<pubDate>Tue, 01 Sep 2026 20:46:19 +0000</pubDate>
+<description>Hydroneer is a mining and base building sandbox. Dig for gold and other resources to turn a profit and enhance your mining operation. Build a base of operations, forge weapons, go fishing, and dig deep!</description>
+</item>
+<item>
+<title>MineMogul</title>
+<link>https://store.steampowered.com/app/3846120/</link>
+<guid isPermaLink="false">3846120</guid>
+<pubDate>Tue, 01 Sep 2026 20:46:19 +0000</pubDate>
+<description>Design and build a factory deep underground in this physics-based automation sandbox. Mine resources, buy machines and master the chaos as you become the ultimate Mine Mogul!</description>
+</item>
+<item>
+<title>Not Quite Dead: Open World Survival</title>
+<link>https://store.steampowered.com/app/4609770/</link>
+<guid isPermaLink="false">4609770</guid>
+<pubDate>Tue, 01 Sep 2026 20:46:19 +0000</pubDate>
+<description>Open world zombie survival Coop game with base building, looting, crafting, vehicles, and exploration.</description>
+</item>
+<item>
+<title>The Lord of the Rings: Return to Moria™ Durin's Folk Expansion</title>
+<link>https://store.steampowered.com/app/3874660/</link>
+<guid isPermaLink="false">3874660</guid>
+<pubDate>Tue, 01 Sep 2026 20:46:19 +0000</pubDate>
+<description>The Durin's Folk Expansion is coming in Fall 2025! Continue the fight to restore Moria with an expanded end-game story, exciting new game mechanics, plus many unrevealed secrets! Please wishlist today and check back for more information soon!</description>
+</item>
+<item>
+<title>Unnamed Pogo Game</title>
+<link>https://store.steampowered.com/app/4925300/</link>
+<guid isPermaLink="false">4925300</guid>
+<pubDate>Tue, 01 Sep 2026 20:46:19 +0000</pubDate>
+<description>Trapped with friends in a surreal world, your only way out is to bounce your way to the top. Master brutal physics, survive impossible obstacles, and face the climb together in this unforgiving pogo-stick challenge. One bad landing is all it takes to lose it all. Can you reach the peak?</description>
+</item>
+<item>
+<title>Until North Ends</title>
+<link>https://store.steampowered.com/app/3924020/</link>
+<guid isPermaLink="false">3924020</guid>
+<pubDate>Tue, 01 Sep 2026 20:46:19 +0000</pubDate>
+<description>Fight, farm, and forage as a new experience awaits in this open-world survival crafting adventure. Journey alone or with friends as you build your own safe haven to weather the harsh Nordic landscapes before you.</description>
+</item>
+<item>
+<title>We Need More Humans!</title>
+<link>https://store.steampowered.com/app/4436560/</link>
+<guid isPermaLink="false">4436560</guid>
+<pubDate>Tue, 01 Sep 2026 20:46:19 +0000</pubDate>
+<description>Abduct everyone on Earth with your UFO! An incremental where you'll travel around the world, unlock upgrades, customise your ship, and not leave a single human behind.</description>
+</item>
 <item>
 <title>Being a DIK - Season 3</title>
 <link>https://store.steampowered.com/app/1807120/</link>
@@ -25,13 +81,6 @@
 <guid isPermaLink="false">3828500</guid>
 <pubDate>Tue, 01 Sep 2026 16:17:29 +0000</pubDate>
 <description>Take command of a nuclear-powered space corvette in a Cold War-flavored sci-fi campaign. Balance tactics, crew, and limited resources in a dynamic forever-war. Retro pixel art meets deep strategy fifteen minutes into the future of 1989.</description>
-</item>
-<item>
-<title>DYSPLACED</title>
-<link>https://store.steampowered.com/app/2430390/</link>
-<guid isPermaLink="false">2430390</guid>
-<pubDate>Tue, 01 Sep 2026 16:17:29 +0000</pubDate>
-<description>Grenades are holy relics. Shotguns are spellcraft. In this top-down survival action-RPG, discover a fantasy realm invaded by modern world and destroy nearly everything. Scavenge artifacts, forge weapons, build outposts, brew potions, and hunt the corruption devouring the land. Play solo or co-op.</description>
 </item>
 <item>
 <title>Eden Crafters</title>
@@ -60,20 +109,6 @@
 <guid isPermaLink="false">4412000</guid>
 <pubDate>Tue, 01 Sep 2026 16:17:29 +0000</pubDate>
 <description>Shoot down waves of targets, collect their loot, and grow stronger through upgrades and skills in this expanding incremental game.</description>
-</item>
-<item>
-<title>Serious Sam HD: The First Encounter</title>
-<link>https://store.steampowered.com/app/41000/</link>
-<guid isPermaLink="false">41000</guid>
-<pubDate>Tue, 01 Sep 2026 11:20:33 +0000</pubDate>
-<description>Serious Sam HD: The First Encounter is a visually upgraded and fully Steam supported remake version of the original high-adrenaline single-play and 16-player co-operative arcade-action FPS which was Gamespot's Game of the Year 2001 and which scored overall of 87% on Metacritic!</description>
-</item>
-<item>
-<title>Serious Sam Fusion 2017 (beta)</title>
-<link>https://store.steampowered.com/app/564310/</link>
-<guid isPermaLink="false">564310</guid>
-<pubDate>Tue, 01 Sep 2026 04:15:35 +0000</pubDate>
-<description>Serious Sam Fusion is a central hub for several existing Serious Sam games developed by Croteam. Cool new features, engine upgrades, patches and updates will be released to existing owners for FREE!</description>
 </item>
 <item>
 <title>Breathedge 2</title>
@@ -172,13 +207,6 @@
 <guid isPermaLink="false">2091330</guid>
 <pubDate>Mon, 31 Aug 2026 22:38:35 +0000</pubDate>
 <description>Deep along the rocky spine of Great Bear stands the Far Range. Mysteries abound, in remote airfields, abandoned mines, and forgotten railways. The air crackles as the Aurora blazes overhead. Will you survive long enough to unearth the secrets of the Far Territory?</description>
-</item>
-<item>
-<title>Microsoft Flight Simulator Suite: Themes Reimagined</title>
-<link>https://store.steampowered.com/app/5004030/</link>
-<guid isPermaLink="false">5004030</guid>
-<pubDate>Mon, 24 Aug 2026 18:44:12 +0000</pubDate>
-<description>Fully immerse yourself in the world of flight with this digital soundtrack to accompany you on your aviation journey. This suite of 21 unreleased original pieces is inspired by popular trailer scores created by Finishing Move Inc. for Microsoft Flight Simulator.</description>
 </item>
 </channel>
 </rss>
