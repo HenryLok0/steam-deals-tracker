@@ -4,20 +4,48 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Wed, 02 Sep 2026 10:54:59 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 16:13:56 +0000</lastBuildDate>
+<item>
+<title>BOMBANANA!</title>
+<link>https://store.steampowered.com/app/4656000/</link>
+<guid isPermaLink="false">4656000</guid>
+<pubDate>Wed, 02 Sep 2026 16:13:56 +0000</pubDate>
+<description>Chaotic bomb disposal fun with friends &amp;amp; monkeys! Work together as a 3-player co-op team of blind, deaf, and mute monkeys. Each player has only part of the needed information. Communicate, solve puzzles, and race against the clock. Can you defuse the bombs before they explode?</description>
+</item>
+<item>
+<title>Category 6</title>
+<link>https://store.steampowered.com/app/2823820/</link>
+<guid isPermaLink="false">2823820</guid>
+<pubDate>Wed, 02 Sep 2026 16:13:56 +0000</pubDate>
+<description>Brace yourself for the ultimate open-world survival craft experience. Welcome to a world shattered by the relentless fury of the most colossal hurricane in history. Explore and gather resources for survival and crafting. Fight off aggressive wildlife and scavengers. Play story mode or survival mode</description>
+</item>
+<item>
+<title>House Party - Nocturnal Temptations Expansion Pack</title>
+<link>https://store.steampowered.com/app/4055790/</link>
+<guid isPermaLink="false">4055790</guid>
+<pubDate>Wed, 02 Sep 2026 16:13:56 +0000</pubDate>
+<description>Travel back in time and team up with a long-lost film starlet to finish her movie, face down a wild cult, and rewrite history in House Party's final, time-bending adventure. This is Hollywood meet House Party!</description>
+</item>
+<item>
+<title>Parking Garage Rally Circuit</title>
+<link>https://store.steampowered.com/app/2737300/</link>
+<guid isPermaLink="false">2737300</guid>
+<pubDate>Wed, 02 Sep 2026 16:13:56 +0000</pubDate>
+<description>Retro Arcade Rally Racing... in Parking Garages?!? Precision driving with tight simple controls and arcade physics, all in a Sega Saturn style presentation</description>
+</item>
+<item>
+<title>ShipShaper: Falconeer Chronicles</title>
+<link>https://store.steampowered.com/app/4339280/</link>
+<guid isPermaLink="false">4339280</guid>
+<pubDate>Wed, 02 Sep 2026 16:13:56 +0000</pubDate>
+<description>ShipShaper is a creative game about the simple joy of designing ships. Nothing more. Nothing less. Export to Bulwark, 3D print, or use in your own games with a free commercial license.</description>
+</item>
 <item>
 <title>CLANNAD Side Stories</title>
 <link>https://store.steampowered.com/app/420100/</link>
 <guid isPermaLink="false">420100</guid>
 <pubDate>Wed, 02 Sep 2026 10:54:59 +0000</pubDate>
 <description>Delve further into the world of CLANNAD and experience the stories beyond the original visual novel adventure. Known as CLANNAD Hikari Mimamoru Sakamichi de in Japan, This Steam version features high resolution assets and is translated into English for the very first time.</description>
-</item>
-<item>
-<title>Deliver At All Costs</title>
-<link>https://store.steampowered.com/app/1880610/</link>
-<guid isPermaLink="false">1880610</guid>
-<pubDate>Wed, 02 Sep 2026 10:54:59 +0000</pubDate>
-<description>Deliver At All Costs is a thrilling action game where destruction, absurdity and intrigue collide! Step into the shoes of Winston Green — a down-on-his-luck courier with a fiery temper and a mysterious past — as he delivers highly unconventional cargo, leaving a trail of havoc and chaos behind him.</description>
 </item>
 <item>
 <title>House Party - Supporter Pack</title>
@@ -81,13 +109,6 @@
 <guid isPermaLink="false">3617450</guid>
 <pubDate>Wed, 02 Sep 2026 03:38:20 +0000</pubDate>
 <description>Help humanity grow with this bumper pack of exclusive new trailers. cargo and venture jobs!</description>
-</item>
-<item>
-<title>Tower! Simulator 3</title>
-<link>https://store.steampowered.com/app/2176130/</link>
-<guid isPermaLink="false">2176130</guid>
-<pubDate>Wed, 02 Sep 2026 03:38:20 +0000</pubDate>
-<description>The Gold Standard in Air Traffic Control Simulation Control aircraft at 11 included airports, issue voice commands, manage traffic, and work together in multiplayer in the most immersive air traffic control simulator available.</description>
 </item>
 <item>
 <title>007 First Light</title>
