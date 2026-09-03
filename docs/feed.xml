@@ -4,7 +4,7 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Thu, 03 Sep 2026 03:38:03 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 07:34:32 +0000</lastBuildDate>
 <item>
 <title>Asterika: Phantom Rose Refrain</title>
 <link>https://store.steampowered.com/app/3690850/</link>
@@ -158,13 +158,6 @@
 <guid isPermaLink="false">4339280</guid>
 <pubDate>Wed, 02 Sep 2026 16:13:56 +0000</pubDate>
 <description>ShipShaper is a creative game about the simple joy of designing ships. Nothing more. Nothing less. Export to Bulwark, 3D print, or use in your own games with a free commercial license.</description>
-</item>
-<item>
-<title>Metal: Hellsinger</title>
-<link>https://store.steampowered.com/app/1061910/</link>
-<guid isPermaLink="false">1061910</guid>
-<pubDate>Wed, 02 Sep 2026 03:38:20 +0000</pubDate>
-<description>Slay to the rhythm of metal and vengeance on an infernal journey through the eight Hells. Make them fear the beat. Metal: Hellsinger is a rhythm FPS bursting with demons, badass weapons, and heavy metal music.</description>
 </item>
 </channel>
 </rss>
