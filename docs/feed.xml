@@ -4,7 +4,14 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sat, 05 Sep 2026 07:16:16 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 10:13:03 +0000</lastBuildDate>
+<item>
+<title>Ballest of Them All</title>
+<link>https://store.steampowered.com/app/3339810/</link>
+<guid isPermaLink="false">3339810</guid>
+<pubDate>Sat, 05 Sep 2026 10:13:03 +0000</pubDate>
+<description>Race a ball through obstacle courses and beat your best time to climb the leaderboards. Perfect your lines and discover shortcuts on 20 official and 150+ player-built tracks.</description>
+</item>
 <item>
 <title>AWAKEN - Astral Blade</title>
 <link>https://store.steampowered.com/app/1716310/</link>
@@ -67,6 +74,13 @@
 <guid isPermaLink="false">3547270</guid>
 <pubDate>Fri, 04 Sep 2026 15:59:39 +0000</pubDate>
 <description>Remote work simulator where you are a worm :)</description>
+</item>
+<item>
+<title>Atomic Heart - Midas Glove Skin</title>
+<link>https://store.steampowered.com/app/2214820/</link>
+<guid isPermaLink="false">2214820</guid>
+<pubDate>Fri, 04 Sep 2026 10:53:28 +0000</pubDate>
+<description>The Midas Glove Skin is included in the Atomic Pass. Get the Atomic Pass and receive the exclusive Midas Glove Skin! Dress CHAR-les in beautiful threads of gold and use him to freeze, electrify and burn your enemies in style.</description>
 </item>
 <item>
 <title>Dungeon Settlers</title>
