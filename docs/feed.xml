@@ -4,7 +4,21 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sun, 06 Sep 2026 17:24:31 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 20:10:37 +0000</lastBuildDate>
+<item>
+<title>F1® 25: 2026 Season Pack</title>
+<link>https://store.steampowered.com/app/4148930/</link>
+<guid isPermaLink="false">4148930</guid>
+<pubDate>Sun, 06 Sep 2026 20:10:37 +0000</pubDate>
+<description>Rewrite the grid with new teams Audi and Cadillac joining the grid, bringing a refreshed roster of drivers ready to challenge the field. Step into a new era with the groundbreaking 2026 cars &amp;amp; take on the adrenaline-fuelled MADRING.</description>
+</item>
+<item>
+<title>Nickelodeon All-Star Brawl 2</title>
+<link>https://store.steampowered.com/app/2017080/</link>
+<guid isPermaLink="false">2017080</guid>
+<pubDate>Sun, 06 Sep 2026 20:10:37 +0000</pubDate>
+<description>Nickelodeon All-Star Brawl 2 lets you duke it out with the biggest and best fighting character roster yet! Choose your favorite brawlers, master their unique move sets, and use all-new powerful Supers to land the finishing blow with friends or across a unique, roguelike player campaign!</description>
+</item>
 <item>
 <title>CarX Street - Deluxe Cars</title>
 <link>https://store.steampowered.com/app/3028020/</link>
@@ -18,20 +32,6 @@
 <guid isPermaLink="false">3673060</guid>
 <pubDate>Sun, 06 Sep 2026 03:40:13 +0000</pubDate>
 <description>A chill idle game that sits in your screen while you do other tasks. Watch your cock train and grow, decorate his island, and buy him some stylish hats. Is your cock the biggest among your friends? Now it can be!</description>
-</item>
-<item>
-<title>Poly Bridge 3</title>
-<link>https://store.steampowered.com/app/1850160/</link>
-<guid isPermaLink="false">1850160</guid>
-<pubDate>Sat, 05 Sep 2026 20:06:00 +0000</pubDate>
-<description>The best just got better! Rediscover your engineering creativity in this genre-defining bridge engineering and puzzle solving masterpiece.</description>
-</item>
-<item>
-<title>X-Morph: Defense</title>
-<link>https://store.steampowered.com/app/408410/</link>
-<guid isPermaLink="false">408410</guid>
-<pubDate>Sat, 05 Sep 2026 20:06:00 +0000</pubDate>
-<description>Unique fusion of a top-down shooter and tower defense strategy. You are the invader! Use destructive weapons or lead your enemies into a maze of towers. Strategize in the build mode by carefully selecting various types of alien towers or throw yourself right into the heat of the battle.</description>
 </item>
 </channel>
 </rss>
