@@ -4,7 +4,21 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sat, 05 Sep 2026 20:06:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 03:40:13 +0000</lastBuildDate>
+<item>
+<title>Dissolution of My Self</title>
+<link>https://store.steampowered.com/app/4573760/</link>
+<guid isPermaLink="false">4573760</guid>
+<pubDate>Sun, 06 Sep 2026 03:40:13 +0000</pubDate>
+<description>A prince who has lost his kingdom and everything else. His uncle and aide-de-camp, unable to leave him. In a cramped rented room abroad, click on objects and piece together a codependent relationship filled with brutality and endurance. Watch helplessness turn into violence, tenderness into torture.</description>
+</item>
+<item>
+<title>How to Train Your Cock</title>
+<link>https://store.steampowered.com/app/3673060/</link>
+<guid isPermaLink="false">3673060</guid>
+<pubDate>Sun, 06 Sep 2026 03:40:13 +0000</pubDate>
+<description>A chill idle game that sits in your screen while you do other tasks. Watch your cock train and grow, decorate his island, and buy him some stylish hats. Is your cock the biggest among your friends? Now it can be!</description>
+</item>
 <item>
 <title>Poly Bridge 3</title>
 <link>https://store.steampowered.com/app/1850160/</link>
@@ -25,34 +39,6 @@
 <guid isPermaLink="false">3339810</guid>
 <pubDate>Sat, 05 Sep 2026 10:13:03 +0000</pubDate>
 <description>Race a ball through obstacle courses and beat your best time to climb the leaderboards. Perfect your lines and discover shortcuts on 20 official and 150+ player-built tracks.</description>
-</item>
-<item>
-<title>AWAKEN - Astral Blade</title>
-<link>https://store.steampowered.com/app/1716310/</link>
-<guid isPermaLink="false">1716310</guid>
-<pubDate>Sat, 05 Sep 2026 03:38:27 +0000</pubDate>
-<description>AWAKEN - Astral Blade is a 2.5D action-adventure metroidvania where you play as Tania, a bionic warrior fighting through a world twisted by Karpas energy. Master parries, upgrade your abilities, and survive relentless enemies and bosses. Is there any chance of survival in such a desperate place?</description>
-</item>
-<item>
-<title>Scavland</title>
-<link>https://store.steampowered.com/app/3373500/</link>
-<guid isPermaLink="false">3373500</guid>
-<pubDate>Fri, 04 Sep 2026 20:29:59 +0000</pubDate>
-<description>Scavland is a hardcore Top-Down Pixel Art survival RPG set in a Post-Apocalyptic Soviet world. Scavenge the wastes and forgotten bunkers, take dangerous jobs, build your reputation, and customize your arsenal as you fight to survive mutants, hostile survivors, radiation, and the deadly Mist.</description>
-</item>
-<item>
-<title>Terminus: Zombie Survivors</title>
-<link>https://store.steampowered.com/app/1534980/</link>
-<guid isPermaLink="false">1534980</guid>
-<pubDate>Fri, 04 Sep 2026 20:29:59 +0000</pubDate>
-<description>Terminus: Zombie Survivors is a 2D turn-based survival roguelike set during a zombie apocalypse. Each journey is unique, and every decision can mean the difference between life and death. Can you brave hunger, cold, and the undead in order to reach the Terminus and find salvation?</description>
-</item>
-<item>
-<title>Withering Realms</title>
-<link>https://store.steampowered.com/app/3441990/</link>
-<guid isPermaLink="false">3441990</guid>
-<pubDate>Fri, 04 Sep 2026 20:29:59 +0000</pubDate>
-<description>A ghost and her doll guardian explore the mysterious town of Penwyll and the sprawling graveyards, tombs, caves and rotting estates that surround it in this Horror Action RPG from the creator of Withering Rooms.</description>
 </item>
 </channel>
 </rss>
