@@ -4,7 +4,21 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Mon, 07 Sep 2026 21:18:03 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 03:44:41 +0000</lastBuildDate>
+<item>
+<title>Dinosaur Fossil Hunter</title>
+<link>https://store.steampowered.com/app/864700/</link>
+<guid isPermaLink="false">864700</guid>
+<pubDate>Tue, 08 Sep 2026 03:44:41 +0000</pubDate>
+<description>Become a real paleontologist, explore various environments and search for dinosaur fossils. Dig for and study the remnants of these majestic creatures to learn about their evolution. Build your own museum and experience an immersive background story.</description>
+</item>
+<item>
+<title>THE WELL IS NOT EMPTY</title>
+<link>https://store.steampowered.com/app/4505150/</link>
+<guid isPermaLink="false">4505150</guid>
+<pubDate>Tue, 08 Sep 2026 03:44:41 +0000</pubDate>
+<description>The well has gone dry. It's up to you to find out why. Traverse through abandoned tunnels. Discover remnants of a ritual never meant to be seen. Power dying machinery to bring light into darkness. Dig into broken earth and crawl your way out. Down here you’re not exploring... you're trespassing.</description>
+</item>
 <item>
 <title>Ashes of the Singularity: Escalation</title>
 <link>https://store.steampowered.com/app/507490/</link>
@@ -81,13 +95,6 @@
 <guid isPermaLink="false">4134650</guid>
 <pubDate>Mon, 07 Sep 2026 11:57:34 +0000</pubDate>
 <description>An incremental auto battler dungeon crawler where you build a synergized hero party to slay enemies and loot items. Unlock weapons with unique attack styles. Gear up your hero team and explore new dungeon rooms filled with enemies and legendary drops.</description>
-</item>
-<item>
-<title>Nickelodeon All-Star Brawl 2 Season Pass</title>
-<link>https://store.steampowered.com/app/2587090/</link>
-<guid isPermaLink="false">2587090</guid>
-<pubDate>Mon, 07 Sep 2026 03:39:44 +0000</pubDate>
-<description>4 Additional brawlers join Nickelodeon All-Star Brawl 2! Grab all 4 of these additional brawlers at a great value and receive a bonus SpongeBob Squarepants “The Quickster” costume to best your foes in style.</description>
 </item>
 </channel>
 </rss>
