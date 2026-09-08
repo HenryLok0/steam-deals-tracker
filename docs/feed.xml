@@ -4,7 +4,77 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Tue, 08 Sep 2026 10:53:23 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 16:17:10 +0000</lastBuildDate>
+<item>
+<title>Acceptable Losses</title>
+<link>https://store.steampowered.com/app/3884200/</link>
+<guid isPermaLink="false">3884200</guid>
+<pubDate>Tue, 08 Sep 2026 16:17:10 +0000</pubDate>
+<description>Acceptable Losses is a phase based WWI command and management game. Lead squads through a brutal 20 day campaign, balancing morale, fatigue, cohesion, and the paperwork of war. Perform well enough and you may be ordered Over the Top, where success leads to a second act holding captured ground.</description>
+</item>
+<item>
+<title>Arma 3 Creator DLC: S.O.G. Prairie Fire</title>
+<link>https://store.steampowered.com/app/1227700/</link>
+<guid isPermaLink="false">1227700</guid>
+<pubDate>Tue, 08 Sep 2026 16:17:10 +0000</pubDate>
+<description>Experience the intensity of the Vietnam War on a monumental scale. Featuring two vast terrains, a new co-op campaign, single/multiplayer scenarios, and dozens of weapons and vehicles, players can quell uprisings, run recon missions, and wage war in a historic take on Arma 3’s military sandbox.</description>
+</item>
+<item>
+<title>Cat Me If You Can</title>
+<link>https://store.steampowered.com/app/3170490/</link>
+<guid isPermaLink="false">3170490</guid>
+<pubDate>Tue, 08 Sep 2026 16:17:10 +0000</pubDate>
+<description>Cat Me If You Can is a charming and cozy game where you explore beautifully handcrafted black-and-white worlds, searching for hidden cats to photograph and bring their colours back into the world.</description>
+</item>
+<item>
+<title>Honeycomb: The World Beyond</title>
+<link>https://store.steampowered.com/app/1510440/</link>
+<guid isPermaLink="false">1510440</guid>
+<pubDate>Tue, 08 Sep 2026 16:17:10 +0000</pubDate>
+<description>Honeycomb: The World Beyond is a sci-fi survival adventure set on the vibrant alien planet of Sota7. Adapt by building your base and crafting essential tools. Explore diverse biomes and use your bioengineering experience to uncover mysteries and secure humanity's future.</description>
+</item>
+<item>
+<title>House Flipper</title>
+<link>https://store.steampowered.com/app/613100/</link>
+<guid isPermaLink="false">613100</guid>
+<pubDate>Tue, 08 Sep 2026 16:17:10 +0000</pubDate>
+<description>House Flipper is a unique chance to become a one-man renovation crew. Buy, repair and remodel devastated houses. Give them a second life and sell them at a profit!</description>
+</item>
+<item>
+<title>Orc Incremental</title>
+<link>https://store.steampowered.com/app/4047270/</link>
+<guid isPermaLink="false">4047270</guid>
+<pubDate>Tue, 08 Sep 2026 16:17:10 +0000</pubDate>
+<description>Start with a single orc and build an unstoppable dark army to conquer the realms in this incremental auto battler. Perfect your formation, summon mighty beasts, unlock powerful upgrades, and grow stronger with each rebirth.</description>
+</item>
+<item>
+<title>Sinner Maker</title>
+<link>https://store.steampowered.com/app/4610100/</link>
+<guid isPermaLink="false">4610100</guid>
+<pubDate>Tue, 08 Sep 2026 16:17:10 +0000</pubDate>
+<description>Sinner Maker allows you to create characters and simulate a society built around them. Construct homes, manage their needs, and watch as they fall in love, form friendships, and even become enemies. Manage resources and solve emerging problems if you want your soul to be saved.</description>
+</item>
+<item>
+<title>SPRAWL zero</title>
+<link>https://store.steampowered.com/app/3748520/</link>
+<guid isPermaLink="false">3748520</guid>
+<pubDate>Tue, 08 Sep 2026 16:17:10 +0000</pubDate>
+<description>SPRAWL zero is a fast-paced shooter inspired by the Golden Age of 2000s FPS. Survive a brutal cyberpunk city collapsing under military rule and cult fanaticism. Use your Gravity-Gloves, augments, and an arsenal of over 40 weapons to crush those who stand in your way.</description>
+</item>
+<item>
+<title>Star Control®: Origins</title>
+<link>https://store.steampowered.com/app/271260/</link>
+<guid isPermaLink="false">271260</guid>
+<pubDate>Tue, 08 Sep 2026 16:17:10 +0000</pubDate>
+<description>Star Control is a space role-playing game in which you command Earth's first interstellar starship on a mission to save the Earth from hostile alien empires.</description>
+</item>
+<item>
+<title>Wanderburg - Supporter Pack</title>
+<link>https://store.steampowered.com/app/5026240/</link>
+<guid isPermaLink="false">5026240</guid>
+<pubDate>Tue, 08 Sep 2026 16:17:10 +0000</pubDate>
+<description>Join the crew and show your support for Wanderburg with this cosmetic DLC. The Supporter Pack includes exclusive pirate-themed decorations for your castle and the official soundtrack! No gameplay advantages, just good taste and treasure well spent.</description>
+</item>
 <item>
 <title>Nothing Strange Here</title>
 <link>https://store.steampowered.com/app/3664070/</link>
@@ -102,13 +172,6 @@
 <guid isPermaLink="false">1864690</guid>
 <pubDate>Mon, 07 Sep 2026 17:41:42 +0000</pubDate>
 <description>Turn-based tactical strategy with a detailed combat system and interactive environment. Explore the open world, complete quests, search for rare artifacts. Lead the last army of the Order of the Gatekeepers and stop the coming chaos!</description>
-</item>
-<item>
-<title>Bones and Coins</title>
-<link>https://store.steampowered.com/app/4134650/</link>
-<guid isPermaLink="false">4134650</guid>
-<pubDate>Mon, 07 Sep 2026 11:57:34 +0000</pubDate>
-<description>An incremental auto battler dungeon crawler where you build a synergized hero party to slay enemies and loot items. Unlock weapons with unique attack styles. Gear up your hero team and explore new dungeon rooms filled with enemies and legendary drops.</description>
 </item>
 </channel>
 </rss>
