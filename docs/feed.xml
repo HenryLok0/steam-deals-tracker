@@ -4,7 +4,14 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Tue, 08 Sep 2026 07:38:33 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 10:53:23 +0000</lastBuildDate>
+<item>
+<title>Nothing Strange Here</title>
+<link>https://store.steampowered.com/app/3664070/</link>
+<guid isPermaLink="false">3664070</guid>
+<pubDate>Tue, 08 Sep 2026 10:53:23 +0000</pubDate>
+<description>Explore Larcenest Gap as an investigative journalist. Take photos, publish articles, and watch the town change with your choices. Complete cozy, funny, and mysterious quests, uncover strange secrets, and spot gnomes hiding around every corner.</description>
+</item>
 <item>
 <title>Dinosaur Fossil Hunter</title>
 <link>https://store.steampowered.com/app/864700/</link>
@@ -53,6 +60,13 @@
 <guid isPermaLink="false">1931130</guid>
 <pubDate>Mon, 07 Sep 2026 21:18:03 +0000</pubDate>
 <description>Placeholder</description>
+</item>
+<item>
+<title>Exit Ways</title>
+<link>https://store.steampowered.com/app/3605140/</link>
+<guid isPermaLink="false">3605140</guid>
+<pubDate>Mon, 07 Sep 2026 17:41:42 +0000</pubDate>
+<description>Exit Ways is a PvEvP survival extraction shooter. Grow your community in a zombie apocalypse. Rescue survivors, craft gear and build a base.</description>
 </item>
 <item>
 <title>PRAGMATA</title>
