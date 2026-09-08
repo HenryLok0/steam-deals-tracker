@@ -4,7 +4,7 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Tue, 08 Sep 2026 16:17:10 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 18:11:30 +0000</lastBuildDate>
 <item>
 <title>Acceptable Losses</title>
 <link>https://store.steampowered.com/app/3884200/</link>
@@ -130,48 +130,6 @@
 <guid isPermaLink="false">1931130</guid>
 <pubDate>Mon, 07 Sep 2026 21:18:03 +0000</pubDate>
 <description>Placeholder</description>
-</item>
-<item>
-<title>Exit Ways</title>
-<link>https://store.steampowered.com/app/3605140/</link>
-<guid isPermaLink="false">3605140</guid>
-<pubDate>Mon, 07 Sep 2026 17:41:42 +0000</pubDate>
-<description>Exit Ways is a PvEvP survival extraction shooter. Grow your community in a zombie apocalypse. Rescue survivors, craft gear and build a base.</description>
-</item>
-<item>
-<title>PRAGMATA</title>
-<link>https://store.steampowered.com/app/3357650/</link>
-<guid isPermaLink="false">3357650</guid>
-<pubDate>Mon, 07 Sep 2026 17:41:42 +0000</pubDate>
-<description>Pragmata is a unique, sci-fi action-adventure game from Capcom. Follow Hugh, a member of an ill-fated investigation team, and Diana, a young android, as they navigate a lunar facility taken over by rogue AI in search of a way to Earth.</description>
-</item>
-<item>
-<title>Soul Chained</title>
-<link>https://store.steampowered.com/app/3544130/</link>
-<guid isPermaLink="false">3544130</guid>
-<pubDate>Mon, 07 Sep 2026 17:41:42 +0000</pubDate>
-<description>Bound by the Soul Chain, fight through purgatory as chained rival warlords using chain magic, teamwork, and terrible decision-making. Trip enemies, accidentally drag your partner to their death, and survive brutal bosses armed with suspicious amounts of jiggle physics.</description>
-</item>
-<item>
-<title>Tiny Eden</title>
-<link>https://store.steampowered.com/app/3375110/</link>
-<guid isPermaLink="false">3375110</guid>
-<pubDate>Mon, 07 Sep 2026 17:41:42 +0000</pubDate>
-<description>A cozy first-person farming sim, set in the heart of a futuristic city. Grow plants, cook what you harvest, and discover new varieties as you turn your apartment into a thriving urban garden, from a small balcony to a rooftop paradise.</description>
-</item>
-<item>
-<title>Tower Lab</title>
-<link>https://store.steampowered.com/app/3084810/</link>
-<guid isPermaLink="false">3084810</guid>
-<pubDate>Mon, 07 Sep 2026 17:41:42 +0000</pubDate>
-<description>Enemies have no health, push them off instead. Weaponize physics in this roguelite tower defense game. Draft a deck, chain towers into living contraptions, grow and shrink every projectile, and launch hordes of robots off the edge.</description>
-</item>
-<item>
-<title>Veterum</title>
-<link>https://store.steampowered.com/app/1864690/</link>
-<guid isPermaLink="false">1864690</guid>
-<pubDate>Mon, 07 Sep 2026 17:41:42 +0000</pubDate>
-<description>Turn-based tactical strategy with a detailed combat system and interactive environment. Explore the open world, complete quests, search for rare artifacts. Lead the last army of the Order of the Gatekeepers and stop the coming chaos!</description>
 </item>
 </channel>
 </rss>
