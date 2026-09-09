@@ -4,7 +4,21 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Wed, 09 Sep 2026 07:43:44 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 10:58:05 +0000</lastBuildDate>
+<item>
+<title>BeaterCore</title>
+<link>https://store.steampowered.com/app/3711050/</link>
+<guid isPermaLink="false">3711050</guid>
+<pubDate>Wed, 09 Sep 2026 10:58:05 +0000</pubDate>
+<description>beaterCore is an arcade racing game for those who prefer cheap rusty beaters over specialized sports cars. Buy, repair, restore, and race your dream project car</description>
+</item>
+<item>
+<title>In Falsus</title>
+<link>https://store.steampowered.com/app/3971950/</link>
+<guid isPermaLink="false">3971950</guid>
+<pubDate>Wed, 09 Sep 2026 10:58:05 +0000</pubDate>
+<description>In a world bound by truths: connect. In Falsus is a mesmerizing rhythm game tied to an intricate card system brought together through a layered narrative. Taking place in a near-future world, traverse an atmospheric soundscape through the eyes of 5 interconnected protagonists.</description>
+</item>
 <item>
 <title>Between Adventures IDLE</title>
 <link>https://store.steampowered.com/app/3702540/</link>
@@ -95,13 +109,6 @@
 <guid isPermaLink="false">3748520</guid>
 <pubDate>Tue, 08 Sep 2026 16:17:10 +0000</pubDate>
 <description>SPRAWL zero is a fast-paced shooter inspired by the Golden Age of 2000s FPS. Survive a brutal cyberpunk city collapsing under military rule and cult fanaticism. Use your Gravity-Gloves, augments, and an arsenal of over 40 weapons to crush those who stand in your way.</description>
-</item>
-<item>
-<title>Wanderburg - Supporter Pack</title>
-<link>https://store.steampowered.com/app/5026240/</link>
-<guid isPermaLink="false">5026240</guid>
-<pubDate>Tue, 08 Sep 2026 16:17:10 +0000</pubDate>
-<description>Join the crew and show your support for Wanderburg with this cosmetic DLC. The Supporter Pack includes exclusive pirate-themed decorations for your castle and the official soundtrack! No gameplay advantages, just good taste and treasure well spent.</description>
 </item>
 </channel>
 </rss>
