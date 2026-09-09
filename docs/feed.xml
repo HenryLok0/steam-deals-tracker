@@ -4,7 +4,28 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Wed, 09 Sep 2026 10:58:05 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 16:12:03 +0000</lastBuildDate>
+<item>
+<title>Asgard's Fall — Viking Survivors</title>
+<link>https://store.steampowered.com/app/2780710/</link>
+<guid isPermaLink="false">2780710</guid>
+<pubDate>Wed, 09 Sep 2026 16:12:03 +0000</pubDate>
+<description>Embark on an epic saga in Asgard's Fall, a norse Survivors-like Roguelite. Fight your way through hordes of creatures and let the gods feel your relentless wrath. How will your saga unfold?</description>
+</item>
+<item>
+<title>House Flipper - Pets DLC</title>
+<link>https://store.steampowered.com/app/1569190/</link>
+<guid isPermaLink="false">1569190</guid>
+<pubDate>Wed, 09 Sep 2026 16:12:03 +0000</pubDate>
+<description>It's finally time for finding your perfect renovation partner! Max, Phil, Bella? It's up to you to decide what's the name of your adopted companion. Take in an adorable pet and let him help you on your flipping journey in the friendly area of Cozy Village!</description>
+</item>
+<item>
+<title>Solasta: Crown of the Magister - Palace of Ice</title>
+<link>https://store.steampowered.com/app/2100431/</link>
+<guid isPermaLink="false">2100431</guid>
+<pubDate>Wed, 09 Sep 2026 16:12:03 +0000</pubDate>
+<description>Although the heroes of Caer Cyflen managed to prevent the Soraks' attempt at reopening the Rift to unleash their foul god upon Solasta, the threat is far from over. Kingdom of Gallivan has suddenly declared war on their neighbours, and the Snow Alliance is calling for your help!</description>
+</item>
 <item>
 <title>BeaterCore</title>
 <link>https://store.steampowered.com/app/3711050/</link>
@@ -109,6 +130,13 @@
 <guid isPermaLink="false">3748520</guid>
 <pubDate>Tue, 08 Sep 2026 16:17:10 +0000</pubDate>
 <description>SPRAWL zero is a fast-paced shooter inspired by the Golden Age of 2000s FPS. Survive a brutal cyberpunk city collapsing under military rule and cult fanaticism. Use your Gravity-Gloves, augments, and an arsenal of over 40 weapons to crush those who stand in your way.</description>
+</item>
+<item>
+<title>Star Control®: Origins</title>
+<link>https://store.steampowered.com/app/271260/</link>
+<guid isPermaLink="false">271260</guid>
+<pubDate>Tue, 08 Sep 2026 16:17:10 +0000</pubDate>
+<description>Star Control is a space role-playing game in which you command Earth's first interstellar starship on a mission to save the Earth from hostile alien empires.</description>
 </item>
 </channel>
 </rss>
