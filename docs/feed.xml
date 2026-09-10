@@ -4,7 +4,7 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Thu, 10 Sep 2026 03:48:06 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 07:42:56 +0000</lastBuildDate>
 <item>
 <title>Artillery Miner</title>
 <link>https://store.steampowered.com/app/4391380/</link>
@@ -130,20 +130,6 @@
 <guid isPermaLink="false">3971950</guid>
 <pubDate>Wed, 09 Sep 2026 10:58:05 +0000</pubDate>
 <description>In a world bound by truths: connect. In Falsus is a mesmerizing rhythm game tied to an intricate card system brought together through a layered narrative. Taking place in a near-future world, traverse an atmospheric soundscape through the eyes of 5 interconnected protagonists.</description>
-</item>
-<item>
-<title>Between Adventures IDLE</title>
-<link>https://store.steampowered.com/app/3702540/</link>
-<guid isPermaLink="false">3702540</guid>
-<pubDate>Wed, 09 Sep 2026 03:49:21 +0000</pubDate>
-<description>A visual Idle RPG where you hunt creatures for rare loot, enchant your equipment, and build your hero. Master 11 skills, trade with merchants, and progress even offline. No Microtransactions, No P2W, just pure idle fun.</description>
-</item>
-<item>
-<title>Children of Morta</title>
-<link>https://store.steampowered.com/app/330020/</link>
-<guid isPermaLink="false">330020</guid>
-<pubDate>Wed, 09 Sep 2026 03:49:21 +0000</pubDate>
-<description>Children of Morta is a story-driven action RPG game about an extraordinary family of heroes. Lead the Bergsons, with all their flaws and virtues, against the forthcoming Corruption. Will you be able to sacrifice everything to save the ones you care for?</description>
 </item>
 </channel>
 </rss>
