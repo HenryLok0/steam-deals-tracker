@@ -4,20 +4,55 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Fri, 11 Sep 2026 07:38:49 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 10:52:50 +0000</lastBuildDate>
+<item>
+<title>Anonymous Hacker Simulator</title>
+<link>https://store.steampowered.com/app/2487060/</link>
+<guid isPermaLink="false">2487060</guid>
+<pubDate>Fri, 11 Sep 2026 10:52:50 +0000</pubDate>
+<description>Step into the shoes of a skilled Anonymous hacker and embark on a mission to unveil the truth hidden behind a sinister organization's plans to monitor civilian data and enforce mass surveillance.</description>
+</item>
+<item>
+<title>Apewar</title>
+<link>https://store.steampowered.com/app/2306590/</link>
+<guid isPermaLink="false">2306590</guid>
+<pubDate>Fri, 11 Sep 2026 10:52:50 +0000</pubDate>
+<description>Apewar is an online tactical and action FPS/TPS monkey war game adapted from real life. Build your monkey team and fight against your enemies. By playing in a coordinated way, you can have fun and win with a good strategy. Monkeys are strong together!</description>
+</item>
+<item>
+<title>Assetto Corsa Competizione - 24H Nürburgring Pack</title>
+<link>https://store.steampowered.com/app/2700610/</link>
+<guid isPermaLink="false">2700610</guid>
+<pubDate>Fri, 11 Sep 2026 10:52:50 +0000</pubDate>
+<description>The most anticipated moment for Assetto Corsa Competizione has finally come. Nürburgring 24 hours is in. The huge circuit including a combination of Nürburgring GP and Nordschleife has finally come, together with the worldwide known 24H format. Dive into the world's most beautiful rollercoaster.</description>
+</item>
+<item>
+<title>Joe Danger 2: The Movie</title>
+<link>https://store.steampowered.com/app/242110/</link>
+<guid isPermaLink="false">242110</guid>
+<pubDate>Fri, 11 Sep 2026 10:52:50 +0000</pubDate>
+<description>Joe Danger, the world’s most determined stuntman, returns to embark on a death-defying thrill-ride across the set of the greatest blockbuster movie ever made. Across 100 crazy levels he’ll chase crooks by police bike, destroy laser-firing robots with a stolen jetpack, escape giant boulders in a minecart, time-travel to punch dinosaurs...</description>
+</item>
+<item>
+<title>Kaizen: A Factory Story</title>
+<link>https://store.steampowered.com/app/2275490/</link>
+<guid isPermaLink="false">2275490</guid>
+<pubDate>Fri, 11 Sep 2026 10:52:50 +0000</pubDate>
+<description>Kaizen is an open-ended puzzle automation game from the original Zachtronics team, set in 1980s Japan. Design, build, and optimize production lines to create iconic products, like calculators, camcorders, and arcade machines.</description>
+</item>
+<item>
+<title>Sorry We're Closed</title>
+<link>https://store.steampowered.com/app/1796580/</link>
+<guid isPermaLink="false">1796580</guid>
+<pubDate>Fri, 11 Sep 2026 10:52:50 +0000</pubDate>
+<description>Sorry We're Closed is an eccentric story-driven survival horror game about demons, angels and what happens when both sides collide. A mix of classic fixed-camera exploration and arcade-style shooting where Michelle must use her Third Eye to see between worlds, uncover secrets and solve puzzles.</description>
+</item>
 <item>
 <title>Adventure Land - The Code MMORPG</title>
 <link>https://store.steampowered.com/app/777150/</link>
 <guid isPermaLink="false">777150</guid>
 <pubDate>Fri, 11 Sep 2026 03:45:01 +0000</pubDate>
 <description>An eternal indie MMORPG where your CODE does the grinding. Play manually or automate up to 4 characters with JavaScript. Hunt rare loot, craft equipment, and trade with real players. No coding experience needed! September 2026 brings anniversary rewards and a few surprises.</description>
-</item>
-<item>
-<title>Assetto Corsa Competizione - GT2 Pack</title>
-<link>https://store.steampowered.com/app/2700600/</link>
-<guid isPermaLink="false">2700600</guid>
-<pubDate>Fri, 11 Sep 2026 03:45:01 +0000</pubDate>
-<description>The GT2 Pack introduces 6 new GT2 cars as well as the iconic european track, The Red Bull Ring Content Red Bull Ring KTM X-Bow GT2 Porsche 935 Maserati MC20 GT2 Mercedes-AMG GT2 Audi R8 LMS GT2 Porsche 911 GT2 RS Clubsport Evo</description>
 </item>
 <item>
 <title>CRUMB Circuit Simulator</title>
@@ -60,20 +95,6 @@
 <guid isPermaLink="false">2216770</guid>
 <pubDate>Fri, 11 Sep 2026 03:45:01 +0000</pubDate>
 <description>Use real Python code to automate machines, robots, drones and more: Program self-driving vehicles; crack passwords; apply machine learning; automate logistics; use image processing to guide missiles. Gain real coding skills and solve exciting bite-sized programming challenges.</description>
-</item>
-<item>
-<title>Out and About</title>
-<link>https://store.steampowered.com/app/1671570/</link>
-<guid isPermaLink="false">1671570</guid>
-<pubDate>Fri, 11 Sep 2026 03:45:01 +0000</pubDate>
-<description>A cozy foraging adventure for anyone who loves the outdoors or wishes they knew it better. Every plant is real: learn to identify 100+ wild plants and fungi and cook 200+ real recipes, while helping a storm-struck town find its feet again.</description>
-</item>
-<item>
-<title>Portal Knights</title>
-<link>https://store.steampowered.com/app/374040/</link>
-<guid isPermaLink="false">374040</guid>
-<pubDate>Fri, 11 Sep 2026 03:45:01 +0000</pubDate>
-<description>The world of Elysia needs YOU! Join this cooperative, 3D sandbox action RPG to level up your character, craft epic weapons, conquer enemies in real-time, and build almost anything! Craft your adventure. Forge your hero. Become the ultimate Portal Knight!</description>
 </item>
 <item>
 <title>Retro Gadgets</title>
@@ -202,6 +223,13 @@
 <description>Stack game-breaking synergies until your party can slay gods. Command a party of heroes, forge powerful synergies, and level them up across runs in this turn-based tactics roguelite. Battle the gods solo or in co-op, where defeat is just another beginning.</description>
 </item>
 <item>
+<title>I Need to Fix My Dream Car (But I Work at a Junkyard)</title>
+<link>https://store.steampowered.com/app/3889540/</link>
+<guid isPermaLink="false">3889540</guid>
+<pubDate>Thu, 10 Sep 2026 20:36:27 +0000</pubDate>
+<description>Dig through junk, find rare parts and lost collectibles, rescue dogs, complete odd customer orders, drive a forklift with a magnetic crane, and relax as you slowly rebuild your dream car in this cozy junkyard simulator.</description>
+</item>
+<item>
 <title>Infinity: HexaDome Tactics</title>
 <link>https://store.steampowered.com/app/1498550/</link>
 <guid isPermaLink="false">1498550</guid>
@@ -277,13 +305,6 @@
 <guid isPermaLink="false">4190710</guid>
 <pubDate>Thu, 10 Sep 2026 16:03:44 +0000</pubDate>
 <description>A co-op adventure game. The mafia wants to get rid of a body. You’re construction workers. Your job: carry a body bag to the top of a skyscraper. Bury it in concrete. Two problems. First: You have to build the way up. Second: The body’s not dead. It fights back.</description>
-</item>
-<item>
-<title>Taiji</title>
-<link>https://store.steampowered.com/app/1141580/</link>
-<guid isPermaLink="false">1141580</guid>
-<pubDate>Thu, 10 Sep 2026 16:03:44 +0000</pubDate>
-<description>Solve puzzle panels and uncover the meaning of the symbols within. Explore a dense world where secrets are hidden in plain sight.</description>
 </item>
 <item>
 <title>Welcome to Elderfield</title>
