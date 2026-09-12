@@ -4,7 +4,28 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sat, 12 Sep 2026 10:20:23 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 15:15:17 +0000</lastBuildDate>
+<item>
+<title>Laika: Aged Through Blood</title>
+<link>https://store.steampowered.com/app/1796220/</link>
+<guid isPermaLink="false">1796220</guid>
+<pubDate>Sat, 12 Sep 2026 15:15:17 +0000</pubDate>
+<description>Laika: Aged Through Blood is an action-adventure Metroidvania set in a post-apocalyptic western world. Play as Laika, a coyote mother and fierce warrior, and carve your motorbike through a land ravaged by betrayal and loss as you uncover dark secrets in the pursuit of vengeance against oppression.</description>
+</item>
+<item>
+<title>LEGO® Bricktales</title>
+<link>https://store.steampowered.com/app/1898290/</link>
+<guid isPermaLink="false">1898290</guid>
+<pubDate>Sat, 12 Sep 2026 15:15:17 +0000</pubDate>
+<description>In this puzzle-adventure, use an intuitive brick-by-brick building mechanic to solve puzzles and bring your creations to life! Experience a charming story as you explore beautiful LEGO® dioramas and help the people inhabiting them.</description>
+</item>
+<item>
+<title>Moon Garden</title>
+<link>https://store.steampowered.com/app/4319660/</link>
+<guid isPermaLink="false">4319660</guid>
+<pubDate>Sat, 12 Sep 2026 15:15:17 +0000</pubDate>
+<description>A cozy incremental game about growing your way home. Strategically plant flowers, optimize machinery, and grow your tree tall enough to escape!</description>
+</item>
 <item>
 <title>Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND</title>
 <link>https://store.steampowered.com/app/661990/</link>
@@ -172,13 +193,6 @@
 <guid isPermaLink="false">3624140</guid>
 <pubDate>Fri, 11 Sep 2026 16:07:30 +0000</pubDate>
 <description>Drive your Castle on Wheels into battle in this minimalist medieval roguelike of roaming fortresses! Devour entire villages, build your modular arsenal of siege machinery and break the game as you grow with every stronghold you crush.</description>
-</item>
-<item>
-<title>Joe Danger 2: The Movie</title>
-<link>https://store.steampowered.com/app/242110/</link>
-<guid isPermaLink="false">242110</guid>
-<pubDate>Fri, 11 Sep 2026 10:52:50 +0000</pubDate>
-<description>Joe Danger, the world’s most determined stuntman, returns to embark on a death-defying thrill-ride across the set of the greatest blockbuster movie ever made. Across 100 crazy levels he’ll chase crooks by police bike, destroy laser-firing robots with a stolen jetpack, escape giant boulders in a minecart, time-travel to punch dinosaurs...</description>
 </item>
 </channel>
 </rss>
