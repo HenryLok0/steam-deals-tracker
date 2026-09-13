@@ -4,7 +4,21 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sun, 13 Sep 2026 07:52:13 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 11:20:38 +0000</lastBuildDate>
+<item>
+<title>CINERIS SOMNIA</title>
+<link>https://store.steampowered.com/app/752470/</link>
+<guid isPermaLink="false">752470</guid>
+<pubDate>Sun, 13 Sep 2026 11:20:38 +0000</pubDate>
+<description>&amp;quot;I hope that someday, you'll dream of me.&amp;quot; -- CINERIS SOMNIA is a 3D adventure through a beautifully strange and mesmerizing world - and a young girl's cruel and forlorn dreams.</description>
+</item>
+<item>
+<title>Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island</title>
+<link>https://store.steampowered.com/app/2178480/</link>
+<guid isPermaLink="false">2178480</guid>
+<pubDate>Sun, 13 Sep 2026 11:20:38 +0000</pubDate>
+<description>A new adventure for Shiren and Koppa begins!</description>
+</item>
 <item>
 <title>ContractVille - Rent Expansion</title>
 <link>https://store.steampowered.com/app/5112520/</link>
@@ -53,20 +67,6 @@
 <guid isPermaLink="false">908360</guid>
 <pubDate>Sat, 12 Sep 2026 20:20:31 +0000</pubDate>
 <description>MONOMYTH is an immersive, first-person dungeon-crawling RPG inspired by the genre's late classics. Embark on a journey through a vast and highly interactive game world as you unravel the mysteries hidden beneath the ancient fortress of Lysandria.</description>
-</item>
-<item>
-<title>Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND</title>
-<link>https://store.steampowered.com/app/661990/</link>
-<guid isPermaLink="false">661990</guid>
-<pubDate>Sat, 12 Sep 2026 10:20:23 +0000</pubDate>
-<description>New playable character &amp;quot;Minori Amanohara&amp;quot; and new Arcana &amp;quot;Ichor&amp;quot; the Blood joins the battle in &amp;quot;Arcana Heart 3 LOVEMAX SIXSTARS!!!!!!&amp;quot;! More new characters to join in future updates!</description>
-</item>
-<item>
-<title>Tentacle Locker 2</title>
-<link>https://store.steampowered.com/app/4071460/</link>
-<guid isPermaLink="false">4071460</guid>
-<pubDate>Sat, 12 Sep 2026 10:20:23 +0000</pubDate>
-<description>Play as a mischievous tentacle monster in a fun side scroller. Hide in lockers, jump out at the right time, catch unsuspecting students to earn money, and unlock silly cosmetic upgrades. Cause playful chaos everywhere! (This version includes new areas and outfits.)</description>
 </item>
 </channel>
 </rss>
