@@ -4,13 +4,34 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Tue, 15 Sep 2026 18:34:39 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 21:00:36 +0000</lastBuildDate>
 <item>
-<title>Desktop Raid</title>
-<link>https://store.steampowered.com/app/3122460/</link>
-<guid isPermaLink="false">3122460</guid>
-<pubDate>Tue, 15 Sep 2026 16:34:29 +0000</pubDate>
-<description>Assemble your adventure squad on the desktop! Classic RPG meets idle play—no grind, no stress, just nonstop progress. Your heroes fight, level up, and loot while you work or study. Explore rich classes, powerful skills, and thrilling gear drops. RPG excitement, anytime, anywhere!</description>
+<title>HOPE 01</title>
+<link>https://store.steampowered.com/app/4562940/</link>
+<guid isPermaLink="false">4562940</guid>
+<pubDate>Tue, 15 Sep 2026 21:00:36 +0000</pubDate>
+<description>HOPE 01 is a single player extraction survival RPG with multiple endings. Explore, Loot, and Fight your way through the dangerous enemies and bosses of the hab cluster and solve the mystery of the legendary HAB 01.</description>
+</item>
+<item>
+<title>Oaken Tower</title>
+<link>https://store.steampowered.com/app/3400960/</link>
+<guid isPermaLink="false">3400960</guid>
+<pubDate>Tue, 15 Sep 2026 21:00:36 +0000</pubDate>
+<description>Oaken Tower is a synergy-heavy PvP auto battler where your tower of items fights other players. Build deadly combos and scale exponentially. Every decision matters.</description>
+</item>
+<item>
+<title>Pistol Whip</title>
+<link>https://store.steampowered.com/app/1079800/</link>
+<guid isPermaLink="false">1079800</guid>
+<pubDate>Tue, 15 Sep 2026 21:00:36 +0000</pubDate>
+<description>Enter: the ultimate action hero. Pistol Whip is a physical action-rhythm game where film-inspired gunplay and blood-pumping beats collide. Blast, duck and dodge your way through fever dream Scenes, build unique rhythms in a ballet of bullets and claim glory on the leaderboards. Includes mod support!</description>
+</item>
+<item>
+<title>TT Isle Of Man: Ride on the Edge 3</title>
+<link>https://store.steampowered.com/app/1924170/</link>
+<guid isPermaLink="false">1924170</guid>
+<pubDate>Tue, 15 Sep 2026 21:00:36 +0000</pubDate>
+<description>An iconic course for motorbike fans. 200km of open roads to practise on. Challenging physics. A simulation for the best riders.</description>
 </item>
 <item>
 <title>Dimraeth</title>
@@ -95,6 +116,13 @@
 <guid isPermaLink="false">3447040</guid>
 <pubDate>Tue, 15 Sep 2026 04:02:57 +0000</pubDate>
 <description>Celebrating the 20th anniversary of the Kiseki series, a story-driven RPG that began in 2004, the landmark first installment, The Legend of Heroes: Sora no Kiseki FC (First Chapter), is receiving a full remake!</description>
+</item>
+<item>
+<title>Streets of Rogue</title>
+<link>https://store.steampowered.com/app/512900/</link>
+<guid isPermaLink="false">512900</guid>
+<pubDate>Tue, 15 Sep 2026 04:02:57 +0000</pubDate>
+<description>Fight, sneak, and hack your way through randomly generated cities. It's like Nuclear Throne meets Deus Ex, mixed with the anarchy of GTA. Rogue-lite meets immersive sim, and goes completely insane.</description>
 </item>
 <item>
 <title>Toukiden 2</title>
@@ -221,13 +249,6 @@
 <guid isPermaLink="false">3180340</guid>
 <pubDate>Mon, 14 Sep 2026 21:38:56 +0000</pubDate>
 <description>RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other.</description>
-</item>
-<item>
-<title>Sigilfarer: A Dice-Rolling Roguelite</title>
-<link>https://store.steampowered.com/app/2436870/</link>
-<guid isPermaLink="false">2436870</guid>
-<pubDate>Mon, 14 Sep 2026 21:38:56 +0000</pubDate>
-<description>Sigilfarer is a roguelite adventure where every decision rests on the roll of your dice. Master a dice-building system while navigating a sprawling, procedurally generated world. Strategize your route, manage resources and push your luck to the limit!</description>
 </item>
 <item>
 <title>Tenebris: Terra Incognita</title>
