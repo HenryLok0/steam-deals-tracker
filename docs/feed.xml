@@ -4,7 +4,42 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Tue, 15 Sep 2026 11:22:20 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 16:34:29 +0000</lastBuildDate>
+<item>
+<title>Desktop Raid</title>
+<link>https://store.steampowered.com/app/3122460/</link>
+<guid isPermaLink="false">3122460</guid>
+<pubDate>Tue, 15 Sep 2026 16:34:29 +0000</pubDate>
+<description>Assemble your adventure squad on the desktop! Classic RPG meets idle play—no grind, no stress, just nonstop progress. Your heroes fight, level up, and loot while you work or study. Explore rich classes, powerful skills, and thrilling gear drops. RPG excitement, anytime, anywhere!</description>
+</item>
+<item>
+<title>Dimraeth</title>
+<link>https://store.steampowered.com/app/2402680/</link>
+<guid isPermaLink="false">2402680</guid>
+<pubDate>Tue, 15 Sep 2026 16:34:29 +0000</pubDate>
+<description>A 1-8 player fantasy RPG set in a handcrafted pixel world. Build your hero across 8 races and 6 classes. Explore ancient lands, master elemental combat, forge relationships, and shape a stronghold to call home. Fight for the fate of Dimraeth either together or alone.</description>
+</item>
+<item>
+<title>Fright Train</title>
+<link>https://store.steampowered.com/app/4132890/</link>
+<guid isPermaLink="false">4132890</guid>
+<pubDate>Tue, 15 Sep 2026 16:34:29 +0000</pubDate>
+<description>Fight through a train overtaken by monsters and survive Antarctica’s cold as paranormal special agent Doug Barker in this chilling single-player third-person survival horror roguelite.</description>
+</item>
+<item>
+<title>Mixed Spirits: Bartender</title>
+<link>https://store.steampowered.com/app/3891400/</link>
+<guid isPermaLink="false">3891400</guid>
+<pubDate>Tue, 15 Sep 2026 16:34:29 +0000</pubDate>
+<description>Run a cozy bar, make cocktails for fun customers! 🍸 Mixed Spirits is a Job Simulator where you work as a bartender. Take orders, mix custom drinks, and discover secret recipes in a chill, creative night-shift experience with no timers or stress, or rush orders in Happy Hour mode!</description>
+</item>
+<item>
+<title>Reentry - A Space Flight Simulator</title>
+<link>https://store.steampowered.com/app/882140/</link>
+<guid isPermaLink="false">882140</guid>
+<pubDate>Tue, 15 Sep 2026 16:34:29 +0000</pubDate>
+<description>Do you have what it takes to become an astronaut? Reentry is a realistic space flight simulator inspired by the early NASA space programs, from orbiting Earth in Mercury and Gemini, to the moon landing in project Apollo. Learn the procedures. Operate the spacecraft. Complete the mission.</description>
+</item>
 <item>
 <title>Atelier Ryza 2: Lost Legends &amp; the Secret Fairy DX</title>
 <link>https://store.steampowered.com/app/3365040/</link>
@@ -20,11 +55,11 @@
 <description>Creature-collecting pvp async auto battler where you choose your trainer, select your Batomon and assemble the ultimate team to take down other players! Play at your own pace while you discover new deadly team combos and synergies! Break the game by training your Batomon to overpowered levels.</description>
 </item>
 <item>
-<title>Synth Riders</title>
-<link>https://store.steampowered.com/app/885000/</link>
-<guid isPermaLink="false">885000</guid>
-<pubDate>Tue, 15 Sep 2026 11:22:20 +0000</pubDate>
-<description>Let the music move you in Synth Riders, a dance-action VR rhythm game with custom song support and a thriving multiplayer community! Play on PC VR and Steam Frame.</description>
+<title>BONEWORKS</title>
+<link>https://store.steampowered.com/app/823500/</link>
+<guid isPermaLink="false">823500</guid>
+<pubDate>Tue, 15 Sep 2026 04:02:57 +0000</pubDate>
+<description>BONEWORKS is an Experimental Physics VR Adventure. Use found physics weapons, tools, and objects to fight across dangerous playscapes and mysterious architecture.</description>
 </item>
 <item>
 <title>FIVE NIGHTS AT FREDDY'S: HELP WANTED</title>
@@ -32,6 +67,13 @@
 <guid isPermaLink="false">732690</guid>
 <pubDate>Tue, 15 Sep 2026 04:02:57 +0000</pubDate>
 <description>Five Nights at Freddy’s: Help Wanted is a collection of classic and original mini-games set in the Five Nights universe. Experience the horror in flat (non-VR) mode or VR. Oculus Rift and HTC Vive are supported. A VR Headset is NOT required to play.</description>
+</item>
+<item>
+<title>Five Nights at Freddy's: Help Wanted 2</title>
+<link>https://store.steampowered.com/app/2287520/</link>
+<guid isPermaLink="false">2287520</guid>
+<pubDate>Tue, 15 Sep 2026 04:02:57 +0000</pubDate>
+<description>Five Nights at Freddy’s: Help Wanted 2 is the sequel to the terrifying VR experience that brought new life to the iconic horror franchise. As a brand new Fazbear employee you’ll have to prove you have what it takes to excel in all aspects of Pizzeria management and maintenance.</description>
 </item>
 <item>
 <title>Five Nights at Freddy's: Secret of the Mimic</title>
@@ -102,13 +144,6 @@
 <guid isPermaLink="false">1658920</guid>
 <pubDate>Mon, 14 Sep 2026 21:38:56 +0000</pubDate>
 <description>The War of Crowns rages on. Knights and brigands run rampant throughout the land, sowing destruction. From your castle base, rise to become the lord who leads the battle against the forces of evil in this turn-based tactics and strategy game.</description>
-</item>
-<item>
-<title>Drop Duchy</title>
-<link>https://store.steampowered.com/app/2525310/</link>
-<guid isPermaLink="false">2525310</guid>
-<pubDate>Mon, 14 Sep 2026 21:38:56 +0000</pubDate>
-<description>Build your duchy piece by piece in this refreshing hybrid rogue-lite game. Use block-dropping mechanics to collect resources, recruit troops to fight against belligerent armies, and let every block shape your realm, leading your path to victory!</description>
 </item>
 <item>
 <title>Dungeons of Eternity</title>
@@ -230,25 +265,11 @@
 <description>Wildermyth follows heroes over their whole careers, from their pitchfork days to their powerful primes, and on into old age and memory. It’s a party-based procedural storytelling RPG where tactical combat and story decisions will alter your world and reshape your cast of characters.</description>
 </item>
 <item>
-<title>Creator Chronicles</title>
-<link>https://store.steampowered.com/app/3947460/</link>
-<guid isPermaLink="false">3947460</guid>
-<pubDate>Mon, 14 Sep 2026 12:12:56 +0000</pubDate>
-<description>A game within a game. In this entirely new kind of simulation RPG, become a guild master, develop your town, recruit guild members, and conquer dungeons. Every decision you make becomes your own chronicle.</description>
-</item>
-<item>
 <title>Crystal Crisis</title>
 <link>https://store.steampowered.com/app/447700/</link>
 <guid isPermaLink="false">447700</guid>
 <pubDate>Mon, 14 Sep 2026 12:12:56 +0000</pubDate>
 <description>An all-star cast of heroes has gathered to test their mettle in this cute and chaotic new color-matching ONLINE combat game! Crystal Crisis is presented like a fighting game, but players attack by arranging falling crystals and clearing them from the screen. It’s the ultimate Online puzzle battle throwdown!</description>
-</item>
-<item>
-<title>Neat!</title>
-<link>https://store.steampowered.com/app/4300090/</link>
-<guid isPermaLink="false">4300090</guid>
-<pubDate>Mon, 14 Sep 2026 12:12:56 +0000</pubDate>
-<description>Feeling overwhelmed? Hi, I’m Molly. I help people sort their space, organize their belongings, and bring calm back into their lives. Let’s take it one object at a time and make everything feel neat again. Tell me your story. I’m here to listen.</description>
 </item>
 </channel>
 </rss>
