@@ -4,7 +4,35 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Tue, 15 Sep 2026 21:00:36 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 04:00:07 +0000</lastBuildDate>
+<item>
+<title>Artis Impact</title>
+<link>https://store.steampowered.com/app/1864000/</link>
+<guid isPermaLink="false">1864000</guid>
+<pubDate>Wed, 16 Sep 2026 04:00:07 +0000</pubDate>
+<description>A fun turn-based RPG set in a future world of humans and AI. Play as Akane to explore vibrant locations, battle with simple yet fluid combat, and enjoy side quests full of charming surprises. With a playful, humorous style and clever details, this adventure is light, easy, and full of smiles.</description>
+</item>
+<item>
+<title>Crescent Tower</title>
+<link>https://store.steampowered.com/app/3524160/</link>
+<guid isPermaLink="false">3524160</guid>
+<pubDate>Wed, 16 Sep 2026 04:00:07 +0000</pubDate>
+<description>Aspire to reach the top of Crescent Tower that appears just once every 50 years! An authentic 8-bit style dungeon crawler RPG with a retro level of difficulty, where you repeatedly explore, level up, and traverse dungeons!</description>
+</item>
+<item>
+<title>DR Dominoes</title>
+<link>https://store.steampowered.com/app/4404610/</link>
+<guid isPermaLink="false">4404610</guid>
+<pubDate>Wed, 16 Sep 2026 04:00:07 +0000</pubDate>
+<description>Dominican partner dominoes in 3D, with proximity voice chat: you hear every player from where they're sitting. Private rooms, a room browser, offline AI, and games to 100, 120, 150 or 200 points.</description>
+</item>
+<item>
+<title>Fleetbreakers</title>
+<link>https://store.steampowered.com/app/2929040/</link>
+<guid isPermaLink="false">2929040</guid>
+<pubDate>Wed, 16 Sep 2026 04:00:07 +0000</pubDate>
+<description>From the creators of Halo Wars and Age of Empires, Fleetbreakers is an action RTS roguelite with satisfying fleet combat in bite-sized sessions. Strategic depth meets cataclysmic space battles in an ever-evolving campaign that keeps you coming back for just. One. More. Run.</description>
+</item>
 <item>
 <title>HOPE 01</title>
 <link>https://store.steampowered.com/app/4562940/</link>
@@ -18,13 +46,6 @@
 <guid isPermaLink="false">3400960</guid>
 <pubDate>Tue, 15 Sep 2026 21:00:36 +0000</pubDate>
 <description>Oaken Tower is a synergy-heavy PvP auto battler where your tower of items fights other players. Build deadly combos and scale exponentially. Every decision matters.</description>
-</item>
-<item>
-<title>Pistol Whip</title>
-<link>https://store.steampowered.com/app/1079800/</link>
-<guid isPermaLink="false">1079800</guid>
-<pubDate>Tue, 15 Sep 2026 21:00:36 +0000</pubDate>
-<description>Enter: the ultimate action hero. Pistol Whip is a physical action-rhythm game where film-inspired gunplay and blood-pumping beats collide. Blast, duck and dodge your way through fever dream Scenes, build unique rhythms in a ballet of bullets and claim glory on the leaderboards. Includes mod support!</description>
 </item>
 <item>
 <title>TT Isle Of Man: Ride on the Edge 3</title>
@@ -55,32 +76,11 @@
 <description>Run a cozy bar, make cocktails for fun customers! 🍸 Mixed Spirits is a Job Simulator where you work as a bartender. Take orders, mix custom drinks, and discover secret recipes in a chill, creative night-shift experience with no timers or stress, or rush orders in Happy Hour mode!</description>
 </item>
 <item>
-<title>Reentry - A Space Flight Simulator</title>
-<link>https://store.steampowered.com/app/882140/</link>
-<guid isPermaLink="false">882140</guid>
-<pubDate>Tue, 15 Sep 2026 16:34:29 +0000</pubDate>
-<description>Do you have what it takes to become an astronaut? Reentry is a realistic space flight simulator inspired by the early NASA space programs, from orbiting Earth in Mercury and Gemini, to the moon landing in project Apollo. Learn the procedures. Operate the spacecraft. Complete the mission.</description>
-</item>
-<item>
-<title>Atelier Ryza 2: Lost Legends &amp; the Secret Fairy DX</title>
-<link>https://store.steampowered.com/app/3365040/</link>
-<guid isPermaLink="false">3365040</guid>
-<pubDate>Tue, 15 Sep 2026 11:22:20 +0000</pubDate>
-<description>This edition includes new stories, playable characters (Empel, Lila), and features that have been added to &amp;quot;Atelier Ryza 2: Lost Legends &amp;amp; the Secret Fairy.&amp;quot;</description>
-</item>
-<item>
 <title>Batomon Showdown</title>
 <link>https://store.steampowered.com/app/4557380/</link>
 <guid isPermaLink="false">4557380</guid>
 <pubDate>Tue, 15 Sep 2026 11:22:20 +0000</pubDate>
 <description>Creature-collecting pvp async auto battler where you choose your trainer, select your Batomon and assemble the ultimate team to take down other players! Play at your own pace while you discover new deadly team combos and synergies! Break the game by training your Batomon to overpowered levels.</description>
-</item>
-<item>
-<title>BONEWORKS</title>
-<link>https://store.steampowered.com/app/823500/</link>
-<guid isPermaLink="false">823500</guid>
-<pubDate>Tue, 15 Sep 2026 04:02:57 +0000</pubDate>
-<description>BONEWORKS is an Experimental Physics VR Adventure. Use found physics weapons, tools, and objects to fight across dangerous playscapes and mysterious architecture.</description>
 </item>
 <item>
 <title>FIVE NIGHTS AT FREDDY'S: HELP WANTED</title>
@@ -118,172 +118,11 @@
 <description>Celebrating the 20th anniversary of the Kiseki series, a story-driven RPG that began in 2004, the landmark first installment, The Legend of Heroes: Sora no Kiseki FC (First Chapter), is receiving a full remake!</description>
 </item>
 <item>
-<title>Streets of Rogue</title>
-<link>https://store.steampowered.com/app/512900/</link>
-<guid isPermaLink="false">512900</guid>
-<pubDate>Tue, 15 Sep 2026 04:02:57 +0000</pubDate>
-<description>Fight, sneak, and hack your way through randomly generated cities. It's like Nuclear Throne meets Deus Ex, mixed with the anarchy of GTA. Rogue-lite meets immersive sim, and goes completely insane.</description>
-</item>
-<item>
 <title>Toukiden 2</title>
 <link>https://store.steampowered.com/app/551730/</link>
 <guid isPermaLink="false">551730</guid>
 <pubDate>Tue, 15 Sep 2026 04:02:57 +0000</pubDate>
 <description>Slayers! Go forth and eradicate the Oni menace! Experience the latest hunting action game featuring a dynamic targeted destruction system! The latest installment in the hunting action series &amp;quot;Toukiden&amp;quot;.</description>
-</item>
-<item>
-<title>Across the Obelisk</title>
-<link>https://store.steampowered.com/app/1385380/</link>
-<guid isPermaLink="false">1385380</guid>
-<pubDate>Mon, 14 Sep 2026 21:38:56 +0000</pubDate>
-<description>Set forth in a co-op roguelite deckbuilder where every choice matters! Craft decks of breathtaking power. Journey alone or with up to three friends. Plot your party’s path to glory and face powerful enemies in deep tactical combat on your quest to save the kingdom of Senenthia in Across the Obelisk!</description>
-</item>
-<item>
-<title>Alabaster Dawn</title>
-<link>https://store.steampowered.com/app/3110760/</link>
-<guid isPermaLink="false">3110760</guid>
-<pubDate>Mon, 14 Sep 2026 21:38:56 +0000</pubDate>
-<description>Break Nyx’s curse and guide humanity's rebirth in this top-down 2.5D Action RPG from the creators of CrossCode. Battle enemies with stylish combos, wield multiple divine weapons, solve intriguing puzzles and explore a changing world.</description>
-</item>
-<item>
-<title>Atelier Ryza 3: Alchemist of the End &amp; the Secret Key DX</title>
-<link>https://store.steampowered.com/app/3365050/</link>
-<guid isPermaLink="false">3365050</guid>
-<pubDate>Mon, 14 Sep 2026 21:38:56 +0000</pubDate>
-<description>This edition includes new stories, playable characters (Clifford, Serri, and Kilo), and features that have been added to &amp;quot;Atelier Ryza 3: Alchemist of the End &amp;amp; the Secret Key.&amp;quot;</description>
-</item>
-<item>
-<title>Blade and Sorcery</title>
-<link>https://store.steampowered.com/app/629730/</link>
-<guid isPermaLink="false">629730</guid>
-<pubDate>Mon, 14 Sep 2026 21:38:56 +0000</pubDate>
-<description>Blade &amp;amp; Sorcery is a built-for-VR medieval fantasy with full physics driven melee, ranged and magic combat. Become a powerful warrior, ranger or sorcerer and devastate your enemies.</description>
-</item>
-<item>
-<title>BONELAB</title>
-<link>https://store.steampowered.com/app/1592190/</link>
-<guid isPermaLink="false">1592190</guid>
-<pubDate>Mon, 14 Sep 2026 21:38:56 +0000</pubDate>
-<description>BONELAB is an experimental physics action game. Explore a mysterious lab filled with weapons, enemies, challenges and secrets. Escape your reality, or wreak havoc. No wrong answers.</description>
-</item>
-<item>
-<title>Crown Wars: The Black Prince</title>
-<link>https://store.steampowered.com/app/1658920/</link>
-<guid isPermaLink="false">1658920</guid>
-<pubDate>Mon, 14 Sep 2026 21:38:56 +0000</pubDate>
-<description>The War of Crowns rages on. Knights and brigands run rampant throughout the land, sowing destruction. From your castle base, rise to become the lord who leads the battle against the forces of evil in this turn-based tactics and strategy game.</description>
-</item>
-<item>
-<title>Dungeons of Eternity</title>
-<link>https://store.steampowered.com/app/3189340/</link>
-<guid isPermaLink="false">3189340</guid>
-<pubDate>Mon, 14 Sep 2026 21:38:56 +0000</pubDate>
-<description>Endless fantasy action and adventure await you and your friends in Dungeons of Eternity. Hack-n-slash takes on a new meaning in VR: swing swords, throw axes, use bows, wield magic staffs, and more to make it out alive. Become the most powerful adventurer in this blockbuster VR experience!</description>
-</item>
-<item>
-<title>FAITH: The Unholy Trinity</title>
-<link>https://store.steampowered.com/app/1179080/</link>
-<guid isPermaLink="false">1179080</guid>
-<pubDate>Mon, 14 Sep 2026 21:38:56 +0000</pubDate>
-<description>What you are about to do has not been approved by the Vatican. As a young priest, struggle against demons, cultists, and your own weakening faith in this pixel horror game inspired by the era of classic 8-bit gaming and the &amp;quot;Satanic Panic&amp;quot; of the 1980s.</description>
-</item>
-<item>
-<title>Fish Lab</title>
-<link>https://store.steampowered.com/app/4221990/</link>
-<guid isPermaLink="false">4221990</guid>
-<pubDate>Mon, 14 Sep 2026 21:38:56 +0000</pubDate>
-<description>A short incremental game where you collect fish for your lab. Synced to music.</description>
-</item>
-<item>
-<title>King Arthur: Knight's Tale</title>
-<link>https://store.steampowered.com/app/1157390/</link>
-<guid isPermaLink="false">1157390</guid>
-<pubDate>Mon, 14 Sep 2026 21:38:56 +0000</pubDate>
-<description>A unique hybrid between turn-based tactical games and traditional, character-centric RPGs. Knight's Tale is a modern retelling of a classic Arthurian mythology story filtered through the dark fantasy tropes, a twist on the traditional tales of chivalry.</description>
-</item>
-<item>
-<title>Mini Healer</title>
-<link>https://store.steampowered.com/app/955740/</link>
-<guid isPermaLink="false">955740</guid>
-<pubDate>Mon, 14 Sep 2026 21:38:56 +0000</pubDate>
-<description>Mini Healer is a single player healing simulator/raid manager RPG with ARPG inspired deep character customization and itemization. Play as the healer in MMO inspired boss fights, acquire powerful items, and customize your party to your heart's content.</description>
-</item>
-<item>
-<title>Out of Ore</title>
-<link>https://store.steampowered.com/app/2009350/</link>
-<guid isPermaLink="false">2009350</guid>
-<pubDate>Mon, 14 Sep 2026 21:38:56 +0000</pubDate>
-<description>Build your own mining company from the ground up. Extract resources, operate heavy machinery, construct infrastructure, and grow from a laborer to the King of Klondike.</description>
-</item>
-<item>
-<title>Paint the Town Red</title>
-<link>https://store.steampowered.com/app/337320/</link>
-<guid isPermaLink="false">337320</guid>
-<pubDate>Mon, 14 Sep 2026 21:38:56 +0000</pubDate>
-<description>Paint the Town Red is a chaotic first person melee combat game set in different locations and time periods. The voxel-based enemies can be punched, bashed, kicked, stabbed and sliced completely dynamically using almost anything that isn't nailed down.</description>
-</item>
-<item>
-<title>Pibcremental</title>
-<link>https://store.steampowered.com/app/4573090/</link>
-<guid isPermaLink="false">4573090</guid>
-<pubDate>Mon, 14 Sep 2026 21:38:56 +0000</pubDate>
-<description>A cozy, chaotic idle-incremental clicker about growing a civilisation of tiny creatures called Pibbles in a giant tree, set in a post-human world.</description>
-</item>
-<item>
-<title>Rehaunted</title>
-<link>https://store.steampowered.com/app/4538140/</link>
-<guid isPermaLink="false">4538140</guid>
-<pubDate>Mon, 14 Sep 2026 21:38:56 +0000</pubDate>
-<description>Enter a house where every clue feels wrong. Investigate a brutal crime scene, uncover hidden evidence, and use your detective tools to piece together a disturbing truth buried beneath the silence.</description>
-</item>
-<item>
-<title>Rift of the NecroDancer: Hatsune Miku Music Pack 2</title>
-<link>https://store.steampowered.com/app/4888900/</link>
-<guid isPermaLink="false">4888900</guid>
-<pubDate>Mon, 14 Sep 2026 21:38:56 +0000</pubDate>
-<description>Hatsune Miku returns for round 2 with more of your favourite tracks!</description>
-</item>
-<item>
-<title>RIG Riot</title>
-<link>https://store.steampowered.com/app/3180340/</link>
-<guid isPermaLink="false">3180340</guid>
-<pubDate>Mon, 14 Sep 2026 21:38:56 +0000</pubDate>
-<description>RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other.</description>
-</item>
-<item>
-<title>Tenebris: Terra Incognita</title>
-<link>https://store.steampowered.com/app/2280060/</link>
-<guid isPermaLink="false">2280060</guid>
-<pubDate>Mon, 14 Sep 2026 21:38:56 +0000</pubDate>
-<description>A turn-based tactical RPG. Experiment with the talent trees of 23 heroes. Combine abilities with equipment. Defeat 17 terrifying bosses and uncover the secrets of the planet Tenebris!</description>
-</item>
-<item>
-<title>The Headlands</title>
-<link>https://store.steampowered.com/app/4301110/</link>
-<guid isPermaLink="false">4301110</guid>
-<pubDate>Mon, 14 Sep 2026 21:38:56 +0000</pubDate>
-<description>A meditative farming strategy in the early 2000s: your home village and the machines you remember from childhood. Revive a run-down farm, trade on a living market, run production chains, take on your neighbours' contracts and grow your fleet — from small tractors to combines.</description>
-</item>
-<item>
-<title>VTOL VR</title>
-<link>https://store.steampowered.com/app/667970/</link>
-<guid isPermaLink="false">667970</guid>
-<pubDate>Mon, 14 Sep 2026 21:38:56 +0000</pubDate>
-<description>VTOL VR is a near-futuristic combat flight game built for Virtual Reality. Pilot advanced multi-role jets, using your hands to flip switches, press buttons, and manipulate the virtual flight controls.</description>
-</item>
-<item>
-<title>Walkabout Mini Golf VR</title>
-<link>https://store.steampowered.com/app/1408230/</link>
-<guid isPermaLink="false">1408230</guid>
-<pubDate>Mon, 14 Sep 2026 21:38:56 +0000</pubDate>
-<description>Escape into a fun and beautiful world filled with the best mini golf courses you’ve ever seen! Play by yourself, meet someone new, or challenge your friends in a private game with up to 8 people. Extremely realistic physics create the perfect experience for hardcore golfers and casual players alike.</description>
-</item>
-<item>
-<title>Wildermyth</title>
-<link>https://store.steampowered.com/app/763890/</link>
-<guid isPermaLink="false">763890</guid>
-<pubDate>Mon, 14 Sep 2026 21:38:56 +0000</pubDate>
-<description>Wildermyth follows heroes over their whole careers, from their pitchfork days to their powerful primes, and on into old age and memory. It’s a party-based procedural storytelling RPG where tactical combat and story decisions will alter your world and reshape your cast of characters.</description>
 </item>
 <item>
 <title>Crystal Crisis</title>
