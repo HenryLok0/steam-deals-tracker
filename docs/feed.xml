@@ -4,7 +4,77 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Tue, 22 Sep 2026 11:12:46 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 16:34:55 +0000</lastBuildDate>
+<item>
+<title>Beat Saber</title>
+<link>https://store.steampowered.com/app/620980/</link>
+<guid isPermaLink="false">620980</guid>
+<pubDate>Tue, 22 Sep 2026 16:34:55 +0000</pubDate>
+<description>Slash the beats, get moving, and experience the world's most popular VR rhythm game!* Duck, dodge, and flow through 300+ handcrafted songs from artists like Coldplay, Imagine Dragons, and Metallica. Play solo, compete online, or pass the headset at your next party. Jump in with 60+ songs included!</description>
+</item>
+<item>
+<title>eXoSpace Combat Engineer</title>
+<link>https://store.steampowered.com/app/2876200/</link>
+<guid isPermaLink="false">2876200</guid>
+<pubDate>Tue, 22 Sep 2026 16:34:55 +0000</pubDate>
+<description>Snap, rotate and launch your own warship in minutes, then pilot it into bullet-hell boss fights to hunt the galaxy's supervillains. Master intuitive engineering, evolve from drone to dreadnought, and use the fully gridless designer to build anything you can imagine!</description>
+</item>
+<item>
+<title>False Hero</title>
+<link>https://store.steampowered.com/app/2538870/</link>
+<guid isPermaLink="false">2538870</guid>
+<pubDate>Tue, 22 Sep 2026 16:34:55 +0000</pubDate>
+<description>False Hero is a fast-paced soulslike adventure where you steal your enemies’ attacks and chain them into deadly combos. Explore the corrupted Land of the Gods and put your combat skills to the true test in challenging boss fights. Will you fight for the Gods or become an apostle of Death?</description>
+</item>
+<item>
+<title>Gravebound</title>
+<link>https://store.steampowered.com/app/3613050/</link>
+<guid isPermaLink="false">3613050</guid>
+<pubDate>Tue, 22 Sep 2026 16:34:55 +0000</pubDate>
+<description>Gravebound is a 6-player co-op extraction shooter set in a post-apocalyptic world overrun by rogue machines. Scavenge valuable loot, survive intense firefights, complete dynamic objectives, and extract alive to keep what you earn. Push deeper for rarer rewards, tougher enemies, and higher stakes.</description>
+</item>
+<item>
+<title>Medieval Dynasty - Hunting Set</title>
+<link>https://store.steampowered.com/app/4997500/</link>
+<guid isPermaLink="false">4997500</guid>
+<pubDate>Tue, 22 Sep 2026 16:34:55 +0000</pubDate>
+<description>Demonstrate your hunting skills with the Hunting Pack DLC! Choose between special outfits, grab one of the unique weapons, and prove to everyone you are the best hunter around. Let the hunt begin with the set of new legendary items.</description>
+</item>
+<item>
+<title>Nighthawks</title>
+<link>https://store.steampowered.com/app/1221950/</link>
+<guid isPermaLink="false">1221950</guid>
+<pubDate>Tue, 22 Sep 2026 16:34:55 +0000</pubDate>
+<description>The secret is out. Vampires have been exposed to the world… and you’re one of them. Seize the night as a modern monster, stepping out of the shadows to build a thriving nightclub empire through fear, seduction, and forbidden supernatural gifts. Your second life begins tonight...</description>
+</item>
+<item>
+<title>Onee Chanbara ORIGIN</title>
+<link>https://store.steampowered.com/app/1232460/</link>
+<guid isPermaLink="false">1232460</guid>
+<pubDate>Tue, 22 Sep 2026 16:34:55 +0000</pubDate>
+<description>To commemorate the 15th anniversary of the sword fighting action game series Onee Chanbara, the events of THE Onee Chanbara and THE Onee Chanbara 2 have been completely remade in full HD. The evolution of this high-speed action game cannot be missed!</description>
+</item>
+<item>
+<title>Rivage</title>
+<link>https://store.steampowered.com/app/4094660/</link>
+<guid isPermaLink="false">4094660</guid>
+<pubDate>Tue, 22 Sep 2026 16:34:55 +0000</pubDate>
+<description>Rivage is an immersive sci-fi puzzle adventure set aboard the A.R.E.S. space station trapped in a space phenomenon. Wake up as Miranda, forced to explore, solve intricate puzzles to unravel the fate of your missing crew.</description>
+</item>
+<item>
+<title>STUNTBOOST</title>
+<link>https://store.steampowered.com/app/2999500/</link>
+<guid isPermaLink="false">2999500</guid>
+<pubDate>Tue, 22 Sep 2026 16:34:55 +0000</pubDate>
+<description>Blast through cardboard tracks, master your momentum and shave off milliseconds to earn medals and challenge friends on a fingerboard with no speed limit.</description>
+</item>
+<item>
+<title>Well Dweller</title>
+<link>https://store.steampowered.com/app/3699590/</link>
+<guid isPermaLink="false">3699590</guid>
+<pubDate>Tue, 22 Sep 2026 16:34:55 +0000</pubDate>
+<description>Well Dweller is a dark fairy-tale metroidvania, full of charming characters living in a wretched kingdom. Play as Glimmer - a tiny bird armed with a matchstick - who must burn the wicked queen to save his family.</description>
+</item>
 <item>
 <title>Airport Control 27</title>
 <link>https://store.steampowered.com/app/3328490/</link>
@@ -144,20 +214,6 @@
 <guid isPermaLink="false">4513060</guid>
 <pubDate>Mon, 21 Sep 2026 21:49:41 +0000</pubDate>
 <description>An online co-op horror game for up to 4 players. Play solo or with your friends to collect Platonic Pumpkins and save your precious friend infected by the terrifying Yandere Virus.</description>
-</item>
-<item>
-<title>Dressmaker</title>
-<link>https://store.steampowered.com/app/4019220/</link>
-<guid isPermaLink="false">4019220</guid>
-<pubDate>Mon, 21 Sep 2026 12:21:49 +0000</pubDate>
-<description>Become a dressmaker! Choose fabric, cut out patterns, and sew them all together to satisfy (or sabotage!) townsfolk in this cozy crafting game inspired by real dressmaking.</description>
-</item>
-<item>
-<title>IGTAP: an Incremental Game That's Also a Platformer</title>
-<link>https://store.steampowered.com/app/4364730/</link>
-<guid isPermaLink="false">4364730</guid>
-<pubDate>Mon, 21 Sep 2026 12:21:49 +0000</pubDate>
-<description>Amass an army of clones to follow your tightly-optimised path. Generate massive amounts of power to upgrade your production and movement abilities.</description>
 </item>
 <item>
 <title>Deadshot</title>
