@@ -4,7 +4,35 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Tue, 22 Sep 2026 08:07:21 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 11:12:46 +0000</lastBuildDate>
+<item>
+<title>Airport Control 27</title>
+<link>https://store.steampowered.com/app/3328490/</link>
+<guid isPermaLink="false">3328490</guid>
+<pubDate>Tue, 22 Sep 2026 11:12:46 +0000</pubDate>
+<description>Airport Control is a next-generation 3D ATC simulation. Take the positions at airports worldwide—marshalling taxis, sequencing departures, and spacing arrivals. Remember: Safe, orderly, expeditious.</description>
+</item>
+<item>
+<title>Deified</title>
+<link>https://store.steampowered.com/app/3623530/</link>
+<guid isPermaLink="false">3623530</guid>
+<pubDate>Tue, 22 Sep 2026 11:12:46 +0000</pubDate>
+<description>Forge your strategy around powerful relics in this turn-based tactical roguelite. Choose your slots, manage their constraints, and face formidable bosses.</description>
+</item>
+<item>
+<title>Galvatein : Adventurers' Guild</title>
+<link>https://store.steampowered.com/app/3208930/</link>
+<guid isPermaLink="false">3208930</guid>
+<pubDate>Tue, 22 Sep 2026 11:12:46 +0000</pubDate>
+<description>&amp;quot;Welcome, adventurer! What quest have you completed today?” A classic fantasy guild reception simulation — 『Galvatein: Adventurer’s Guild』</description>
+</item>
+<item>
+<title>The Rabbit Haul</title>
+<link>https://store.steampowered.com/app/2514330/</link>
+<guid isPermaLink="false">2514330</guid>
+<pubDate>Tue, 22 Sep 2026 11:12:46 +0000</pubDate>
+<description>Nurture your farm by day and defend your haul of crops from the thieving Trash Panda Posse at night. This farming and tower defense roguelite challenges you to grow powerful and symbiotic defenses to battle tough critters and rebuild your hometown one haul at a time!</description>
+</item>
 <item>
 <title>Call to Arms</title>
 <link>https://store.steampowered.com/app/302670/</link>
@@ -151,13 +179,6 @@
 <guid isPermaLink="false">2000040</guid>
 <pubDate>Wed, 16 Sep 2026 21:03:18 +0000</pubDate>
 <description>Space Menace is a sci-fi space RTS and battle game. You play as a space captain, seeking fortune and glory as you see fit. Leave your mark on the world and determine the fate of the galaxy with your decisions.</description>
-</item>
-<item>
-<title>Crystal Crisis</title>
-<link>https://store.steampowered.com/app/447700/</link>
-<guid isPermaLink="false">447700</guid>
-<pubDate>Mon, 14 Sep 2026 12:12:56 +0000</pubDate>
-<description>An all-star cast of heroes has gathered to test their mettle in this cute and chaotic new color-matching ONLINE combat game! Crystal Crisis is presented like a fighting game, but players attack by arranging falling crystals and clearing them from the screen. It’s the ultimate Online puzzle battle throwdown!</description>
 </item>
 </channel>
 </rss>
