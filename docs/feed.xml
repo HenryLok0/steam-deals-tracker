@@ -4,7 +4,28 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Fri, 25 Sep 2026 19:01:29 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 21:16:28 +0000</lastBuildDate>
+<item>
+<title>Decklings</title>
+<link>https://store.steampowered.com/app/3715790/</link>
+<guid isPermaLink="false">3715790</guid>
+<pubDate>Fri, 25 Sep 2026 21:16:28 +0000</pubDate>
+<description>Tame magical creatures called Decklings and lead them into challenging battles in this resource management, deckbuilding card game. Explore wild biomes, gather resources, and craft items to build your base and raise your Decklings as you shape your path to become the Deckling Champion.</description>
+</item>
+<item>
+<title>Lunar Drifter</title>
+<link>https://store.steampowered.com/app/3115490/</link>
+<guid isPermaLink="false">3115490</guid>
+<pubDate>Fri, 25 Sep 2026 21:16:28 +0000</pubDate>
+<description>Lunar Drifter is an Arcade First Person Shooter, your mission is to tear, blast, and crush an entire legion as fast as possible within the time limit. Featuring 4 playable characters with their own gimmicks and arsenal, more than 15 unique hand-crafted levels, and includes online Co-Op!</description>
+</item>
+<item>
+<title>Stars Reach</title>
+<link>https://store.steampowered.com/app/1925650/</link>
+<guid isPermaLink="false">1925650</guid>
+<pubDate>Fri, 25 Sep 2026 21:16:28 +0000</pubDate>
+<description>Explore a living galaxy in Stars Reach. Discover new planets, build settlements, and shape environments that react to everything you do. Players work together to transform untamed worlds into thriving civilizations across a single shared universe.</description>
+</item>
 <item>
 <title>Backrooms: Code Yellow</title>
 <link>https://store.steampowered.com/app/4694270/</link>
@@ -18,13 +39,6 @@
 <guid isPermaLink="false">4964580</guid>
 <pubDate>Fri, 25 Sep 2026 16:51:36 +0000</pubDate>
 <description>Museologist: Tidy Up the Museum! A single-player simulation. The whole collection has fallen apart. Find where each fragment belongs, piece it back together like a puzzle, and restore 543 objects from 3,516 scattered pieces.</description>
-</item>
-<item>
-<title>Tank Battle Classic</title>
-<link>https://store.steampowered.com/app/5086560/</link>
-<guid isPermaLink="false">5086560</guid>
-<pubDate>Fri, 25 Sep 2026 16:51:36 +0000</pubDate>
-<description>A tank combat action game with retro-style visuals, featuring WWII tanks in single-player battles.</description>
 </item>
 <item>
 <title>Woman Simulator</title>
