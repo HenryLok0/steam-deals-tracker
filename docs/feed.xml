@@ -4,13 +4,34 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Fri, 25 Sep 2026 11:27:12 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 16:51:36 +0000</lastBuildDate>
 <item>
-<title>Doggy Don't Care</title>
-<link>https://store.steampowered.com/app/2438180/</link>
-<guid isPermaLink="false">2438180</guid>
-<pubDate>Fri, 25 Sep 2026 04:06:51 +0000</pubDate>
-<description>What does your dog get up to when you're not home? In this bone-afide adventure, unleash adorable chaos, solve puzzles, and leave your mark (literally!) as a mischievous pup on the loose.</description>
+<title>Backrooms: Code Yellow</title>
+<link>https://store.steampowered.com/app/4694270/</link>
+<guid isPermaLink="false">4694270</guid>
+<pubDate>Fri, 25 Sep 2026 16:51:36 +0000</pubDate>
+<description>An online 1-6 player co-op game about investigating and collecting data in the infinitely massive Backrooms with your fellow employees.  Explore. Do your job. Return alive.</description>
+</item>
+<item>
+<title>Museologist: Tidy Up the Museum!</title>
+<link>https://store.steampowered.com/app/4964580/</link>
+<guid isPermaLink="false">4964580</guid>
+<pubDate>Fri, 25 Sep 2026 16:51:36 +0000</pubDate>
+<description>Museologist: Tidy Up the Museum! A single-player simulation. The whole collection has fallen apart. Find where each fragment belongs, piece it back together like a puzzle, and restore 543 objects from 3,516 scattered pieces.</description>
+</item>
+<item>
+<title>Tank Battle Classic</title>
+<link>https://store.steampowered.com/app/5086560/</link>
+<guid isPermaLink="false">5086560</guid>
+<pubDate>Fri, 25 Sep 2026 16:51:36 +0000</pubDate>
+<description>A tank combat action game with retro-style visuals, featuring WWII tanks in single-player battles.</description>
+</item>
+<item>
+<title>Woman Simulator</title>
+<link>https://store.steampowered.com/app/4072240/</link>
+<guid isPermaLink="false">4072240</guid>
+<pubDate>Fri, 25 Sep 2026 16:51:36 +0000</pubDate>
+<description>Experience life as a woman - cleaning, cooking, laundry, and no time to rest. Full immersion into the world of everyday chaos!</description>
 </item>
 <item>
 <title>Muse Dash - Muse Plus</title>
@@ -60,41 +81,6 @@
 <guid isPermaLink="false">3880400</guid>
 <pubDate>Thu, 24 Sep 2026 21:18:43 +0000</pubDate>
 <description>A voxel-based death sandbox. Shoot, dismember, and crush NPCs with realistic body physics.</description>
-</item>
-<item>
-<title>American Truck Simulator - Illinois</title>
-<link>https://store.steampowered.com/app/3486960/</link>
-<guid isPermaLink="false">3486960</guid>
-<pubDate>Thu, 24 Sep 2026 16:46:50 +0000</pubDate>
-<description>Welcome to the beautiful Prairie State! Illinois showcases the best of what the USA has to offer. Hop into your rig, hit the legendary Route 66, and journey through Springfield, the state’s historic capital, to Chicago, one of the Midwest's most iconic cities.</description>
-</item>
-<item>
-<title>HIROTONFA’s American Revolution Smuggler</title>
-<link>https://store.steampowered.com/app/3789080/</link>
-<guid isPermaLink="false">3789080</guid>
-<pubDate>Thu, 24 Sep 2026 16:46:50 +0000</pubDate>
-<description>Date a state! Buy low, sell high, dodge the Royal Navy and Patriot Privateers, and romance colonial state-chans in a chaotic American Revolution merchant sim. Mercantilism ho!</description>
-</item>
-<item>
-<title>Kingdom Rush 6: Genesis TD</title>
-<link>https://store.steampowered.com/app/4259190/</link>
-<guid isPermaLink="false">4259190</guid>
-<pubDate>Thu, 24 Sep 2026 16:46:50 +0000</pubDate>
-<description>Kingdom Rush 6: Genesis is a fantasy tower defense strategy game that takes you back in time to the early days of the Kingdom with bold new twists. Build towers, command heroes, and stop Vez’nan’s corruption before it tears the kingdom apart!</description>
-</item>
-<item>
-<title>Monastery: Ora et Labora</title>
-<link>https://store.steampowered.com/app/3179120/</link>
-<guid isPermaLink="false">3179120</guid>
-<pubDate>Thu, 24 Sep 2026 16:46:50 +0000</pubDate>
-<description>Lead your monks in prayer and labor to build a thriving medieval monastery. Manage resources, brew ale, craft manuscripts, and face trials like war and weather. Customize, expand, and guide your brotherhood to achieve spiritual and economic prosperity.</description>
-</item>
-<item>
-<title>REMATCH - NV Infrared Bundle</title>
-<link>https://store.steampowered.com/app/4768770/</link>
-<guid isPermaLink="false">4768770</guid>
-<pubDate>Thu, 24 Sep 2026 16:46:50 +0000</pubDate>
-<description>Stock up on Quants and look the part while you're at it.</description>
 </item>
 </channel>
 </rss>
