@@ -4,7 +4,14 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Tue, 29 Sep 2026 22:01:31 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 04:43:48 +0000</lastBuildDate>
+<item>
+<title>Noble Fates</title>
+<link>https://store.steampowered.com/app/1769420/</link>
+<guid isPermaLink="false">1769420</guid>
+<pubDate>Wed, 30 Sep 2026 04:43:48 +0000</pubDate>
+<description>A cannibal raider sect, a human supremacist warrior clan or an elven convent that protects all life: Noble Fates is a living fantasy kingdom sim where you create the Kingdom of your dreams and stories emerge from a deep simulation of the ambitions, beliefs and memories of the mortals of your world.</description>
+</item>
 <item>
 <title>DEFCON</title>
 <link>https://store.steampowered.com/app/1520/</link>
@@ -48,13 +55,6 @@
 <description>Immerse yourself in the sonic architecture of the cyberpunk metropolis with the Nivalis Nights Original Soundtrack, the definitive audio companion to your slice-of-life journey through the city of Nivalis.</description>
 </item>
 <item>
-<title>Tempest Rising: The Veti’s Wrath</title>
-<link>https://store.steampowered.com/app/4114220/</link>
-<guid isPermaLink="false">4114220</guid>
-<pubDate>Tue, 29 Sep 2026 22:01:31 +0000</pubDate>
-<description>Take command of the fractured Veti to reclaim what is rightfully yours. Subjugate your foes and use them as tools to sacrifice for your goals in the conquest for vengeance against enemies both new and older than humanity itself.</description>
-</item>
-<item>
 <title>TOEM 2</title>
 <link>https://store.steampowered.com/app/2900640/</link>
 <guid isPermaLink="false">2900640</guid>
@@ -67,13 +67,6 @@
 <guid isPermaLink="false">1307580</guid>
 <pubDate>Tue, 29 Sep 2026 22:01:31 +0000</pubDate>
 <description>Set off on a delightful expedition and use your photographic eye to uncover the mysteries of the magical TOEM in this hand-drawn adventure game. Chat with quirky characters, solve their problems by snapping neat photos, and make your way through a relaxing landscape!</description>
-</item>
-<item>
-<title>Greenhouse: Tidy Up!</title>
-<link>https://store.steampowered.com/app/5146200/</link>
-<guid isPermaLink="false">5146200</guid>
-<pubDate>Tue, 29 Sep 2026 12:24:37 +0000</pubDate>
-<description>Greenhouse: Tidy Up! is a cozy single-player simulation where you bring order to a messy greenhouse. Sort and place hundreds of flowers and plants, find the best way to organize everything, and compete with other players for the fastest time.</description>
 </item>
 <item>
 <title>Island of Rebirth~NTR and Love~</title>
@@ -102,62 +95,6 @@
 <guid isPermaLink="false">3418160</guid>
 <pubDate>Tue, 29 Sep 2026 04:57:43 +0000</pubDate>
 <description>Rise against the corporate overlords and become a cyber activist hacker. Join the uprising in a cyberpunk world using radio waves.</description>
-</item>
-<item>
-<title>Ammossum</title>
-<link>https://store.steampowered.com/app/2659600/</link>
-<guid isPermaLink="false">2659600</guid>
-<pubDate>Mon, 28 Sep 2026 23:03:40 +0000</pubDate>
-<description>Build an endlessly upgradable weapon! Evolve projectiles into unstoppable firepower in this action roguelike. Fight through hordes of infected beasts, hunt down the source of the plague, and feel the thrill of bloody shootouts filled with bullets, explosions, and acid. Can you survive the madness?</description>
-</item>
-<item>
-<title>Antivirus Survivors 2003 Professional</title>
-<link>https://store.steampowered.com/app/3832490/</link>
-<guid isPermaLink="false">3832490</guid>
-<pubDate>Mon, 28 Sep 2026 23:03:40 +0000</pubDate>
-<description>The family computer is infected again and it’s your job to fend off waves of viruses and adware foes with an arsenal of nostalgic Y2K-inspired weapons. Antivirus Survivors 2003 Professional is a survivor-like auto-shooter filled with nods to the days when computers were actually fun.</description>
-</item>
-<item>
-<title>Bug Cleaners</title>
-<link>https://store.steampowered.com/app/3557530/</link>
-<guid isPermaLink="false">3557530</guid>
-<pubDate>Mon, 28 Sep 2026 23:03:40 +0000</pubDate>
-<description>Ready to stop the bug infestation? Grab your wildest tools, go solo or team up with up to 4 players for chaotic missions, work together or totally troll the team! Bug cleaning has never been this fun and crazy!</description>
-</item>
-<item>
-<title>Card Shop Simulator Multiplayer</title>
-<link>https://store.steampowered.com/app/3569500/</link>
-<guid isPermaLink="false">3569500</guid>
-<pubDate>Mon, 28 Sep 2026 23:03:40 +0000</pubDate>
-<description>Open a card shop with your friends, you can cooperate in a shop or compete with individual shops on the same street! Collect nice cards with different elements and play card dual with your friends to win their cards from their collection!</description>
-</item>
-<item>
-<title>Castlevania: Lords of Shadow – Mirror of Fate HD</title>
-<link>https://store.steampowered.com/app/282530/</link>
-<guid isPermaLink="false">282530</guid>
-<pubDate>Mon, 28 Sep 2026 23:03:40 +0000</pubDate>
-<description>This sequel to Castlevania: Lords of Shadow reveals the story of the Belmonts as they battle destiny across generations to discover their true fate. Trevor Belmont, knight of the Brotherhood of Light, embarks on an epic quest to avenge his mother who was killed by his father Gabriel.</description>
-</item>
-<item>
-<title>Drop Command</title>
-<link>https://store.steampowered.com/app/1944880/</link>
-<guid isPermaLink="false">1944880</guid>
-<pubDate>Mon, 28 Sep 2026 23:03:40 +0000</pubDate>
-<description>'90s Mech combat at a grand scale! Build an empire across the stars. Pilot Mechs, Tanks, Infantry and Aircraft in combined arms combat on many worlds across the star cluster. Rise to command entire battalions throughout a sandbox campaign.</description>
-</item>
-<item>
-<title>Tales of Maj'Eyal</title>
-<link>https://store.steampowered.com/app/259680/</link>
-<guid isPermaLink="false">259680</guid>
-<pubDate>Mon, 28 Sep 2026 23:03:40 +0000</pubDate>
-<description>Tales of Maj’Eyal is a roguelike RPG, featuring tactical turn-based combat and advanced character building. Play as one of many unique races and classes in the lore-filled world of Eyal, exploring random dungeons, facing challenging battles, and developing characters with your own tailored mix of abilities and powers.</description>
-</item>
-<item>
-<title>Explosive Odds - Supporter Pack</title>
-<link>https://store.steampowered.com/app/4059370/</link>
-<guid isPermaLink="false">4059370</guid>
-<pubDate>Sat, 26 Sep 2026 04:12:18 +0000</pubDate>
-<description>The Explosive Odds Supporter Pack provides a few extra costumes. If you like the game and you like us and you want to give us more money here's your chance! Comes with two Pig Bot hats and the test hat!</description>
 </item>
 </channel>
 </rss>
