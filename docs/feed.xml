@@ -4,7 +4,35 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Thu, 01 Oct 2026 09:39:19 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 12:43:51 +0000</lastBuildDate>
+<item>
+<title>Absolver</title>
+<link>https://store.steampowered.com/app/473690/</link>
+<guid isPermaLink="false">473690</guid>
+<pubDate>Thu, 01 Oct 2026 12:43:51 +0000</pubDate>
+<description>Absolver is an online multiplayer combat game where players are placed behind the mask of a Prospect under control of the Guides, the new rulers of the fallen Adal Empire, who will determine your worth in joining their elite corps of Absolvers.</description>
+</item>
+<item>
+<title>Compound Interest</title>
+<link>https://store.steampowered.com/app/4343910/</link>
+<guid isPermaLink="false">4343910</guid>
+<pubDate>Thu, 01 Oct 2026 12:43:51 +0000</pubDate>
+<description>The networks are dead. The city has fallen. Manage your crew and send them into danger to earn money and respect. Claim turf, control trade, and make allies or enemies as you reshape the fully simulated city of New Sterling.</description>
+</item>
+<item>
+<title>MXGP 26 - Scrubdesignz Liveries</title>
+<link>https://store.steampowered.com/app/4847440/</link>
+<guid isPermaLink="false">4847440</guid>
+<pubDate>Thu, 01 Oct 2026 12:43:51 +0000</pubDate>
+<description>This DLC gives you access to 6 SCRUB Designz liveries for your bike.</description>
+</item>
+<item>
+<title>SOS OPS! - OVERBOOKED</title>
+<link>https://store.steampowered.com/app/5241370/</link>
+<guid isPermaLink="false">5241370</guid>
+<pubDate>Thu, 01 Oct 2026 12:43:51 +0000</pubDate>
+<description>OVERBOOKED is a DLC for SOS OPS! that adds a new co-op flight scenario for up to 4 players. Prepare the plane, load baggage, seat passengers, handle in-flight problems, fly the aircraft and land safely together.</description>
+</item>
 <item>
 <title>BIOMUTANT</title>
 <link>https://store.steampowered.com/app/597820/</link>
@@ -32,13 +60,6 @@
 <guid isPermaLink="false">1706510</guid>
 <pubDate>Wed, 30 Sep 2026 22:00:48 +0000</pubDate>
 <description>Become immersed in a musical woodland fantasy world where casting a spell is as easy as playing a song. Attend classes, grow the university garden, make friends with classmates and townsfolk, and explore the island’s many oddities and mysteries in this story-driven witch academy RPG.</description>
-</item>
-<item>
-<title>Princess Maker: Children of Revelation</title>
-<link>https://store.steampowered.com/app/3438810/</link>
-<guid isPermaLink="false">3438810</guid>
-<pubDate>Wed, 30 Sep 2026 12:10:08 +0000</pubDate>
-<description>Princess Maker: Children of Revelation is a raising simulation game that returns after nearly 18 years as part of the Princess Maker package series, where you raise a young girl into adulthood. Become a parent in the game and help fulfill your daughter's dreams!</description>
 </item>
 </channel>
 </rss>
