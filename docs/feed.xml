@@ -4,7 +4,14 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Wed, 30 Sep 2026 22:00:48 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 04:56:25 +0000</lastBuildDate>
+<item>
+<title>BIOMUTANT</title>
+<link>https://store.steampowered.com/app/597820/</link>
+<guid isPermaLink="false">597820</guid>
+<pubDate>Thu, 01 Oct 2026 04:56:25 +0000</pubDate>
+<description>BIOMUTANT® is an open-world, post-apocalyptic Kung-Fu fable RPG, with a unique martial arts styled combat system allowing you to mix melee, shooting and mutant ability action.</description>
+</item>
 <item>
 <title>Growing My Manhole</title>
 <link>https://store.steampowered.com/app/4415120/</link>
@@ -20,13 +27,6 @@
 <description>Kayak VR: Mirage is a jaw-dropping and exhilarating journey through beautiful locations, made for Virtual Reality. Maneuver our fully physically accurate kayak around checkpoints and crown yourself the fastest, or take it easy and use the free roam mode and enjoy the scenery.</description>
 </item>
 <item>
-<title>lovebyte.exe</title>
-<link>https://store.steampowered.com/app/3491690/</link>
-<guid isPermaLink="false">3491690</guid>
-<pubDate>Wed, 30 Sep 2026 22:00:48 +0000</pubDate>
-<description>A chat dating sim game inspired by Mystic Messenger, VTuber communities, and internet spam</description>
-</item>
-<item>
 <title>Songs of Glimmerwick</title>
 <link>https://store.steampowered.com/app/1706510/</link>
 <guid isPermaLink="false">1706510</guid>
@@ -34,88 +34,11 @@
 <description>Become immersed in a musical woodland fantasy world where casting a spell is as easy as playing a song. Attend classes, grow the university garden, make friends with classmates and townsfolk, and explore the island’s many oddities and mysteries in this story-driven witch academy RPG.</description>
 </item>
 <item>
-<title>Cohen 1939</title>
-<link>https://store.steampowered.com/app/3582120/</link>
-<guid isPermaLink="false">3582120</guid>
-<pubDate>Wed, 30 Sep 2026 12:10:08 +0000</pubDate>
-<description>Birmingham, 1939. A murdered husband. A city that will pay. Fight through the British underworld in a fast-paced top-down shooter where enemy bullets are as deadly as yours. Throw your empty gun, seize another, and plan your next move.</description>
-</item>
-<item>
 <title>Princess Maker: Children of Revelation</title>
 <link>https://store.steampowered.com/app/3438810/</link>
 <guid isPermaLink="false">3438810</guid>
 <pubDate>Wed, 30 Sep 2026 12:10:08 +0000</pubDate>
 <description>Princess Maker: Children of Revelation is a raising simulation game that returns after nearly 18 years as part of the Princess Maker package series, where you raise a young girl into adulthood. Become a parent in the game and help fulfill your daughter's dreams!</description>
-</item>
-<item>
-<title>Tiny Flock</title>
-<link>https://store.steampowered.com/app/3133010/</link>
-<guid isPermaLink="false">3133010</guid>
-<pubDate>Wed, 30 Sep 2026 12:10:08 +0000</pubDate>
-<description>From the creators of Human Fall Flat - Tiny Flock, a cosy, physics-based VR puzzle game for all ages. Help guide your adorable wayward sheep through beautiful hand-crafted diorama puzzles using the environment around you to get them to safety!</description>
-</item>
-<item>
-<title>Noble Fates</title>
-<link>https://store.steampowered.com/app/1769420/</link>
-<guid isPermaLink="false">1769420</guid>
-<pubDate>Wed, 30 Sep 2026 04:43:48 +0000</pubDate>
-<description>A cannibal raider sect, a human supremacist warrior clan or an elven convent that protects all life: Noble Fates is a living fantasy kingdom sim where you create the Kingdom of your dreams and stories emerge from a deep simulation of the ambitions, beliefs and memories of the mortals of your world.</description>
-</item>
-<item>
-<title>DEFCON</title>
-<link>https://store.steampowered.com/app/1520/</link>
-<guid isPermaLink="false">1520</guid>
-<pubDate>Tue, 29 Sep 2026 22:01:31 +0000</pubDate>
-<description>Inspired by the 1983 cult classic film, Wargames, DEFCON superbly evokes the tension, paranoia and suspicion of the Cold War era, playing on the fascinating aspects of psychological gameplay that occur during strategic nuclear warfare.</description>
-</item>
-<item>
-<title>Dicevaders</title>
-<link>https://store.steampowered.com/app/3917700/</link>
-<guid isPermaLink="false">3917700</guid>
-<pubDate>Tue, 29 Sep 2026 22:01:31 +0000</pubDate>
-<description>Dicevaders is a dice-based roguelike deckbuilder about leading the ultimate alien invasion. Set in the StarVaders universe, draft and manipulate the dice row, build an unstoppable army, and unleash adrenaline pumping combos through powerful synergies and strategic play.</description>
-</item>
-<item>
-<title>Endless Rails</title>
-<link>https://store.steampowered.com/app/4601120/</link>
-<guid isPermaLink="false">4601120</guid>
-<pubDate>Tue, 29 Sep 2026 22:01:31 +0000</pubDate>
-<description>Protect your train with your drones as it rolls through a monster-infested wasteland. Reach new stations to buy new weapons, wagons, and upgrades. Keep rolling until you or the game crashes. Isometric bullet heaven roguelite.</description>
-</item>
-<item>
-<title>Needle In A Haystack</title>
-<link>https://store.steampowered.com/app/5085740/</link>
-<guid isPermaLink="false">5085740</guid>
-<pubDate>Tue, 29 Sep 2026 22:01:31 +0000</pubDate>
-<description>Find a needle hidden in over 10 million pieces of hay with up to 5 other friends.</description>
-</item>
-<item>
-<title>Nivalis Nights</title>
-<link>https://store.steampowered.com/app/1488490/</link>
-<guid isPermaLink="false">1488490</guid>
-<pubDate>Tue, 29 Sep 2026 22:01:31 +0000</pubDate>
-<description>Grow your business, manage restaurants and nightclubs, make friends and enemies, buy and decorate apartments, go fishing and maybe even find love in a cyberpunk city that stretches from the ocean to the clouds.</description>
-</item>
-<item>
-<title>Nivalis Nights Soundtrack</title>
-<link>https://store.steampowered.com/app/5259980/</link>
-<guid isPermaLink="false">5259980</guid>
-<pubDate>Tue, 29 Sep 2026 22:01:31 +0000</pubDate>
-<description>Immerse yourself in the sonic architecture of the cyberpunk metropolis with the Nivalis Nights Original Soundtrack, the definitive audio companion to your slice-of-life journey through the city of Nivalis.</description>
-</item>
-<item>
-<title>TOEM 2</title>
-<link>https://store.steampowered.com/app/2900640/</link>
-<guid isPermaLink="false">2900640</guid>
-<pubDate>Tue, 29 Sep 2026 22:01:31 +0000</pubDate>
-<description>Step back into the shoes of a curious photographer and set off on a brand new adventure all about uncovering hidden details, helping friends along the way, and documenting the world’s little wonders in TOEM 2, the sequel to the acclaimed TOEM.</description>
-</item>
-<item>
-<title>TOEM: A Photo Adventure</title>
-<link>https://store.steampowered.com/app/1307580/</link>
-<guid isPermaLink="false">1307580</guid>
-<pubDate>Tue, 29 Sep 2026 22:01:31 +0000</pubDate>
-<description>Set off on a delightful expedition and use your photographic eye to uncover the mysteries of the magical TOEM in this hand-drawn adventure game. Chat with quirky characters, solve their problems by snapping neat photos, and make your way through a relaxing landscape!</description>
 </item>
 </channel>
 </rss>
