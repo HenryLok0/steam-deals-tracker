@@ -4,7 +4,21 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Fri, 02 Oct 2026 19:39:28 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 21:58:55 +0000</lastBuildDate>
+<item>
+<title>Echoes of Aincrad</title>
+<link>https://store.steampowered.com/app/2244210/</link>
+<guid isPermaLink="false">2244210</guid>
+<pubDate>Fri, 02 Oct 2026 21:58:55 +0000</pubDate>
+<description>Step into Aincrad, a world of beauty and danger where every battle could be your last. Create your hero, choose your gear, and master combat by building synergy with your partner, leveling up, and unlocking special abilities to expand your horizons.</description>
+</item>
+<item>
+<title>Road to Vostok</title>
+<link>https://store.steampowered.com/app/1963610/</link>
+<guid isPermaLink="false">1963610</guid>
+<pubDate>Fri, 02 Oct 2026 21:58:55 +0000</pubDate>
+<description>Road to Vostok is a hardcore single-player survival game set in a post-apocalyptic border zone between Finland and Russia. Survive, loot, plan and prepare to cross the border into Vostok, a permadeath zone where one mistake can end it all.</description>
+</item>
 <item>
 <title>Sengoku Rance</title>
 <link>https://store.steampowered.com/app/3867170/</link>
@@ -67,13 +81,6 @@
 <guid isPermaLink="false">1233570</guid>
 <pubDate>Thu, 01 Oct 2026 22:28:57 +0000</pubDate>
 <description>Mirror's Edge™ Catalyst raises the action-adventure bar through fluid, first person action and immerses players in Faith's story as she fights for freedom.</description>
-</item>
-<item>
-<title>Muchi Muchi Pork! &amp; PinkSweets Boosted</title>
-<link>https://store.steampowered.com/app/4229200/</link>
-<guid isPermaLink="false">4229200</guid>
-<pubDate>Thu, 01 Oct 2026 22:28:57 +0000</pubDate>
-<description>Hardcore yet cute Danmaku shooting makes a grand comeback!</description>
 </item>
 <item>
 <title>RetroSpace</title>
