@@ -4,7 +4,21 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Fri, 09 Oct 2026 22:25:53 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 05:01:50 +0000</lastBuildDate>
+<item>
+<title>CELESTAY Craft&amp;Slowlife</title>
+<link>https://store.steampowered.com/app/4183770/</link>
+<guid isPermaLink="false">4183770</guid>
+<pubDate>Sat, 10 Oct 2026 05:01:50 +0000</pubDate>
+<description>CELESTAY is a calm idle building game where you fish for materials and grow your home toward the sky. In a world sunk beneath the sea, you stack pieces of a house and spend quiet days fishing and watching the stars. The higher you build, the more constellations and memories fill your world.</description>
+</item>
+<item>
+<title>X-Plane 12</title>
+<link>https://store.steampowered.com/app/2014780/</link>
+<guid isPermaLink="false">2014780</guid>
+<pubDate>Sat, 10 Oct 2026 05:01:50 +0000</pubDate>
+<description>Ultra-Realistic Flight Simulation</description>
+</item>
 <item>
 <title>Asobi Premium</title>
 <link>https://store.steampowered.com/app/4884070/</link>
@@ -55,25 +69,11 @@
 <description>No obstacle will keep me away from my beloved, my Faith, not even the wild and untamed islands of Kalau’a. Those lovely island ladies can only distract me for so long as my heart’s compass only points in one direction - Faith!</description>
 </item>
 <item>
-<title>Music for The Long Dark -- Volume One</title>
-<link>https://store.steampowered.com/app/690180/</link>
-<guid isPermaLink="false">690180</guid>
-<pubDate>Fri, 09 Oct 2026 22:25:53 +0000</pubDate>
-<description>Original score for The Long Dark. Music for The Long Dark - Volume One, features 100 minutes of music composed by Cris Velasco (Mass Effect, God of War, Overwatch, Resident Evil 7, etc.) and Sascha Dikiciyan (Borderlands, Quake III, Mass Effect).</description>
-</item>
-<item>
 <title>Music for The Long Dark -- Volume Three</title>
 <link>https://store.steampowered.com/app/2225180/</link>
 <guid isPermaLink="false">2225180</guid>
 <pubDate>Fri, 09 Oct 2026 22:25:53 +0000</pubDate>
 <description>Original score for The Long Dark. Music for The Long Dark - Volume Three includes the entire soundtrack for WINTERMUTE Episode Four: &amp;quot;Fury, Then Silence&amp;quot;, Episode Five: &amp;quot;The Light at the End of All Things&amp;quot;, as well as all the ambient exploration music from Tales from the Far Territory.</description>
-</item>
-<item>
-<title>Music for The Long Dark -- Volume Two</title>
-<link>https://store.steampowered.com/app/1328170/</link>
-<guid isPermaLink="false">1328170</guid>
-<pubDate>Fri, 09 Oct 2026 22:25:53 +0000</pubDate>
-<description>Original score for The Long Dark. Music for The Long Dark - Volume Two, includes the entire soundtrack for WINTERMUTE Episode Three: &amp;quot;Crossroads Elegy&amp;quot;, as well as additional music from Survival Mode.</description>
 </item>
 <item>
 <title>PAPERHEAD</title>
@@ -223,221 +223,11 @@
 <description>The Escapists provides players the opportunity of experiencing a light-hearted insight into everyday prison life with the main objective being that of escaping!</description>
 </item>
 <item>
-<title>Babel Legacy</title>
-<link>https://store.steampowered.com/app/4699770/</link>
-<guid isPermaLink="false">4699770</guid>
-<pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
-<description>An idle game where you gather resources and grow your city. Sit back and watch your city expand!</description>
-</item>
-<item>
-<title>Beacon Pines</title>
-<link>https://store.steampowered.com/app/1269640/</link>
-<guid isPermaLink="false">1269640</guid>
-<pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
-<description>Beacon Pines is a cute and creepy adventure set within a mysterious book. Sneak out late, make new friends, uncover hidden truths, and collect words that will change the course of fate!</description>
-</item>
-<item>
-<title>Bering Tonnage</title>
-<link>https://store.steampowered.com/app/4610080/</link>
-<guid isPermaLink="false">4610080</guid>
-<pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
-<description>Build and automate a cargo fleet across over 250 real-world ports in this maritime tycoon. Route ships through strategic canals, navigate tropical cyclones and geopolitical sanctions, and grow a small shipping company into a global logistics empire.</description>
-</item>
-<item>
-<title>Birb</title>
-<link>https://store.steampowered.com/app/4364930/</link>
-<guid isPermaLink="false">4364930</guid>
-<pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
-<description>Start as a humble birb, eat popcorn, and evolve into a cosmic force of nature! Birb blends addictive idle mechanics with active roguelite expeditions. Build your nest, catch rare fish, challenge bosses, and compete on the global leaderboard. How many pecks will it take to rule the world?</description>
-</item>
-<item>
-<title>BlazBlue Centralfiction</title>
-<link>https://store.steampowered.com/app/586140/</link>
-<guid isPermaLink="false">586140</guid>
-<pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
-<description>Combining a 2D fighting game with a visual novel, the BlazBlue series continues on with massive fan support! The latest installation, BlazBlue: Centralfiction, serves as the ending to the Azure Saga, revealing the hidden truth of the world!</description>
-</item>
-<item>
-<title>Castle Crashers - Painter Boss Paradise</title>
-<link>https://store.steampowered.com/app/3133920/</link>
-<guid isPermaLink="false">3133920</guid>
-<pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
-<description>The Painter Boss Paradise DLC provides a fresh coat of paint to Castle Crashers with new main menu art and redraws for all playable characters and weapons! Join Paint Junior, the game’s newest official character, and bring your custom characters to life with the Steam Workshop!</description>
-</item>
-<item>
-<title>Darkest Dungeon®: The Fire's Edge</title>
-<link>https://store.steampowered.com/app/4964110/</link>
-<guid isPermaLink="false">4964110</guid>
-<pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
-<description>The Fire’s Edge DLC brings two new recruitable heroes - The Runaway and the Duelist - to Darkest Dungeon. New combat mechanics, powerful trinkets, and additional Hamlet districts await!</description>
-</item>
-<item>
-<title>Demon General Kirsten</title>
-<link>https://store.steampowered.com/app/4112840/</link>
-<guid isPermaLink="false">4112840</guid>
-<pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
-<description>Kirsten is a soldier troubled by her current way of life. During her adventure, she'll encounter a wide variety of people, and those warm exchanges will shape her in one direction or another...</description>
-</item>
-<item>
-<title>Dread Delusion</title>
-<link>https://store.steampowered.com/app/1574240/</link>
-<guid isPermaLink="false">1574240</guid>
-<pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
-<description>Dread Delusion is an open world RPG brimming with strange places and dark perils. Carve your own path through the flying continents of a shattered land. Discover curious towns, unearth occult secrets, master powerful magic - and change the world through your choices.</description>
-</item>
-<item>
-<title>Echo Weaver</title>
-<link>https://store.steampowered.com/app/2184080/</link>
-<guid isPermaLink="false">2184080</guid>
-<pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
-<description>Time is your greatest resource and secrets are your only upgrades. Master an unraveling time loop in this knowledge-based Metroidvania. As the last Weaver, exploit time-altering anomalies and use what you learn to break the cycle. Explore what remains. Uncover the mystery. Perfect the loop.</description>
-</item>
-<item>
-<title>Echoes of Mystralia</title>
-<link>https://store.steampowered.com/app/974480/</link>
-<guid isPermaLink="false">974480</guid>
-<pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
-<description>Echoes of Mystralia is an action-heavy spellcrafting ARPG roguelite, where rapid combat meets deep customization. Craft your own spells, unlock new combinations, fight epic bosses, and discover a narrative-rich world that never plays the same twice.</description>
-</item>
-<item>
-<title>Forever Ago</title>
-<link>https://store.steampowered.com/app/1215940/</link>
-<guid isPermaLink="false">1215940</guid>
-<pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
-<description>Following a tragic stroke of fate, Alfred embarks on a journey north in search of redemption in this single-player road trip adventure.</description>
-</item>
-<item>
-<title>Foundation: Harvest Festival</title>
-<link>https://store.steampowered.com/app/4713280/</link>
-<guid isPermaLink="false">4713280</guid>
-<pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
-<description>Master the land by raising livestock, planting lush orchards, and cultivating hardy new crops. Expand your production chains to create new resources and crown your success by hosting the grandest of Harvest Festivals.</description>
-</item>
-<item>
-<title>Gridlords</title>
-<link>https://store.steampowered.com/app/3768400/</link>
-<guid isPermaLink="false">3768400</guid>
-<pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
-<description>Gridlords is a strategic async-PvP autobattler set in a fantasy pixel-art world. Build your ultimate castle, command legendary heroes, and outsmart rivals to prove your strategy reigns supreme.</description>
-</item>
-<item>
-<title>Grim Dawn - Steam Loyalist Items Pack 4</title>
-<link>https://store.steampowered.com/app/4964960/</link>
-<guid isPermaLink="false">4964960</guid>
-<pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
-<description>This sinister collection of vanity items is guaranteed to help you conquer Grim Dawn's foulest enemies while looking your grimmest.</description>
-</item>
-<item>
-<title>GUILTY GEAR Xrd REV 2</title>
-<link>https://store.steampowered.com/app/520440/</link>
-<guid isPermaLink="false">520440</guid>
-<pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
-<description>Astonishing 3D cell animations and overwhelming content volume, the next-generation fighting game &amp;quot;GUILTY GEAR Xrd REV 2&amp;quot; is now out on Steam! Total cast of 25 unique characters, and tons of game modes, get ready to ROCK!</description>
-</item>
-<item>
-<title>Kingdom Two Crowns: Call of Olympus</title>
-<link>https://store.steampowered.com/app/2736340/</link>
-<guid isPermaLink="false">2736340</guid>
-<pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
-<description>Explore islands of ancient legends and mythos, seek the favors of the gods to challenge and defend against Greed of epic scales in this major expansion - Kingdom Two Crowns: Call of Olympus.</description>
-</item>
-<item>
-<title>Let's Tidy Up! : Treasure</title>
-<link>https://store.steampowered.com/app/5023770/</link>
-<guid isPermaLink="false">5023770</guid>
-<pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
-<description>Let's Tidy Up! : Treasure is a cozy organizing simulator about tidying up a Dwarf treasure room after a particularly lucrative year. Complete full shelves to unlock skills and abilities. Sort, stack and shelve 13,196 unique items as you slowly unravel the secrets beneath...</description>
-</item>
-<item>
-<title>Maid Cafe Simulator</title>
-<link>https://store.steampowered.com/app/3232690/</link>
-<guid isPermaLink="false">3232690</guid>
-<pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
-<description>Run a maid café with five charming kemonomimi maids! Make drinks, serve customers, and tackle troublemakers in this first-person management sim. Get to know the girls behind the aprons as you turn a rundown café into a thriving business and aim for three Maidchelin stars.</description>
-</item>
-<item>
-<title>Neon Abyss 2</title>
-<link>https://store.steampowered.com/app/2235200/</link>
-<guid isPermaLink="false">2235200</guid>
-<pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
-<description>Dive into the cybermyth roguelike chaos of Neon Abyss 2! Now featuring up to 4-player online co-op, more combat styles, and unlimited item synergies, every run delivers a dramatic, action-packed experience you won't forget.</description>
-</item>
-<item>
 <title>Pony Island</title>
 <link>https://store.steampowered.com/app/405640/</link>
 <guid isPermaLink="false">405640</guid>
 <pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
 <description>Pony Island is a suspense puzzle game in disguise. You are in limbo, trapped in a malevolent and malfunctioning arcade machine devised by the devil himself. It is not a game about ponies.</description>
-</item>
-<item>
-<title>Sort of Magic</title>
-<link>https://store.steampowered.com/app/4398290/</link>
-<guid isPermaLink="false">4398290</guid>
-<pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
-<description>A cozy organizing game for 1–4 players in online co-op. You're a little magical cat who knocked over an entire magic school. Now put all 4,500 books, potions, and brooms back exactly where they belong. Learn sorting spells, split the rooms with friends, and restore the mess you made.</description>
-</item>
-<item>
-<title>Sort The Capybaras</title>
-<link>https://store.steampowered.com/app/5130480/</link>
-<guid isPermaLink="false">5130480</guid>
-<pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
-<description>Sort The Capybaras is a cozy organizing simulator where you sort over 4,800 unique capybara toys onto the correct shelves. Play with friends or go solo. Enjoy the satisfaction of using powerful skills turning a messy capybara store into a perfectly organized collection.</description>
-</item>
-<item>
-<title>Superhero Simulator</title>
-<link>https://store.steampowered.com/app/3531260/</link>
-<guid isPermaLink="false">3531260</guid>
-<pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
-<description>Superhero Simulator is an open-world superhero game where you fight villains and save lives! But being a hero isn’t free! You’ll need to work, pay rent, and survive. Can you handle both sides of the superhero life?</description>
-</item>
-<item>
-<title>The Crimson Hunt</title>
-<link>https://store.steampowered.com/app/4485020/</link>
-<guid isPermaLink="false">4485020</guid>
-<pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
-<description>You play as Victoria, a vampire hunter haunted by her past, and Eleanor, a young woman trapped in a nightmare that has only just begun. Together, they must endure grotesque creatures, hidden traps, and a presence that seems to know them better than they realize.</description>
-</item>
-<item>
-<title>Tower Tactics II</title>
-<link>https://store.steampowered.com/app/3749130/</link>
-<guid isPermaLink="false">3749130</guid>
-<pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
-<description>The fusion of deck-building roguelike and tower defense returns, bigger than ever! Build your deck with powerful new cards, unlock unique trinkets, and deploy enhanced towers to overcome relentless waves of enemies and new strategic challenges.</description>
-</item>
-<item>
-<title>Toy Shire</title>
-<link>https://store.steampowered.com/app/2361460/</link>
-<guid isPermaLink="false">2361460</guid>
-<pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
-<description>Are you prepared for a thrilling toy army tower defense adventure? Welcome to the Toy Shire! Battle diverse foes in various locations, defend your family, and repel foes from your area. Save the world by strengthening your defense with toy towers!</description>
-</item>
-<item>
-<title>Two Point Museum: Rides &amp; Relics</title>
-<link>https://store.steampowered.com/app/4511680/</link>
-<guid isPermaLink="false">4511680</guid>
-<pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
-<description>Step right up! We’re searching for Funfair Experts to transform the new location Riquetti Gardens into a one-of-a-kind mix of museum-meets-amusement park, or as we like to call it, a museum-ments.</description>
-</item>
-<item>
-<title>Ultra Street Fighter® IV</title>
-<link>https://store.steampowered.com/app/45760/</link>
-<guid isPermaLink="false">45760</guid>
-<pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
-<description>The world’s greatest fighting game evolves to a whole new level with Ultra Street Fighter IV.</description>
-</item>
-<item>
-<title>Warhammer 40,000: Boltgun 2</title>
-<link>https://store.steampowered.com/app/3115160/</link>
-<guid isPermaLink="false">3115160</guid>
-<pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
-<description>Obliterate heretics in the name of the Emperor in Warhammer 40,000: Boltgun 2! Play as Ultramarine Malum Caedo or Sister of Battle Nyra Veyrath in this sequel to retro FPS Warhammer 40,000: Boltgun with MORE enemies, MORE weapons, and NEW ways to purge!</description>
-</item>
-<item>
-<title>Wildaria</title>
-<link>https://store.steampowered.com/app/1965550/</link>
-<guid isPermaLink="false">1965550</guid>
-<pubDate>Thu, 08 Oct 2026 23:05:48 +0000</pubDate>
-<description>Tame any creature. Ride them into battle. Challenge the Animal Gods. Explore an infinite, procedurally generated fantasy world. Fight, quest, trade, and grow stronger alongside your pets in this open-world action-adventure RPG.</description>
 </item>
 <item>
 <title>Gear.Club Unlimited 3 - Gear.Club Signature Pack</title>
