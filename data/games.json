@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T12:08:28+00:00",
+  "updated_at": "2026-10-10T19:03:31+00:00",
   "total_count": 4412,
   "active_count": 349,
   "games": [
@@ -1448,6 +1448,31 @@
           "currency": "USD",
           "original": 499,
           "final": 399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3300,
+          "final": 2640
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 10200,
+          "final": 8100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1760
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 58000,
+          "final": 46400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 560000,
+          "final": 448000
         }
       },
       "review_hint": "Mostly Positive<br>76% of the 25 user reviews for this game are positive.",
@@ -1462,7 +1487,7 @@
       "search_text": "astral ascent - arven the wolf blade astral ascent - arven the wolf blade play as arven, a ranger of relentless determination who heard of a group of heroes trapped within an astral prison. fighting alongside the wolf kat, his hunting companion, this new hero had no other choice but to lend his blade to those fighting for their survival. action adventure indie single-player multi-player co-op shared/split screen co-op shared/split screen downloadable content steam achievements full controller support steam trading cards gamepad recommended dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud remote play together family sharing english french schinese tchinese korean russian japanese portuguese-brazil spanish-spain mixed mostly positive<br>76% of the 25 user reviews for this game are positive.",
       "first_seen": "2026-10-10T12:08:28+00:00",
       "last_seen": "2026-10-10T12:08:28+00:00",
-      "updated_at": "2026-10-10T12:08:28+00:00"
+      "updated_at": "2026-10-10T19:03:31+00:00"
     },
     {
       "app_id": 3372880,
@@ -2023,6 +2048,31 @@
           "currency": "USD",
           "original": 899,
           "final": 674
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5300,
+          "final": 3975
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 14800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3600,
+          "final": 2700
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 115000,
+          "final": 86200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 965000,
+          "final": 724000
         }
       },
       "review_hint": "Positive<br>100% of the 23 user reviews for this game are positive.",
@@ -2037,7 +2087,7 @@
       "search_text": "beat, heart, beat beat, heart, beat beat, heart, beat is a psychedelic action-platformer where every attack is set to a grungy midwest emo soundtrack. soar across the crumbling psyche, recruit bizarre party members, and tear a path towards your withering heart. action indie early access single-player full controller support steam workshop camera comfort color alternatives #category_contrast_controls custom volume controls adjustable difficulty keyboard only option dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime stereo sound steam cloud includes level editor family sharing english positive positive<br>100% of the 23 user reviews for this game are positive.",
       "first_seen": "2026-10-10T12:08:28+00:00",
       "last_seen": "2026-10-10T12:08:28+00:00",
-      "updated_at": "2026-10-10T12:08:28+00:00"
+      "updated_at": "2026-10-10T19:03:31+00:00"
     },
     {
       "app_id": 4610080,
@@ -15394,6 +15444,31 @@
           "currency": "USD",
           "original": 1599,
           "final": 1279
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8900,
+          "final": 7120
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 22500,
+          "final": 18000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 4640
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 160000,
+          "final": 128000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1300000,
+          "final": 1040000
         }
       },
       "review_hint": "Mixed<br>54% of the 11 user reviews for this game are positive.",
@@ -15408,7 +15483,7 @@
       "search_text": "magical girl yusya-chan and the labyrinth of lust magical girl yusya-chan and the labyrinth of lust everyone's favorite idol &quot;yusya-chan&quot; stars in a turn-based roguelike! conquer deep dungeons, grow stronger, seize victory — or taste brutal defeat. suggestive, but no adult content, and no adult dlc or patch planned at launch. wishlist and cheer her on. streamers welcome! action indie rpg single-player steam achievements full controller support gamepad recommended keyboard only option playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime steam cloud steam leaderboards family sharing japanese english schinese korean tchinese 2 user reviews mixed<br>54% of the 11 user reviews for this game are positive.",
       "first_seen": "2026-10-10T12:08:28+00:00",
       "last_seen": "2026-10-10T12:08:28+00:00",
-      "updated_at": "2026-10-10T12:08:28+00:00"
+      "updated_at": "2026-10-10T19:03:31+00:00"
     },
     {
       "app_id": 3232690,
