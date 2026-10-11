@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T04:50:33+00:00",
+  "updated_at": "2026-10-11T09:33:06+00:00",
   "total_count": 4418,
   "active_count": 348,
   "games": [
@@ -744,6 +744,31 @@
           "currency": "USD",
           "original": 999,
           "final": 199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7250,
+          "final": 1450
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26000,
+          "final": 5200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5000,
+          "final": 1000
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 28000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1200000,
+          "final": 240000
         }
       },
       "review_hint": "Very Positive<br>80% of the 4,063 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -758,7 +783,7 @@
       "search_text": "age of history 3 age of history 3 grand strategy wargame where the destiny of civilizations rests in your hands - will they stand united under your leadership or fall divided in conflict? journey through the entire saga of human civilization, from its earliest days to the futuristic era, crafting your legacy age by age. simulation strategy single-player steam achievements steam workshop includes level editor family sharing english german polish french italian spanish-spain portuguese-brazil portuguese---portugal russian turkish korean schinese spanish-latin czech hungarian indonesian romanian ukrainian japanese greek dutch thai arabic finnish georgian hebrew kazakh lithuanian macedonian persian serbian vietnamese tchinese croatian filipino bulgarian very positive very positive<br>80% of the 4,063 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-10T21:21:02+00:00",
       "last_seen": "2026-10-11T04:50:33+00:00",
-      "updated_at": "2026-10-11T04:50:33+00:00"
+      "updated_at": "2026-10-11T09:33:06+00:00"
     },
     {
       "app_id": 108710,
@@ -12562,6 +12587,31 @@
           "currency": "USD",
           "original": 999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5000,
+          "final": 4000
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29000,
+          "final": 23200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3099,
+          "final": 2479
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 100000,
+          "final": 80000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1200000,
+          "final": 960000
         }
       },
       "review_hint": "Mostly Positive<br>76% of the 26 user reviews for this game are positive.",
@@ -12576,7 +12626,7 @@
       "search_text": "hello kitty island adventure - tea garden hello kitty island adventure - tea garden mysterious invitations for the tea garden ball have arrived. nobody knows who's hosting… but everyone is invited! help my melody, pochacco, kuromi, chococat, and more get ready for the most elegant event of the season. action adventure casual indie rpg simulation single-player multi-player co-op online co-op downloadable content steam achievements full controller support gamepad recommended dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing english french italian german spanish-spain arabic dutch japanese korean portuguese-brazil russian schinese tchinese turkish mostly positive mostly positive<br>76% of the 26 user reviews for this game are positive.",
       "first_seen": "2026-10-10T21:21:02+00:00",
       "last_seen": "2026-10-11T04:50:33+00:00",
-      "updated_at": "2026-10-11T04:50:33+00:00"
+      "updated_at": "2026-10-11T09:33:06+00:00"
     },
     {
       "app_id": 619820,
@@ -16882,6 +16932,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 874
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 17600,
+          "final": 6160
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 72400,
+          "final": 25300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9200,
+          "final": 3220
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 98000
+        },
+        "ko": {
+          "currency": "USD",
+          "original": 2499,
+          "final": 874
         }
       },
       "review_hint": "Mostly Positive<br>73% of the 1,303 user reviews for this game are positive.",
@@ -16896,7 +16971,7 @@
       "search_text": "naheulbeuk's dungeon master naheulbeuk's dungeon master a dungeon in danger ! build, manage, and defend your tower in the satirical heroic fantasy universe of dungeon of naheulbeuk. from a shaky establishment to an infamous lair! casual indie simulation strategy single-player steam achievements dualshock controller support dualshock controller support dualsense controller support dualsense controller support partial controller support steam cloud family sharing english french german spanish-spain polish russian schinese mixed mostly positive<br>73% of the 1,303 user reviews for this game are positive.",
       "first_seen": "2026-10-10T21:21:02+00:00",
       "last_seen": "2026-10-11T04:50:33+00:00",
-      "updated_at": "2026-10-11T04:50:33+00:00"
+      "updated_at": "2026-10-11T09:33:06+00:00"
     },
     {
       "app_id": 633230,
@@ -22069,6 +22144,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 1900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 5300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 1160
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 34000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 330000
         }
       },
       "review_hint": "Very Positive<br>91% of the 852 user reviews for this game are positive.",
@@ -22083,7 +22183,7 @@
       "search_text": "screencheat screencheat screencheat is a ridiculous competitive split-screen first-person shooter where everyone is invisible, so players are forced to look at each other’s screens to win. supporting both local and online multiplayer, combat in screencheat is fast and furious with a wide variety of one-hit kill weapons. action indie single-player multi-player pvp online pvp shared/split screen pvp shared/split screen steam achievements full controller support steam trading cards color alternatives custom volume controls playable without timed input dualshock controller support stereo sound steam cloud remote play on tv remote play together family sharing english french german spanish-spain dutch portuguese-brazil russian japanese korean schinese very positive very positive<br>91% of the 852 user reviews for this game are positive.",
       "first_seen": "2026-10-10T21:21:02+00:00",
       "last_seen": "2026-10-11T04:50:33+00:00",
-      "updated_at": "2026-10-11T04:50:33+00:00"
+      "updated_at": "2026-10-11T09:33:06+00:00"
     },
     {
       "app_id": 513710,
@@ -26941,6 +27041,31 @@
           "currency": "USD",
           "original": 3499,
           "final": 524
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 2340
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 49800,
+          "final": 7400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10300,
+          "final": 1545
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 360000,
+          "final": 54000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3600000,
+          "final": 540000
         }
       },
       "review_hint": "Very Positive<br>83% of the 2,223 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -26955,7 +27080,7 @@
       "search_text": "the dungeon of naheulbeuk: the amulet of chaos the dungeon of naheulbeuk: the amulet of chaos step into the wacky heroic fantasy universe of the dungeon of naheulbeuk. lead a team of unlikely and clumsy heroes in an epic and challenging tactical rpg. live an adventure filled with humor, surprises and silly encounters. action adventure indie rpg strategy single-player steam achievements full controller support steam trading cards steam cloud family sharing english french german schinese spanish-spain russian very positive very positive<br>83% of the 2,223 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-10T21:21:02+00:00",
       "last_seen": "2026-10-11T04:50:33+00:00",
-      "updated_at": "2026-10-11T04:50:33+00:00"
+      "updated_at": "2026-10-11T09:33:06+00:00"
     },
     {
       "app_id": 641990,
@@ -267761,6 +267886,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 13900,
+          "final": 3475
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 49000,
+          "final": 12200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 1450
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 205000,
+          "final": 51200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2050000,
+          "final": 512000
         }
       },
       "review_hint": "Very Positive<br>86% of the 3,345 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -267775,7 +267925,7 @@
       "search_text": "neon abyss neon abyss neon abyss is a frantic, roguelite action-platformer where you run ‘n’ gun your way into the abyss. featuring unlimited item synergies and a unique dungeon evolution system, each run diversifies the experience and every choice alters the ruleset. action adventure indie rpg single-player steam achievements full controller support steam trading cards dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud remote play on phone remote play on tablet family sharing english schinese french italian german spanish-spain japanese russian tchinese very positive very positive<br>86% of the 3,345 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-10T21:21:02+00:00",
       "last_seen": "2026-10-11T04:50:33+00:00",
-      "updated_at": "2026-10-11T04:50:33+00:00"
+      "updated_at": "2026-10-11T09:33:06+00:00"
     },
     {
       "app_id": 2957720,
