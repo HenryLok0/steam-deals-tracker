@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T14:49:55+00:00",
+  "updated_at": "2026-10-12T22:18:43+00:00",
   "total_count": 4427,
   "active_count": 349,
   "games": [
@@ -2080,6 +2080,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 974
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7600,
+          "final": 5700
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27500,
+          "final": 20600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5200,
+          "final": 3900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 127500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1400000,
+          "final": 1050000
         }
       },
       "review_hint": "",
@@ -2094,7 +2119,7 @@
       "search_text": "barfender: co-op bar simulator barfender: co-op bar simulator barfender is a chaotic 1–4 player co-op bar sim where you pour drinks, clean disasters, stop fights, and try to keep the bar alive while everything falls apart. build the place, serve the crowd, survive the night. indie simulation early access single-player multi-player co-op online co-op steam achievements full controller support custom volume controls adjustable difficulty playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support stereo sound steam cloud family sharing english french german japanese russian schinese turkish portuguese-brazil tchinese korean italian spanish-spain hungarian polish portuguese---portugal spanish-latin positive",
       "first_seen": "2026-10-12T14:49:55+00:00",
       "last_seen": "2026-10-12T14:49:55+00:00",
-      "updated_at": "2026-10-12T14:49:55+00:00"
+      "updated_at": "2026-10-12T22:18:43+00:00"
     },
     {
       "app_id": 365360,
@@ -3271,6 +3296,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 989
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8700,
+          "final": 5742
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 25200,
+          "final": 16600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5900,
+          "final": 3894
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 180000,
+          "final": 118800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1450000,
+          "final": 957000
         }
       },
       "review_hint": "Positive<br>100% of the 16 user reviews for this game are positive.",
@@ -3285,7 +3335,7 @@
       "search_text": "burn with me burn with me burn with me is a story-centric deckbuilder filled with cozy dread and occultic mysteries. in order to summon a personal demon you'll master inventive gameplay with position-based synergies, and permanently burn your cards and your soul. casual indie strategy single-player steam achievements custom volume controls mouse only option #category_playable_at_your_own_pace playable without timed input save anytime stereo sound steam cloud family sharing english german russian japanese korean schinese french portuguese-brazil spanish-spain positive positive<br>100% of the 16 user reviews for this game are positive.",
       "first_seen": "2026-10-12T14:49:55+00:00",
       "last_seen": "2026-10-12T14:49:55+00:00",
-      "updated_at": "2026-10-12T14:49:55+00:00"
+      "updated_at": "2026-10-12T22:18:43+00:00"
     },
     {
       "app_id": 2400430,
@@ -11016,6 +11066,31 @@
           "currency": "USD",
           "original": 1599,
           "final": 1119
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10200,
+          "final": 7140
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27800,
+          "final": 19400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6200,
+          "final": 4340
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 180000,
+          "final": 126000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1750000,
+          "final": 1225000
         }
       },
       "review_hint": "Very Positive<br>98% of the 58 user reviews for this game are positive.",
@@ -11030,7 +11105,7 @@
       "search_text": "g-modeアーカイブス+ ペルソナ3 アイギス the first mission g-modeアーカイブス+ ペルソナ3 アイギス the first mission the setting is yakushima in 1999. a story depicting aegis' unknown past. rpg single-player gamepad recommended dualshock controller support dualshock controller support dualsense controller support dualsense controller support partial controller support steam cloud family sharing japanese positive very positive<br>98% of the 58 user reviews for this game are positive.",
       "first_seen": "2026-10-12T14:49:55+00:00",
       "last_seen": "2026-10-12T14:49:55+00:00",
-      "updated_at": "2026-10-12T14:49:55+00:00"
+      "updated_at": "2026-10-12T22:18:43+00:00"
     },
     {
       "app_id": 3065940,
