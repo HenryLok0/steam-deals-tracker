@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T05:05:39+00:00",
+  "updated_at": "2026-10-12T10:03:07+00:00",
   "total_count": 4424,
   "active_count": 349,
   "games": [
@@ -708,6 +708,31 @@
           "currency": "USD",
           "original": 3499,
           "final": 349
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 21800,
+          "final": 2180
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 89900,
+          "final": 8900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 16900,
+          "final": 1690
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 390000,
+          "final": 39000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3750000,
+          "final": 375000
         }
       },
       "review_hint": "Mostly Positive<br>77% of the 1,065 user reviews for this game are positive.",
@@ -722,7 +747,7 @@
       "search_text": "ad infinitum ad infinitum when reality is a nightmare, nightmares become real. in this psychological horror game, you fight the terrifying creatures invading your mind. can you save your sanity? action adventure single-player steam achievements full controller support steam trading cards steam cloud family sharing english french italian german spanish-spain japanese polish portuguese-brazil russian schinese thai tchinese turkish korean mostly positive mostly positive<br>77% of the 1,065 user reviews for this game are positive.",
       "first_seen": "2026-10-11T21:39:34+00:00",
       "last_seen": "2026-10-12T05:05:39+00:00",
-      "updated_at": "2026-10-12T05:05:39+00:00"
+      "updated_at": "2026-10-12T10:03:07+00:00"
     },
     {
       "app_id": 1336490,
@@ -2040,6 +2065,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 1079
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5200,
+          "final": 4680
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 28600,
+          "final": 25700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4800,
+          "final": 4320
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 126000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1350000,
+          "final": 1215000
         }
       },
       "review_hint": "Positive<br>95% of the 23 user reviews for this game are positive.",
@@ -2054,7 +2104,7 @@
       "search_text": "bandit simulator td bandit simulator td this is a &quot;tower defense + base building&quot; game where you establish a bandit stronghold from scratch. with &quot;tower defense&quot; at its core, you can ambush travelers, develop characters through profession and equipment systems, and expand your stronghold by researching, forging, and constructing! casual indie rpg simulation strategy single-player steam achievements playable without timed input save anytime steam cloud family sharing schinese english tchinese 3 user reviews positive<br>95% of the 23 user reviews for this game are positive.",
       "first_seen": "2026-10-12T05:05:39+00:00",
       "last_seen": "2026-10-12T05:05:39+00:00",
-      "updated_at": "2026-10-12T05:05:39+00:00"
+      "updated_at": "2026-10-12T10:03:07+00:00"
     },
     {
       "app_id": 365360,
@@ -4068,6 +4118,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12900,
+          "final": 9675
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 34900,
+          "final": 26100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7999,
+          "final": 5999
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 250000,
+          "final": 187500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2350000,
+          "final": 1762000
         }
       },
       "review_hint": "Very Positive<br>89% of the 723 user reviews for this game are positive.",
@@ -4082,7 +4157,7 @@
       "search_text": "celestial empire celestial empire forge an empire under the watchful eyes of the gods! take care of your people, develop efficient production chains and trade with other landlords. ensure their survival through harsh winters and disasters. simulation strategy early access single-player steam achievements custom volume controls adjustable difficulty playable without timed input save anytime stereo sound surround sound steam cloud family sharing english french german spanish-spain tchinese polish schinese italian korean russian turkish japanese portuguese-brazil very positive very positive<br>89% of the 723 user reviews for this game are positive.",
       "first_seen": "2026-10-11T21:39:34+00:00",
       "last_seen": "2026-10-12T05:05:39+00:00",
-      "updated_at": "2026-10-12T05:05:39+00:00"
+      "updated_at": "2026-10-12T10:03:07+00:00"
     },
     {
       "app_id": 2567870,
@@ -7735,6 +7810,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1049
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 6650
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 18700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4800,
+          "final": 3360
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 198000,
+          "final": 138600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 1155000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>95% of the 1,521 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -7749,7 +7849,7 @@
       "search_text": "diceomancer diceomancer diceomancer is a roguelike deck-building game. though you long for a peaceful life, you're forced to embark on an adventure. in this world of swords, magic, and guns, make good use of your dice and deck to find a way back to tranquility! what can the dice be used for? to change... anything. casual indie strategy single-player steam achievements steam cloud family sharing english schinese spanish-spain russian portuguese-brazil spanish-latin japanese overwhelmingly positive overwhelmingly positive<br>95% of the 1,521 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-11T21:39:34+00:00",
       "last_seen": "2026-10-12T05:05:39+00:00",
-      "updated_at": "2026-10-12T05:05:39+00:00"
+      "updated_at": "2026-10-12T10:03:07+00:00"
     },
     {
       "app_id": 3917700,
@@ -11309,6 +11409,31 @@
           "currency": "USD",
           "original": 1599,
           "final": 1039
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10000,
+          "final": 6500
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27800,
+          "final": 18000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5799,
+          "final": 3769
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 180000,
+          "final": 117000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1750000,
+          "final": 1137000
         }
       },
       "review_hint": "Very Positive<br>95% of the 431 user reviews for this game are positive.",
@@ -11323,7 +11448,7 @@
       "search_text": "genome guardian 2 genome guardian 2 combine weapons in the microscopic shooter with macroscopic depth. build your nanobot from hundreds of parts. survive the microbial onslaught once more in this psychedelic dive to the abyss, full of mutations, minerals, anomalies and powerup polyps. shmup mode turns it into a vertical shoot 'em up! action casual indie rpg single-player steam achievements full controller support camera comfort color alternatives custom volume controls adjustable difficulty mouse only option playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime steam cloud family sharing english french italian german spanish-spain japanese korean portuguese-brazil russian schinese very positive very positive<br>95% of the 431 user reviews for this game are positive.",
       "first_seen": "2026-10-11T21:39:34+00:00",
       "last_seen": "2026-10-12T05:05:39+00:00",
-      "updated_at": "2026-10-12T05:05:39+00:00"
+      "updated_at": "2026-10-12T10:03:07+00:00"
     },
     {
       "app_id": 1449280,
@@ -17653,6 +17778,31 @@
           "currency": "USD",
           "original": 299,
           "final": 224
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 1800,
+          "final": 1350
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 6900,
+          "final": 5100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1100,
+          "final": 825
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 39000,
+          "final": 29200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 300000,
+          "final": 225000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>96% of the 1,933 user reviews for this software are positive.",
@@ -17667,7 +17817,7 @@
       "search_text": "mouse x mouse x you look at your mouse every single day. personalize it with mouse x. use custom live cursors on your desktop, and share your own custom cursor skins on the steam workshop! indie animation & modeling design & illustration photo editing utilities steam achievements steam workshop adjustable text size color alternatives #category_contrast_controls custom volume controls adjustable difficulty keyboard only option mouse only option narrated game menus #category_playable_at_your_own_pace playable without timed input #category_playable_without_vision save anytime touch only option steam cloud stats includes level editor english french italian german spanish-spain czech danish dutch korean polish portuguese-brazil portuguese---portugal russian schinese spanish-latin swedish turkish arabic bulgarian finnish greek hungarian indonesian japanese malay romanian thai ukrainian vietnamese overwhelmingly positive overwhelmingly positive<br>96% of the 1,933 user reviews for this software are positive.",
       "first_seen": "2026-10-12T05:05:39+00:00",
       "last_seen": "2026-10-12T05:05:39+00:00",
-      "updated_at": "2026-10-12T05:05:39+00:00"
+      "updated_at": "2026-10-12T10:03:07+00:00"
     },
     {
       "app_id": 4847440,
