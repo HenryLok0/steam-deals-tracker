@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T13:49:45+00:00",
+  "updated_at": "2026-10-13T20:26:00+00:00",
   "total_count": 4451,
   "active_count": 349,
   "games": [
@@ -4629,6 +4629,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 18700,
+          "final": 1870
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 49800,
+          "final": 4900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10800,
+          "final": 1080
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 340000,
+          "final": 34000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3200000,
+          "final": 320000
         }
       },
       "review_hint": "Very Positive<br>81% of the 763 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -4643,7 +4668,7 @@
       "search_text": "chef life: a restaurant simulator chef life: a restaurant simulator create and manage your dream restaurant! menus, purchasing, décor, staff, equipment, customers… and don't forget the actual cooking! experience the daily life of a restaurateur and earn your awards from the michelin guide. simulation single-player steam achievements steam trading cards in-app purchases partial controller support steam cloud family sharing english french italian german spanish-spain arabic dutch japanese korean polish portuguese-brazil russian schinese tchinese very positive very positive<br>81% of the 763 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-13T13:49:45+00:00",
       "last_seen": "2026-10-13T13:49:45+00:00",
-      "updated_at": "2026-10-13T13:49:45+00:00"
+      "updated_at": "2026-10-13T20:26:00+00:00"
     },
     {
       "app_id": 1796790,
@@ -12508,6 +12533,31 @@
           "currency": "USD",
           "original": 999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 3300
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 9400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 2100
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 60000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 550000
         }
       },
       "review_hint": "Very Positive<br>85% of the 2,354 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -12522,7 +12572,7 @@
       "search_text": "good pizza, great pizza - cooking simulator game good pizza, great pizza - cooking simulator game ready to settle in with a soothing shift behind the counter? feel the dough, hear the quiet crackle of the oven, and serve warm slices to grateful guests. good pizza, great pizza is the cozy, asmr-friendly escape you didn’t know you kneaded. casual indie simulation single-player steam achievements steam trading cards in-app purchases steam leaderboards family sharing english french italian spanish-spain japanese portuguese-brazil russian schinese german korean tchinese polish turkish spanish-latin arabic portuguese---portugal indonesian ukrainian very positive very positive<br>85% of the 2,354 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-13T13:49:45+00:00",
       "last_seen": "2026-10-13T13:49:45+00:00",
-      "updated_at": "2026-10-13T13:49:45+00:00"
+      "updated_at": "2026-10-13T20:26:00+00:00"
     },
     {
       "app_id": 3240220,
@@ -14882,6 +14932,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 1169
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7600,
+          "final": 6840
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27500,
+          "final": 24700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5200,
+          "final": 4680
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 153000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1400000,
+          "final": 1260000
         }
       },
       "review_hint": "Positive<br>100% of the 12 user reviews for this game are positive.",
@@ -14896,7 +14971,7 @@
       "search_text": "hyperfight 2 hyperfight 2 your meter is your life. use it wisely or risk it all in this brand-new take on 2d fighting. this is the next evolution of hyperfight! action casual indie early access single-player multi-player pvp online pvp shared/split screen pvp shared/split screen full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud remote play together family sharing english positive positive<br>100% of the 12 user reviews for this game are positive.",
       "first_seen": "2026-10-13T13:49:45+00:00",
       "last_seen": "2026-10-13T13:49:45+00:00",
-      "updated_at": "2026-10-13T13:49:45+00:00"
+      "updated_at": "2026-10-13T20:26:00+00:00"
     },
     {
       "app_id": 2647680,
@@ -16205,6 +16280,31 @@
           "currency": "USD",
           "original": 699,
           "final": 559
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4200,
+          "final": 3360
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15900,
+          "final": 12700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 2240
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 90000,
+          "final": 72000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 760000,
+          "final": 608000
         }
       },
       "review_hint": "",
@@ -16219,7 +16319,7 @@
       "search_text": "legion breaker legion breaker legion breaker is an active incremental game about growing a novice wizard into an unstoppable battlemage. unlock powerful spells, raise a holy army, and crush undead hordes across expanding battlefields on your way to the necromancer king. casual indie simulation strategy single-player steam achievements camera comfort custom volume controls keyboard only option mouse only option playable without timed input family sharing english japanese korean schinese tchinese french german italian 1 user reviews",
       "first_seen": "2026-10-13T13:49:45+00:00",
       "last_seen": "2026-10-13T13:49:45+00:00",
-      "updated_at": "2026-10-13T13:49:45+00:00"
+      "updated_at": "2026-10-13T20:26:00+00:00"
     },
     {
       "app_id": 1538550,
@@ -16992,6 +17092,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 974
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8600,
+          "final": 5590
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 45800,
+          "final": 29700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 3770
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 220000,
+          "final": 143000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1750000,
+          "final": 1137000
         }
       },
       "review_hint": "Very Positive<br>96% of the 75 user reviews for this game are positive.",
@@ -17006,7 +17131,7 @@
       "search_text": "life, the universe, and restaurants life, the universe, and restaurants run a restaurant in a bizarre universe and cook for customers who call themselves &quot;gods&quot;! expand your restaurant, deploy robots, and automate your kitchen. keep business booming—and be ready to deal with any unruly customers. casual indie simulation strategy single-player full controller support gamepad recommended keyboard only option playable without timed input steam cloud steam leaderboards family sharing english schinese japanese korean tchinese french portuguese-brazil portuguese---portugal 3 user reviews very positive<br>96% of the 75 user reviews for this game are positive.",
       "first_seen": "2026-10-13T13:49:45+00:00",
       "last_seen": "2026-10-13T13:49:45+00:00",
-      "updated_at": "2026-10-13T13:49:45+00:00"
+      "updated_at": "2026-10-13T20:26:00+00:00"
     },
     {
       "app_id": 2072450,
@@ -28896,6 +29021,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 779
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5499,
+          "final": 3299
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 23800,
+          "final": 14200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4999,
+          "final": 2999
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 150000,
+          "final": 90000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1450000,
+          "final": 870000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>97% of the 1,993 user reviews for this game are positive.",
@@ -28910,7 +29060,7 @@
       "search_text": "the chef's shift the chef's shift the chef’s shift is a fast-paced typing game in a restaurant setting, where you’ll both cook &amp; serve food to hungry customers, all done by typing. casual indie simulation strategy single-player steam achievements steam trading cards steam cloud steam leaderboards family sharing english french german spanish-spain portuguese---portugal schinese russian portuguese-brazil spanish-latin indonesian japanese korean polish overwhelmingly positive overwhelmingly positive<br>97% of the 1,993 user reviews for this game are positive.",
       "first_seen": "2026-10-13T13:49:45+00:00",
       "last_seen": "2026-10-13T13:49:45+00:00",
-      "updated_at": "2026-10-13T13:49:45+00:00"
+      "updated_at": "2026-10-13T20:26:00+00:00"
     },
     {
       "app_id": 3851680,
@@ -30214,6 +30364,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 2399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 17200,
+          "final": 13760
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 56100,
+          "final": 44800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10900,
+          "final": 8720
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 385000,
+          "final": 308000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3100000,
+          "final": 2480000
         }
       },
       "review_hint": "Very Positive<br>80% of the 19,000 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -30228,7 +30403,7 @@
       "search_text": "they are billions they are billions they are billions is a steampunk strategy game set on a post-apocalyptic planet. build and defend colonies to survive against the billions of the infected that seek to annihilate the few remaining living humans. can humanity survive after the zombie apocalypse? strategy single-player steam achievements steam trading cards steam workshop steam cloud stats steam leaderboards includes level editor remote play on tablet family sharing english spanish-spain french german japanese korean polish portuguese-brazil russian schinese tchinese italian very positive very positive<br>80% of the 19,000 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-13T13:49:45+00:00",
       "last_seen": "2026-10-13T13:49:45+00:00",
-      "updated_at": "2026-10-13T13:49:45+00:00"
+      "updated_at": "2026-10-13T20:26:00+00:00"
     },
     {
       "app_id": 2509870,
