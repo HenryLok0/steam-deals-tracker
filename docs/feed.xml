@@ -4,7 +4,49 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Tue, 13 Oct 2026 22:25:27 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 04:08:30 +0000</lastBuildDate>
+<item>
+<title>Calculate It</title>
+<link>https://store.steampowered.com/app/3043740/</link>
+<guid isPermaLink="false">3043740</guid>
+<pubDate>Wed, 14 Oct 2026 04:08:30 +0000</pubDate>
+<description>A roguelike where you build your own calculator. Buy unusual buttons, combine them with passive upgrades, and reach target numbers while saving turns and charges. Defeat bosses that change the rules and unlock new possibilities for future runs.</description>
+</item>
+<item>
+<title>It Has My Face</title>
+<link>https://store.steampowered.com/app/2506530/</link>
+<guid isPermaLink="false">2506530</guid>
+<pubDate>Wed, 14 Oct 2026 04:08:30 +0000</pubDate>
+<description>IT HAS YOUR FACE. Now it wants your life. Hide, seek, and try to kill your clone in this deceptively simple first-person horror roguelite.</description>
+</item>
+<item>
+<title>No Such Place</title>
+<link>https://store.steampowered.com/app/3299050/</link>
+<guid isPermaLink="false">3299050</guid>
+<pubDate>Wed, 14 Oct 2026 04:08:30 +0000</pubDate>
+<description>Welcome to the Unknown Research Consortium (U.R.C.), where you’re tasked with conducting reconnaissance missions, terminating unknown threats, gathering crucial information, and reaching the evacuation point in this treacherous top-down extraction shooter.</description>
+</item>
+<item>
+<title>Valve Index® Controllers</title>
+<link>https://store.steampowered.com/app/1059550/</link>
+<guid isPermaLink="false">1059550</guid>
+<pubDate>Wed, 14 Oct 2026 04:08:30 +0000</pubDate>
+<description>Your hands, in VR.Valve Index Controllers have been designed from the ground up to enable natural input, high fidelity hand presence, and comfort in VR.Half-Life: AlyxHalf-Life: Alyx is yours, whether you've had your Valve Index for a while, or are just about to take the plunge.</description>
+</item>
+<item>
+<title>Valve Index® Headset</title>
+<link>https://store.steampowered.com/app/1059530/</link>
+<guid isPermaLink="false">1059530</guid>
+<pubDate>Wed, 14 Oct 2026 04:08:30 +0000</pubDate>
+<description>[h1]Fidelity First.[/h1]With fidelity as a priority, the Valve Index Headset delivers on all fronts.[columnset][column]Displays.Custom displays feature high resolution visuals with accurate colors across a high frame rate.Optics.</description>
+</item>
+<item>
+<title>Valve Index® Replacement Tether</title>
+<link>https://store.steampowered.com/app/1634050/</link>
+<guid isPermaLink="false">1634050</guid>
+<pubDate>Wed, 14 Oct 2026 04:08:30 +0000</pubDate>
+<description>If your headset is still under warranty, contact Steam Support before purchasing replacement parts.</description>
+</item>
 <item>
 <title>Allogloom</title>
 <link>https://store.steampowered.com/app/2644100/</link>
@@ -27,13 +69,6 @@
 <description>A 3–6 player auction game built around bluffing, deception, and manipulation, where you must outsmart your opponents in tense bidding wars, hide the truth, and turn risky trades into profit. Every round is a battle of mind games where trust is fragile and strategy decides the winner.</description>
 </item>
 <item>
-<title>HOT WHEELS™ Infinite Rush</title>
-<link>https://store.steampowered.com/app/2821390/</link>
-<guid isPermaLink="false">2821390</guid>
-<pubDate>Tue, 13 Oct 2026 22:25:27 +0000</pubDate>
-<description>Jump into a Hot Wheels™-sized world with four islands packed with events, challenges and full-throttle mayhem. Collect iconic vehicles, assemble your Rush Squad, build epic tracks, and earn the title of Rush Master.</description>
-</item>
-<item>
 <title>Hungry Horrors</title>
 <link>https://store.steampowered.com/app/3048840/</link>
 <guid isPermaLink="false">3048840</guid>
@@ -53,13 +88,6 @@
 <guid isPermaLink="false">2331280</guid>
 <pubDate>Tue, 13 Oct 2026 22:25:27 +0000</pubDate>
 <description>Run your own dwarven forge. Craft legendary gear, enchant your creations with elven magic, and hire a crew of goblin workers to keep the forge running. Then arm the heroes of the realm and send them into dungeons for loot and gold. The forge beckons!</description>
-</item>
-<item>
-<title>Moss II VR</title>
-<link>https://store.steampowered.com/app/2059670/</link>
-<guid isPermaLink="false">2059670</guid>
-<pubDate>Tue, 13 Oct 2026 22:25:27 +0000</pubDate>
-<description>Quill is back—and she’s being hunted. To stand a chance, Quill will need a true partner by her side—and we hope that partner is you. Moss: Book II is an action-adventure puzzle game and award-winning sequel (The Game Awards &amp;quot;Best VR/AR Game&amp;quot;) to Moss.</description>
 </item>
 <item>
 <title>My Beautiful Faraway, Please Don't Be Cruel To Me</title>
@@ -132,11 +160,11 @@
 <description>Legion Breaker is an active incremental game about growing a novice wizard into an unstoppable battlemage. Unlock powerful spells, raise a holy army, and crush undead hordes across expanding battlefields on your way to the Necromancer King.</description>
 </item>
 <item>
-<title>Life, the Universe, and Restaurants</title>
-<link>https://store.steampowered.com/app/3746950/</link>
-<guid isPermaLink="false">3746950</guid>
+<title>The Chef's Shift</title>
+<link>https://store.steampowered.com/app/2390230/</link>
+<guid isPermaLink="false">2390230</guid>
 <pubDate>Tue, 13 Oct 2026 13:49:45 +0000</pubDate>
-<description>Run a restaurant in a bizarre universe and cook for customers who call themselves &amp;quot;gods&amp;quot;! Expand your restaurant, deploy robots, and automate your kitchen. Keep business booming—and be ready to deal with any unruly customers.</description>
+<description>The Chef’s Shift is a fast-paced typing game in a restaurant setting, where you’ll both cook &amp;amp; serve food to hungry customers, all done by TYPING.</description>
 </item>
 <item>
 <title>They Are Billions</title>
@@ -146,102 +174,11 @@
 <description>They Are Billions is a Steampunk strategy game set on a post-apocalyptic planet. Build and defend colonies to survive against the billions of the infected that seek to annihilate the few remaining living humans. Can humanity survive after the zombie apocalypse?</description>
 </item>
 <item>
-<title>Alpha Nomos</title>
-<link>https://store.steampowered.com/app/2529960/</link>
-<guid isPermaLink="false">2529960</guid>
-<pubDate>Tue, 13 Oct 2026 00:20:06 +0000</pubDate>
-<description>It's time to wield the beat! Play as Cello and slice through an army of rogue puppets in a vibrant, melody-twisted world. Combat pulses to the soundtrack - time your moves to the beat to unleash show-stopping combos and perfectly choreographed chaos!</description>
-</item>
-<item>
-<title>Cult of the Yellow King</title>
-<link>https://store.steampowered.com/app/3928030/</link>
-<guid isPermaLink="false">3928030</guid>
-<pubDate>Tue, 13 Oct 2026 00:20:06 +0000</pubDate>
-<description>A cosmic horror idle game where you build the Yellow King’s cult, spread his living mold, and click yourself hollow. Memory by memory. Scream by silent scream, as the sky blooms with eyes watching your beautiful undoing.</description>
-</item>
-<item>
-<title>Getting Over It with Bennett Foddy</title>
-<link>https://store.steampowered.com/app/240720/</link>
-<guid isPermaLink="false">240720</guid>
-<pubDate>Tue, 13 Oct 2026 00:20:06 +0000</pubDate>
-<description>A game I made for a certain kind of person. To hurt them.</description>
-</item>
-<item>
-<title>Halo: The Master Chief Collection</title>
-<link>https://store.steampowered.com/app/976730/</link>
-<guid isPermaLink="false">976730</guid>
-<pubDate>Tue, 13 Oct 2026 00:20:06 +0000</pubDate>
-<description>The Master Chief’s iconic journey includes six games, built for PC and collected in a single integrated experience. Whether you’re a long-time fan or meeting Spartan 117 for the first time, The Master Chief Collection is the definitive Halo gaming experience.</description>
-</item>
-<item>
-<title>Haunted Heist</title>
-<link>https://store.steampowered.com/app/4024440/</link>
-<guid isPermaLink="false">4024440</guid>
-<pubDate>Tue, 13 Oct 2026 00:20:06 +0000</pubDate>
-<description>Haunted Heist is a 3-8 player round-based PvP horror party game where Heisters find and retrieve gems in a procedurally generated mansion, while Tricksters use chaotic abilities to distress, disrupt, and dispose of them to protect their home.</description>
-</item>
-<item>
-<title>Heart of the Machine - Kinship</title>
-<link>https://store.steampowered.com/app/4565610/</link>
-<guid isPermaLink="false">4565610</guid>
-<pubDate>Tue, 13 Oct 2026 00:20:06 +0000</pubDate>
-<description>Step into the frontier of strategic roleplaying with the mind-bending storylines of Heart of the Machine - Kinship. New possibilities await, deepening the lore of the game and unlocking new avenues of exploration and expansion for The Machine Intelligence.</description>
-</item>
-<item>
-<title>Horns of Deliverance</title>
-<link>https://store.steampowered.com/app/4080520/</link>
-<guid isPermaLink="false">4080520</guid>
-<pubDate>Tue, 13 Oct 2026 00:20:06 +0000</pubDate>
-<description>Horns of Deliverance is a first-person action roguelike with grounded gunplay where you need to consume psychoactive substances to prevent your brain chip from taking over.</description>
-</item>
-<item>
-<title>inbento</title>
-<link>https://store.steampowered.com/app/1567440/</link>
-<guid isPermaLink="false">1567440</guid>
-<pubDate>Tue, 13 Oct 2026 00:20:06 +0000</pubDate>
-<description>A cooking puzzle game about arranging beautiful bento lunches! Solve 120+ recipes, play with food, think inside the box and enjoy a heartwarming story in this culinary brain-teaser!</description>
-</item>
-<item>
-<title>Moonfrost</title>
-<link>https://store.steampowered.com/app/2561630/</link>
-<guid isPermaLink="false">2561630</guid>
-<pubDate>Tue, 13 Oct 2026 00:20:06 +0000</pubDate>
-<description>In a world ravaged by meteor storms, begin your cosy yet epic journey as a Frost Hunter! Rebuild a shattered village whilst enjoying a life of farming, crafting and befriending charming neighbours as you uncover the dark truths behind the mysterious Second Moon.</description>
-</item>
-<item>
-<title>NBA 2K27</title>
-<link>https://store.steampowered.com/app/4356430/</link>
-<guid isPermaLink="false">4356430</guid>
-<pubDate>Tue, 13 Oct 2026 00:20:06 +0000</pubDate>
-<description>The hustle doesn’t stop and the run never ends in NBA 2K27. Chase greatness around the clock in MyCAREER, MyTEAM, and MyNBA, and make your hoop dreams a reality.</description>
-</item>
-<item>
-<title>Something to Drink?</title>
-<link>https://store.steampowered.com/app/4121610/</link>
-<guid isPermaLink="false">4121610</guid>
-<pubDate>Tue, 13 Oct 2026 00:20:06 +0000</pubDate>
-<description>I'm Tom and I just got a job as a bartender. Now I have to wipe down the same sticky counters where I used to leave my own marks. In this dive, even the rats look like they're hungover. Alright, the boozers won't pour their own drinks - time to get back to work.</description>
-</item>
-<item>
-<title>The Last Flight</title>
-<link>https://store.steampowered.com/app/3906460/</link>
-<guid isPermaLink="false">3906460</guid>
-<pubDate>Tue, 13 Oct 2026 00:20:06 +0000</pubDate>
-<description>Rebuild a forgotten airplane, manage your survival, and soar across a hauntingly beautiful world. Balance your stats, scavenge for parts, and chart your course through a post-apocalyptic sky. Every flight is a step closer to freedom... If your past doesn’t catch up first. Prepare for takeoff!</description>
-</item>
-<item>
 <title>Voidtrain - Big Catch</title>
 <link>https://store.steampowered.com/app/5007040/</link>
 <guid isPermaLink="false">5007040</guid>
 <pubDate>Tue, 13 Oct 2026 00:20:06 +0000</pubDate>
 <description>Catch fish aboard your train, upgrade your gear, and earn Scales with every catch to spend on fishing upgrades and train decor.</description>
-</item>
-<item>
-<title>Witch Cabin Cleanup</title>
-<link>https://store.steampowered.com/app/4991240/</link>
-<guid isPermaLink="false">4991240</guid>
-<pubDate>Tue, 13 Oct 2026 00:20:06 +0000</pubDate>
-<description>Witch's Cabin Cleanup is a cozy organizing simulator where you sort 5,313 curios in a cluttered witch's cabin. Clean, learn spells, and restore order in a calm and atmospheric environment.</description>
 </item>
 <item>
 <title>Gear.Club Unlimited 3 - Gear.Club Signature Pack</title>
