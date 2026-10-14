@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T04:08:30+00:00",
+  "updated_at": "2026-10-14T08:16:06+00:00",
   "total_count": 4471,
   "active_count": 350,
   "games": [
@@ -809,6 +809,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1349
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7900,
+          "final": 7110
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27800,
+          "final": 25000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5400,
+          "final": 4860
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 210000,
+          "final": 189000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1700000,
+          "final": 1530000
         }
       },
       "review_hint": "",
@@ -823,7 +848,7 @@
       "search_text": "allogloom allogloom join nora in this mysterious and macabre point and click adventure game. find and collect items to solve puzzles. talk to peculiar people and monsters alike. explore gruesome grove and beyond to uncover forgotten truths and save the people of her town! adventure casual single-player steam achievements full controller support steam trading cards custom volume controls #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing english german spanish-spain russian schinese french polish portuguese-brazil 9 user reviews",
       "first_seen": "2026-10-13T22:25:27+00:00",
       "last_seen": "2026-10-14T04:08:30+00:00",
-      "updated_at": "2026-10-14T04:08:30+00:00"
+      "updated_at": "2026-10-14T08:16:06+00:00"
     },
     {
       "app_id": 945360,
@@ -3551,6 +3576,31 @@
           "currency": "USD",
           "original": 699,
           "final": 559
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4200,
+          "final": 3360
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15900,
+          "final": 12700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2900,
+          "final": 2320
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 90500,
+          "final": 72400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 760000,
+          "final": 608000
         }
       },
       "review_hint": "Very Positive<br>87% of the 271 user reviews for this game are positive.",
@@ -3565,7 +3615,7 @@
       "search_text": "calculate it calculate it a roguelike where you build your own calculator. buy unusual buttons, combine them with passive upgrades, and reach target numbers while saving turns and charges. defeat bosses that change the rules and unlock new possibilities for future runs. indie simulation strategy single-player steam achievements steam cloud family sharing english russian very positive very positive<br>87% of the 271 user reviews for this game are positive.",
       "first_seen": "2026-10-14T04:08:30+00:00",
       "last_seen": "2026-10-14T04:08:30+00:00",
-      "updated_at": "2026-10-14T04:08:30+00:00"
+      "updated_at": "2026-10-14T08:16:06+00:00"
     },
     {
       "app_id": 2400430,
@@ -7672,6 +7722,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1274
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8700,
+          "final": 7395
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 30800,
+          "final": 26100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 4930
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 190000,
+          "final": 161500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1600000,
+          "final": 1360000
         }
       },
       "review_hint": "Mostly Positive<br>78% of the 73 user reviews for this game are positive.",
@@ -7686,7 +7761,7 @@
       "search_text": "deep dish dungeon deep dish dungeon a survival exploration game where you navigate through a puzzly hand-crafted dungeon, with metroidvania and crafting elements. unravel the enigmas of the dungeon’s depths solo or online co-op multiplayer. action strategy single-player multi-player co-op online co-op cross-platform multiplayer steam achievements full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing english portuguese-brazil french german spanish-spain japanese polish russian schinese spanish-latin tchinese positive mostly positive<br>78% of the 73 user reviews for this game are positive.",
       "first_seen": "2026-10-13T22:25:27+00:00",
       "last_seen": "2026-10-14T04:08:30+00:00",
-      "updated_at": "2026-10-14T04:08:30+00:00"
+      "updated_at": "2026-10-14T08:16:06+00:00"
     },
     {
       "app_id": 2321470,
@@ -8774,6 +8849,31 @@
           "currency": "USD",
           "original": 799,
           "final": 719
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4400,
+          "final": 3960
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15800,
+          "final": 14200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3000,
+          "final": 2700
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 115000,
+          "final": 103500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 895000,
+          "final": 805000
         }
       },
       "review_hint": "Mixed<br>69% of the 13 user reviews for this game are positive.",
@@ -8788,7 +8888,7 @@
       "search_text": "double dealers double dealers a 3–6 player auction game built around bluffing, deception, and manipulation, where you must outsmart your opponents in tense bidding wars, hide the truth, and turn risky trades into profit. every round is a battle of mind games where trust is fragile and strategy decides the winner. casual indie strategy early access multi-player pvp online pvp co-op online co-op camera comfort custom volume controls playable without timed input stereo sound surround sound family sharing english french german spanish-spain schinese portuguese-brazil japanese russian turkish korean arabic 3 user reviews mixed<br>69% of the 13 user reviews for this game are positive.",
       "first_seen": "2026-10-13T22:25:27+00:00",
       "last_seen": "2026-10-14T04:08:30+00:00",
-      "updated_at": "2026-10-14T04:08:30+00:00"
+      "updated_at": "2026-10-14T08:16:06+00:00"
     },
     {
       "app_id": 1562430,
@@ -14973,6 +15073,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 7600
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 21400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 4640
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 136000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1500000,
+          "final": 1200000
         }
       },
       "review_hint": "Very Positive<br>98% of the 218 user reviews for this game are positive.",
@@ -14987,7 +15112,7 @@
       "search_text": "hungry horrors hungry horrors hungry horrors is a story-driven deckbuilder set in the folklore of the british isles. cook real traditional dishes, chain flavour synergies, meet mythical characters, and feed legendary horrors before they feed on you. indie strategy single-player steam achievements full controller support custom volume controls keyboard only option mouse only option #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese tchinese turkish ukrainian very positive very positive<br>98% of the 218 user reviews for this game are positive.",
       "first_seen": "2026-10-13T22:25:27+00:00",
       "last_seen": "2026-10-14T04:08:30+00:00",
-      "updated_at": "2026-10-14T04:08:30+00:00"
+      "updated_at": "2026-10-14T08:16:06+00:00"
     },
     {
       "app_id": 3032970,
@@ -15575,6 +15700,31 @@
           "currency": "USD",
           "original": 999,
           "final": 699
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5800,
+          "final": 4060
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 17400,
+          "final": 12100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3500,
+          "final": 2450
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 84000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1070000,
+          "final": 749000
         }
       },
       "review_hint": "Very Positive<br>88% of the 612 user reviews for this game are positive.",
@@ -15589,7 +15739,7 @@
       "search_text": "it has my face it has my face it has your face. now it wants your life. hide, seek, and try to kill your clone in this deceptively simple first-person horror roguelite. action indie single-player multi-player pvp online pvp lan pvp steam achievements full controller support camera comfort adjustable difficulty playable without timed input dualsense controller support dualsense controller support stereo sound steam cloud family sharing english turkish french spanish-spain schinese japanese russian polish very positive very positive<br>88% of the 612 user reviews for this game are positive.",
       "first_seen": "2026-10-14T04:08:30+00:00",
       "last_seen": "2026-10-14T04:08:30+00:00",
-      "updated_at": "2026-10-14T04:08:30+00:00"
+      "updated_at": "2026-10-14T08:16:06+00:00"
     },
     {
       "app_id": 4968640,
@@ -16362,6 +16512,31 @@
           "currency": "USD",
           "original": 999,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6100,
+          "final": 5490
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21600,
+          "final": 19400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3600,
+          "final": 3240
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 135000,
+          "final": 121500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 945000
         }
       },
       "review_hint": "",
@@ -16376,7 +16551,7 @@
       "search_text": "legion was here legion was here steal a face. study a life. survive the conversation. adventure indie rpg simulation single-player steam achievements #category_contrast_controls custom volume controls mouse only option #category_playable_at_your_own_pace playable without timed input touch only option family sharing english french schinese 4 user reviews",
       "first_seen": "2026-10-13T22:25:27+00:00",
       "last_seen": "2026-10-14T04:08:30+00:00",
-      "updated_at": "2026-10-14T04:08:30+00:00"
+      "updated_at": "2026-10-14T08:16:06+00:00"
     },
     {
       "app_id": 1373430,
@@ -18479,6 +18654,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 719
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6900,
+          "final": 4140
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19900,
+          "final": 11900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4800,
+          "final": 2880
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 72000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1200000,
+          "final": 720000
         }
       },
       "review_hint": "Mostly Positive<br>76% of the 753 user reviews for this game are positive.",
@@ -18493,7 +18693,7 @@
       "search_text": "medieval crafter: blacksmith medieval crafter: blacksmith run your own dwarven forge. craft legendary gear, enchant your creations with elven magic, and hire a crew of goblin workers to keep the forge running. then arm the heroes of the realm and send them into dungeons for loot and gold. the forge beckons! indie rpg simulation single-player steam achievements full controller support steam trading cards dualsense controller support dualsense controller support steam cloud family sharing english french german schinese portuguese-brazil japanese polish russian turkish spanish-spain korean tchinese portuguese---portugal mostly positive mostly positive<br>76% of the 753 user reviews for this game are positive.",
       "first_seen": "2026-10-13T22:25:27+00:00",
       "last_seen": "2026-10-14T04:08:30+00:00",
-      "updated_at": "2026-10-14T04:08:30+00:00"
+      "updated_at": "2026-10-14T08:16:06+00:00"
     },
     {
       "app_id": 1129580,
@@ -19298,6 +19498,31 @@
           "currency": "USD",
           "original": 1099,
           "final": 989
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5300,
+          "final": 4770
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 17800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3600,
+          "final": 3240
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 115000,
+          "final": 103500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 965000,
+          "final": 868000
         }
       },
       "review_hint": "",
@@ -19312,7 +19537,7 @@
       "search_text": "my beautiful faraway, please don't be cruel to me my beautiful faraway, please don't be cruel to me a melancholic first-person adventure through a dreamlike, half-remembered nowhere. explore, encounter its strange inhabitants, and solve puzzles as you unravel a story about the fragility of existence. adventure casual indie single-player steam achievements full controller support custom volume controls #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support subtitle options steam cloud remote play on tv family sharing english french spanish-spain japanese russian schinese polish turkish italian german portuguese-brazil 8 user reviews",
       "first_seen": "2026-10-13T22:25:27+00:00",
       "last_seen": "2026-10-14T04:08:30+00:00",
-      "updated_at": "2026-10-14T04:08:30+00:00"
+      "updated_at": "2026-10-14T08:16:06+00:00"
     },
     {
       "app_id": 633230,
@@ -19912,6 +20137,31 @@
           "currency": "USD",
           "original": 999,
           "final": 349
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 2310
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 6500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 1470
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 42000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 385000
         }
       },
       "review_hint": "Very Positive<br>91% of the 4,117 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -19926,7 +20176,7 @@
       "search_text": "nidhogg nidhogg nidhogg is the epic award-winning game of fencing tug-of-war complete with flying giant worms. action indie sports single-player multi-player pvp online pvp shared/split screen pvp shared/split screen steam achievements full controller support steam trading cards custom volume controls keyboard only option playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support stats steam leaderboards remote play on tv remote play together family sharing english french italian german spanish-spain korean portuguese-brazil schinese tchinese ukrainian japanese polish russian spanish-latin very positive<br>91% of the 4,117 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-13T22:25:27+00:00",
       "last_seen": "2026-10-14T04:08:30+00:00",
-      "updated_at": "2026-10-14T04:08:30+00:00"
+      "updated_at": "2026-10-14T08:16:06+00:00"
     },
     {
       "app_id": 1371980,
@@ -20089,6 +20339,31 @@
           "currency": "USD",
           "original": 1799,
           "final": 1547
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9800,
+          "final": 8428
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 34900,
+          "final": 30000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 4988
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 228000,
+          "final": 196000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1900000,
+          "final": 1634000
         }
       },
       "review_hint": "",
@@ -20103,7 +20378,7 @@
       "search_text": "no such place no such place welcome to the unknown research consortium (u.r.c.), where you’re tasked with conducting reconnaissance missions, terminating unknown threats, gathering crucial information, and reaching the evacuation point in this treacherous top-down extraction shooter. action adventure indie early access single-player multi-player co-op online co-op lan co-op adjustable text size camera comfort custom volume controls stereo sound steam cloud family sharing schinese english tchinese russian japanese 1 user reviews",
       "first_seen": "2026-10-14T04:08:30+00:00",
       "last_seen": "2026-10-14T04:08:30+00:00",
-      "updated_at": "2026-10-14T04:08:30+00:00"
+      "updated_at": "2026-10-14T08:16:06+00:00"
     },
     {
       "app_id": 3180070,
@@ -21215,6 +21490,31 @@
           "currency": "USD",
           "original": 599,
           "final": 479
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3900,
+          "final": 3120
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 11800,
+          "final": 9400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2600,
+          "final": 2080
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 70000,
+          "final": 56000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 670000,
+          "final": 536000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>99% of the 9,542 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -21229,7 +21529,7 @@
       "search_text": "papa's freezeria deluxe papa's freezeria deluxe return to calypso island to serve seasonal sundae treats in papa's freezeria deluxe! craft sundaes in the freezeria for all your quirky customers while earning tips, points and special recipes. switch gears and take a trip in the food truck to concoct your own chilly creations and see who shows up! action casual indie simulation strategy single-player steam achievements steam cloud family sharing english overwhelmingly positive overwhelmingly positive<br>99% of the 9,542 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-13T22:25:27+00:00",
       "last_seen": "2026-10-14T04:08:30+00:00",
-      "updated_at": "2026-10-14T04:08:30+00:00"
+      "updated_at": "2026-10-14T08:16:06+00:00"
     },
     {
       "app_id": 2680280,
@@ -22141,6 +22441,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11800,
+          "final": 10620
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 36800,
+          "final": 33100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6800,
+          "final": 6120
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 248000,
+          "final": 223200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 1935000
         }
       },
       "review_hint": "Positive<br>94% of the 19 user reviews for this game are positive.",
@@ -22155,7 +22480,7 @@
       "search_text": "poly fighter poly fighter poly fighter is a single-player roguelike fighting game. learn new moves from every opponent you defeat to build your fighter’s unique style. battle through tense retro-arcade duels with beginner-friendly controls to master your moveset and claim your title! action indie early access single-player full controller support gamepad recommended dualshock controller support dualshock controller support dualsense controller support dualsense controller support family sharing english french italian german arabic korean portuguese-brazil russian schinese spanish-latin japanese polish turkish positive positive<br>94% of the 19 user reviews for this game are positive.",
       "first_seen": "2026-10-13T22:25:27+00:00",
       "last_seen": "2026-10-14T04:08:30+00:00",
-      "updated_at": "2026-10-14T04:08:30+00:00"
+      "updated_at": "2026-10-14T08:16:06+00:00"
     },
     {
       "app_id": 233450,
@@ -23689,6 +24014,31 @@
           "currency": "USD",
           "original": 999,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6100,
+          "final": 5490
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21600,
+          "final": 19400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 3780
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 135000,
+          "final": 121500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 945000
         }
       },
       "review_hint": "Positive<br>100% of the 17 user reviews for this game are positive.",
@@ -23703,7 +24053,7 @@
       "search_text": "roguefort roguefort an open-world roguelike rpg where magic comes from cheesemaking. explore a living continent, join guilds, crawl dungeons, build a homestead and sail with friends. or start a settlement in fortress mode and manage its people, farms and workshops. rpg early access single-player multi-player co-op online co-op steam achievements dualshock controller support dualshock controller support dualsense controller support dualsense controller support partial controller support steam cloud family sharing english positive positive<br>100% of the 17 user reviews for this game are positive.",
       "first_seen": "2026-10-13T22:25:27+00:00",
       "last_seen": "2026-10-14T04:08:30+00:00",
-      "updated_at": "2026-10-14T04:08:30+00:00"
+      "updated_at": "2026-10-14T08:16:06+00:00"
     },
     {
       "app_id": 1368820,
@@ -31559,6 +31909,31 @@
           "currency": "USD",
           "original": 799,
           "final": 719
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4400,
+          "final": 3960
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15800,
+          "final": 14200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 2520
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 105000,
+          "final": 94500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 870000,
+          "final": 783000
         }
       },
       "review_hint": "Positive<br>100% of the 34 user reviews for this game are positive.",
@@ -31573,7 +31948,7 @@
       "search_text": "trash day trash day team up with your raccoon squad in this physics-based co-op adventure for up to 6 players. scavenge trash, fill your stolen wagon, and haul it to raccoon paradise. live your best raccoon life. action adventure single-player multi-player co-op online co-op steam achievements custom volume controls playable without timed input dualsense controller support dualsense controller support stereo sound partial controller support steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese tchinese czech hungarian turkish ukrainian positive positive<br>100% of the 34 user reviews for this game are positive.",
       "first_seen": "2026-10-13T22:25:27+00:00",
       "last_seen": "2026-10-14T04:08:30+00:00",
-      "updated_at": "2026-10-14T04:08:30+00:00"
+      "updated_at": "2026-10-14T08:16:06+00:00"
     },
     {
       "app_id": 1139980,
@@ -32919,6 +33294,31 @@
           "currency": "USD",
           "original": 27900,
           "final": 22320
+        },
+        "HKD": {
+          "currency": "USD",
+          "original": 27900,
+          "final": 22320
+        },
+        "zh-Hant": {
+          "currency": "USD",
+          "original": 27900,
+          "final": 22320
+        },
+        "zh-Hans": {
+          "currency": "USD",
+          "original": 27900,
+          "final": 22320
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 0,
+          "final": 0
+        },
+        "ko": {
+          "currency": "USD",
+          "original": 27900,
+          "final": 22320
         }
       },
       "review_hint": "",
@@ -32933,7 +33333,7 @@
       "search_text": "valve index® controllers valve index® controllers your hands, in vr.valve index controllers have been designed from the ground up to enable natural input, high fidelity hand presence, and comfort in vr.half-life: alyxhalf-life: alyx is yours, whether you've had your valve index for a while, or are just about to take the plunge. no user reviews",
       "first_seen": "2026-10-14T04:08:30+00:00",
       "last_seen": "2026-10-14T04:08:30+00:00",
-      "updated_at": "2026-10-14T04:08:30+00:00"
+      "updated_at": "2026-10-14T08:16:06+00:00"
     },
     {
       "app_id": 1059530,
@@ -32971,6 +33371,31 @@
           "currency": "USD",
           "original": 49900,
           "final": 39920
+        },
+        "HKD": {
+          "currency": "USD",
+          "original": 49900,
+          "final": 39920
+        },
+        "zh-Hant": {
+          "currency": "USD",
+          "original": 49900,
+          "final": 39920
+        },
+        "zh-Hans": {
+          "currency": "USD",
+          "original": 49900,
+          "final": 39920
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 0,
+          "final": 0
+        },
+        "ko": {
+          "currency": "USD",
+          "original": 49900,
+          "final": 39920
         }
       },
       "review_hint": "",
@@ -32985,7 +33410,7 @@
       "search_text": "valve index® headset valve index® headset [h1]fidelity first.[/h1]with fidelity as a priority, the valve index headset delivers on all fronts.[columnset][column]displays.custom displays feature high resolution visuals with accurate colors across a high frame rate.optics. no user reviews",
       "first_seen": "2026-10-14T04:08:30+00:00",
       "last_seen": "2026-10-14T04:08:30+00:00",
-      "updated_at": "2026-10-14T04:08:30+00:00"
+      "updated_at": "2026-10-14T08:16:06+00:00"
     },
     {
       "app_id": 1634050,
@@ -33023,6 +33448,31 @@
           "currency": "USD",
           "original": 12900,
           "final": 10320
+        },
+        "HKD": {
+          "currency": "USD",
+          "original": 12900,
+          "final": 10320
+        },
+        "zh-Hant": {
+          "currency": "USD",
+          "original": 12900,
+          "final": 10320
+        },
+        "zh-Hans": {
+          "currency": "USD",
+          "original": 12900,
+          "final": 10320
+        },
+        "ja": {
+          "currency": "USD",
+          "original": 12900,
+          "final": 10320
+        },
+        "ko": {
+          "currency": "USD",
+          "original": 12900,
+          "final": 10320
         }
       },
       "review_hint": "",
@@ -33037,7 +33487,7 @@
       "search_text": "valve index® replacement tether valve index® replacement tether if your headset is still under warranty, contact steam support before purchasing replacement parts. no user reviews",
       "first_seen": "2026-10-14T04:08:30+00:00",
       "last_seen": "2026-10-14T04:08:30+00:00",
-      "updated_at": "2026-10-14T04:08:30+00:00"
+      "updated_at": "2026-10-14T08:16:06+00:00"
     },
     {
       "app_id": 3265700,
@@ -205933,6 +206383,31 @@
           "currency": "USD",
           "original": 4999,
           "final": 3999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 39800,
+          "final": 31840
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 149000,
+          "final": 119200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 24800,
+          "final": 19840
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 649000,
+          "final": 519200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 5480000,
+          "final": 4384000
         }
       },
       "review_hint": "Mixed<br>65% of the 76 user reviews for this game are positive.",
@@ -205947,7 +206422,7 @@
       "search_text": "hot wheels™ infinite rush hot wheels™ infinite rush jump into a hot wheels™-sized world with four islands packed with events, challenges and full-throttle mayhem. collect iconic vehicles, assemble your rush squad, build epic tracks, and earn the title of rush master. racing single-player multi-player pvp online pvp shared/split screen pvp shared/split screen cross-platform multiplayer steam achievements full controller support steam trading cards adjustable text size custom volume controls adjustable difficulty gamepad recommended #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support stereo sound surround sound steam cloud family sharing english french italian german spanish-spain schinese tchinese japanese polish portuguese-brazil spanish-latin turkish mixed mixed<br>65% of the 76 user reviews for this game are positive.",
       "first_seen": "2026-10-13T22:25:27+00:00",
       "last_seen": "2026-10-14T04:08:30+00:00",
-      "updated_at": "2026-10-14T04:08:30+00:00"
+      "updated_at": "2026-10-14T08:16:06+00:00"
     },
     {
       "app_id": 1602000,
@@ -261658,6 +262133,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 6250
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 16400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 3800
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 115000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 1075000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>99% of the 735 user reviews for this game are positive.",
@@ -261672,7 +262172,7 @@
       "search_text": "moss ii vr moss ii vr quill is back—and she’s being hunted. to stand a chance, quill will need a true partner by her side—and we hope that partner is you. moss: book ii is an action-adventure puzzle game and award-winning sequel (the game awards &quot;best vr/ar game&quot;) to moss. action adventure casual indie single-player steam achievements tracked controller support vr only steam cloud family sharing english french italian german spanish-spain japanese korean portuguese-brazil russian schinese spanish-latin tchinese swedish very positive overwhelmingly positive<br>99% of the 735 user reviews for this game are positive.",
       "first_seen": "2026-10-13T22:25:27+00:00",
       "last_seen": "2026-10-14T04:08:30+00:00",
-      "updated_at": "2026-10-14T04:08:30+00:00"
+      "updated_at": "2026-10-14T08:16:06+00:00"
     },
     {
       "app_id": 574090,
