@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T16:34:35+00:00",
+  "updated_at": "2026-10-15T18:46:04+00:00",
   "total_count": 4494,
   "active_count": 350,
   "games": [
@@ -3108,6 +3108,31 @@
           "currency": "USD",
           "original": 799,
           "final": 495
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4800,
+          "final": 2976
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 17500,
+          "final": 10800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3300,
+          "final": 2046
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 105000,
+          "final": 65100
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 870000,
+          "final": 539000
         }
       },
       "review_hint": "",
@@ -3122,7 +3147,7 @@
       "search_text": "brick by brick: tidy up the small town! brick by brick: tidy up the small town! brick by brick is a relaxing tidy-up game you can play solo or co-op with up to 5 players. collect, sort, and place 18,490 bricks to rebuild a charming town. unlock helpful abilities and watch scattered piles become finished buildings. one brick at a time! casual indie simulation single-player multi-player co-op online co-op steam achievements full controller support custom volume controls #category_playable_at_your_own_pace playable without timed input dualsense controller support save anytime steam input api support stereo sound steam cloud steam leaderboards family sharing english french italian german spanish-spain arabic bulgarian czech danish dutch finnish greek hungarian indonesian japanese korean malay norwegian polish portuguese-brazil portuguese---portugal romanian russian schinese spanish-latin swedish thai tchinese turkish ukrainian vietnamese no user reviews",
       "first_seen": "2026-10-15T16:34:35+00:00",
       "last_seen": "2026-10-15T16:34:35+00:00",
-      "updated_at": "2026-10-15T16:34:35+00:00"
+      "updated_at": "2026-10-15T18:46:04+00:00"
     },
     {
       "app_id": 1604270,
@@ -3605,6 +3630,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8900,
+          "final": 890
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 31800,
+          "final": 3100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7000,
+          "final": 700
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 205000,
+          "final": 20500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2050000,
+          "final": 205000
         }
       },
       "review_hint": "Very Positive<br>87% of the 521 user reviews for this game are positive.",
@@ -3619,7 +3669,7 @@
       "search_text": "cake bash cake bash fight to be the tastiest cake in cake bash! a frantic four player party game where adorable drawn-to-life cakes beat the crumbs out of each other. action casual indie single-player multi-player pvp online pvp shared/split screen pvp shared/split screen steam achievements full controller support steam cloud remote play on tv remote play together family sharing english french italian german spanish-spain japanese korean portuguese-brazil schinese russian very positive very positive<br>87% of the 521 user reviews for this game are positive.",
       "first_seen": "2026-10-15T16:34:35+00:00",
       "last_seen": "2026-10-15T16:34:35+00:00",
-      "updated_at": "2026-10-15T16:34:35+00:00"
+      "updated_at": "2026-10-15T18:46:04+00:00"
     },
     {
       "app_id": 2400430,
@@ -7642,6 +7692,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 2249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 16999,
+          "final": 15299
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 72900,
+          "final": 65600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 11900,
+          "final": 10710
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 315000,
+          "final": 283500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3150000,
+          "final": 2835000
         }
       },
       "review_hint": "",
@@ -7656,7 +7731,7 @@
       "search_text": "dayz badlands dayz badlands dayz badlands throws you into the troubled territories of nasdara province—267km² of arid expanse. uncover its secrets, battle for control, forge fragile alliances and rebuild from the ashes of past wars. survival here isn't just measured in drops of water saved, but in bullets spared. action adventure massively multiplayer multi-player mmo pvp online pvp co-op online co-op downloadable content steam achievements steam workshop steam cloud valve anti-cheat enabled english french italian german spanish-spain czech russian schinese tchinese japanese polish portuguese-brazil positive",
       "first_seen": "2026-10-15T11:03:49+00:00",
       "last_seen": "2026-10-15T16:34:35+00:00",
-      "updated_at": "2026-10-15T16:34:35+00:00"
+      "updated_at": "2026-10-15T18:46:04+00:00"
     },
     {
       "app_id": 3404260,
@@ -9579,6 +9654,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8500,
+          "final": 6800
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37800,
+          "final": 30200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 4640
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 184000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1850000,
+          "final": 1480000
         }
       },
       "review_hint": "",
@@ -9593,7 +9693,7 @@
       "search_text": "dupery: a game of solo deduction dupery: a game of solo deduction a solo deduction roguelite with over 175 roles, set in a noir city run by a criminal syndicate. investigate everyone, make arrests and protect your reputation. take down the syndicate and don’t get duped like the rest. everyone is a suspect, trust no one. no friends required. casual indie strategy single-player steam achievements camera comfort custom volume controls adjustable difficulty keyboard only option mouse only option playable without timed input save anytime subtitle options steam cloud stats family sharing english japanese korean schinese thai tchinese french german spanish-spain portuguese-brazil no user reviews",
       "first_seen": "2026-10-15T16:34:35+00:00",
       "last_seen": "2026-10-15T16:34:35+00:00",
-      "updated_at": "2026-10-15T16:34:35+00:00"
+      "updated_at": "2026-10-15T18:46:04+00:00"
     },
     {
       "app_id": 4032350,
@@ -9881,6 +9981,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11100,
+          "final": 9990
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 28100,
+          "final": 25200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7200,
+          "final": 6480
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 200000,
+          "final": 180000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 1485000
         }
       },
       "review_hint": "",
@@ -9895,7 +10020,7 @@
       "search_text": "earthx 2 earthx 2 build and run your own space company. launch reusable rockets, complete missions, and run a satellite internet network. manage your factories and fleet, supply colonies on the moon and mars, and work toward terraforming the red planet. casual simulation strategy early access single-player family sharing english french italian german spanish-spain czech dutch finnish hungarian japanese polish russian schinese tchinese ukrainian bulgarian danish korean norwegian portuguese-brazil portuguese---portugal romanian spanish-latin swedish turkish vietnamese 1 user reviews",
       "first_seen": "2026-10-15T16:34:35+00:00",
       "last_seen": "2026-10-15T16:34:35+00:00",
-      "updated_at": "2026-10-15T16:34:35+00:00"
+      "updated_at": "2026-10-15T18:46:04+00:00"
     },
     {
       "app_id": 2184080,
@@ -16628,6 +16753,31 @@
           "currency": "USD",
           "original": 499,
           "final": 449
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3000,
+          "final": 2700
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 11700,
+          "final": 10500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1980
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 65500,
+          "final": 58900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 545000,
+          "final": 490000
         }
       },
       "review_hint": "Mixed<br>55% of the 20 user reviews for this game are positive.",
@@ -16642,7 +16792,7 @@
       "search_text": "keyboard chaos keyboard chaos 2,692 keycaps. 32 keyboards. one messy desk. find the right keycaps, match them to their positions, and complete every keyboard, square or round. search, organize, and enjoy the satisfying process of turning chaos into perfectly assembled keyboards. casual indie simulation single-player steam achievements custom volume controls #category_playable_at_your_own_pace playable without timed input save anytime family sharing english french italian german spanish-spain schinese portuguese-brazil japanese korean polish russian turkish mixed mixed<br>55% of the 20 user reviews for this game are positive.",
       "first_seen": "2026-10-15T16:34:35+00:00",
       "last_seen": "2026-10-15T16:34:35+00:00",
-      "updated_at": "2026-10-15T16:34:35+00:00"
+      "updated_at": "2026-10-15T18:46:04+00:00"
     },
     {
       "app_id": 701160,
@@ -20950,6 +21100,31 @@
           "currency": "USD",
           "original": 249,
           "final": 199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 1416,
+          "final": 1132
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 5700,
+          "final": 4500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1083,
+          "final": 866
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 35000,
+          "final": 28000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 279000,
+          "final": 223000
         }
       },
       "review_hint": "",
@@ -20964,7 +21139,7 @@
       "search_text": "one million coins one million coins a short, focused first-person incremental mining game. dig through a vault of one million coins, bank your haul, buy better tools, and build an ever-faster gold-collecting operation. casual indie single-player steam achievements full controller support custom volume controls #category_playable_at_your_own_pace playable without timed input save anytime stereo sound steam cloud steam leaderboards family sharing english 6 user reviews",
       "first_seen": "2026-10-15T16:34:35+00:00",
       "last_seen": "2026-10-15T16:34:35+00:00",
-      "updated_at": "2026-10-15T16:34:35+00:00"
+      "updated_at": "2026-10-15T18:46:04+00:00"
     },
     {
       "app_id": 753640,
@@ -23357,6 +23532,31 @@
           "currency": "USD",
           "original": 999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6100,
+          "final": 4880
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21600,
+          "final": 17200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3800,
+          "final": 3040
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 135000,
+          "final": 108000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 840000
         }
       },
       "review_hint": "Mostly Positive<br>75% of the 45 user reviews for this game are positive.",
@@ -23371,7 +23571,7 @@
       "search_text": "realm of taiwu realm of taiwu realm of taiwu is a the scroll of taiwu spin-off. the story unfolds across an alternate branching timeline of the original universe: the taiwu hero never arrives, the fuyu sword falls to xiangshu, and the world sinks into endless darkness. action indie rpg early access single-player multi-player co-op online co-op full controller support custom volume controls adjustable difficulty dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime stereo sound steam cloud family sharing schinese english french german spanish-spain russian japanese tchinese portuguese-brazil korean 4 user reviews mostly positive<br>75% of the 45 user reviews for this game are positive.",
       "first_seen": "2026-10-15T11:03:49+00:00",
       "last_seen": "2026-10-15T16:34:35+00:00",
-      "updated_at": "2026-10-15T16:34:35+00:00"
+      "updated_at": "2026-10-15T18:46:04+00:00"
     },
     {
       "app_id": 1174180,
@@ -34116,6 +34316,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 1079
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6100,
+          "final": 5490
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21600,
+          "final": 19400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 3780
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 135000,
+          "final": 121500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 945000
         }
       },
       "review_hint": "",
@@ -34130,7 +34355,7 @@
       "search_text": "war footing war footing war footing puts you in command of a nation's defenses. with limited time &amp; resources, and tension rising, can you build the military needed to save your country's independence? strategy single-player steam achievements #category_playable_at_your_own_pace playable without timed input save anytime steam cloud family sharing english 3 user reviews",
       "first_seen": "2026-10-15T16:34:35+00:00",
       "last_seen": "2026-10-15T16:34:35+00:00",
-      "updated_at": "2026-10-15T16:34:35+00:00"
+      "updated_at": "2026-10-15T18:46:04+00:00"
     },
     {
       "app_id": 2005010,
