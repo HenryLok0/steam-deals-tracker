@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T03:51:02+00:00",
+  "updated_at": "2026-10-15T07:53:18+00:00",
   "total_count": 4485,
   "active_count": 350,
   "games": [
@@ -398,6 +398,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 674
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8700,
+          "final": 3915
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 30800,
+          "final": 13800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5900,
+          "final": 2655
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 190000,
+          "final": 85500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1600000,
+          "final": 720000
         }
       },
       "review_hint": "Very Positive<br>89% of the 1,592 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -412,7 +437,7 @@
       "search_text": "absolute drift absolute drift absolute drift is a racing game about becoming a master at the art of drifting. action casual indie racing simulation sports single-player steam achievements full controller support steam trading cards steam cloud stats steam leaderboards family sharing english very positive very positive<br>89% of the 1,592 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-15T03:51:02+00:00",
       "last_seen": "2026-10-15T03:51:02+00:00",
-      "updated_at": "2026-10-15T03:51:02+00:00"
+      "updated_at": "2026-10-15T07:53:18+00:00"
     },
     {
       "app_id": 1234430,
@@ -5618,6 +5643,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8700,
+          "final": 6960
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 30800,
+          "final": 24600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5300,
+          "final": 4240
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 136000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1610000,
+          "final": 1288000
         }
       },
       "review_hint": "Positive<br>92% of the 14 user reviews for this game are positive.",
@@ -5632,7 +5682,7 @@
       "search_text": "cozy builder cozy builder build, design, and decorate your dream château in a cozy vineyard valley. live among your creations, harvest grapes from sunlit vineyards, and craft artisanal wine blends in a relaxing sandbox builder where every home helps restore beauty and balance to the countryside. casual indie single-player multi-player co-op online co-op steam achievements camera comfort custom volume controls adjustable difficulty save anytime stereo sound partial controller support steam cloud family sharing english positive positive<br>92% of the 14 user reviews for this game are positive.",
       "first_seen": "2026-10-14T21:23:34+00:00",
       "last_seen": "2026-10-15T03:51:02+00:00",
-      "updated_at": "2026-10-15T03:51:02+00:00"
+      "updated_at": "2026-10-15T07:53:18+00:00"
     },
     {
       "app_id": 3097300,
@@ -9476,6 +9526,31 @@
           "currency": "USD",
           "original": 799,
           "final": 639
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4729,
+          "final": 3783
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14900,
+          "final": 11900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 2240
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 92100,
+          "final": 73600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 849000,
+          "final": 679000
         }
       },
       "review_hint": "Very Positive<br>87% of the 387 user reviews for this game are positive.",
@@ -9490,7 +9565,7 @@
       "search_text": "dumb ways to build dumb ways to build dumb ways to build is a chaotic, physics-based co-op game. team up with friends to assemble your crew and take-on dangerous construction jobs. with all the gear and no idea, work together to build your path forward, or die trying! action adventure casual single-player multi-player co-op online co-op cross-platform multiplayer steam achievements full controller support camera comfort custom volume controls adjustable difficulty playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support stereo sound steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese spanish-latin tchinese turkish ukrainian very positive very positive<br>87% of the 387 user reviews for this game are positive.",
       "first_seen": "2026-10-14T21:23:34+00:00",
       "last_seen": "2026-10-15T03:51:02+00:00",
-      "updated_at": "2026-10-15T03:51:02+00:00"
+      "updated_at": "2026-10-15T07:53:18+00:00"
     },
     {
       "app_id": 4032350,
@@ -13202,6 +13277,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1049
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8700,
+          "final": 6090
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 30800,
+          "final": 21500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5900,
+          "final": 4130
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 190000,
+          "final": 133000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1600000,
+          "final": 1120000
         }
       },
       "review_hint": "Very Positive<br>86% of the 634 user reviews for this game are positive.",
@@ -13216,7 +13316,7 @@
       "search_text": "golden lap golden lap step into the polished shoes of a racing team manager in the heart-stirring golden era of motorsport where every decision can lead to glory or gravel. with sleek minimalist charm and deep strategic gameplay, golden lap offers a unique experience in the motorsport management genre. casual indie racing simulation sports strategy single-player steam achievements steam workshop steam cloud family sharing english french italian german spanish-spain dutch portuguese-brazil turkish very positive very positive<br>86% of the 634 user reviews for this game are positive.",
       "first_seen": "2026-10-14T21:23:34+00:00",
       "last_seen": "2026-10-15T03:51:02+00:00",
-      "updated_at": "2026-10-15T03:51:02+00:00"
+      "updated_at": "2026-10-15T07:53:18+00:00"
     },
     {
       "app_id": 3240220,
@@ -13600,6 +13700,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 1949
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12900,
+          "final": 8385
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 43800,
+          "final": 28400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9000,
+          "final": 5850
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 309000,
+          "final": 200800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3100000,
+          "final": 2015000
         }
       },
       "review_hint": "Very Positive<br>91% of the 4,962 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -13614,7 +13739,7 @@
       "search_text": "gunner, heat, pc! gunner, heat, pc! gunner, heat, pc! (ghpc) is a simulation game about modern mounted combat, with special attention to authenticity and fun. action indie simulation early access single-player partial controller support steam cloud family sharing english very positive very positive<br>91% of the 4,962 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-14T21:23:34+00:00",
       "last_seen": "2026-10-15T03:51:02+00:00",
-      "updated_at": "2026-10-15T03:51:02+00:00"
+      "updated_at": "2026-10-15T07:53:18+00:00"
     },
     {
       "app_id": 976730,
@@ -27729,6 +27854,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 3599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 30000,
+          "final": 27000
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 117000,
+          "final": 105300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 17000,
+          "final": 15300
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 509000,
+          "final": 458100
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4500000,
+          "final": 4050000
         }
       },
       "review_hint": "",
@@ -27743,7 +27893,7 @@
       "search_text": "stage tour stage tour build your band, hit the stage, and go on tour in stage tour, the next evolution of music rhythm games. rock over 90 officially licensed tracks, unlock over 180 authentic gibson®, epiphone® and kramer® guitars, and experience five game modes, including the all-new roguelite tour mode. action single-player multi-player pvp online pvp shared/split screen pvp co-op online co-op shared/split screen co-op shared/split screen full controller support dualsense controller support dualsense controller support remote play together family sharing english french italian german spanish-spain portuguese-brazil spanish-latin no user reviews",
       "first_seen": "2026-10-14T21:23:34+00:00",
       "last_seen": "2026-10-15T03:51:02+00:00",
-      "updated_at": "2026-10-15T03:51:02+00:00"
+      "updated_at": "2026-10-15T07:53:18+00:00"
     },
     {
       "app_id": 625960,
@@ -33372,6 +33522,31 @@
           "currency": "USD",
           "original": 14900,
           "final": 11920
+        },
+        "HKD": {
+          "currency": "USD",
+          "original": 14900,
+          "final": 11920
+        },
+        "zh-Hant": {
+          "currency": "USD",
+          "original": 14900,
+          "final": 11920
+        },
+        "zh-Hans": {
+          "currency": "USD",
+          "original": 14900,
+          "final": 11920
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 0,
+          "final": 0
+        },
+        "ko": {
+          "currency": "USD",
+          "original": 14900,
+          "final": 11920
         }
       },
       "review_hint": "",
@@ -33386,7 +33561,7 @@
       "search_text": "valve index® base station valve index® base station room-scale precision, with lasers.the highest-quality tracking has gotten even better with base station 2.0, featuring improved range, wider field of view, and support for up to four base stations in a single setup, creating a larger play area while reducing occlusion.compatible with valve index or htc vive pro. no user reviews",
       "first_seen": "2026-10-15T03:51:02+00:00",
       "last_seen": "2026-10-15T03:51:02+00:00",
-      "updated_at": "2026-10-15T03:51:02+00:00"
+      "updated_at": "2026-10-15T07:53:18+00:00"
     },
     {
       "app_id": 1059550,
