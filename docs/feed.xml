@@ -4,7 +4,21 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Fri, 16 Oct 2026 10:59:49 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 16:19:22 +0000</lastBuildDate>
+<item>
+<title>Alice Nation</title>
+<link>https://store.steampowered.com/app/3755350/</link>
+<guid isPermaLink="false">3755350</guid>
+<pubDate>Fri, 16 Oct 2026 16:19:22 +0000</pubDate>
+<description>Explore, talk, and solve puzzles with cards in a solo tabletop adventure! Play as Alice, a girl trapped in the Beyond. Drag cards to craft items, meet curious companions, and find your way home. Stuck? Try a different card—and a different approach. This charming fairy-tale world has its secrets.</description>
+</item>
+<item>
+<title>Stream Train</title>
+<link>https://store.steampowered.com/app/4071650/</link>
+<guid isPermaLink="false">4071650</guid>
+<pubDate>Fri, 16 Oct 2026 16:19:22 +0000</pubDate>
+<description>An online co-op horror game where up to 6 players livestream their trip down an abandoned rail road. Keep your audience entertained by filming creatures, doing dangerous stunts, and pranking your friends. Use chatter donations to buy fuel and gear. Can you make it through the Uncanny Valley alive?</description>
+</item>
 <item>
 <title>Hay! One Billion!</title>
 <link>https://store.steampowered.com/app/2069070/</link>
@@ -60,6 +74,13 @@
 <guid isPermaLink="false">4312380</guid>
 <pubDate>Fri, 16 Oct 2026 03:46:34 +0000</pubDate>
 <description>Quarantine Zone: The Last Check Supporter Pack delivers a bonus fan package with extra cosmetics for players who want to support the developer beyond buying the game itself.</description>
+</item>
+<item>
+<title>Rollout Inline</title>
+<link>https://store.steampowered.com/app/4464990/</link>
+<guid isPermaLink="false">4464990</guid>
+<pubDate>Fri, 16 Oct 2026 03:46:34 +0000</pubDate>
+<description>Rollout Inline is a brand new inline skating game created by a solo dev who is passionate about the sport. This game aims to scratch the itch for those who have been craving a new, modern, and intuitive inline skating game!</description>
 </item>
 <item>
 <title>Scribblenauts Unlimited</title>
@@ -188,13 +209,6 @@
 <description>Brick By Brick is a relaxing tidy-up game you can play solo or co-op with up to 5 players. Collect, sort, and place 18,490 bricks to rebuild a charming town. Unlock helpful abilities and watch scattered piles become finished buildings. One brick at a time!</description>
 </item>
 <item>
-<title>Cake Bash</title>
-<link>https://store.steampowered.com/app/971690/</link>
-<guid isPermaLink="false">971690</guid>
-<pubDate>Thu, 15 Oct 2026 16:34:35 +0000</pubDate>
-<description>Fight to be the tastiest cake in Cake Bash! A frantic four player party game where adorable drawn-to-life cakes beat the crumbs out of each other.</description>
-</item>
-<item>
 <title>Dupery: A Game of Solo Deduction</title>
 <link>https://store.steampowered.com/app/3845070/</link>
 <guid isPermaLink="false">3845070</guid>
@@ -221,20 +235,6 @@
 <guid isPermaLink="false">4727860</guid>
 <pubDate>Thu, 15 Oct 2026 16:34:35 +0000</pubDate>
 <description>War Footing puts you in command of a nation's defenses. With limited time &amp;amp; resources, and tension rising, can you build the military needed to save your country's independence?</description>
-</item>
-<item>
-<title>DayZ Badlands</title>
-<link>https://store.steampowered.com/app/3816030/</link>
-<guid isPermaLink="false">3816030</guid>
-<pubDate>Thu, 15 Oct 2026 11:03:49 +0000</pubDate>
-<description>DayZ Badlands throws you into the troubled territories of Nasdara Province—267km² of arid expanse. Uncover its secrets, battle for control, forge fragile alliances and rebuild from the ashes of past wars. Survival here isn't just measured in drops of water saved, but in bullets spared.</description>
-</item>
-<item>
-<title>Realm of Taiwu</title>
-<link>https://store.steampowered.com/app/3452720/</link>
-<guid isPermaLink="false">3452720</guid>
-<pubDate>Thu, 15 Oct 2026 11:03:49 +0000</pubDate>
-<description>Realm of Taiwu is a The Scroll of Taiwu spin-off. The story unfolds across an alternate branching timeline of the original universe: the Taiwu Hero never arrives, the Fuyu Sword falls to Xiangshu, and the world sinks into endless darkness.</description>
 </item>
 <item>
 <title>Voidtrain - Big Catch</title>
