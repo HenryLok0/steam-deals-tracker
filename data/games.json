@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T03:36:34+00:00",
+  "updated_at": "2026-10-17T07:23:54+00:00",
   "total_count": 4540,
   "active_count": 349,
   "games": [
@@ -185,6 +185,31 @@
           "currency": "USD",
           "original": 699,
           "final": 447
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5670,
+          "final": 3628
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 23400,
+          "final": 14900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2900,
+          "final": 1856
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 114200,
+          "final": 73000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 971000,
+          "final": 621000
         }
       },
       "review_hint": "Positive<br>100% of the 21 user reviews for this game are positive.",
@@ -199,7 +224,7 @@
       "search_text": "a game about needle in a haystack a game about needle in a haystack a first-person game about finding a needle in a giant haystack. dig through the hay by hand, sell it at the cow, buy tools and upgrades in the workshop, and search the pile until you find the needle. casual indie simulation single-player steam achievements stats family sharing english french italian german spanish-spain arabic bulgarian czech danish dutch finnish greek hungarian indonesian japanese korean malay norwegian polish portuguese-brazil portuguese---portugal romanian russian schinese spanish-latin swedish thai tchinese turkish ukrainian vietnamese positive positive<br>100% of the 21 user reviews for this game are positive.",
       "first_seen": "2026-10-16T20:42:01+00:00",
       "last_seen": "2026-10-17T03:36:34+00:00",
-      "updated_at": "2026-10-17T03:36:34+00:00"
+      "updated_at": "2026-10-17T07:23:54+00:00"
     },
     {
       "app_id": 1182900,
@@ -2025,6 +2050,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 2399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14900,
+          "final": 11920
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 59900,
+          "final": 47900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9900,
+          "final": 7920
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 298000,
+          "final": 238400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2990000,
+          "final": 2392000
         }
       },
       "review_hint": "",
@@ -2039,7 +2089,7 @@
       "search_text": "beyond these stars beyond these stars build a city on the back of a space whale and learn to coexist as you journey through the stars. manage intricate supply chains and the needs of your people as you build outposts, meet aliens, and uncover the mysteries of the universe. simulation strategy single-player steam achievements steam trading cards adjustable text size camera comfort #category_contrast_controls custom volume controls adjustable difficulty mouse only option #category_playable_at_your_own_pace playable without timed input save anytime stereo sound steam cloud family sharing english french german spanish-spain japanese korean schinese tchinese polish portuguese-brazil russian italian czech turkish ukrainian 4 user reviews",
       "first_seen": "2026-10-16T20:42:01+00:00",
       "last_seen": "2026-10-17T03:36:34+00:00",
-      "updated_at": "2026-10-17T03:36:34+00:00"
+      "updated_at": "2026-10-17T07:23:54+00:00"
     },
     {
       "app_id": 2292800,
@@ -4521,6 +4571,31 @@
           "currency": "USD",
           "original": 599,
           "final": 269
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3900,
+          "final": 1755
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 11800,
+          "final": 5300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2600,
+          "final": 1170
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 70000,
+          "final": 31500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 670000,
+          "final": 301000
         }
       },
       "review_hint": "Very Positive<br>93% of the 5,308 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -4535,7 +4610,7 @@
       "search_text": "chillquarium chillquarium chillquarium is a cozy and relaxing idle game. buy fish and raise them in real time, then sell them to turn a profit! customize your aquarium as you progress from a simple starter tank to your dream setup by filling your collection with rare exotic fish and ultra-rare color variants! casual simulation single-player steam achievements steam cloud stats family sharing english french italian german japanese korean portuguese-brazil russian schinese spanish-latin tchinese very positive very positive<br>93% of the 5,308 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-16T20:42:01+00:00",
       "last_seen": "2026-10-17T03:36:34+00:00",
-      "updated_at": "2026-10-17T03:36:34+00:00"
+      "updated_at": "2026-10-17T07:23:54+00:00"
     },
     {
       "app_id": 1903340,
@@ -7846,6 +7921,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9900,
+          "final": 8910
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29900,
+          "final": 26900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5500,
+          "final": 4950
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 199900,
+          "final": 179900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1990000,
+          "final": 1791000
         }
       },
       "review_hint": "Very Positive<br>87% of the 54 user reviews for this game are positive.",
@@ -7860,7 +7960,7 @@
       "search_text": "devices tycoon devices tycoon devices tycoon is a unique business simulator that will make you feel like the owner of a company that creates your own devices! in the game you can create your own smartphones, tablets, laptops, smart watches, headphones, operating systems and even your own processors! indie simulation strategy single-player steam achievements custom volume controls #category_playable_at_your_own_pace playable without timed input save anytime steam cloud family sharing english french italian german spanish-spain portuguese-brazil indonesian russian turkish ukrainian hindi schinese korean polish japanese positive very positive<br>87% of the 54 user reviews for this game are positive.",
       "first_seen": "2026-10-16T20:42:01+00:00",
       "last_seen": "2026-10-17T03:36:34+00:00",
-      "updated_at": "2026-10-17T03:36:34+00:00"
+      "updated_at": "2026-10-17T07:23:54+00:00"
     },
     {
       "app_id": 329050,
@@ -8221,6 +8321,31 @@
           "currency": "USD",
           "original": 825,
           "final": 742
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4405,
+          "final": 3964
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 17300,
+          "final": 15500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2900,
+          "final": 2610
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 114700,
+          "final": 103200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 918000,
+          "final": 826000
         }
       },
       "review_hint": "Positive<br>100% of the 10 user reviews for this game are positive.",
@@ -8235,7 +8360,7 @@
       "search_text": "dimenshot dimenshot dimenshot is a melee-focused boomer shooter fps set in distinct worlds, each representing one of the seven deadly sins with its own unique theme. melee combat is central, ranged weapons are supportive. play fast and aggressive; combine parkour with combat. action adventure indie early access single-player full controller support camera comfort stereo sound steam cloud steam leaderboards family sharing english turkish french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese ukrainian positive positive<br>100% of the 10 user reviews for this game are positive.",
       "first_seen": "2026-10-16T20:42:01+00:00",
       "last_seen": "2026-10-17T03:36:34+00:00",
-      "updated_at": "2026-10-17T03:36:34+00:00"
+      "updated_at": "2026-10-17T07:23:54+00:00"
     },
     {
       "app_id": 205100,
@@ -8632,6 +8757,31 @@
           "currency": "USD",
           "original": 1799,
           "final": 1619
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10500,
+          "final": 9450
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 34300,
+          "final": 30800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5900,
+          "final": 5310
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 198000,
+          "final": 178200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1800000,
+          "final": 1620000
         }
       },
       "review_hint": "Positive<br>87% of the 16 user reviews for this game are positive.",
@@ -8646,7 +8796,7 @@
       "search_text": "doomed otaku doomed otaku &quot;real friends exist in the online world!&quot; the doomed otaku is a multi-ending adventure that follows a wandering 20-something otaku as they navigate both the real and cyber worlds, experiencing various events along the way. adventure indie simulation single-player steam achievements full controller support keyboard only option dualshock controller support dualshock controller support steam cloud stats family sharing korean english japanese schinese 3 user reviews positive<br>87% of the 16 user reviews for this game are positive.",
       "first_seen": "2026-10-17T03:36:34+00:00",
       "last_seen": "2026-10-17T03:36:34+00:00",
-      "updated_at": "2026-10-17T03:36:34+00:00"
+      "updated_at": "2026-10-17T07:23:54+00:00"
     },
     {
       "app_id": 4218620,
@@ -8812,6 +8962,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 974
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6900,
+          "final": 5175
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 24800,
+          "final": 18600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5000,
+          "final": 3750
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 160000,
+          "final": 120000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1450000,
+          "final": 1087000
         }
       },
       "review_hint": "Positive<br>100% of the 16 user reviews for this game are positive.",
@@ -8826,7 +9001,7 @@
       "search_text": "dreadline express dreadline express dreadline express is a 1st-person, psychological horror metroidbrainia set aboard the last human train. unravel mysteries of the enigmatic train, face strange passengers, and shape your path using a unique card-based mechanic that gives you full narrative control. this is no longer our world. adventure indie single-player steam achievements full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud stats family sharing english spanish-spain czech japanese portuguese-brazil russian schinese ukrainian french positive positive<br>100% of the 16 user reviews for this game are positive.",
       "first_seen": "2026-10-16T20:42:01+00:00",
       "last_seen": "2026-10-17T03:36:34+00:00",
-      "updated_at": "2026-10-17T03:36:34+00:00"
+      "updated_at": "2026-10-17T07:23:54+00:00"
     },
     {
       "app_id": 1562430,
@@ -11460,6 +11635,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 974
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6800,
+          "final": 4420
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 24600,
+          "final": 15900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3800,
+          "final": 2470
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 190000,
+          "final": 123500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1600000,
+          "final": 1040000
         }
       },
       "review_hint": "",
@@ -11474,7 +11674,7 @@
       "search_text": "flipping is hard flipping is hard no legs. just flips. a hard and punishing game where you flip, fall, and climb as flippy, using only rotation. do you have what it takes to get back to jeff? action adventure indie single-player multi-player co-op online co-op steam achievements full controller support camera comfort color alternatives custom volume controls adjustable difficulty #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime stereo sound surround sound steam cloud stats remote play on tv family sharing english french german japanese korean russian schinese spanish-spain polish tchinese positive",
       "first_seen": "2026-10-16T20:42:01+00:00",
       "last_seen": "2026-10-17T03:36:34+00:00",
-      "updated_at": "2026-10-17T03:36:34+00:00"
+      "updated_at": "2026-10-17T07:23:54+00:00"
     },
     {
       "app_id": 3618030,
@@ -13179,6 +13379,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 374
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 16200,
+          "final": 2430
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 64000,
+          "final": 9600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9900,
+          "final": 1485
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 308000,
+          "final": 46200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2880000,
+          "final": 432000
         }
       },
       "review_hint": "Mixed<br>58% of the 104 user reviews for this game are positive.",
@@ -13193,7 +13418,7 @@
       "search_text": "gotham knights: visionary pack gotham knights: visionary pack get the visionary pack to expand your cosmetic experience. the visionary pack includes the exclusive ‘’knightwatch by jim lee’’ transmog, beyond suitstyle, salvaging, boosted gear, 3 suit colorways, and an exclusive emote. action adventure rpg single-player multi-player co-op online co-op downloadable content steam achievements full controller support steam cloud family sharing english french italian german spanish-spain arabic japanese korean polish schinese spanish-latin tchinese portuguese-brazil mixed mixed<br>58% of the 104 user reviews for this game are positive.",
       "first_seen": "2026-10-16T20:42:01+00:00",
       "last_seen": "2026-10-17T03:36:34+00:00",
-      "updated_at": "2026-10-17T03:36:34+00:00"
+      "updated_at": "2026-10-17T07:23:54+00:00"
     },
     {
       "app_id": 3240220,
@@ -22708,6 +22933,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 6250
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 16400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7800,
+          "final": 3900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 115000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 1075000
         }
       },
       "review_hint": "Very Positive<br>84% of the 1,467 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -22722,7 +22972,7 @@
       "search_text": "nordhold nordhold enemies are coming! every decision matters: build your city, grow the economy, and prepare for enemy waves. strengthen your defenses, adapt your strategy, and unleash your hero’s full potential. this unique tower defense will test your skills – are you worthy to claim a place at valhalla? indie strategy single-player steam achievements steam trading cards steam cloud steam leaderboards family sharing english german french spanish-spain japanese korean polish portuguese-brazil russian schinese tchinese turkish very positive very positive<br>84% of the 1,467 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-16T20:42:01+00:00",
       "last_seen": "2026-10-17T03:36:34+00:00",
-      "updated_at": "2026-10-17T03:36:34+00:00"
+      "updated_at": "2026-10-17T07:23:54+00:00"
     },
     {
       "app_id": 2426530,
@@ -23186,6 +23436,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 2249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14500,
+          "final": 13050
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 46900,
+          "final": 42200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8800,
+          "final": 7920
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 315000,
+          "final": 283500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2650000,
+          "final": 2385000
         }
       },
       "review_hint": "",
@@ -23200,7 +23475,7 @@
       "search_text": "order: the new dawn order: the new dawn order: the new dawn is a colony sim with space adventure. as a legendary captain from the united stellar, build a base on the desert planet new terra and face the perils of the wastespace—how will you shape the destiny of the stars? indie rpg simulation strategy early access single-player steam workshop custom volume controls playable without timed input save anytime stereo sound family sharing english schinese 3 user reviews",
       "first_seen": "2026-10-16T20:42:01+00:00",
       "last_seen": "2026-10-17T03:36:34+00:00",
-      "updated_at": "2026-10-17T03:36:34+00:00"
+      "updated_at": "2026-10-17T07:23:54+00:00"
     },
     {
       "app_id": 753640,
@@ -24688,6 +24963,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1349
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 8550
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 24100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 5220
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 153000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 1485000
         }
       },
       "review_hint": "Very Positive<br>80% of the 306,879 user reviews for games in this bundle are positive.",
@@ -24702,7 +25002,7 @@
       "search_text": "penguin colony penguin colony cosmic horror, through the eyes of a penguin. rival human factions have come to your home in the antarctic, seeking an ancient and inconceivable being. observe their descent into insanity in this faithful re-imagining of h.p. lovecraft’s at the mountains of madness, and other stories. action adventure casual indie single-player steam achievements full controller support camera comfort color alternatives custom volume controls gamepad recommended keyboard only option playable without timed input dualshock controller support dualsense controller support stereo sound steam cloud family sharing english arabic japanese portuguese-brazil schinese maori 6 user reviews very positive<br>80% of the 306,879 user reviews for games in this bundle are positive.",
       "first_seen": "2026-10-16T20:42:01+00:00",
       "last_seen": "2026-10-17T03:36:34+00:00",
-      "updated_at": "2026-10-17T03:36:34+00:00"
+      "updated_at": "2026-10-17T07:23:54+00:00"
     },
     {
       "app_id": 2254990,
@@ -31240,6 +31540,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 13900,
+          "final": 11120
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 35100,
+          "final": 28000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9000,
+          "final": 7200
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 255000,
+          "final": 204000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2050000,
+          "final": 1640000
         }
       },
       "review_hint": "Positive<br>100% of the 16 user reviews for this game are positive.",
@@ -31254,7 +31579,7 @@
       "search_text": "tenebris somnia tenebris somnia tenebris somnia is a 2d retro survival horror adventure game with live action cutscenes created by an award winning film crew from argentina. unveil the depths of a disturbing story by solving puzzles and fighting horrible creatures. ...what if they aren't just nightmares? adventure indie single-player steam achievements full controller support steam trading cards gamepad recommended steam cloud family sharing english spanish-spain spanish-latin japanese portuguese-brazil positive positive<br>100% of the 16 user reviews for this game are positive.",
       "first_seen": "2026-10-16T20:42:01+00:00",
       "last_seen": "2026-10-17T03:36:34+00:00",
-      "updated_at": "2026-10-17T03:36:34+00:00"
+      "updated_at": "2026-10-17T07:23:54+00:00"
     },
     {
       "app_id": 641990,
@@ -32233,6 +32558,31 @@
           "currency": "USD",
           "original": 549,
           "final": 494
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3025,
+          "final": 2722
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 11700,
+          "final": 10500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2017,
+          "final": 1815
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 77400,
+          "final": 69600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 614000,
+          "final": 552000
         }
       },
       "review_hint": "",
@@ -32247,7 +32597,7 @@
       "search_text": "tidy up the town tidy up the town what have you done to the market?! practising your amateur sorcery in the town square might not have been the best idea… you should really tidy up the market stalls before everyone arrives for a hard day’s work! casual indie simulation single-player steam achievements full controller support adjustable text size camera comfort color alternatives custom volume controls #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime steam input api support stereo sound subtitle options surround sound steam leaderboards family sharing english french italian german spanish-spain japanese tchinese korean polish portuguese-brazil portuguese---portugal russian schinese 9 user reviews",
       "first_seen": "2026-10-16T20:42:01+00:00",
       "last_seen": "2026-10-17T03:36:34+00:00",
-      "updated_at": "2026-10-17T03:36:34+00:00"
+      "updated_at": "2026-10-17T07:23:54+00:00"
     },
     {
       "app_id": 2634950,
@@ -35355,6 +35705,31 @@
           "currency": "USD",
           "original": 499,
           "final": 124
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3900,
+          "final": 975
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14800,
+          "final": 3700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2100,
+          "final": 525
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 49800,
+          "final": 12400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 550000,
+          "final": 137000
         }
       },
       "review_hint": "Mostly Positive<br>72% of the 1,031 user reviews for this game are positive.",
@@ -35369,7 +35744,7 @@
       "search_text": "watchmen: the end is nigh watchmen: the end is nigh the lines between good and bad have been blurred and crime and terror run rampant in the streets. the alleys, rooftops and sewers are crawling with criminals and brutal gangs. and now, underboss — in a daring escape — has broken out of prison and is ruling with vicious darkness. action single-player multi-player shared/split screen remote play together family sharing english french italian german spanish-spain mixed mostly positive<br>72% of the 1,031 user reviews for this game are positive.",
       "first_seen": "2026-10-16T20:42:01+00:00",
       "last_seen": "2026-10-17T03:36:34+00:00",
-      "updated_at": "2026-10-17T03:36:34+00:00"
+      "updated_at": "2026-10-17T07:23:54+00:00"
     },
     {
       "app_id": 5127370,
@@ -35437,6 +35812,31 @@
           "currency": "USD",
           "original": 779,
           "final": 584
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4680,
+          "final": 3510
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 17100,
+          "final": 12800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3218,
+          "final": 2413
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 102400,
+          "final": 76800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 848000,
+          "final": 636000
         }
       },
       "review_hint": "",
@@ -35451,7 +35851,7 @@
       "search_text": "who's cheating? who's cheating? everyone is gambling. one player is cheating. in this social deduction game for up to 8 players, the cheater uses glasses that reveal the next winning bet while the security guard studies the tables, reads the bets and decides who gets the shotgun. lie, steal and larp over proximity chat. action casual indie multi-player pvp online pvp co-op online co-op steam achievements custom volume controls stereo sound family sharing english french italian german spanish-spain schinese tchinese korean japanese polish portuguese---portugal russian swedish turkish ukrainian spanish-latin no user reviews",
       "first_seen": "2026-10-16T20:42:01+00:00",
       "last_seen": "2026-10-17T03:36:34+00:00",
-      "updated_at": "2026-10-17T03:36:34+00:00"
+      "updated_at": "2026-10-17T07:23:54+00:00"
     },
     {
       "app_id": 4991240,
@@ -183152,6 +183552,31 @@
           "currency": "USD",
           "original": 999,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5500,
+          "final": 4950
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 17800
+        },
+        "zh-Hans": {
+          "currency": "USD",
+          "original": 999,
+          "final": 899
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 126000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 990000
         }
       },
       "review_hint": "",
@@ -183166,7 +183591,7 @@
       "search_text": "futa slug ex futa slug ex nsfw roguelike with male/female player character creation, meta-progression, 55 collectible girls, and 9 epic boss battles! step into the shoes of the captain and dominate your lustful rivals. supports all genitalia variations: hermaphrodite, male genitalia only, and female genitalia only. action single-player steam achievements full controller support custom volume controls playable without timed input steam cloud family sharing english french german spanish-spain japanese korean polish portuguese-brazil russian schinese tchinese turkish positive",
       "first_seen": "2026-10-16T20:42:01+00:00",
       "last_seen": "2026-10-17T03:36:34+00:00",
-      "updated_at": "2026-10-17T03:36:34+00:00"
+      "updated_at": "2026-10-17T07:23:54+00:00"
     },
     {
       "app_id": 4235410,
