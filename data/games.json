@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T15:14:10+00:00",
+  "updated_at": "2026-10-17T17:37:25+00:00",
   "total_count": 4542,
   "active_count": 349,
   "games": [
@@ -371,6 +371,31 @@
           "currency": "USD",
           "original": 799,
           "final": 639
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4800,
+          "final": 3840
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 17500,
+          "final": 14000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3300,
+          "final": 2640
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 105000,
+          "final": 84000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 870000,
+          "final": 696000
         }
       },
       "review_hint": "Positive<br>92% of the 13 user reviews for this game are positive.",
@@ -385,7 +410,7 @@
       "search_text": "a game about opening a chest a game about opening a chest open a chest of infinite loot, collect legendary items, and create game-breaking synergies in this unique roguelike clicker. grow your fortune, use npcs to your advantage, and survive the perils of the dungeon in this addictive game of luck, risk, and rewards. when in doubt, open more chests! adventure casual indie rpg strategy single-player steam achievements family sharing english spanish-spain french german japanese portuguese-brazil russian schinese 6 user reviews positive<br>92% of the 13 user reviews for this game are positive.",
       "first_seen": "2026-10-17T10:21:04+00:00",
       "last_seen": "2026-10-17T15:14:10+00:00",
-      "updated_at": "2026-10-17T15:14:10+00:00"
+      "updated_at": "2026-10-17T17:37:25+00:00"
     },
     {
       "app_id": 1182900,
@@ -11871,6 +11896,31 @@
           "currency": "USD",
           "original": 699,
           "final": 559
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4200,
+          "final": 3360
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15900,
+          "final": 12700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2900,
+          "final": 2320
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 99000,
+          "final": 79200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 760000,
+          "final": 608000
         }
       },
       "review_hint": "Mixed<br>67% of the 28 user reviews for this game are positive.",
@@ -11885,7 +11935,7 @@
       "search_text": "five nights with maids five nights with maids in this survival horror game, play as a night guard watching over a mansion and its maids for five nights. use lights, shutters, and cameras to spot suspicious activity. each night grows more intense as the atmosphere shifts and the maids begin to behave strangely. can you survive till the end? simulation single-player steam achievements steam cloud family sharing english japanese korean schinese tchinese 9 user reviews mixed<br>67% of the 28 user reviews for this game are positive.",
       "first_seen": "2026-10-17T10:21:04+00:00",
       "last_seen": "2026-10-17T15:14:10+00:00",
-      "updated_at": "2026-10-17T15:14:10+00:00"
+      "updated_at": "2026-10-17T17:37:25+00:00"
     },
     {
       "app_id": 3826670,
