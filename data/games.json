@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T15:35:36+00:00",
+  "updated_at": "2026-10-18T17:39:48+00:00",
   "total_count": 4544,
   "active_count": 349,
   "games": [
@@ -21423,6 +21423,31 @@
           "currency": "USD",
           "original": 699,
           "final": 629
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4200,
+          "final": 3780
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15900,
+          "final": 14300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2900,
+          "final": 2610
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 90500,
+          "final": 81400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 760000,
+          "final": 684000
         }
       },
       "review_hint": "",
@@ -21437,7 +21462,7 @@
       "search_text": "mr. prepper - mountaineer dlc mr. prepper - mountaineer dlc a cold new adventure awaits! climb 10 levels of a mysterious mountain, survive freezing temperatures, uncover agency secrets, and follow a mysterious climber's messages through a one-way walkie-talkie. bring new technology and useful equipment back to your bunker. action adventure casual indie rpg simulation single-player downloadable content steam achievements steam trading cards captions available custom volume controls adjustable difficulty save anytime subtitle options steam cloud stats includes level editor remote play on tablet family sharing english polish french german russian spanish-spain turkish schinese dutch japanese italian portuguese-brazil korean czech 1 user reviews",
       "first_seen": "2026-10-18T10:37:50+00:00",
       "last_seen": "2026-10-18T15:35:36+00:00",
-      "updated_at": "2026-10-18T15:35:36+00:00"
+      "updated_at": "2026-10-18T17:39:48+00:00"
     },
     {
       "app_id": 675010,
