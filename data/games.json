@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T03:43:20+00:00",
+  "updated_at": "2026-10-18T07:37:58+00:00",
   "total_count": 4543,
   "active_count": 349,
   "games": [
@@ -30314,6 +30314,31 @@
           "currency": "USD",
           "original": 1399,
           "final": 839
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8900,
+          "final": 5340
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 24800,
+          "final": 14800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5600,
+          "final": 3360
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 160000,
+          "final": 96000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1550000,
+          "final": 930000
         }
       },
       "review_hint": "Mostly Positive<br>70% of the 7,015 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -30328,7 +30353,7 @@
       "search_text": "subsistence subsistence subsistence is a sandbox, first person, solo or co-op, pve open-world survival game. struggle through changing seasons to build a base, develop technology and gear-up in the hostile environment. defend yourself from wildlife, the elements and ai hunters (who also build bases in the world). action adventure indie simulation early access single-player multi-player pvp online pvp co-op online co-op steam achievements full controller support steam workshop in-app purchases dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam input api support steam cloud family sharing english french italian german spanish-spain czech hungarian norwegian portuguese---portugal portuguese-brazil dutch russian turkish polish swedish danish romanian schinese japanese korean thai vietnamese ukrainian finnish greek latvian mostly positive mostly positive<br>70% of the 7,015 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-17T20:19:18+00:00",
       "last_seen": "2026-10-18T03:43:20+00:00",
-      "updated_at": "2026-10-18T03:43:20+00:00"
+      "updated_at": "2026-10-18T07:37:58+00:00"
     },
     {
       "app_id": 315210,
