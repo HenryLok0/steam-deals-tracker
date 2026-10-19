@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T12:34:47+00:00",
+  "updated_at": "2026-10-19T20:17:45+00:00",
   "total_count": 4550,
   "active_count": 348,
   "games": [
@@ -18450,6 +18450,31 @@
           "currency": "USD",
           "original": 499,
           "final": 0
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3000,
+          "final": 2700
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 11700,
+          "final": 10500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1980
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 65500,
+          "final": 58900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 545000,
+          "final": 490000
         }
       },
       "review_hint": "",
@@ -18464,7 +18489,7 @@
       "search_text": "loop dungeon - incremental loop dungeon - incremental lead a party of heroes through endless dungeon loops. gather loot, unlock permanent upgrades, and build powerful synergies as you push deeper into an ever-growing incremental adventure. casual indie simulation strategy single-player steam achievements full controller support mouse only option dualshock controller support dualshock controller support dualsense controller support dualsense controller support touch only option steam cloud family sharing english french german japanese schinese tchinese korean spanish-spain russian dutch portuguese-brazil portuguese---portugal italian no user reviews",
       "first_seen": "2026-10-19T12:34:47+00:00",
       "last_seen": "2026-10-19T12:34:47+00:00",
-      "updated_at": "2026-10-19T12:34:47+00:00"
+      "updated_at": "2026-10-19T20:17:45+00:00"
     },
     {
       "app_id": 234140,
@@ -32761,6 +32786,31 @@
           "currency": "USD",
           "original": 599,
           "final": 419
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4500,
+          "final": 4500
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 17000,
+          "final": 17000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3800,
+          "final": 3800
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 92200,
+          "final": 92200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 828000,
+          "final": 828000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>98% of the 3,605 user reviews for this game are positive.<br><br>This product has experienced one or more periods of off-topic review activity.  Based on your preferences, the reviews within these periods have been excluded from this product's Review Score.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -32775,7 +32825,7 @@
       "search_text": "touhou mystia's izakaya touhou mystia's izakaya a brand new pixel art restaurant simulator based on the touhou project! play as mystia, the owner of a small izakaya. collect ingredients by day, cater to the customers by night, learn recipes from familiar characters, and become the best izakaya owner in all of gensokyo! casual indie rpg simulation single-player steam achievements full controller support steam trading cards steam cloud family sharing schinese english japanese korean tchinese overwhelmingly positive overwhelmingly positive<br>98% of the 3,605 user reviews for this game are positive.<br><br>this product has experienced one or more periods of off-topic review activity.  based on your preferences, the reviews within these periods have been excluded from this product's review score.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-19T12:34:47+00:00",
       "last_seen": "2026-10-19T12:34:47+00:00",
-      "updated_at": "2026-10-19T12:34:47+00:00"
+      "updated_at": "2026-10-19T20:17:45+00:00"
     },
     {
       "app_id": 3314580,
