@@ -4,7 +4,56 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Tue, 20 Oct 2026 18:49:39 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 21:24:06 +0000</lastBuildDate>
+<item>
+<title>DreamWorks Shrek 2 Remastered</title>
+<link>https://store.steampowered.com/app/2523740/</link>
+<guid isPermaLink="false">2523740</guid>
+<pubDate>Tue, 20 Oct 2026 21:24:06 +0000</pubDate>
+<description>DreamWorks Shrek 2 Remastered: The cult-classic, button-mashing co-op adventure is back with all your favorite characters and improved graphics.</description>
+</item>
+<item>
+<title>Fallout 4 - Creations Bundle</title>
+<link>https://store.steampowered.com/app/3868650/</link>
+<guid isPermaLink="false">3868650</guid>
+<pubDate>Tue, 20 Oct 2026 21:24:06 +0000</pubDate>
+<description>Outfit yourself with unique weapons, power armor, building packs, and more with over 150 Creation Club items to expand your adventures through the Commonwealth.</description>
+</item>
+<item>
+<title>Folk-Tography</title>
+<link>https://store.steampowered.com/app/4941420/</link>
+<guid isPermaLink="false">4941420</guid>
+<pubDate>Tue, 20 Oct 2026 21:24:06 +0000</pubDate>
+<description>Folk-Tography is a 4-player co-op cryptid photography extraction game. Photograph legendary creatures, investigate paranormal anomalies, manage scarce resources, and survive various dangers to escape with the evidence before the valley consumes you.</description>
+</item>
+<item>
+<title>Mind Over Magic</title>
+<link>https://store.steampowered.com/app/1270580/</link>
+<guid isPermaLink="false">1270580</guid>
+<pubDate>Tue, 20 Oct 2026 21:24:06 +0000</pubDate>
+<description>Mind Over Magic is a colony sim set at the site of a cursed magic school. Build and optimize your own magical academy, train powerful Mages, and master mighty relics in order to battle through the Underschool, a mysterious underground dungeon that holds the key to liberation from a deadly curse.</description>
+</item>
+<item>
+<title>Small Saga</title>
+<link>https://store.steampowered.com/app/1320140/</link>
+<guid isPermaLink="false">1320140</guid>
+<pubDate>Tue, 20 Oct 2026 21:24:06 +0000</pubDate>
+<description>Beneath the streets of London, an angry mouse seeks revenge against the god who stole his tail. An epic RPG of miniature proportions!</description>
+</item>
+<item>
+<title>Star Trek: Outposts Unknown</title>
+<link>https://store.steampowered.com/app/3469910/</link>
+<guid isPermaLink="false">3469910</guid>
+<pubDate>Tue, 20 Oct 2026 21:24:06 +0000</pubDate>
+<description>Lead your crew across strange new worlds in this narrative driven outpost builder! Research, explore, and build as you face a mysterious cosmic force that threatens a new ally. Your adventure awaits, Captain!</description>
+</item>
+<item>
+<title>The Walking Dead: Streets of Survival</title>
+<link>https://store.steampowered.com/app/3777850/</link>
+<guid isPermaLink="false">3777850</guid>
+<pubDate>Tue, 20 Oct 2026 21:24:06 +0000</pubDate>
+<description>Fight walkers as Rick Grimes, Daryl Dixon, Michonne, and unlockable Negan in a brutal arcade brawler set in the world of AMC’s The Walking Dead. Face ruthless enemies like the Saviors and overwhelming walker swarms as you unleash relentless combos, signature weapon attacks, and crushing finishers.</description>
+</item>
 <item>
 <title>A Sister's Journey</title>
 <link>https://store.steampowered.com/app/1730790/</link>
@@ -20,32 +69,11 @@
 <description>Thirteen years ago, six girls vanished in Akihabara in the unsolved case “The Akiba Vanishing”. Daiki Shinjo announces a live-action game based on the incident, gathering six women who embody Akihabara’s subculture. But their story begins to seep into reality. Can AKIBA LOST be finished?</description>
 </item>
 <item>
-<title>Bridge Constructor Portal</title>
-<link>https://store.steampowered.com/app/684410/</link>
-<guid isPermaLink="false">684410</guid>
-<pubDate>Tue, 20 Oct 2026 16:34:07 +0000</pubDate>
-<description>Enter the Aperture Science Enrichment Center and experience Bridge Constructor Portal – the unique merging of the classic Portal™ and Bridge Constructor™ games.</description>
-</item>
-<item>
-<title>Howling Woods</title>
-<link>https://store.steampowered.com/app/5336590/</link>
-<guid isPermaLink="false">5336590</guid>
-<pubDate>Tue, 20 Oct 2026 16:34:07 +0000</pubDate>
-<description>A cozy Halloween town builder. Lay out paths and plots in a clearing in the woods and the town takes care of the rest: crooked houses go up, curio shops open, and goblins, ghosts and witches move in. The spookier your town gets, the grander it grows. Nothing costs a thing. Every day is Halloween!</description>
-</item>
-<item>
 <title>I Am Your Beast - Quitting Time DLC</title>
 <link>https://store.steampowered.com/app/4578110/</link>
 <guid isPermaLink="false">4578110</guid>
 <pubDate>Tue, 20 Oct 2026 16:34:07 +0000</pubDate>
 <description>Remember: you're one of the good guys. Fight a shadow war in Southeast Asia in this story prequel DLC to indie hit I Am Your Beast.</description>
-</item>
-<item>
-<title>UBERMOSH</title>
-<link>https://store.steampowered.com/app/357070/</link>
-<guid isPermaLink="false">357070</guid>
-<pubDate>Tue, 20 Oct 2026 16:34:07 +0000</pubDate>
-<description>UBERMOSH is an arcade game about cutting bullets with a sword, in a gun-filled cyberpunk mosh pit.</description>
 </item>
 <item>
 <title>Cepheus Protocol</title>
@@ -76,13 +104,6 @@
 <description>Fight the past in Athanasia, an immersive horror FPS set in an abandoned research facility overrun with prehistoric predators. Outwit nature, delve deep and uncover the facility's mysteries.</description>
 </item>
 <item>
-<title>Bloodshed</title>
-<link>https://store.steampowered.com/app/2747550/</link>
-<guid isPermaLink="false">2747550</guid>
-<pubDate>Tue, 20 Oct 2026 04:04:43 +0000</pubDate>
-<description>Bloodshed is a Roguelite Survivors FPS; an exhilarating fusion of Roguelite elements merged with retro-styled visuals and first-person “Survivors-like” frenetic combat action!</description>
-</item>
-<item>
 <title>Coin Harvest</title>
 <link>https://store.steampowered.com/app/4381180/</link>
 <guid isPermaLink="false">4381180</guid>
@@ -102,13 +123,6 @@
 <guid isPermaLink="false">206440</guid>
 <pubDate>Tue, 20 Oct 2026 04:04:43 +0000</pubDate>
 <description>A story-driven experience about two doctors traversing backwards through a dying man's memories to artificially fulfill his last wish.</description>
-</item>
-<item>
-<title>Warding Witches</title>
-<link>https://store.steampowered.com/app/3536520/</link>
-<guid isPermaLink="false">3536520</guid>
-<pubDate>Tue, 20 Oct 2026 04:04:43 +0000</pubDate>
-<description>Warding Witches offers a classic, unapologetic bullet hell shoot ‘em up challenge while also putting defense into players’ hands. Experience an adrenaline-filled flow alternating between attacking, defending and dodging, amplified by an intuitive scoring system that weaves into gameplay seamlessly.</description>
 </item>
 <item>
 <title>Big Dig</title>
@@ -144,13 +158,6 @@
 <guid isPermaLink="false">1186640</guid>
 <pubDate>Mon, 19 Oct 2026 22:08:18 +0000</pubDate>
 <description>Pumpkin Jack is a Spooky Scary 3D platformer in which you embody Jack, the Mythical Pumpkin Lord! Dive into an Epic Adventure through otherworldly landscapes and help the Evil annihilate the Good!</description>
-</item>
-<item>
-<title>Symphonia</title>
-<link>https://store.steampowered.com/app/1865960/</link>
-<guid isPermaLink="false">1865960</guid>
-<pubDate>Mon, 19 Oct 2026 22:08:18 +0000</pubDate>
-<description>Awaken an expansive musical realm in this non-violent and poetic platformer. In Symphonia, you'll use the power of your violin coupled with your platforming skills to gather an orchestra to bring the musical machinery of the world back to life.</description>
 </item>
 <item>
 <title>Tropico 7</title>
