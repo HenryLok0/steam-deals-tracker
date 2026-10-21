@@ -4,7 +4,21 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Tue, 20 Oct 2026 21:24:06 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 03:53:59 +0000</lastBuildDate>
+<item>
+<title>Confidential Killings - A Detective Game</title>
+<link>https://store.steampowered.com/app/2797960/</link>
+<guid isPermaLink="false">2797960</guid>
+<pubDate>Wed, 21 Oct 2026 03:53:59 +0000</pubDate>
+<description>A series of murders is shocking Hollywood! Use your detective skills: search the crime scene, find clues, solve the mystery. Who is pulling the strings behind these Confidential Killings?</description>
+</item>
+<item>
+<title>We Were Here Tomorrow</title>
+<link>https://store.steampowered.com/app/2315050/</link>
+<guid isPermaLink="false">2315050</guid>
+<pubDate>Wed, 21 Oct 2026 03:53:59 +0000</pubDate>
+<description>You and your partner awaken inside a mysterious Norček facility with little recollection of how you got there. Communicate, cooperate, and unravel the secrets in this asymmetrical co-op adventure. Only together will you decide the fate of Tomorrow…</description>
+</item>
 <item>
 <title>DreamWorks Shrek 2 Remastered</title>
 <link>https://store.steampowered.com/app/2523740/</link>
@@ -90,13 +104,6 @@
 <description>Join the rebels in a third-person shooter with RPG elements and base-building mode. Fight against various combat drone models under the control of the supreme AI.</description>
 </item>
 <item>
-<title>AIR</title>
-<link>https://store.steampowered.com/app/2983250/</link>
-<guid isPermaLink="false">2983250</guid>
-<pubDate>Tue, 20 Oct 2026 04:04:43 +0000</pubDate>
-<description>Summer stretches on endlessly. Beneath the vast blue sky. Beneath the air in which she awaits— AIR, the second game released by visual novel studio Key, is now available on Steam! Now featuring the side story novel, &amp;quot;First Sky Chapter&amp;quot; and full voice support!</description>
-</item>
-<item>
 <title>Athanasia</title>
 <link>https://store.steampowered.com/app/1761910/</link>
 <guid isPermaLink="false">1761910</guid>
@@ -111,60 +118,11 @@
 <description>Robotic arms sweep a steady pour of coins off your plateau. Unlock islands, conquer six realms and ascend for crystals in an idle game that sits on your desktop while you work or play.</description>
 </item>
 <item>
-<title>Little Busters! English Edition</title>
-<link>https://store.steampowered.com/app/635940/</link>
-<guid isPermaLink="false">635940</guid>
-<pubDate>Tue, 20 Oct 2026 04:04:43 +0000</pubDate>
-<description>Capturing the hearts of countless fans since 2007, Little Busters! is an emotional visual novel from Key, the minds behind Angel Beats! and CLANNAD. This special English release supports touch controls and dynamic switching between English and Japanese text, and is in HD for the first time on PC.</description>
-</item>
-<item>
 <title>To the Moon</title>
 <link>https://store.steampowered.com/app/206440/</link>
 <guid isPermaLink="false">206440</guid>
 <pubDate>Tue, 20 Oct 2026 04:04:43 +0000</pubDate>
 <description>A story-driven experience about two doctors traversing backwards through a dying man's memories to artificially fulfill his last wish.</description>
-</item>
-<item>
-<title>Big Dig</title>
-<link>https://store.steampowered.com/app/4304900/</link>
-<guid isPermaLink="false">4304900</guid>
-<pubDate>Mon, 19 Oct 2026 22:08:18 +0000</pubDate>
-<description>Big Dig is a short incremental narrative game about digging up artifacts to help Mayor Dog win the election! Recover artifacts, grow your museum, and upgrade your tools while building a highway across the Animal Republic!</description>
-</item>
-<item>
-<title>Empires of the Undergrowth - Exploding Ants</title>
-<link>https://store.steampowered.com/app/3402420/</link>
-<guid isPermaLink="false">3402420</guid>
-<pubDate>Mon, 19 Oct 2026 22:08:18 +0000</pubDate>
-<description>Field new weapons on the battlefield for ants and termites alike with two explosive new species in your Empires of the Undergrowth.</description>
-</item>
-<item>
-<title>Fallout 76: Mojave Bundle</title>
-<link>https://store.steampowered.com/app/4250650/</link>
-<guid isPermaLink="false">4250650</guid>
-<pubDate>Mon, 19 Oct 2026 22:08:18 +0000</pubDate>
-<description>Grab your NCR Power Armor and patrol the desert of Burning Springs with the Mojave Bundle. Fallout 76 base game required, sold separately.</description>
-</item>
-<item>
-<title>Lawn Mowing Simulator</title>
-<link>https://store.steampowered.com/app/1480560/</link>
-<guid isPermaLink="false">1480560</guid>
-<pubDate>Mon, 19 Oct 2026 22:08:18 +0000</pubDate>
-<description>Experience the beauty and detail of mowing the Great British countryside in Lawn Mowing Simulator, the only simulator that allows you to ride an authentic and expansive roster of real-world licensed lawn mowers from prestigious manufacturers; Toro, SCAG and STIGA as you manage your business.</description>
-</item>
-<item>
-<title>Pumpkin Jack</title>
-<link>https://store.steampowered.com/app/1186640/</link>
-<guid isPermaLink="false">1186640</guid>
-<pubDate>Mon, 19 Oct 2026 22:08:18 +0000</pubDate>
-<description>Pumpkin Jack is a Spooky Scary 3D platformer in which you embody Jack, the Mythical Pumpkin Lord! Dive into an Epic Adventure through otherworldly landscapes and help the Evil annihilate the Good!</description>
-</item>
-<item>
-<title>Tropico 7</title>
-<link>https://store.steampowered.com/app/1853440/</link>
-<guid isPermaLink="false">1853440</guid>
-<pubDate>Mon, 19 Oct 2026 22:08:18 +0000</pubDate>
-<description>Get rich or die trying! In Tropico 7, you step into El Presidente’s shiny boots again to build your island nation and – literally – move mountains. As glorious leader you guide your loyal citizens (and your Swiss Bank Account) through the ages toward untold prosperity.</description>
 </item>
 <item>
 <title>Squad Weapon Skins - Recon Team Pack</title>
