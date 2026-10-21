@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T03:53:59+00:00",
+  "updated_at": "2026-10-21T08:10:11+00:00",
   "total_count": 4582,
   "active_count": 349,
   "games": [
@@ -5293,6 +5293,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 974
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8300,
+          "final": 5395
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21000,
+          "final": 13600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5200,
+          "final": 3380
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 150000,
+          "final": 97500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1250000,
+          "final": 812000
         }
       },
       "review_hint": "Mostly Positive<br>75% of the 743 user reviews for this game are positive.",
@@ -5307,7 +5332,7 @@
       "search_text": "confidential killings - a detective game confidential killings - a detective game a series of murders is shocking hollywood! use your detective skills: search the crime scene, find clues, solve the mystery. who is pulling the strings behind these confidential killings? adventure indie simulation single-player steam achievements steam cloud family sharing english french german russian japanese schinese korean very positive mostly positive<br>75% of the 743 user reviews for this game are positive.",
       "first_seen": "2026-10-21T03:53:59+00:00",
       "last_seen": "2026-10-21T03:53:59+00:00",
-      "updated_at": "2026-10-21T03:53:59+00:00"
+      "updated_at": "2026-10-21T08:10:11+00:00"
     },
     {
       "app_id": 2881650,
@@ -8225,6 +8250,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 2699
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 16000,
+          "final": 14400
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 51800,
+          "final": 46600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10800,
+          "final": 9720
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 420000,
+          "final": 378000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3350000,
+          "final": 3015000
         }
       },
       "review_hint": "",
@@ -8239,7 +8289,7 @@
       "search_text": "dreamworks shrek 2 remastered dreamworks shrek 2 remastered dreamworks shrek 2 remastered: the cult-classic, button-mashing co-op adventure is back with all your favorite characters and improved graphics. adventure single-player multi-player steam achievements full controller support gamepad recommended family sharing english no user reviews",
       "first_seen": "2026-10-20T21:24:06+00:00",
       "last_seen": "2026-10-21T03:53:59+00:00",
-      "updated_at": "2026-10-21T03:53:59+00:00"
+      "updated_at": "2026-10-21T08:10:11+00:00"
     },
     {
       "app_id": 1562430,
@@ -10324,6 +10374,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14800,
+          "final": 10360
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 59000,
+          "final": 41300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10900,
+          "final": 7630
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 242000,
+          "final": 169400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2180000,
+          "final": 1526000
         }
       },
       "review_hint": "Mostly Negative<br>23% of the 744 user reviews for this game are positive.",
@@ -10338,7 +10413,7 @@
       "search_text": "fallout 4 - creations bundle fallout 4 - creations bundle outfit yourself with unique weapons, power armor, building packs, and more with over 150 creation club items to expand your adventures through the commonwealth. rpg single-player downloadable content steam achievements full controller support playable without timed input save anytime stereo sound surround sound steam cloud remote play on phone remote play on tablet remote play on tv family sharing english french italian german spanish-spain polish portuguese-brazil russian tchinese japanese mostly negative mostly negative<br>23% of the 744 user reviews for this game are positive.",
       "first_seen": "2026-10-20T21:24:06+00:00",
       "last_seen": "2026-10-21T03:53:59+00:00",
-      "updated_at": "2026-10-21T03:53:59+00:00"
+      "updated_at": "2026-10-21T08:10:11+00:00"
     },
     {
       "app_id": 611660,
@@ -11760,6 +11835,31 @@
           "currency": "USD",
           "original": 799,
           "final": 719
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4800,
+          "final": 4320
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 17500,
+          "final": 15700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3300,
+          "final": 2970
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 105000,
+          "final": 94500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 870000,
+          "final": 783000
         }
       },
       "review_hint": "",
@@ -11774,7 +11874,7 @@
       "search_text": "folk-tography folk-tography folk-tography is a 4-player co-op cryptid photography extraction game. photograph legendary creatures, investigate paranormal anomalies, manage scarce resources, and survive various dangers to escape with the evidence before the valley consumes you. adventure casual indie early access single-player multi-player co-op online co-op family sharing english 2 user reviews",
       "first_seen": "2026-10-20T21:24:06+00:00",
       "last_seen": "2026-10-21T03:53:59+00:00",
-      "updated_at": "2026-10-21T03:53:59+00:00"
+      "updated_at": "2026-10-21T08:10:11+00:00"
     },
     {
       "app_id": 1215940,
@@ -20143,6 +20243,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10900,
+          "final": 6540
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 35100,
+          "final": 21000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 3480
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 248000,
+          "final": 148800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2600000,
+          "final": 1560000
         }
       },
       "review_hint": "Very Positive<br>84% of the 2,246 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -20157,7 +20282,7 @@
       "search_text": "mind over magic mind over magic mind over magic is a colony sim set at the site of a cursed magic school. build and optimize your own magical academy, train powerful mages, and master mighty relics in order to battle through the underschool, a mysterious underground dungeon that holds the key to liberation from a deadly curse. simulation single-player steam achievements steam trading cards steam workshop family sharing english schinese tchinese very positive very positive<br>84% of the 2,246 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-20T21:24:06+00:00",
       "last_seen": "2026-10-21T03:53:59+00:00",
-      "updated_at": "2026-10-21T03:53:59+00:00"
+      "updated_at": "2026-10-21T08:10:11+00:00"
     },
     {
       "app_id": 1971870,
@@ -27358,6 +27483,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 10000
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 26200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 6080
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 184000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 1720000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>95% of the 1,840 user reviews for this game are positive.",
@@ -27372,7 +27522,7 @@
       "search_text": "small saga small saga beneath the streets of london, an angry mouse seeks revenge against the god who stole his tail. an epic rpg of miniature proportions! adventure indie rpg single-player full controller support family sharing english overwhelmingly positive overwhelmingly positive<br>95% of the 1,840 user reviews for this game are positive.",
       "first_seen": "2026-10-20T21:24:06+00:00",
       "last_seen": "2026-10-21T03:53:59+00:00",
-      "updated_at": "2026-10-21T03:53:59+00:00"
+      "updated_at": "2026-10-21T08:10:11+00:00"
     },
     {
       "app_id": 768200,
@@ -28461,6 +28611,31 @@
           "currency": "USD",
           "original": 3299,
           "final": 2969
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 18999,
+          "final": 17099
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 61200,
+          "final": 55000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 12199,
+          "final": 10979
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 419900,
+          "final": 377900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3450000,
+          "final": 3105000
         }
       },
       "review_hint": "Mixed<br>52% of the 17 user reviews for this game are positive.",
@@ -28475,7 +28650,7 @@
       "search_text": "star trek: outposts unknown star trek: outposts unknown lead your crew across strange new worlds in this narrative driven outpost builder! research, explore, and build as you face a mysterious cosmic force that threatens a new ally. your adventure awaits, captain! simulation strategy single-player steam achievements steam cloud family sharing english french german spanish-spain polish portuguese-brazil schinese spanish-latin mixed mixed<br>52% of the 17 user reviews for this game are positive.",
       "first_seen": "2026-10-20T21:24:06+00:00",
       "last_seen": "2026-10-21T03:53:59+00:00",
-      "updated_at": "2026-10-21T03:53:59+00:00"
+      "updated_at": "2026-10-21T08:10:11+00:00"
     },
     {
       "app_id": 2643390,
@@ -31578,6 +31753,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11500,
+          "final": 8050
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37700,
+          "final": 26300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7700,
+          "final": 5390
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 260000,
+          "final": 182000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2100000,
+          "final": 1470000
         }
       },
       "review_hint": "Positive<br>80% of the 35 user reviews for this game are positive.",
@@ -31592,7 +31792,7 @@
       "search_text": "the walking dead: streets of survival the walking dead: streets of survival fight walkers as rick grimes, daryl dixon, michonne, and unlockable negan in a brutal arcade brawler set in the world of amc’s the walking dead. face ruthless enemies like the saviors and overwhelming walker swarms as you unleash relentless combos, signature weapon attacks, and crushing finishers. action single-player steam achievements full controller support steam trading cards custom volume controls adjustable difficulty gamepad recommended keyboard only option dualsense controller support dualsense controller support family sharing english french italian german spanish-spain portuguese-brazil dutch spanish-latin positive positive<br>80% of the 35 user reviews for this game are positive.",
       "first_seen": "2026-10-20T21:24:06+00:00",
       "last_seen": "2026-10-21T03:53:59+00:00",
-      "updated_at": "2026-10-21T03:53:59+00:00"
+      "updated_at": "2026-10-21T08:10:11+00:00"
     },
     {
       "app_id": 2967950,
@@ -34789,6 +34989,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11500,
+          "final": 10350
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37700,
+          "final": 33900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7700,
+          "final": 6930
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 260000,
+          "final": 234000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2100000,
+          "final": 1890000
         }
       },
       "review_hint": "Mixed<br>65% of the 135 user reviews for this game are positive.",
@@ -34803,7 +35028,7 @@
       "search_text": "we were here tomorrow we were here tomorrow you and your partner awaken inside a mysterious norček facility with little recollection of how you got there. communicate, cooperate, and unravel the secrets in this asymmetrical co-op adventure. only together will you decide the fate of tomorrow… action adventure casual indie multi-player co-op online co-op cross-platform multiplayer steam achievements dualshock controller support dualshock controller support dualsense controller support dualsense controller support partial controller support family sharing english french italian german arabic dutch japanese korean polish portuguese-brazil russian schinese spanish-latin tchinese turkish ukrainian mostly positive mixed<br>65% of the 135 user reviews for this game are positive.",
       "first_seen": "2026-10-21T03:53:59+00:00",
       "last_seen": "2026-10-21T03:53:59+00:00",
-      "updated_at": "2026-10-21T03:53:59+00:00"
+      "updated_at": "2026-10-21T08:10:11+00:00"
     },
     {
       "app_id": 501300,
