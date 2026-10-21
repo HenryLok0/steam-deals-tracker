@@ -4,7 +4,28 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Wed, 21 Oct 2026 19:02:03 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 21:25:22 +0000</lastBuildDate>
+<item>
+<title>Granblue Fantasy: Relink</title>
+<link>https://store.steampowered.com/app/881020/</link>
+<guid isPermaLink="false">881020</guid>
+<pubDate>Wed, 21 Oct 2026 21:25:22 +0000</pubDate>
+<description>A grand adventure in the skies awaits! Form a party of four from a diverse roster of skyfarers and slash—or shoot or hex—your way to victory against treacherous foes in this action RPG. Take on quests solo or with the help of others in up to 4-player co-op play!</description>
+</item>
+<item>
+<title>Online: 404</title>
+<link>https://store.steampowered.com/app/4094350/</link>
+<guid isPermaLink="false">4094350</guid>
+<pubDate>Wed, 21 Oct 2026 21:25:22 +0000</pubDate>
+<description>An open-world survival simulator where even seasoned veterans of the genre will have to rethink their typical survival approach and how they interact with the world around them. Play solo or with friends, follow the story or simply explore — just don’t forget your most important gadget.</description>
+</item>
+<item>
+<title>Ship Explorer</title>
+<link>https://store.steampowered.com/app/3700470/</link>
+<guid isPermaLink="false">3700470</guid>
+<pubDate>Wed, 21 Oct 2026 21:25:22 +0000</pubDate>
+<description>You know their stories. Now it's time to step aboard! Board iconic ocean liner and warships from history like SS United States, Morro Castle and more as you explore and learn about the secrets that made them into legends.</description>
+</item>
 <item>
 <title>Dearbnb</title>
 <link>https://store.steampowered.com/app/4338180/</link>
@@ -27,13 +48,6 @@
 <description>The epic tower defense dark fantasy journey continues! Create powerful gems with various abilities and take on the battle against an endlessly flowing army of monsters, and face the growing darkness as you fight your way back towards the Spiritforge.</description>
 </item>
 <item>
-<title>Stronghold Legends: Steam Edition</title>
-<link>https://store.steampowered.com/app/40980/</link>
-<guid isPermaLink="false">40980</guid>
-<pubDate>Wed, 21 Oct 2026 16:52:08 +0000</pubDate>
-<description>Catapult werewolves over castle walls, incinerate troops with dragon fire and command the Knights of the Round Table! This remaster of the mythical ‘castle sim’ features Steam multiplayer, Workshop support, new maps, achievements and DLC campaigns.</description>
-</item>
-<item>
 <title>Dementium: The Ward</title>
 <link>https://store.steampowered.com/app/3909960/</link>
 <guid isPermaLink="false">3909960</guid>
@@ -41,67 +55,11 @@
 <description>Classic DS horror reborn. Awaken in an abandoned hospital with no memory, no escape and unspeakable horrors lurking in the dark. The horror classic Dementium: The Ward returns, enhanced for 4K display and Steam Deck Verified, where every shadow hides a new threat, and every corridor a new nightmare.</description>
 </item>
 <item>
-<title>Confidential Killings - A Detective Game</title>
-<link>https://store.steampowered.com/app/2797960/</link>
-<guid isPermaLink="false">2797960</guid>
-<pubDate>Wed, 21 Oct 2026 03:53:59 +0000</pubDate>
-<description>A series of murders is shocking Hollywood! Use your detective skills: search the crime scene, find clues, solve the mystery. Who is pulling the strings behind these Confidential Killings?</description>
-</item>
-<item>
 <title>We Were Here Tomorrow</title>
 <link>https://store.steampowered.com/app/2315050/</link>
 <guid isPermaLink="false">2315050</guid>
 <pubDate>Wed, 21 Oct 2026 03:53:59 +0000</pubDate>
 <description>You and your partner awaken inside a mysterious Norček facility with little recollection of how you got there. Communicate, cooperate, and unravel the secrets in this asymmetrical co-op adventure. Only together will you decide the fate of Tomorrow…</description>
-</item>
-<item>
-<title>DreamWorks Shrek 2 Remastered</title>
-<link>https://store.steampowered.com/app/2523740/</link>
-<guid isPermaLink="false">2523740</guid>
-<pubDate>Tue, 20 Oct 2026 21:24:06 +0000</pubDate>
-<description>DreamWorks Shrek 2 Remastered: The cult-classic, button-mashing co-op adventure is back with all your favorite characters and improved graphics.</description>
-</item>
-<item>
-<title>Fallout 4 - Creations Bundle</title>
-<link>https://store.steampowered.com/app/3868650/</link>
-<guid isPermaLink="false">3868650</guid>
-<pubDate>Tue, 20 Oct 2026 21:24:06 +0000</pubDate>
-<description>Outfit yourself with unique weapons, power armor, building packs, and more with over 150 Creation Club items to expand your adventures through the Commonwealth.</description>
-</item>
-<item>
-<title>Folk-Tography</title>
-<link>https://store.steampowered.com/app/4941420/</link>
-<guid isPermaLink="false">4941420</guid>
-<pubDate>Tue, 20 Oct 2026 21:24:06 +0000</pubDate>
-<description>Folk-Tography is a 4-player co-op cryptid photography extraction game. Photograph legendary creatures, investigate paranormal anomalies, manage scarce resources, and survive various dangers to escape with the evidence before the valley consumes you.</description>
-</item>
-<item>
-<title>Mind Over Magic</title>
-<link>https://store.steampowered.com/app/1270580/</link>
-<guid isPermaLink="false">1270580</guid>
-<pubDate>Tue, 20 Oct 2026 21:24:06 +0000</pubDate>
-<description>Mind Over Magic is a colony sim set at the site of a cursed magic school. Build and optimize your own magical academy, train powerful Mages, and master mighty relics in order to battle through the Underschool, a mysterious underground dungeon that holds the key to liberation from a deadly curse.</description>
-</item>
-<item>
-<title>Small Saga</title>
-<link>https://store.steampowered.com/app/1320140/</link>
-<guid isPermaLink="false">1320140</guid>
-<pubDate>Tue, 20 Oct 2026 21:24:06 +0000</pubDate>
-<description>Beneath the streets of London, an angry mouse seeks revenge against the god who stole his tail. An epic RPG of miniature proportions!</description>
-</item>
-<item>
-<title>Star Trek: Outposts Unknown</title>
-<link>https://store.steampowered.com/app/3469910/</link>
-<guid isPermaLink="false">3469910</guid>
-<pubDate>Tue, 20 Oct 2026 21:24:06 +0000</pubDate>
-<description>Lead your crew across strange new worlds in this narrative driven outpost builder! Research, explore, and build as you face a mysterious cosmic force that threatens a new ally. Your adventure awaits, Captain!</description>
-</item>
-<item>
-<title>The Walking Dead: Streets of Survival</title>
-<link>https://store.steampowered.com/app/3777850/</link>
-<guid isPermaLink="false">3777850</guid>
-<pubDate>Tue, 20 Oct 2026 21:24:06 +0000</pubDate>
-<description>Fight walkers as Rick Grimes, Daryl Dixon, Michonne, and unlockable Negan in a brutal arcade brawler set in the world of AMC’s The Walking Dead. Face ruthless enemies like the Saviors and overwhelming walker swarms as you unleash relentless combos, signature weapon attacks, and crushing finishers.</description>
 </item>
 <item>
 <title>Squad Weapon Skins - Recon Team Pack</title>
