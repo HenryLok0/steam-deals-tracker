@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T16:52:00+00:00",
+  "updated_at": "2026-10-22T18:57:28+00:00",
   "total_count": 4602,
   "active_count": 349,
   "games": [
@@ -1784,6 +1784,31 @@
           "currency": "USD",
           "original": 999,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 1980
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 5600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 1260
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 36000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 330000
         }
       },
       "review_hint": "Positive<br>100% of the 32 user reviews for this game are positive.",
@@ -1798,7 +1823,7 @@
       "search_text": "automobilista 2 - endurance pack pt3 automobilista 2 - endurance pack pt3 the third part of the endurance pack introduces aston martin to ams2, including the mighty valkyrie hypercar as well as the latest vantage gt3 evo. action indie racing simulation sports single-player multi-player pvp online pvp lan pvp downloadable content full controller support family sharing english french german spanish-spain portuguese-brazil spanish-latin positive positive<br>100% of the 32 user reviews for this game are positive.",
       "first_seen": "2026-10-22T16:52:00+00:00",
       "last_seen": "2026-10-22T16:52:00+00:00",
-      "updated_at": "2026-10-22T16:52:00+00:00"
+      "updated_at": "2026-10-22T18:57:28+00:00"
     },
     {
       "app_id": 4674630,
@@ -1858,6 +1883,31 @@
           "currency": "USD",
           "original": 999,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6100,
+          "final": 1830
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21600,
+          "final": 6400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 1260
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 135000,
+          "final": 40500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 315000
         }
       },
       "review_hint": "Positive<br>95% of the 22 user reviews for this game are positive.",
@@ -1872,7 +1922,7 @@
       "search_text": "automobilista 2 - historical endurance pack pt2: 2005 endurance automobilista 2 - historical endurance pack pt2: 2005 endurance the second pack of historical endurance cars, once again focused on 2005-era gt cars. action indie racing simulation sports single-player multi-player pvp online pvp lan pvp downloadable content full controller support family sharing english french german spanish-spain portuguese-brazil spanish-latin positive positive<br>95% of the 22 user reviews for this game are positive.",
       "first_seen": "2026-10-22T16:52:00+00:00",
       "last_seen": "2026-10-22T16:52:00+00:00",
-      "updated_at": "2026-10-22T16:52:00+00:00"
+      "updated_at": "2026-10-22T18:57:28+00:00"
     },
     {
       "app_id": 3022980,
@@ -2032,6 +2082,31 @@
           "currency": "USD",
           "original": 1000,
           "final": 900
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7200,
+          "final": 6480
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29000,
+          "final": 26100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4000,
+          "final": 3600
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 150000,
+          "final": 135000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1500000,
+          "final": 1350000
         }
       },
       "review_hint": "Mostly Positive<br>78% of the 14 user reviews for this game are positive.",
@@ -2046,7 +2121,7 @@
       "search_text": "azure striker gunvolt trilogy enhanced - additional mode \"azure striker gunvolt gx\" azure striker gunvolt trilogy enhanced - additional mode \"azure striker gunvolt gx\" &quot;azure striker gunvolt gx&quot; adds a new mode featuring copen, protagonist of the spin-off luminous avenger ix 2, fighting alongside gunvolt. action adventure single-player downloadable content steam achievements full controller support gamepad recommended dualshock controller support dualsense controller support steam cloud family sharing english schinese tchinese japanese korean french italian german spanish-spain portuguese-brazil 9 user reviews mostly positive<br>78% of the 14 user reviews for this game are positive.",
       "first_seen": "2026-10-22T16:52:00+00:00",
       "last_seen": "2026-10-22T16:52:00+00:00",
-      "updated_at": "2026-10-22T16:52:00+00:00"
+      "updated_at": "2026-10-22T18:57:28+00:00"
     },
     {
       "app_id": 924970,
@@ -12497,6 +12572,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14500,
+          "final": 11600
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 46900,
+          "final": 37500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9300,
+          "final": 7440
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 315000,
+          "final": 252000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2650000,
+          "final": 2120000
         }
       },
       "review_hint": "",
@@ -12511,7 +12611,7 @@
       "search_text": "groundwork simulator groundwork simulator dig, haul and wash for gold in an open-world heavy machinery simulator. operate excavators, wheel loaders and bulldozers, reshape the terrain and build your washing setup. work solo or team up in online co-op to turn untouched ground into a working site. simulation early access single-player multi-player co-op online co-op custom volume controls adjustable difficulty playable without timed input save anytime family sharing english french italian german spanish-spain portuguese-brazil bulgarian tchinese schinese danish finnish greek hungarian indonesian japanese korean malay dutch norwegian ukrainian polish portuguese---portugal romanian russian spanish-latin thai czech turkish vietnamese swedish negative",
       "first_seen": "2026-10-22T11:24:50+00:00",
       "last_seen": "2026-10-22T16:52:00+00:00",
-      "updated_at": "2026-10-22T16:52:00+00:00"
+      "updated_at": "2026-10-22T18:57:28+00:00"
     },
     {
       "app_id": 493520,
@@ -12681,6 +12781,31 @@
           "currency": "USD",
           "original": 666,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3999,
+          "final": 2999
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 13000,
+          "final": 9700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 2100
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 74900,
+          "final": 56100
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 700000,
+          "final": 525000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>95% of the 21,309 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -12695,7 +12820,7 @@
       "search_text": "halls of torment halls of torment slay hordes of terrifying monsters in this horde survival roguelite. descend into the halls of torment where the lords of the underworld await you. treasures, magical trinkets, and a growing cast of heroes will grant you the power to vanquish these horrors from beyond. how long can you survive? action indie rpg single-player steam achievements full controller support steam trading cards custom volume controls keyboard only option mouse only option playable without timed input steam cloud family sharing english french italian german spanish-spain czech japanese korean polish portuguese-brazil portuguese---portugal russian schinese spanish-latin ukrainian tchinese vietnamese overwhelmingly positive overwhelmingly positive<br>95% of the 21,309 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-22T16:52:00+00:00",
       "last_seen": "2026-10-22T16:52:00+00:00",
-      "updated_at": "2026-10-22T16:52:00+00:00"
+      "updated_at": "2026-10-22T18:57:28+00:00"
     },
     {
       "app_id": 2878600,
@@ -15141,6 +15266,31 @@
           "currency": "USD",
           "original": 999,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6100,
+          "final": 5490
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 16900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 3780
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 130000,
+          "final": 117000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 945000
         }
       },
       "review_hint": "Mostly Positive<br>72% of the 37 user reviews for this game are positive.",
@@ -15155,7 +15305,7 @@
       "search_text": "laid-back camp all -in -one!! chill time laid-back camp all -in -one!! chill time right beside you as you sit at your desk, rin, nadeshiko, and the others are out camping again today. you can focus on your work or studies while watching them. create your own unique campsite using over 1,000 types of gear, and watch your focused time accumulate in your diary. casual single-player family sharing english tchinese japanese korean 9 user reviews mostly positive<br>72% of the 37 user reviews for this game are positive.",
       "first_seen": "2026-10-22T16:52:00+00:00",
       "last_seen": "2026-10-22T16:52:00+00:00",
-      "updated_at": "2026-10-22T16:52:00+00:00"
+      "updated_at": "2026-10-22T18:57:28+00:00"
     },
     {
       "app_id": 313690,
@@ -18005,6 +18155,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 2249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14500,
+          "final": 13050
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 46900,
+          "final": 42200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9300,
+          "final": 8370
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 315000,
+          "final": 283500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2650000,
+          "final": 2385000
         }
       },
       "review_hint": "",
@@ -18019,7 +18194,7 @@
       "search_text": "moadra moadra endure... evolve... or die. embrace the unknown and traverse a vast alien world riddled with bizarre creatures, deadly hazards, and grim mysteries. seek redemption, and confront the terrifying sin buried in the depths of the forgotten planet protea vi. action adventure indie single-player steam achievements full controller support adjustable text size camera comfort custom volume controls playable without timed input dualshock controller support dualsense controller support dualsense controller support subtitle options steam cloud family sharing english french german japanese korean portuguese-brazil russian schinese spanish-latin 3 user reviews",
       "first_seen": "2026-10-22T11:24:50+00:00",
       "last_seen": "2026-10-22T16:52:00+00:00",
-      "updated_at": "2026-10-22T16:52:00+00:00"
+      "updated_at": "2026-10-22T18:57:28+00:00"
     },
     {
       "app_id": 2356560,
@@ -23093,6 +23268,31 @@
           "currency": "USD",
           "original": 1799,
           "final": 1439
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9200,
+          "final": 7360
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 36000,
+          "final": 28800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6800,
+          "final": 5440
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 198000,
+          "final": 158400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1900000,
+          "final": 1520000
         }
       },
       "review_hint": "",
@@ -23107,7 +23307,7 @@
       "search_text": "red chat ritual  – tsumimi time red chat ritual  – tsumimi time “intervene in tsumimi’s stream” through comments and mega chats, then use your deductions to change their fate in this 15-day psychological horror adventure. adventure indie single-player steam achievements remote play on tablet family sharing english schinese tchinese japanese 1 user reviews",
       "first_seen": "2026-10-22T11:24:50+00:00",
       "last_seen": "2026-10-22T16:52:00+00:00",
-      "updated_at": "2026-10-22T16:52:00+00:00"
+      "updated_at": "2026-10-22T18:57:28+00:00"
     },
     {
       "app_id": 1174180,
@@ -28716,6 +28916,31 @@
           "currency": "USD",
           "original": 799,
           "final": 719
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4400,
+          "final": 3960
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15800,
+          "final": 14200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1900,
+          "final": 1710
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 115000,
+          "final": 103500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 895000,
+          "final": 805000
         }
       },
       "review_hint": "",
@@ -28730,7 +28955,7 @@
       "search_text": "soulmask - bone bash soulmask - bone bash welcome to the fiesta of bone bash – yes, you're dead, but that's not the end. you and your tribesmen have simply taken on a far more entertaining form! adventure indie rpg simulation single-player multi-player pvp online pvp lan pvp co-op online co-op lan co-op downloadable content steam achievements steam workshop adjustable text size custom volume controls adjustable difficulty #category_playable_at_your_own_pace playable without timed input save anytime steam cloud family sharing english schinese spanish-spain russian japanese tchinese korean french german portuguese-brazil spanish-latin no user reviews",
       "first_seen": "2026-10-22T16:52:00+00:00",
       "last_seen": "2026-10-22T16:52:00+00:00",
-      "updated_at": "2026-10-22T16:52:00+00:00"
+      "updated_at": "2026-10-22T18:57:28+00:00"
     },
     {
       "app_id": 1934570,
