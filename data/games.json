@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T16:43:16+00:00",
+  "updated_at": "2026-10-23T18:47:46+00:00",
   "total_count": 4643,
   "active_count": 350,
   "games": [
@@ -1780,6 +1780,31 @@
           "currency": "USD",
           "original": 2399,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15500,
+          "final": 11625
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 43000,
+          "final": 32200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9800,
+          "final": 7350
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 340000,
+          "final": 255000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2900000,
+          "final": 2175000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>95% of the 1,275 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -1794,7 +1819,7 @@
       "search_text": "back to the dawn back to the dawn back to the dawn is a story-rich rpg set in a high-security prison ruled by factions and buried secrets. investigate two conspiracies from the inside, gather evidence, and outsmart a system designed to silence you. make friends (or foes) with fellow inmates and with their help, break out of prison. adventure indie rpg simulation strategy single-player steam achievements full controller support steam trading cards color alternatives adjustable difficulty stereo sound steam cloud family sharing schinese english japanese tchinese korean russian spanish-latin vietnamese german overwhelmingly positive<br>95% of the 1,275 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-23T11:15:02+00:00",
       "last_seen": "2026-10-23T16:43:16+00:00",
-      "updated_at": "2026-10-23T16:43:16+00:00"
+      "updated_at": "2026-10-23T18:47:46+00:00"
     },
     {
       "app_id": 4159680,
@@ -14934,6 +14959,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 2500
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 6500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 1520
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 46000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 430000
         }
       },
       "review_hint": "Very Positive<br>83% of the 2,111 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -14948,7 +14998,7 @@
       "search_text": "iconoclasts iconoclasts join renegade mechanic robin and uncover the secrets of a dying planet. explore a big world filled with intricate puzzles, interesting characters and menacing bosses in a beautiful platform adventure that tells a personal story about faith, purpose and the challenge of helping people. action adventure indie single-player steam achievements full controller support steam trading cards steam cloud remote play on tv family sharing english french german spanish-spain japanese schinese tchinese korean very positive<br>83% of the 2,111 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-23T16:43:16+00:00",
       "last_seen": "2026-10-23T16:43:16+00:00",
-      "updated_at": "2026-10-23T16:43:16+00:00"
+      "updated_at": "2026-10-23T18:47:46+00:00"
     },
     {
       "app_id": 581320,
@@ -16227,6 +16277,31 @@
           "currency": "USD",
           "original": 1599,
           "final": 1119
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10200,
+          "final": 7140
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27800,
+          "final": 19400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6200,
+          "final": 4340
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 180000,
+          "final": 126000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1750000,
+          "final": 1225000
         }
       },
       "review_hint": "Very Positive<br>93% of the 1,489 user reviews for this game are positive.",
@@ -16241,7 +16316,7 @@
       "search_text": "liftoff®: micro drones liftoff®: micro drones explore the world of fpv like never before! in liftoff®: micro drones any indoor area becomes an exciting aerial playground. explore, customize and compete in this simulator dedicated to the micro drones class. action racing simulation sports single-player multi-player pvp online pvp gamepad recommended dualshock controller support dualshock controller support dualsense controller support dualsense controller support partial controller support family sharing english french very positive<br>93% of the 1,489 user reviews for this game are positive.",
       "first_seen": "2026-10-23T16:43:16+00:00",
       "last_seen": "2026-10-23T16:43:16+00:00",
-      "updated_at": "2026-10-23T16:43:16+00:00"
+      "updated_at": "2026-10-23T18:47:46+00:00"
     },
     {
       "app_id": 860510,
@@ -18915,6 +18990,31 @@
           "currency": "USD",
           "original": 899,
           "final": 764
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5300,
+          "final": 4505
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 16800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3600,
+          "final": 3060
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 115000,
+          "final": 97700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 965000,
+          "final": 820000
         }
       },
       "review_hint": "Positive<br>86% of the 22 user reviews for this game are positive.",
@@ -18929,7 +19029,7 @@
       "search_text": "moon sweepers moon sweepers an entire moon to clean. one toothbrush to start. team up with up to 16 players, collect and sell lunar dust, upgrade your tools, and unlock cleaning vehicles. turn a ridiculous job into a thriving operation, if your friends actually help. action adventure casual indie simulation strategy single-player multi-player co-op online co-op steam achievements full controller support custom volume controls #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam input api support stereo sound steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil portuguese---portugal russian schinese tchinese spanish-latin danish finnish norwegian swedish turkish positive<br>86% of the 22 user reviews for this game are positive.",
       "first_seen": "2026-10-23T11:15:02+00:00",
       "last_seen": "2026-10-23T16:43:16+00:00",
-      "updated_at": "2026-10-23T16:43:16+00:00"
+      "updated_at": "2026-10-23T18:47:46+00:00"
     },
     {
       "app_id": 2209900,
@@ -20714,6 +20814,31 @@
           "currency": "USD",
           "original": 1799,
           "final": 1439
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10500,
+          "final": 8400
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 34300,
+          "final": 27400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6800,
+          "final": 5440
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 225000,
+          "final": 180000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1900000,
+          "final": 1520000
         }
       },
       "review_hint": "Very Positive<br>86% of the 205 user reviews for this game are positive.",
@@ -20728,7 +20853,7 @@
       "search_text": "one way tickets one way tickets “one way tickets” is a roguelite incremental adventure game where you embark on a exciting journey in a fantasy world. choose your vehicle, equip your device and face challenges from all kinds of enemies. ram! unload bullets! swing with all your might! keep growing and push forward! action adventure indie racing early access single-player steam achievements custom volume controls mouse only option playable without timed input family sharing english schinese tchinese very positive<br>86% of the 205 user reviews for this game are positive.",
       "first_seen": "2026-10-23T11:15:02+00:00",
       "last_seen": "2026-10-23T16:43:16+00:00",
-      "updated_at": "2026-10-23T16:43:16+00:00"
+      "updated_at": "2026-10-23T18:47:46+00:00"
     },
     {
       "app_id": 4094350,
@@ -32559,6 +32684,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1124
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8499,
+          "final": 6374
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29900,
+          "final": 22400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4900,
+          "final": 3675
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 150000,
+          "final": 112500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1500000,
+          "final": 1125000
         }
       },
       "review_hint": "",
@@ -32573,7 +32723,7 @@
       "search_text": "under canopies under canopies forget the stress of survival. in this cozy open-world sim, you don't fight nature, you join it. build your dream cabin piece by piece, cook complex meals with crops you watered yourself, and fill your photo album with rare wildlife. a serene experience where the only enemy is inefficiency. adventure indie simulation early access single-player steam cloud family sharing english spanish-spain japanese russian german french italian portuguese-brazil portuguese---portugal schinese",
       "first_seen": "2026-10-23T16:43:16+00:00",
       "last_seen": "2026-10-23T16:43:16+00:00",
-      "updated_at": "2026-10-23T16:43:16+00:00"
+      "updated_at": "2026-10-23T18:47:46+00:00"
     },
     {
       "app_id": 391540,
