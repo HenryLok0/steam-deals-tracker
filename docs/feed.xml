@@ -4,7 +4,28 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Fri, 23 Oct 2026 11:15:02 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 16:43:16 +0000</lastBuildDate>
+<item>
+<title>Iconoclasts</title>
+<link>https://store.steampowered.com/app/393520/</link>
+<guid isPermaLink="false">393520</guid>
+<pubDate>Fri, 23 Oct 2026 16:43:16 +0000</pubDate>
+<description>Join renegade mechanic Robin and uncover the secrets of a dying planet. Explore a big world filled with intricate puzzles, interesting characters and menacing bosses in a beautiful platform adventure that tells a personal story about faith, purpose and the challenge of helping people.</description>
+</item>
+<item>
+<title>Liftoff®: Micro Drones</title>
+<link>https://store.steampowered.com/app/1432320/</link>
+<guid isPermaLink="false">1432320</guid>
+<pubDate>Fri, 23 Oct 2026 16:43:16 +0000</pubDate>
+<description>Explore the world of FPV like never before! In Liftoff®: Micro Drones any indoor area becomes an exciting aerial playground. Explore, customize and compete in this simulator dedicated to the micro drones class.</description>
+</item>
+<item>
+<title>Under Canopies</title>
+<link>https://store.steampowered.com/app/2939510/</link>
+<guid isPermaLink="false">2939510</guid>
+<pubDate>Fri, 23 Oct 2026 16:43:16 +0000</pubDate>
+<description>Forget the stress of survival. In this cozy open-world sim, you don't fight nature, you join it. Build your dream cabin piece by piece, cook complex meals with crops you watered yourself, and fill your photo album with rare wildlife. A serene experience where the only enemy is inefficiency.</description>
+</item>
 <item>
 <title>Back to the Dawn</title>
 <link>https://store.steampowered.com/app/1735700/</link>
@@ -27,25 +48,11 @@
 <description>“One Way Tickets” is a roguelite incremental adventure game where you embark on a exciting journey in a fantasy world. Choose your vehicle, equip your device and face challenges from all kinds of enemies. Ram! Unload bullets! Swing with all your might! Keep growing and push forward!</description>
 </item>
 <item>
-<title>Burg Tag</title>
-<link>https://store.steampowered.com/app/4297360/</link>
-<guid isPermaLink="false">4297360</guid>
-<pubDate>Fri, 23 Oct 2026 03:57:30 +0000</pubDate>
-<description>A fast-paced online multiplayer game of tag built around ridiculously satisfying movement. Wall kick, swing, slide and roll through colourful maps, and do whatever it takes to escape your friends... or tag them. No friends? Run a time trial!</description>
-</item>
-<item>
 <title>Dungeon Inn</title>
 <link>https://store.steampowered.com/app/2552310/</link>
 <guid isPermaLink="false">2552310</guid>
 <pubDate>Fri, 23 Oct 2026 03:57:30 +0000</pubDate>
 <description>This is a cozy strategy management game where you manage an inn placed cleverly at the mouth of a dungeon. Juggle visits and business from 2 rivaling guilds, maximize profits, but keep your double-dealing a secret! Keep everyone happy and watch your inn thrive!</description>
-</item>
-<item>
-<title>REAL BOUT FATAL FURY 2: THE NEWCOMERS</title>
-<link>https://store.steampowered.com/app/3359900/</link>
-<guid isPermaLink="false">3359900</guid>
-<pubDate>Fri, 23 Oct 2026 03:57:30 +0000</pubDate>
-<description>1998 arcade fighter REAL BOUT FATAL FURY 2: THE NEWCOMERS is now on Steam! Featuring the largest roster in the series, 23 characters are back and ready to GET IN THE RING! Also with rollback netcode and a host of new features!</description>
 </item>
 <item>
 <title>Sker Ritual</title>
@@ -95,6 +102,13 @@
 <guid isPermaLink="false">1546080</guid>
 <pubDate>Thu, 22 Oct 2026 21:20:12 +0000</pubDate>
 <description>Turn-based tactics meets real-time choices. Control each moment of combat: react to enemy fire, aim your shots, and interrupt enemies on-the-fly. Transform a trio of ragtag civilians into seasoned soldiers - and escape the alien timeloop.</description>
+</item>
+<item>
+<title>Farming Simulator 25: Beans &amp; Alpacas Expansion</title>
+<link>https://store.steampowered.com/app/4404070/</link>
+<guid isPermaLink="false">4404070</guid>
+<pubDate>Thu, 22 Oct 2026 21:20:12 +0000</pubDate>
+<description>Build your coffee estate and grow a warmer kind of farm life in Catuaí, a South America-inspired region shaped by coffee terraces, red soil and lush hills. Grow coffee beans, raise alpacas and Brahman cows, start new production chains and operate 25+ new machines!</description>
 </item>
 <item>
 <title>Katamari Damacy REROLL</title>
@@ -181,13 +195,6 @@
 <description>A secluded school might finally be Clementine’s chance for a home, but protecting it will mean sacrifice.</description>
 </item>
 <item>
-<title>Automobilista 2 - Endurance Pack Pt3</title>
-<link>https://store.steampowered.com/app/3532160/</link>
-<guid isPermaLink="false">3532160</guid>
-<pubDate>Thu, 22 Oct 2026 16:52:00 +0000</pubDate>
-<description>The third part of the Endurance Pack introduces Aston Martin to AMS2, including the mighty Valkyrie Hypercar as well as the latest Vantage GT3 Evo.</description>
-</item>
-<item>
 <title>Automobilista 2 - Historical Endurance Pack Pt2: 2005 Endurance</title>
 <link>https://store.steampowered.com/app/4674630/</link>
 <guid isPermaLink="false">4674630</guid>
@@ -209,39 +216,11 @@
 <description>Slay hordes of terrifying monsters in this horde survival roguelite. Descend into the Halls of Torment where the Lords of the underworld await you. Treasures, magical trinkets, and a growing cast of heroes will grant you the power to vanquish these horrors from beyond. How long can you survive?</description>
 </item>
 <item>
-<title>Laid-Back Camp All -in -one!! Chill Time</title>
-<link>https://store.steampowered.com/app/5063150/</link>
-<guid isPermaLink="false">5063150</guid>
-<pubDate>Thu, 22 Oct 2026 16:52:00 +0000</pubDate>
-<description>Right beside you as you sit at your desk, Rin, Nadeshiko, and the others are out camping again today. You can focus on your work or studies while watching them. Create your own unique campsite using over 1,000 types of gear, and watch your focused time accumulate in your diary.</description>
-</item>
-<item>
 <title>Soulmask - Bone Bash</title>
 <link>https://store.steampowered.com/app/5165820/</link>
 <guid isPermaLink="false">5165820</guid>
 <pubDate>Thu, 22 Oct 2026 16:52:00 +0000</pubDate>
 <description>Welcome to the fiesta of Bone Bash – yes, you're dead, but that's not the end. You and your tribesmen have simply taken on a far more entertaining form!</description>
-</item>
-<item>
-<title>Groundwork Simulator</title>
-<link>https://store.steampowered.com/app/5306540/</link>
-<guid isPermaLink="false">5306540</guid>
-<pubDate>Thu, 22 Oct 2026 11:24:50 +0000</pubDate>
-<description>Dig, haul and wash for gold in an open-world heavy machinery simulator. Operate excavators, wheel loaders and bulldozers, reshape the terrain and build your washing setup. Work solo or team up in online co-op to turn untouched ground into a working site.</description>
-</item>
-<item>
-<title>Moadra</title>
-<link>https://store.steampowered.com/app/1713730/</link>
-<guid isPermaLink="false">1713730</guid>
-<pubDate>Thu, 22 Oct 2026 11:24:50 +0000</pubDate>
-<description>Endure... Evolve... or die. Embrace the unknown and traverse a vast alien world riddled with bizarre creatures, deadly hazards, and grim mysteries. Seek redemption, and confront the terrifying sin buried in the depths of the forgotten planet Protea VI.</description>
-</item>
-<item>
-<title>Red Chat Ritual  – TSUMIMI TIME</title>
-<link>https://store.steampowered.com/app/4413070/</link>
-<guid isPermaLink="false">4413070</guid>
-<pubDate>Thu, 22 Oct 2026 11:24:50 +0000</pubDate>
-<description>“Intervene in Tsumimi’s stream” through comments and Mega Chats, then use your deductions to change their fate in this 15-day psychological horror adventure.</description>
 </item>
 <item>
 <title>Squad Weapon Skins - Recon Team Pack</title>
