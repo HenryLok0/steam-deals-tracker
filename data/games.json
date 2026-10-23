@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T03:57:30+00:00",
+  "updated_at": "2026-10-23T08:09:09+00:00",
   "total_count": 4637,
   "active_count": 350,
   "games": [
@@ -1878,6 +1878,31 @@
           "currency": "USD",
           "original": 999,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 1980
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 5600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 1260
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 36000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 330000
         }
       },
       "review_hint": "Positive<br>85% of the 21 user reviews for this game are positive.",
@@ -1892,7 +1917,7 @@
       "search_text": "automobilista 2 - lamborghini dream pack pt1 automobilista 2 - lamborghini dream pack pt1 first of two parts of the lamborghini dream pack, featuring four models from the iconic italian manufacturer. action indie racing simulation sports single-player multi-player pvp online pvp lan pvp downloadable content full controller support family sharing english french german spanish-spain portuguese-brazil spanish-latin mostly positive positive<br>85% of the 21 user reviews for this game are positive.",
       "first_seen": "2026-10-22T21:20:12+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 5165600,
@@ -3594,6 +3619,31 @@
           "currency": "USD",
           "original": 499,
           "final": 424
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3000,
+          "final": 2550
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 11700,
+          "final": 9900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1870
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 65500,
+          "final": 55600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 545000,
+          "final": 463000
         }
       },
       "review_hint": "Positive<br>92% of the 13 user reviews for this game are positive.",
@@ -3608,7 +3658,7 @@
       "search_text": "burg tag burg tag a fast-paced online multiplayer game of tag built around ridiculously satisfying movement. wall kick, swing, slide and roll through colourful maps, and do whatever it takes to escape your friends... or tag them. no friends? run a time trial! action indie single-player multi-player pvp online pvp camera comfort color alternatives custom volume controls adjustable difficulty playable without timed input save anytime stereo sound surround sound family sharing english positive<br>92% of the 13 user reviews for this game are positive.",
       "first_seen": "2026-10-23T03:57:30+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 3844970,
@@ -7350,6 +7400,31 @@
           "currency": "USD",
           "original": 1099,
           "final": 879
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7200,
+          "final": 5760
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 15800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4600,
+          "final": 3680
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 130000,
+          "final": 104000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1250000,
+          "final": 1000000
         }
       },
       "review_hint": "Very Positive<br>90% of the 280 user reviews for this game are positive.",
@@ -7364,7 +7439,7 @@
       "search_text": "dispatch - digital deluxe edition upgrade dispatch - digital deluxe edition upgrade this content requires the base game https://store.steampowered.com/app/2592160/dispatch/ on steam in order to play. adventure casual indie strategy single-player downloadable content full controller support adjustable text size camera comfort color alternatives custom volume controls keyboard only option mouse only option playable without timed input subtitle options touch only option steam cloud family sharing english very positive very positive<br>90% of the 280 user reviews for this game are positive.",
       "first_seen": "2026-10-22T21:20:12+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 1637320,
@@ -7865,6 +7940,31 @@
           "currency": "USD",
           "original": 699,
           "final": 349
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3800,
+          "final": 1900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 13800,
+          "final": 6900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1200,
+          "final": 600
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 72000,
+          "final": 36000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 750000,
+          "final": 375000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>96% of the 1,505 user reviews for this game are positive.",
@@ -7879,7 +7979,7 @@
       "search_text": "don't starve: reign of giants don't starve: reign of giants don’t starve: reign of giants is an expansion pack that adds new characters, seasons, creatures, biomes, and other challenges to don’t starve.the entire world of don’t starve has been expanded and is now even more uncompromising! new mysteries, challenges and scientific innovations await your discovery. adventure indie simulation single-player downloadable content steam trading cards steam workshop partial controller support steam cloud family sharing english schinese overwhelmingly positive overwhelmingly positive<br>96% of the 1,505 user reviews for this game are positive.",
       "first_seen": "2026-10-22T21:20:12+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 393010,
@@ -7933,6 +8033,31 @@
           "currency": "USD",
           "original": 699,
           "final": 349
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3800,
+          "final": 1900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 13800,
+          "final": 6900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1200,
+          "final": 600
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 72000,
+          "final": 36000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 750000,
+          "final": 375000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>95% of the 1,126 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -7947,7 +8072,7 @@
       "search_text": "don't starve: shipwrecked don't starve: shipwrecked sail to adventure through the treacherous seas of don't starve: shipwrecked! with new playable characters, biomes, creatures and seasonal effects; wilson and the whole don’t starve cast of characters embark on a sea-bound journey of exploration, adaptation and of course, starvation. adventure indie simulation single-player downloadable content full controller support steam trading cards steam workshop steam cloud family sharing english schinese overwhelmingly positive overwhelmingly positive<br>95% of the 1,126 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-22T21:20:12+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 678950,
@@ -8837,6 +8962,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8700,
+          "final": 6960
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 30800,
+          "final": 24600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4900,
+          "final": 3920
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 180000,
+          "final": 144000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1950000,
+          "final": 1560000
         }
       },
       "review_hint": "Very Positive<br>92% of the 598 user reviews for this game are positive.",
@@ -8851,7 +9001,7 @@
       "search_text": "dungeon inn dungeon inn this is a cozy strategy management game where you manage an inn placed cleverly at the mouth of a dungeon. juggle visits and business from 2 rivaling guilds, maximize profits, but keep your double-dealing a secret! keep everyone happy and watch your inn thrive! casual indie simulation strategy single-player full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing english korean japanese schinese tchinese very positive<br>92% of the 598 user reviews for this game are positive.",
       "first_seen": "2026-10-23T03:57:30+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 3845070,
@@ -9754,6 +9904,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14900,
+          "final": 5960
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 59900,
+          "final": 23900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9900,
+          "final": 3960
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 298000,
+          "final": 119200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2990000,
+          "final": 1196000
         }
       },
       "review_hint": "Mostly Positive<br>72% of the 388 user reviews for this game are positive.",
@@ -9768,7 +9943,7 @@
       "search_text": "every day we fight every day we fight turn-based tactics meets real-time choices. control each moment of combat: react to enemy fire, aim your shots, and interrupt enemies on-the-fly. transform a trio of ragtag civilians into seasoned soldiers - and escape the alien timeloop. action rpg strategy single-player steam achievements full controller support steam trading cards adjustable text size custom volume controls adjustable difficulty save anytime stereo sound subtitle options steam cloud family sharing english french german spanish-spain japanese korean schinese tchinese russian portuguese-brazil polish very positive mostly positive<br>72% of the 388 user reviews for this game are positive.",
       "first_seen": "2026-10-22T21:20:12+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 1065310,
@@ -15559,6 +15734,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14900,
+          "final": 3725
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 59000,
+          "final": 14700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8800,
+          "final": 2200
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 352000,
+          "final": 88000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2680000,
+          "final": 670000
         }
       },
       "review_hint": "Very Positive<br>93% of the 3,919 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -15573,7 +15773,7 @@
       "search_text": "katamari damacy reroll katamari damacy reroll the beloved roll-em-up game returns with fully updated graphics, completely recreated cutscenes and in full hd! action casual single-player multi-player pvp shared/split screen pvp steam achievements full controller support steam trading cards dualshock controller support dualshock controller support steam cloud remote play together family sharing english french italian german spanish-spain japanese very positive very positive<br>93% of the 3,919 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-22T21:20:12+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 233860,
@@ -17306,6 +17506,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 974
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7600,
+          "final": 5700
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27500,
+          "final": 20600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5200,
+          "final": 3900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 127500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1400000,
+          "final": 1050000
         }
       },
       "review_hint": "",
@@ -17320,7 +17545,7 @@
       "search_text": "midnight launch: a gameshop sim midnight launch: a gameshop sim run a gameshop set in the early 2000's. manage your products for sale such as games, consoles, and accessories. customize your store and your character to make it your own. play solo or enjoy up to a 4 player co-op and run the store your way. casual indie simulation early access single-player multi-player co-op online co-op custom volume controls #category_playable_at_your_own_pace playable without timed input save anytime stereo sound family sharing english welsh 7 user reviews",
       "first_seen": "2026-10-22T21:20:12+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 1270580,
@@ -18232,6 +18457,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 239
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6200,
+          "final": 1240
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 22600,
+          "final": 4500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4100,
+          "final": 820
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 122000,
+          "final": 24400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1250000,
+          "final": 250000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>95% of the 9,026 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -18246,7 +18496,7 @@
       "search_text": "monster prom monster prom you have 3 weeks to get a date for monster prom! go through absurd and funny situations, raise your stats and seduce one of your classmates. beautiful art, bold, unapologetic dialogue and hard choices make up this multiplayer (1-4 players) dating sim. be your worst self. indie simulation single-player multi-player pvp online pvp shared/split screen pvp shared/split screen steam achievements steam trading cards partial controller support remote play on phone remote play on tablet remote play together family sharing english schinese tchinese very positive overwhelmingly positive<br>95% of the 9,026 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-22T21:20:12+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 1140270,
@@ -18321,6 +18571,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6200,
+          "final": 1550
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 22600,
+          "final": 5600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4100,
+          "final": 1025
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 125000,
+          "final": 31200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1450000,
+          "final": 362000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>97% of the 4,388 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -18335,7 +18610,7 @@
       "search_text": "monster prom 2: monster camp monster prom 2: monster camp &quot;monster prom 2: monster camp&quot; brings you more of the world's best (and maybe only?) multiplayer dating sim; but in a way you've never expected! indie simulation single-player multi-player pvp online pvp shared/split screen pvp co-op online co-op shared/split screen co-op shared/split screen steam achievements full controller support steam trading cards steam workshop steam workshop camera comfort custom volume controls keyboard only option mouse only option narrated game menus playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support subtitle options touch only option steam cloud remote play on tv remote play together family sharing english overwhelmingly positive overwhelmingly positive<br>97% of the 4,388 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-22T21:20:12+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 1665190,
@@ -18411,6 +18686,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 371
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6200,
+          "final": 1922
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 22600,
+          "final": 7000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4100,
+          "final": 1271
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 125000,
+          "final": 38700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1450000,
+          "final": 449000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>98% of the 2,464 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -18425,7 +18725,7 @@
       "search_text": "monster prom 3: monster roadtrip monster prom 3: monster roadtrip embark on a road trip like no other in this co-op narrative survival adventure. visit fun locations, meet wacky characters, and manage your resources wisely. and yes: you still can date some hot monsters ;) casual indie simulation strategy single-player multi-player pvp online pvp shared/split screen pvp co-op online co-op shared/split screen co-op shared/split screen steam achievements full controller support steam trading cards camera comfort custom volume controls adjustable difficulty keyboard only option mouse only option narrated game menus playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime subtitle options touch only option steam cloud remote play together family sharing english overwhelmingly positive overwhelmingly positive<br>98% of the 2,464 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-22T21:20:12+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 2869860,
@@ -18594,6 +18894,31 @@
           "currency": "USD",
           "original": 599,
           "final": 269
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3500,
+          "final": 1575
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 11800,
+          "final": 5300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2600,
+          "final": 1170
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 62000,
+          "final": 27900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 650000,
+          "final": 292000
         }
       },
       "review_hint": "Very Positive<br>93% of the 277 user reviews for this game are positive.",
@@ -18608,7 +18933,7 @@
       "search_text": "monster prom: second term monster prom: second term second term features all-new characters, narratives and events that will provide you with countless new experiences in your quest of finding monster love. indie simulation single-player multi-player pvp online pvp shared/split screen pvp shared/split screen downloadable content steam achievements steam workshop partial controller support includes level editor remote play together family sharing english schinese very positive very positive<br>93% of the 277 user reviews for this game are positive.",
       "first_seen": "2026-10-22T21:20:12+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 2209900,
@@ -19085,6 +19410,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 974
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 6175
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 17400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 3770
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 110500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 1072000
         }
       },
       "review_hint": "Very Positive<br>94% of the 1,209 user reviews for this game are positive.",
@@ -19099,7 +19449,7 @@
       "search_text": "my card is better than your card! my card is better than your card! become the coolest kid of the playground in this playful roguelike deckbuilder. craft every card yourself with adorable stickers and wow your rivals in tug-of-war card battles full of wonder! casual indie strategy early access single-player steam achievements steam trading cards adjustable text size camera comfort color alternatives #category_contrast_controls custom volume controls adjustable difficulty mouse only option #category_playable_at_your_own_pace playable without timed input steam cloud stats family sharing english french german spanish-spain japanese polish portuguese-brazil schinese korean tchinese russian overwhelmingly positive very positive<br>94% of the 1,209 user reviews for this game are positive.",
       "first_seen": "2026-10-22T21:20:12+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 1084600,
@@ -21881,6 +22231,31 @@
           "currency": "USD",
           "original": 499,
           "final": 0
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3000,
+          "final": 3000
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 11700,
+          "final": 11700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 2200
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 65500,
+          "final": 65500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 545000,
+          "final": 545000
         }
       },
       "review_hint": "",
@@ -21895,7 +22270,7 @@
       "search_text": "popcorn & premieren - ausgehviertel popcorn & premieren - ausgehviertel expand your cinema with a leisure district featuring a pizzeria, beach club, restaurant, ice cream café, arcade, bowling, mini golf, stage and event hall. upgrade businesses, manage your investment and collect parking fees, with real financial risks as well as opportunities. simulation strategy single-player downloadable content steam achievements steam cloud family sharing english german no user reviews",
       "first_seen": "2026-10-22T21:20:12+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 3357650,
@@ -22367,6 +22742,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15500,
+          "final": 3875
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 59500,
+          "final": 14800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 1900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 298000,
+          "final": 74500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2800000,
+          "final": 700000
         }
       },
       "review_hint": "Very Positive<br>81% of the 85 user reviews for this game are positive.",
@@ -22381,7 +22781,7 @@
       "search_text": "real bout fatal fury 2: the newcomers real bout fatal fury 2: the newcomers 1998 arcade fighter real bout fatal fury 2: the newcomers is now on steam! featuring the largest roster in the series, 23 characters are back and ready to get in the ring! also with rollback netcode and a host of new features! action single-player multi-player pvp online pvp shared/split screen pvp shared/split screen steam achievements full controller support gamepad recommended steam cloud steam leaderboards remote play together family sharing english japanese very positive<br>81% of the 85 user reviews for this game are positive.",
       "first_seen": "2026-10-23T03:57:30+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 4413070,
@@ -26557,6 +26957,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 679
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11500,
+          "final": 3910
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37700,
+          "final": 12800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6000,
+          "final": 2040
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 260000,
+          "final": 88400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2100000,
+          "final": 714000
         }
       },
       "review_hint": "Very Positive<br>84% of the 3,997 user reviews for this game are positive.<br><br>This product has experienced one or more periods of off-topic review activity.  Based on your preferences, the reviews within these periods have been excluded from this product's Review Score.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -26571,7 +26996,7 @@
       "search_text": "sker ritual sker ritual tear through endless waves of supernatural enemies in this co-op horror horde shooter. play solo or with up to 4 players, unleash god-like miracle powers, supercharge your arsenal, and survive devastating boss encounters on sker island. action adventure indie single-player multi-player co-op online co-op cross-platform multiplayer steam achievements full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud steam leaderboards family sharing english french italian german spanish-spain japanese korean portuguese-brazil russian schinese turkish welsh czech polish thai tchinese very positive<br>84% of the 3,997 user reviews for this game are positive.<br><br>this product has experienced one or more periods of off-topic review activity.  based on your preferences, the reviews within these periods have been excluded from this product's review score.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-23T03:57:30+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 646570,
@@ -30049,6 +30474,31 @@
           "currency": "USD",
           "original": 2250,
           "final": 1912
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12155,
+          "final": 10331
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 38500,
+          "final": 32700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7834,
+          "final": 6658
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 315100,
+          "final": 267800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2521000,
+          "final": 2143000
         }
       },
       "review_hint": "Very Negative<br>8% of the 203 user reviews for this game are positive.",
@@ -30063,7 +30513,7 @@
       "search_text": "the dead we knew: open world survival the dead we knew: open world survival explore a dangerous open world, loot abandoned places, build your shelter, produce food, and manage your resources. survive alone or in co-op against zombies, hostile humans, and the growing dangers that come with the fog. action adventure rpg simulation early access single-player multi-player co-op online co-op #category_contrast_controls custom volume controls adjustable difficulty #category_playable_at_your_own_pace playable without timed input stereo sound surround sound family sharing english french german schinese japanese spanish-latin russian turkish spanish-spain portuguese-brazil portuguese---portugal italian korean very negative very negative<br>8% of the 203 user reviews for this game are positive.",
       "first_seen": "2026-10-22T21:20:12+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 1455630,
@@ -31021,6 +31471,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 1900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 5300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 1160
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 34000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 330000
         }
       },
       "review_hint": "Mostly Positive<br>77% of the 6,085 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -31035,7 +31510,7 @@
       "search_text": "the walking dead: a new frontier the walking dead: a new frontier after society was ripped apart by undead hands, pockets of civilization emerge from the chaos. but at what cost? can the living be trusted on this new frontier? adventure single-player steam achievements full controller support family sharing english french german spanish-spain arabic portuguese-brazil russian schinese tchinese mostly positive mostly positive<br>77% of the 6,085 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-22T21:20:12+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 429570,
@@ -31088,6 +31563,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 1900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 5300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 1160
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 34000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 330000
         }
       },
       "review_hint": "Mostly Positive<br>77% of the 2,399 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -31102,7 +31602,7 @@
       "search_text": "the walking dead: michonne - a telltale miniseries the walking dead: michonne - a telltale miniseries the walking dead: michonne - a telltale miniseries stars the iconic, blade-wielding character from robert kirkman's best-selling comic books. adventure single-player steam achievements full controller support family sharing english french german spanish-spain portuguese-brazil schinese russian mostly positive<br>77% of the 2,399 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-23T03:57:30+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 261030,
@@ -31149,6 +31649,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 1900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 5300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 1160
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 34000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 330000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>95% of the 13,016 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -31163,7 +31688,7 @@
       "search_text": "the walking dead: season two the walking dead: season two the walking dead: season two continues the story of clementine, a young girl orphaned by the undead apocalypse. left to fend for herself, she has been forced to learn how to survive in a world gone mad. adventure single-player steam achievements full controller support family sharing english overwhelmingly positive overwhelmingly positive<br>95% of the 13,016 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-22T21:20:12+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 866800,
@@ -31217,6 +31742,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 2500
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 6500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 1520
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 46000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 430000
         }
       },
       "review_hint": "Very Positive<br>93% of the 6,527 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -31231,7 +31781,7 @@
       "search_text": "the walking dead: the final season the walking dead: the final season a secluded school might finally be clementine’s chance for a home, but protecting it will mean sacrifice. adventure single-player steam achievements full controller support family sharing english french italian german spanish-spain portuguese-brazil russian schinese tchinese very positive very positive<br>93% of the 6,527 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-22T21:20:12+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 1449690,
@@ -32963,6 +33513,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 2099
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 19800,
+          "final": 13860
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 76800,
+          "final": 53700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 12800,
+          "final": 8960
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 399000,
+          "final": 279300
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3300000,
+          "final": 2310000
         }
       },
       "review_hint": "Mostly Positive<br>70% of the 1,188 user reviews for this game are positive.",
@@ -32977,7 +33552,7 @@
       "search_text": "victoria 3: sphere of influence - expansion victoria 3: sphere of influence - expansion pull other nations into your orbit through diplomatic skill, economic leverage or straightforward bribery. building a durable international faction of like-minded governments, pursuing common goals for a common good and the glory of your power. simulation strategy single-player multi-player pvp online pvp cross-platform multiplayer downloadable content steam achievements steam workshop steam cloud family sharing english french german spanish-spain japanese korean polish portuguese-brazil russian schinese turkish mostly positive<br>70% of the 1,188 user reviews for this game are positive.",
       "first_seen": "2026-10-23T03:57:30+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 1159690,
@@ -64725,6 +65300,31 @@
           "currency": "USD",
           "original": 999,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 1980
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 5600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 1260
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 36000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 330000
         }
       },
       "review_hint": "Very Positive<br>90% of the 53 user reviews for this game are positive.",
@@ -64739,7 +65339,7 @@
       "search_text": "automobilista 2 - circuit des 24 heures du mans automobilista 2 - circuit des 24 heures du mans the mecca of endurance racing arrives to ams2! modelled with the aid of detailed laser scan data this dlc features the modern 24h track along with its shorter bugatti layout. action indie racing simulation sports single-player multi-player pvp online pvp lan pvp downloadable content full controller support family sharing english french german spanish-spain portuguese-brazil spanish-latin positive very positive<br>90% of the 53 user reviews for this game are positive.",
       "first_seen": "2026-10-22T21:20:12+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 2697800,
@@ -64799,6 +65399,31 @@
           "currency": "USD",
           "original": 999,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 1980
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 5600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 1260
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 36000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 330000
         }
       },
       "review_hint": "Very Positive<br>92% of the 79 user reviews for this game are positive.",
@@ -64813,7 +65438,7 @@
       "search_text": "automobilista 2 - endurance pack pt1 automobilista 2 - endurance pack pt1 the initial pack of ultimate endurance racing cars featuring four new gt3 gen2 cars along with three lmdh hypercars. action indie racing simulation sports single-player multi-player pvp online pvp lan pvp downloadable content full controller support family sharing english french german spanish-spain portuguese-brazil spanish-latin very positive very positive<br>92% of the 79 user reviews for this game are positive.",
       "first_seen": "2026-10-22T21:20:12+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 3022990,
@@ -64873,6 +65498,31 @@
           "currency": "USD",
           "original": 999,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 1980
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 5600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 1260
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 36000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 330000
         }
       },
       "review_hint": "Positive<br>96% of the 29 user reviews for this game are positive.",
@@ -64887,7 +65537,7 @@
       "search_text": "automobilista 2 - endurance pack pt2 automobilista 2 - endurance pack pt2 the second part of the endurance pack features one more lmdh / gtp prototype, two lmp2 prototypes and two gt3 gen2 / gtd models. action indie racing simulation sports single-player multi-player pvp online pvp lan pvp downloadable content full controller support family sharing english french german spanish-spain portuguese-brazil spanish-latin positive positive<br>96% of the 29 user reviews for this game are positive.",
       "first_seen": "2026-10-22T21:20:12+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 4044660,
@@ -64947,6 +65597,31 @@
           "currency": "USD",
           "original": 999,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 1980
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 5600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 1260
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 36000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 330000
         }
       },
       "review_hint": "Very Positive<br>94% of the 56 user reviews for this game are positive.",
@@ -64961,7 +65636,7 @@
       "search_text": "automobilista 2 - historical endurance pack pt1: 2005 endurance automobilista 2 - historical endurance pack pt1: 2005 endurance the first pack of historical endurance cars is focused on 2005-era prototypes &amp; gts. action indie racing simulation sports single-player multi-player pvp online pvp lan pvp downloadable content full controller support family sharing english french german spanish-spain portuguese-brazil spanish-latin positive very positive<br>94% of the 56 user reviews for this game are positive.",
       "first_seen": "2026-10-22T21:20:12+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 4674610,
@@ -65021,6 +65696,31 @@
           "currency": "USD",
           "original": 799,
           "final": 239
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4800,
+          "final": 1440
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 17500,
+          "final": 5200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3300,
+          "final": 990
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 105000,
+          "final": 31500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 870000,
+          "final": 261000
         }
       },
       "review_hint": "Positive<br>90% of the 11 user reviews for this game are positive.",
@@ -65035,7 +65735,7 @@
       "search_text": "automobilista 2 - historical track pack pt4 automobilista 2 - historical track pack pt4 the fourth historical track pack features four grade 1 circuits from the 2000´s era. action indie racing simulation sports single-player multi-player pvp online pvp lan pvp downloadable content full controller support family sharing english french german spanish-spain portuguese-brazil spanish-latin 8 user reviews positive<br>90% of the 11 user reviews for this game are positive.",
       "first_seen": "2026-10-22T21:20:12+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 3532180,
@@ -65095,6 +65795,31 @@
           "currency": "USD",
           "original": 999,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 1980
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 5600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 1260
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 36000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 330000
         }
       },
       "review_hint": "Positive<br>90% of the 21 user reviews for this game are positive.",
@@ -65109,7 +65834,7 @@
       "search_text": "automobilista 2 - lamborghini dream pack pt2 automobilista 2 - lamborghini dream pack pt2 second part of the lamborghini dream pack, featuring four more models from the iconic italian manufacturer. action indie racing simulation sports single-player multi-player pvp online pvp lan pvp downloadable content full controller support family sharing english french german spanish-spain portuguese-brazil spanish-latin positive positive<br>90% of the 21 user reviews for this game are positive.",
       "first_seen": "2026-10-22T21:20:12+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 3895690,
@@ -65169,6 +65894,31 @@
           "currency": "USD",
           "original": 799,
           "final": 239
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5200,
+          "final": 1560
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15200,
+          "final": 4500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3300,
+          "final": 990
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 92000,
+          "final": 27600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 890000,
+          "final": 267000
         }
       },
       "review_hint": "Positive<br>90% of the 40 user reviews for this game are positive.",
@@ -65183,7 +65933,7 @@
       "search_text": "automobilista 2 - nürburgring 2025 automobilista 2 - nürburgring 2025 a complete overhaul of &quot;green hell&quot; for automobilista 2, delivering the most up to date &amp; immersive version of the most famous race track in the world of any racing simulator. action indie racing simulation sports single-player multi-player pvp online pvp lan pvp downloadable content full controller support family sharing english french german spanish-spain portuguese-brazil spanish-latin positive positive<br>90% of the 40 user reviews for this game are positive.",
       "first_seen": "2026-10-22T21:20:12+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 2424420,
@@ -159598,6 +160348,31 @@
           "currency": "USD",
           "original": 499,
           "final": 449
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3000,
+          "final": 2700
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 11700,
+          "final": 10500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1980
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 65500,
+          "final": 58900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 545000,
+          "final": 490000
         }
       },
       "review_hint": "Mostly Negative<br>28% of the 25 user reviews for this game are positive.",
@@ -159612,7 +160387,7 @@
       "search_text": "empty the lake! empty the lake! empty the lake, make money, and discover what’s hidden at the bottom! pump out thousands of liters of water, upgrade your tools, and keep going deeper to uncover what lies beneath the surface. casual indie simulation single-player #category_playable_at_your_own_pace playable without timed input save anytime stereo sound surround sound family sharing english german spanish-spain spanish-latin portuguese-brazil portuguese---portugal schinese mostly negative mostly negative<br>28% of the 25 user reviews for this game are positive.",
       "first_seen": "2026-10-22T21:20:12+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 4323990,
@@ -172520,6 +173295,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 2699
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 20800,
+          "final": 18720
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 77800,
+          "final": 70000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 12600,
+          "final": 11340
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 394800,
+          "final": 355300
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2980000,
+          "final": 2682000
         }
       },
       "review_hint": "Very Positive<br>88% of the 42,943 user reviews for games in this bundle are positive.",
@@ -172534,7 +173334,7 @@
       "search_text": "farming simulator 25: beans & alpacas expansion farming simulator 25: beans & alpacas expansion build your coffee estate and grow a warmer kind of farm life in catuaí, a south america-inspired region shaped by coffee terraces, red soil and lush hills. grow coffee beans, raise alpacas and brahman cows, start new production chains and operate 25+ new machines! simulation single-player multi-player co-op online co-op downloadable content steam achievements full controller support dualshock controller support steam cloud family sharing english french italian german spanish-spain czech danish dutch finnish hungarian japanese korean norwegian polish portuguese-brazil portuguese---portugal romanian russian schinese spanish-latin swedish tchinese turkish ukrainian vietnamese indonesian no user reviews very positive<br>88% of the 42,943 user reviews for games in this bundle are positive.",
       "first_seen": "2026-10-22T21:20:12+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 1044720,
@@ -243589,6 +244389,31 @@
           "currency": "USD",
           "original": 1399,
           "final": 1189
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7700,
+          "final": 6545
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 16800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4500,
+          "final": 3825
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 145000,
+          "final": 123200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1200000,
+          "final": 1020000
         }
       },
       "review_hint": "Positive<br>100% of the 10 user reviews for this game are positive.",
@@ -243603,7 +244428,7 @@
       "search_text": "lighthouse of madness lighthouse of madness embark on this lovecraft-inspired tale and discover the mysteries that await you on this island. explore the island, solve challenging puzzles, and most importantly: try not to lose your sanity. adventure indie single-player steam achievements full controller support camera comfort custom volume controls dualshock controller support dualsense controller support stereo sound surround sound steam cloud family sharing english portuguese-brazil schinese tchinese 8 user reviews positive<br>100% of the 10 user reviews for this game are positive.",
       "first_seen": "2026-10-22T21:20:12+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 345350,
@@ -250481,6 +251306,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 3960
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 11200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 2520
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 72000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 660000
         }
       },
       "review_hint": "",
@@ -250495,7 +251345,7 @@
       "search_text": "lusitania: a monarch fallen lusitania: a monarch fallen rms lusitania - a legend in history - was torpedoed and sunk in 1915 at the height of the great war. but now lusitania has resurfaced digitally for ship explorer! explore the great ship's decks once again and experience her terrifying sinking firsthand. action adventure simulation single-player downloadable content full controller support adjustable text size color alternatives custom volume controls playable without timed input dualshock controller support dualsense controller support steam input api support stereo sound subtitle options surround sound family sharing english 8 user reviews",
       "first_seen": "2026-10-22T21:20:12+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 1729740,
@@ -342756,6 +343606,31 @@
           "currency": "USD",
           "original": 999,
           "final": 749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6100,
+          "final": 4575
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21600,
+          "final": 16200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3600,
+          "final": 2700
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 135000,
+          "final": 101200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 787000
         }
       },
       "review_hint": "Very Positive<br>89% of the 657 user reviews for this game are positive.",
@@ -342770,7 +343645,7 @@
       "search_text": "shards of order shards of order a grim rpg with card-based combat where nothing stays dead. lead a party of survivors through a world undone by shattered laws. restore them and reshape the rules of the game, but be ready to face the consequences. adventure indie rpg strategy single-player steam achievements full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing english french german schinese polish italian spanish-spain tchinese japanese korean portuguese-brazil russian very positive very positive<br>89% of the 657 user reviews for this game are positive.",
       "first_seen": "2026-10-22T21:20:12+00:00",
       "last_seen": "2026-10-23T03:57:30+00:00",
-      "updated_at": "2026-10-23T03:57:30+00:00"
+      "updated_at": "2026-10-23T08:09:09+00:00"
     },
     {
       "app_id": 3862670,
