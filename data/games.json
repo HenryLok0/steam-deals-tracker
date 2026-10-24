@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T03:52:17+00:00",
+  "updated_at": "2026-10-24T07:47:29+00:00",
   "total_count": 4658,
   "active_count": 350,
   "games": [
@@ -1292,6 +1292,31 @@
           "currency": "USD",
           "original": 1899,
           "final": 1519
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10900,
+          "final": 8720
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 35600,
+          "final": 28400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7300,
+          "final": 5840
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 235000,
+          "final": 188000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2000000,
+          "final": 1600000
         }
       },
       "review_hint": "",
@@ -1306,7 +1331,7 @@
       "search_text": "aspis aspis aspis is a story-driven first-person horror game set in the late-1980s ussr. engineer andrey enters an experimental system to see his deceased family again. but the machine opens worlds it was never meant to find. explore the institute and step beyond reality. action adventure indie single-player steam achievements full controller support camera comfort custom volume controls stereo sound surround sound steam cloud family sharing english russian french ukrainian japanese",
       "first_seen": "2026-10-23T21:10:38+00:00",
       "last_seen": "2026-10-24T03:52:17+00:00",
-      "updated_at": "2026-10-24T03:52:17+00:00"
+      "updated_at": "2026-10-24T07:47:29+00:00"
     },
     {
       "app_id": 1761910,
@@ -2754,6 +2779,31 @@
           "currency": "USD",
           "original": 1099,
           "final": 989
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6100,
+          "final": 5490
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21600,
+          "final": 19400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3800,
+          "final": 3420
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 108000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 945000
         }
       },
       "review_hint": "",
@@ -2768,7 +2818,7 @@
       "search_text": "bloomtale bloomtale bloomtale is a cozy flower shop simulation game where creativity meets management. arrange beautiful flower compositions, manage your shop, and satisfy your customers in a magical world of blooming potential. casual single-player steam achievements camera comfort custom volume controls steam cloud family sharing english schinese french italian german spanish-spain czech dutch portuguese-brazil russian spanish-latin swedish tchinese turkish",
       "first_seen": "2026-10-23T21:10:38+00:00",
       "last_seen": "2026-10-24T03:52:17+00:00",
-      "updated_at": "2026-10-24T03:52:17+00:00"
+      "updated_at": "2026-10-24T07:47:29+00:00"
     },
     {
       "app_id": 1607680,
@@ -6595,6 +6645,31 @@
           "currency": "USD",
           "original": 999,
           "final": 579
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4900,
+          "final": 2842
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15000,
+          "final": 8700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3000,
+          "final": 1740
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 89900,
+          "final": 52100
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 700000,
+          "final": 406000
         }
       },
       "review_hint": "Mostly Positive<br>78% of the 4,116 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -6609,7 +6684,7 @@
       "search_text": "deadpoly deadpoly deadpoly is a polygon arcade zombie survival looter shooter with base building, crafting, scavenging, leveling, questing, and more, but your only goal is survival, everything else is optional. action adventure casual indie massively multiplayer rpg early access single-player multi-player mmo pvp online pvp co-op online co-op cross-platform multiplayer steam achievements full controller support camera comfort color alternatives custom volume controls adjustable difficulty playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime steam input api support stereo sound surround sound steam cloud family sharing english french italian german spanish-spain greek japanese korean norwegian polish portuguese-brazil portuguese---portugal russian schinese spanish-latin swedish turkish ukrainian mostly positive<br>78% of the 4,116 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-23T21:10:38+00:00",
       "last_seen": "2026-10-24T03:52:17+00:00",
-      "updated_at": "2026-10-24T03:52:17+00:00"
+      "updated_at": "2026-10-24T07:47:29+00:00"
     },
     {
       "app_id": 3228590,
@@ -8556,6 +8631,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 2500
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 6500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 1520
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 46000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 430000
         }
       },
       "review_hint": "Mostly Positive<br>74% of the 1,877 user reviews for this game are positive.",
@@ -8570,7 +8670,7 @@
       "search_text": "draugen draugen draugen is a single-player, first-person fjord noir mystery set in 1920s norway. explore a forgotten coastal village in your search for your missing sister, accompanied by your independent and enigmatic young ward. norwegian game of the year 2019. adventure indie single-player steam achievements full controller support dualshock controller support steam cloud family sharing english french german spanish-spain russian norwegian japanese schinese mostly positive<br>74% of the 1,877 user reviews for this game are positive.",
       "first_seen": "2026-10-23T21:10:38+00:00",
       "last_seen": "2026-10-24T03:52:17+00:00",
-      "updated_at": "2026-10-24T03:52:17+00:00"
+      "updated_at": "2026-10-24T07:47:29+00:00"
     },
     {
       "app_id": 2523740,
@@ -20781,6 +20881,31 @@
           "currency": "USD",
           "original": 3499,
           "final": 2274
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 21800,
+          "final": 14170
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 56600,
+          "final": 36700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 12800,
+          "final": 8320
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 390000,
+          "final": 253500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3750000,
+          "final": 2437000
         }
       },
       "review_hint": "Very Positive<br>85% of the 1,114 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -20795,7 +20920,7 @@
       "search_text": "pathologic 3 pathologic 3 in this psychological horror game, you are a doctor with only 12 days to save a town from a mysterious plague. make ruthless decisions and diagnose with precision. shape the town's future and rewrite the past. hold yourself together while it all falls apart. adventure indie rpg simulation single-player steam achievements full controller support steam trading cards camera comfort custom volume controls playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support stereo sound steam cloud family sharing english russian very positive<br>85% of the 1,114 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-23T21:10:38+00:00",
       "last_seen": "2026-10-24T03:52:17+00:00",
-      "updated_at": "2026-10-24T03:52:17+00:00"
+      "updated_at": "2026-10-24T07:47:29+00:00"
     },
     {
       "app_id": 1995520,
@@ -21510,6 +21635,31 @@
           "currency": "USD",
           "original": 899,
           "final": 629
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5800,
+          "final": 4060
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 17200,
+          "final": 12000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3600,
+          "final": 2520
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 100000,
+          "final": 70000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 990000,
+          "final": 693000
         }
       },
       "review_hint": "Very Positive<br>95% of the 374 user reviews for this game are positive.",
@@ -21524,7 +21674,7 @@
       "search_text": "polypine polypine a forest simulator where you grow trees and create habitats for animals, plants and insects. click on animals to make them poop, hunt, dig, cut and twerk! start with a few basic seeds and attempt to grow a thriving ecosystem. casual indie simulation single-player steam achievements family sharing english schinese french german japanese portuguese-brazil russian spanish-latin swedish czech polish italian very positive<br>95% of the 374 user reviews for this game are positive.",
       "first_seen": "2026-10-24T03:52:17+00:00",
       "last_seen": "2026-10-24T03:52:17+00:00",
-      "updated_at": "2026-10-24T03:52:17+00:00"
+      "updated_at": "2026-10-24T07:47:29+00:00"
     },
     {
       "app_id": 5340370,
@@ -25039,6 +25189,31 @@
           "currency": "USD",
           "original": 799,
           "final": 639
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3800,
+          "final": 3040
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 11200,
+          "final": 8900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2500,
+          "final": 2000
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 154000,
+          "final": 123200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 655000,
+          "final": 524000
         }
       },
       "review_hint": "",
@@ -25053,7 +25228,7 @@
       "search_text": "sacrifice sanctuary: the ritual maiden's life with monsters sacrifice sanctuary: the ritual maiden's life with monsters chosen by her village to help stabilize a potentially dangerous monster population, yomi is sent as an offering of the depths of hell. can she discover all that hell has to offer? adventure single-player steam cloud family sharing english japanese schinese",
       "first_seen": "2026-10-24T03:52:17+00:00",
       "last_seen": "2026-10-24T03:52:17+00:00",
-      "updated_at": "2026-10-24T03:52:17+00:00"
+      "updated_at": "2026-10-24T07:47:29+00:00"
     },
     {
       "app_id": 4954910,
@@ -29038,6 +29213,31 @@
           "currency": "USD",
           "original": 1899,
           "final": 1709
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8800,
+          "final": 7920
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29800,
+          "final": 26800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 5220
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 363000,
+          "final": 326700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 1935000
         }
       },
       "review_hint": "",
@@ -29052,7 +29252,7 @@
       "search_text": "tensei brave tensei brave due to the invasion of the demon lord, countries around the world have been destroyed. in the last remaining country, a hero is summoned. players control the hero, gather allies, and set out on a journey to defeat the demon lord. can the seemingly weak protagonist indeed vanquish the demon lord? adventure casual indie rpg single-player steam cloud family sharing japanese english schinese",
       "first_seen": "2026-10-24T03:52:17+00:00",
       "last_seen": "2026-10-24T03:52:17+00:00",
-      "updated_at": "2026-10-24T03:52:17+00:00"
+      "updated_at": "2026-10-24T07:47:29+00:00"
     },
     {
       "app_id": 1455630,
@@ -30693,6 +30893,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7200,
+          "final": 5400
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26000,
+          "final": 19500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4800,
+          "final": 3600
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 160000,
+          "final": 120000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1300000,
+          "final": 975000
         }
       },
       "review_hint": "Mixed<br>67% of the 135 user reviews for this game are positive.",
@@ -30707,7 +30932,7 @@
       "search_text": "thehunter: call of the wild™ - peru hunting reserve thehunter: call of the wild™ - peru hunting reserve from andean peaks to dense jungles, explore peru’s extreme biodiversity. hunt a massive roster from tarucas to caimans. stay vigilant: the jungle is the jaguar’s kingdom. adventure simulation sports single-player multi-player co-op online co-op downloadable content steam achievements full controller support in-app purchases steam cloud family sharing english french german portuguese-brazil russian spanish-spain czech polish schinese japanese mixed<br>67% of the 135 user reviews for this game are positive.",
       "first_seen": "2026-10-23T21:10:38+00:00",
       "last_seen": "2026-10-24T03:52:17+00:00",
-      "updated_at": "2026-10-24T03:52:17+00:00"
+      "updated_at": "2026-10-24T07:47:29+00:00"
     },
     {
       "app_id": 1343240,
@@ -30762,6 +30987,31 @@
           "currency": "USD",
           "original": 3199,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 20800,
+          "final": 5200
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 58900,
+          "final": 14700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 11500,
+          "final": 2875
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 316000,
+          "final": 79000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3550000,
+          "final": 887000
         }
       },
       "review_hint": "Very Positive<br>81% of the 3,678 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -30776,7 +31026,7 @@
       "search_text": "thymesia thymesia thymesia is a gruelling action-rpg with fast-paced combat and an intricate plague weapon system. in a kingdom where death spreads, play as a mysterious character known by the code name &quot;corvus&quot;. prey upon your enemies, wield the power of disease and find the truth in your own memories. action single-player steam achievements full controller support family sharing english schinese tchinese french italian german spanish-spain japanese korean russian very positive<br>81% of the 3,678 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-24T03:52:17+00:00",
       "last_seen": "2026-10-24T03:52:17+00:00",
-      "updated_at": "2026-10-24T03:52:17+00:00"
+      "updated_at": "2026-10-24T07:47:29+00:00"
     },
     {
       "app_id": 3140180,
@@ -31056,6 +31306,31 @@
           "currency": "USD",
           "original": 599,
           "final": 539
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3600,
+          "final": 3240
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 13600,
+          "final": 12200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2600,
+          "final": 2340
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 79000,
+          "final": 71100
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 655000,
+          "final": 589000
         }
       },
       "review_hint": "",
@@ -31070,7 +31345,7 @@
       "search_text": "tidy up the halloween shop tidy up the halloween shop something has made a spectacular mess of this cozy halloween shop. put pumpkins, potions and sweets back where they belong, uncover curious clues, and meet a mysterious new friend. a relaxing first-person tidy-up, with a little mischief. casual simulation single-player steam achievements partial controller support family sharing english french italian german spanish-spain arabic bulgarian czech danish dutch finnish greek hungarian indonesian japanese korean malay norwegian polish portuguese-brazil portuguese---portugal romanian russian schinese spanish-latin swedish thai tchinese turkish ukrainian vietnamese",
       "first_seen": "2026-10-23T21:10:38+00:00",
       "last_seen": "2026-10-24T03:52:17+00:00",
-      "updated_at": "2026-10-24T03:52:17+00:00"
+      "updated_at": "2026-10-24T07:47:29+00:00"
     },
     {
       "app_id": 1062090,
@@ -35433,6 +35708,31 @@
           "currency": "USD",
           "original": 4999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 25800,
+          "final": 2580
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 85800,
+          "final": 8500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 16300,
+          "final": 1630
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 515000,
+          "final": 51500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 5100000,
+          "final": 510000
         }
       },
       "review_hint": "Mostly Positive<br>75% of the 888 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -35447,7 +35747,7 @@
       "search_text": "wrc 10 fia world rally championship wrc 10 fia world rally championship hailed by reviewers and professional drivers, the standard-setting off-road racing simulation has been reinvented! reach the 2021 season podium, and to celebrate the 50th anniversary of the competition, relive the highlights at the wheel of legendary cars. racing simulation sports single-player multi-player pvp online pvp co-op online co-op cross-platform multiplayer steam achievements full controller support steam cloud family sharing english french italian german spanish-spain arabic japanese korean polish portuguese-brazil russian schinese tchinese mostly positive<br>75% of the 888 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-23T21:10:38+00:00",
       "last_seen": "2026-10-24T03:52:17+00:00",
-      "updated_at": "2026-10-24T03:52:17+00:00"
+      "updated_at": "2026-10-24T07:47:29+00:00"
     },
     {
       "app_id": 3717070,
@@ -150884,6 +151184,31 @@
           "currency": "USD",
           "original": 599,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3900,
+          "final": 1950
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18000,
+          "final": 9000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 1400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 70000,
+          "final": 35000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 675000,
+          "final": 337000
         }
       },
       "review_hint": "Mostly Positive<br>70% of the 1,096 user reviews for this game are positive.",
@@ -150898,7 +151223,7 @@
       "search_text": "dredge - the pale reach dredge - the pale reach &quot;the pale reach&quot; takes your dredge adventure into unchartered territory. explore icy waters that hide more than just fish, sell your discoveries, enhance your boat, and unravel a bitter betrayal, dredging up long-buried mysteries from this frozen land. adventure rpg single-player downloadable content steam achievements full controller support steam trading cards steam cloud family sharing english french italian german spanish-spain japanese korean russian schinese tchinese portuguese-brazil polish mostly positive<br>70% of the 1,096 user reviews for this game are positive.",
       "first_seen": "2026-10-23T21:10:38+00:00",
       "last_seen": "2026-10-24T03:52:17+00:00",
-      "updated_at": "2026-10-24T03:52:17+00:00"
+      "updated_at": "2026-10-24T07:47:29+00:00"
     },
     {
       "app_id": 4019220,
@@ -270362,6 +270687,31 @@
           "currency": "USD",
           "original": 499,
           "final": 399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3300,
+          "final": 2640
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 10200,
+          "final": 8100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1760
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 58000,
+          "final": 46400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 560000,
+          "final": 448000
         }
       },
       "review_hint": "Positive<br>100% of the 10 user reviews for this game are positive.",
@@ -270376,7 +270726,7 @@
       "search_text": "monster con - bradphomet & warm walter (playable character pack) monster con - bradphomet & warm walter (playable character pack) experience the con with two brand new pcs and lots of special art! be a cuddly fella with warm walter or the goat of yoga with bradphomet, and get into all sorts of shenanigans at the con! casual indie simulation strategy single-player multi-player pvp online pvp shared/split screen pvp co-op online co-op shared/split screen co-op shared/split screen downloadable content steam achievements full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud remote play together family sharing english positive<br>100% of the 10 user reviews for this game are positive.",
       "first_seen": "2026-10-23T21:10:38+00:00",
       "last_seen": "2026-10-24T03:52:17+00:00",
-      "updated_at": "2026-10-24T03:52:17+00:00"
+      "updated_at": "2026-10-24T07:47:29+00:00"
     },
     {
       "app_id": 3610610,
@@ -270442,6 +270792,31 @@
           "currency": "USD",
           "original": 499,
           "final": 399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3300,
+          "final": 2640
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 10200,
+          "final": 8100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1760
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 58000,
+          "final": 46400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 560000,
+          "final": 448000
         }
       },
       "review_hint": "Positive<br>100% of the 11 user reviews for this game are positive.",
@@ -270456,7 +270831,7 @@
       "search_text": "monster con - moss mann & sadie (playable character pack) monster con - moss mann & sadie (playable character pack) beloved npcs sadie and moss mann upgrade to playable characters in this dlc packed with special art! become them and get into all sorts of shenanigans at the monster con! casual indie simulation strategy single-player multi-player pvp online pvp shared/split screen pvp co-op online co-op shared/split screen co-op shared/split screen downloadable content steam achievements full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud remote play together family sharing english positive<br>100% of the 11 user reviews for this game are positive.",
       "first_seen": "2026-10-23T21:10:38+00:00",
       "last_seen": "2026-10-24T03:52:17+00:00",
-      "updated_at": "2026-10-24T03:52:17+00:00"
+      "updated_at": "2026-10-24T07:47:29+00:00"
     },
     {
       "app_id": 1446780,
