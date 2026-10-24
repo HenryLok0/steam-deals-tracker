@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T15:36:55+00:00",
+  "updated_at": "2026-10-24T17:43:12+00:00",
   "total_count": 4660,
   "active_count": 350,
   "games": [
@@ -13370,6 +13370,31 @@
           "currency": "USD",
           "original": 799,
           "final": 639
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4800,
+          "final": 3840
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15200,
+          "final": 12100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3300,
+          "final": 2640
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 88000,
+          "final": 70400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 840000,
+          "final": 672000
         }
       },
       "review_hint": "Positive<br>91% of the 34 user reviews for this game are positive.",
@@ -13384,7 +13409,7 @@
       "search_text": "hubble bubble hubble bubble co-op hookah shop sim for 1 to 4 friends. run ghalyan's hookah lounge on a space station: pack the bowl, light the coals, serve the aliens and act normal. nothing on this station is normal. action adventure indie single-player multi-player co-op online co-op steam achievements playable without timed input stereo sound steam cloud family sharing english french italian german spanish-spain schinese japanese korean spanish-latin polish portuguese---portugal russian thai turkish portuguese-brazil tchinese ukrainian vietnamese czech positive<br>91% of the 34 user reviews for this game are positive.",
       "first_seen": "2026-10-24T15:36:55+00:00",
       "last_seen": "2026-10-24T15:36:55+00:00",
-      "updated_at": "2026-10-24T15:36:55+00:00"
+      "updated_at": "2026-10-24T17:43:12+00:00"
     },
     {
       "app_id": 2393970,
@@ -15250,6 +15275,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7999,
+          "final": 6399
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 22400,
+          "final": 17900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4499,
+          "final": 3599
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 136000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1450000,
+          "final": 1160000
         }
       },
       "review_hint": "Very Positive<br>97% of the 75 user reviews for this game are positive.",
@@ -15264,7 +15314,7 @@
       "search_text": "master of command - the lion & eagle master of command - the lion & eagle the lion &amp; eagle dlc adds two new playable nations to master of command: sweden and the polish-lithuanian commonwealth. command new armies, doctrines, reforms, units, regions, encounters, music, officer traits, items, and flag emblems as you march under the swedish lion or the commonwealth eagle. strategy single-player downloadable content steam achievements steam trading cards steam workshop steam cloud includes level editor family sharing english french italian german spanish-spain polish russian schinese spanish-latin very positive<br>97% of the 75 user reviews for this game are positive.",
       "first_seen": "2026-10-24T15:36:55+00:00",
       "last_seen": "2026-10-24T15:36:55+00:00",
-      "updated_at": "2026-10-24T15:36:55+00:00"
+      "updated_at": "2026-10-24T17:43:12+00:00"
     },
     {
       "app_id": 2000890,
