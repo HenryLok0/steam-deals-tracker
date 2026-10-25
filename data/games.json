@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T03:50:37+00:00",
+  "updated_at": "2026-10-25T07:59:19+00:00",
   "total_count": 4665,
   "active_count": 350,
   "games": [
@@ -670,6 +670,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14800,
+          "final": 2960
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 8100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8800,
+          "final": 1760
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 56000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 540000
         }
       },
       "review_hint": "Very Positive<br>87% of the 1,213 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -684,7 +709,7 @@
       "search_text": "airborne kingdom airborne kingdom the sky city builder awaits. create your own flying kingdom and lead it on a quest across an expansive world. explore the varied landscape, build up a floating metropolis, aid struggling people below, uncover lost secrets and, ultimately, bring back the airborne kingdom legend. adventure indie simulation single-player steam achievements steam trading cards dualshock controller support dualshock controller support partial controller support steam cloud family sharing english french italian german spanish-spain japanese korean schinese very positive<br>87% of the 1,213 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-24T20:27:40+00:00",
       "last_seen": "2026-10-25T03:50:37+00:00",
-      "updated_at": "2026-10-25T03:50:37+00:00"
+      "updated_at": "2026-10-25T07:59:19+00:00"
     },
     {
       "app_id": 2683150,
@@ -3411,6 +3436,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 13920,
+          "final": 6960
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 45000,
+          "final": 22400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8928,
+          "final": 4464
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 302400,
+          "final": 151200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2544000,
+          "final": 1272000
         }
       },
       "review_hint": "Very Positive<br>83% of the 709 user reviews for this game are positive.",
@@ -3425,7 +3475,7 @@
       "search_text": "buggos 2 buggos 2 you are the buggo hivemind. in this low-micro swarm rts you place spawners, set attack pins and send up to 5,000 bugs into the dirty humans' walls and turrets. evolve your swarm across a 45-mission campaign, then take it into survival, workshop maps or 4-player online battles. indie strategy single-player multi-player pvp online pvp steam achievements steam workshop steam cloud stats includes level editor family sharing english german russian schinese spanish-latin french very positive<br>83% of the 709 user reviews for this game are positive.",
       "first_seen": "2026-10-25T03:50:37+00:00",
       "last_seen": "2026-10-25T03:50:37+00:00",
-      "updated_at": "2026-10-25T03:50:37+00:00"
+      "updated_at": "2026-10-25T07:59:19+00:00"
     },
     {
       "app_id": 12200,
@@ -4507,6 +4557,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11500,
+          "final": 8050
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37700,
+          "final": 26300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7700,
+          "final": 5390
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 161000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2100000,
+          "final": 1470000
         }
       },
       "review_hint": "Very Positive<br>86% of the 317 user reviews for this game are positive.",
@@ -4521,7 +4596,7 @@
       "search_text": "craftlings craftlings build a bustling settlement in a 2d logistics puzzle. guide tiny workers through the routes you create, connect production chains, and solve handcrafted missions. charming to watch, rewarding to figure out. indie strategy single-player steam achievements camera comfort custom volume controls mouse only option playable without timed input save anytime stereo sound surround sound steam cloud steam leaderboards family sharing english french german spanish-spain japanese korean polish portuguese-brazil russian schinese spanish-latin tchinese italian turkish very positive<br>86% of the 317 user reviews for this game are positive.",
       "first_seen": "2026-10-25T03:50:37+00:00",
       "last_seen": "2026-10-25T03:50:37+00:00",
-      "updated_at": "2026-10-25T03:50:37+00:00"
+      "updated_at": "2026-10-25T07:59:19+00:00"
     },
     {
       "app_id": 3265230,
@@ -27418,6 +27493,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 1560
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 56800,
+          "final": 5600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9800,
+          "final": 980
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 205000,
+          "final": 20500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2050000,
+          "final": 205000
         }
       },
       "review_hint": "Very Positive<br>81% of the 4,274 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -27432,7 +27532,7 @@
       "search_text": "styx: master of shadows styx: master of shadows styx: master of shadows is an infiltration game with rpg elements taking place in a dark fantasy universe, where you sneak, steal and assassinate your way through as styx, a goblin two-centuries of age. action single-player steam achievements full controller support steam trading cards steam cloud remote play on tv family sharing english french italian german spanish-spain russian very positive<br>81% of the 4,274 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-24T20:27:40+00:00",
       "last_seen": "2026-10-25T03:50:37+00:00",
-      "updated_at": "2026-10-25T03:50:37+00:00"
+      "updated_at": "2026-10-25T07:59:19+00:00"
     },
     {
       "app_id": 418030,
@@ -30495,6 +30595,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 779
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7800,
+          "final": 5070
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 22600,
+          "final": 14600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4800,
+          "final": 3120
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 91000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1350000,
+          "final": 877000
         }
       },
       "review_hint": "Very Positive<br>80% of the 260 user reviews for this game are positive.",
@@ -30509,7 +30634,7 @@
       "search_text": "thehunter: call of the wild™ - alberta hunting preserve thehunter: call of the wild™ - alberta hunting preserve it’s bitterly cold, but the albertan wilderness is teeming with life. discover and hunt 19 local species, tackle 13 exclusive missions, and explore this stunning snowy preserve. adventure simulation sports single-player multi-player co-op online co-op downloadable content steam achievements full controller support in-app purchases steam cloud family sharing english french german portuguese-brazil russian spanish-spain czech polish schinese japanese very positive<br>80% of the 260 user reviews for this game are positive.",
       "first_seen": "2026-10-24T20:27:40+00:00",
       "last_seen": "2026-10-25T03:50:37+00:00",
-      "updated_at": "2026-10-25T03:50:37+00:00"
+      "updated_at": "2026-10-25T07:59:19+00:00"
     },
     {
       "app_id": 2383430,
