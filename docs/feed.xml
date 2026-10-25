@@ -4,7 +4,21 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sat, 24 Oct 2026 20:27:40 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 03:50:37 +0000</lastBuildDate>
+<item>
+<title>Buggos 2</title>
+<link>https://store.steampowered.com/app/2908500/</link>
+<guid isPermaLink="false">2908500</guid>
+<pubDate>Sun, 25 Oct 2026 03:50:37 +0000</pubDate>
+<description>You are the Buggo Hivemind. In this low-micro swarm RTS you place spawners, set attack pins and send up to 5,000 bugs into the dirty Humans' walls and turrets. Evolve your swarm across a 45-mission campaign, then take it into Survival, Workshop maps or 4-player online battles.</description>
+</item>
+<item>
+<title>Craftlings</title>
+<link>https://store.steampowered.com/app/1771110/</link>
+<guid isPermaLink="false">1771110</guid>
+<pubDate>Sun, 25 Oct 2026 03:50:37 +0000</pubDate>
+<description>Build a bustling settlement in a 2D logistics puzzle. Guide tiny workers through the routes you create, connect production chains, and solve handcrafted missions. Charming to watch, rewarding to figure out.</description>
+</item>
 <item>
 <title>Airborne Kingdom</title>
 <link>https://store.steampowered.com/app/982290/</link>
@@ -41,13 +55,6 @@
 <description>The Lion &amp;amp; Eagle DLC adds two new playable nations to Master of Command: Sweden and the Polish-Lithuanian Commonwealth. Command new armies, doctrines, reforms, units, regions, encounters, music, officer traits, items, and flag emblems as you march under the Swedish lion or the Commonwealth eagle.</description>
 </item>
 <item>
-<title>PolyPine</title>
-<link>https://store.steampowered.com/app/2718240/</link>
-<guid isPermaLink="false">2718240</guid>
-<pubDate>Sat, 24 Oct 2026 03:52:17 +0000</pubDate>
-<description>A forest simulator where you grow trees and create habitats for animals, plants and insects. Click on animals to make them poop, hunt, dig, cut and twerk! Start with a few basic seeds and attempt to grow a thriving ecosystem.</description>
-</item>
-<item>
 <title>Tensei Brave</title>
 <link>https://store.steampowered.com/app/2445430/</link>
 <guid isPermaLink="false">2445430</guid>
@@ -60,62 +67,6 @@
 <guid isPermaLink="false">1343240</guid>
 <pubDate>Sat, 24 Oct 2026 03:52:17 +0000</pubDate>
 <description>Thymesia is a gruelling action-RPG with fast-paced combat and an intricate plague weapon system. In a kingdom where death spreads, play as a mysterious character known by the code name &amp;quot;Corvus&amp;quot;. Prey upon your enemies, wield the power of disease and find the truth in your own memories.</description>
-</item>
-<item>
-<title>ASPIS</title>
-<link>https://store.steampowered.com/app/3129420/</link>
-<guid isPermaLink="false">3129420</guid>
-<pubDate>Fri, 23 Oct 2026 21:10:38 +0000</pubDate>
-<description>ASPIS is a story-driven first-person horror game set in the late-1980s USSR. Engineer Andrey enters an experimental system to see his deceased family again. But the machine opens worlds it was never meant to find. Explore the institute and step beyond reality.</description>
-</item>
-<item>
-<title>BloomTale</title>
-<link>https://store.steampowered.com/app/3168520/</link>
-<guid isPermaLink="false">3168520</guid>
-<pubDate>Fri, 23 Oct 2026 21:10:38 +0000</pubDate>
-<description>BloomTale is a cozy flower shop simulation game where creativity meets management. Arrange beautiful flower compositions, manage your shop, and satisfy your customers in a magical world of blooming potential.</description>
-</item>
-<item>
-<title>DeadPoly</title>
-<link>https://store.steampowered.com/app/1621070/</link>
-<guid isPermaLink="false">1621070</guid>
-<pubDate>Fri, 23 Oct 2026 21:10:38 +0000</pubDate>
-<description>DeadPoly is a polygon arcade zombie survival looter shooter with base building, crafting, scavenging, leveling, questing, and more, but your only goal is survival, everything else is optional.</description>
-</item>
-<item>
-<title>Draugen</title>
-<link>https://store.steampowered.com/app/770390/</link>
-<guid isPermaLink="false">770390</guid>
-<pubDate>Fri, 23 Oct 2026 21:10:38 +0000</pubDate>
-<description>Draugen is a single-player, first-person Fjord Noir mystery set in 1920s Norway. Explore a forgotten coastal village in your search for your missing sister, accompanied by your independent and enigmatic young ward. Norwegian Game of the Year 2019.</description>
-</item>
-<item>
-<title>Pathologic 3</title>
-<link>https://store.steampowered.com/app/3199650/</link>
-<guid isPermaLink="false">3199650</guid>
-<pubDate>Fri, 23 Oct 2026 21:10:38 +0000</pubDate>
-<description>In this psychological horror game, you are a doctor with only 12 days to save a town from a mysterious plague. Make ruthless decisions and diagnose with precision. Shape the town's future and rewrite the past. Hold yourself together while it all falls apart.</description>
-</item>
-<item>
-<title>theHunter: Call of the Wild™ - Peru Hunting Reserve</title>
-<link>https://store.steampowered.com/app/4467980/</link>
-<guid isPermaLink="false">4467980</guid>
-<pubDate>Fri, 23 Oct 2026 21:10:38 +0000</pubDate>
-<description>From Andean peaks to dense jungles, explore Peru’s extreme biodiversity. Hunt a massive roster from tarucas to caimans. Stay vigilant: the jungle is the jaguar’s kingdom.</description>
-</item>
-<item>
-<title>Tidy Up the Halloween Shop</title>
-<link>https://store.steampowered.com/app/5316540/</link>
-<guid isPermaLink="false">5316540</guid>
-<pubDate>Fri, 23 Oct 2026 21:10:38 +0000</pubDate>
-<description>Something has made a spectacular mess of this cozy Halloween shop. Put pumpkins, potions and sweets back where they belong, uncover curious clues, and meet a mysterious new friend. A relaxing first-person tidy-up, with a little mischief.</description>
-</item>
-<item>
-<title>WRC 10 FIA World Rally Championship</title>
-<link>https://store.steampowered.com/app/1462810/</link>
-<guid isPermaLink="false">1462810</guid>
-<pubDate>Fri, 23 Oct 2026 21:10:38 +0000</pubDate>
-<description>Hailed by reviewers and professional drivers, the standard-setting off-road racing simulation has been reinvented! Reach the 2021 season podium, and to celebrate the 50th anniversary of the competition, relive the highlights at the wheel of legendary cars.</description>
 </item>
 <item>
 <title>Popcorn &amp; Premieren - Ausgehviertel</title>
