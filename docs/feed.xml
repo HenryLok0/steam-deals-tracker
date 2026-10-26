@@ -4,7 +4,21 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sun, 25 Oct 2026 20:34:55 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 03:55:10 +0000</lastBuildDate>
+<item>
+<title>Amnesia: Rebirth</title>
+<link>https://store.steampowered.com/app/999220/</link>
+<guid isPermaLink="false">999220</guid>
+<pubDate>Mon, 26 Oct 2026 03:55:10 +0000</pubDate>
+<description>A first-person horror adventure. Uncover your past and survive the Algerian desert. Fear is your enemy; stay calm to not succumb to an illness threatening you and your loved one. Avoid darkness, hide from monsters and solve puzzles. Adventure Mode available for a less scary experience.</description>
+</item>
+<item>
+<title>Wicked Island</title>
+<link>https://store.steampowered.com/app/1943730/</link>
+<guid isPermaLink="false">1943730</guid>
+<pubDate>Mon, 26 Oct 2026 03:55:10 +0000</pubDate>
+<description>Survive a harsh, alluring open world in this 18+ survival RPG. Craft gear, build your home, customize your character, and command dragons! Explore deep dungeons and battle fierce monsters. Fight to win, or succumb to your desires with a fully integrated sex defeat and pregnancy system.</description>
+</item>
 <item>
 <title>ARK Fantastic Tames Season 1</title>
 <link>https://store.steampowered.com/app/4558510/</link>
@@ -60,20 +74,6 @@
 <guid isPermaLink="false">632950</guid>
 <pubDate>Sun, 25 Oct 2026 20:34:55 +0000</pubDate>
 <description>SiN: Reloaded is a completely remastered experience of the 1998 shooter. This diamond-in-the-rough, story-driven FPS features memorable characters, horrific enemies, and a devastating arsenal that pushed the Quake II Engine to its limits. Now with remastered graphics and overhauled control schemes.</description>
-</item>
-<item>
-<title>Buggos 2</title>
-<link>https://store.steampowered.com/app/2908500/</link>
-<guid isPermaLink="false">2908500</guid>
-<pubDate>Sun, 25 Oct 2026 03:50:37 +0000</pubDate>
-<description>You are the Buggo Hivemind. In this low-micro swarm RTS you place spawners, set attack pins and send up to 5,000 bugs into the dirty Humans' walls and turrets. Evolve your swarm across a 45-mission campaign, then take it into Survival, Workshop maps or 4-player online battles.</description>
-</item>
-<item>
-<title>Craftlings</title>
-<link>https://store.steampowered.com/app/1771110/</link>
-<guid isPermaLink="false">1771110</guid>
-<pubDate>Sun, 25 Oct 2026 03:50:37 +0000</pubDate>
-<description>Build a bustling settlement in a 2D logistics puzzle. Guide tiny workers through the routes you create, connect production chains, and solve handcrafted missions. Charming to watch, rewarding to figure out.</description>
 </item>
 <item>
 <title>Popcorn &amp; Premieren - Ausgehviertel</title>
