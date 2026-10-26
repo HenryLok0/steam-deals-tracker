@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T12:30:55+00:00",
+  "updated_at": "2026-10-26T20:13:32+00:00",
   "total_count": 4677,
   "active_count": 350,
   "games": [
@@ -20118,6 +20118,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8300,
+          "final": 4980
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27800,
+          "final": 16600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4800,
+          "final": 2880
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 210000,
+          "final": 126000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1700000,
+          "final": 1020000
         }
       },
       "review_hint": "Positive<br>90% of the 11 user reviews for this game are positive.",
@@ -20132,7 +20157,7 @@
       "search_text": "pao pao pao pao welcome to pao pao! discover a cozy seaside town full of little joys! play solo or in co-op with up to three friends. cook delicious meals, go fishing, grow crops, and create a home of your own by the sea. adventure indie simulation early access single-player multi-player co-op online co-op cross-platform multiplayer steam achievements full controller support custom volume controls gamepad recommended dualshock controller support dualshock controller support dualsense controller support dualsense controller support stereo sound steam cloud family sharing english french german spanish-spain tchinese schinese korean russian japanese portuguese-brazil polish turkish ukrainian malay thai positive<br>90% of the 11 user reviews for this game are positive.",
       "first_seen": "2026-10-26T12:30:55+00:00",
       "last_seen": "2026-10-26T12:30:55+00:00",
-      "updated_at": "2026-10-26T12:30:55+00:00"
+      "updated_at": "2026-10-26T20:13:32+00:00"
     },
     {
       "app_id": 1184370,
@@ -29275,6 +29300,31 @@
           "currency": "USD",
           "original": 299,
           "final": 149
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 2000,
+          "final": 1000
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 6600,
+          "final": 3300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1500,
+          "final": 750
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 35000,
+          "final": 17500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 340000,
+          "final": 170000
         }
       },
       "review_hint": "Very Positive<br>88% of the 2,159 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -29289,7 +29339,7 @@
       "search_text": "that's not my neighbor that's not my neighbor it's 1955, and for unknown reasons, doppelgangers are more common than usual. therefore, the department of doppelganger detection (d.d.d.) has taken action. you are the doorman of an apartment complex, and you must decide whether to let in those who claim to be your neighbors. adventure casual indie simulation single-player steam achievements family sharing english french italian german schinese korean spanish-latin japanese portuguese-brazil russian arabic hindi polish turkish very positive<br>88% of the 2,159 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-26T12:30:55+00:00",
       "last_seen": "2026-10-26T12:30:55+00:00",
-      "updated_at": "2026-10-26T12:30:55+00:00"
+      "updated_at": "2026-10-26T20:13:32+00:00"
     },
     {
       "app_id": 4160210,
