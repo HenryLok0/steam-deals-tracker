@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T04:16:54+00:00",
+  "updated_at": "2026-10-27T08:32:20+00:00",
   "total_count": 4714,
   "active_count": 349,
   "games": [
@@ -509,6 +509,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 2399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15500,
+          "final": 12400
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 57900,
+          "final": 46300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 13900,
+          "final": 11120
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 449900,
+          "final": 359900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3999000,
+          "final": 3199000
         }
       },
       "review_hint": "Very Positive<br>80% of the 2,111 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -523,7 +548,7 @@
       "search_text": "active matter active matter join dangerous raids for loot or intense pvp/pve battles in this new realistic military shooter set in a fractured multiverse. fight in quantum-unstable zones for control of active matter - the substance that bends time and space. action massively multiplayer multi-player mmo pvp online pvp co-op online co-op steam achievements full controller support custom volume controls playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support subtitle options english german russian schinese french spanish-spain portuguese---portugal very positive<br>80% of the 2,111 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-26T22:26:34+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 214490,
@@ -905,6 +930,31 @@
           "currency": "USD",
           "original": 4999,
           "final": 3999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 34900,
+          "final": 27920
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 139000,
+          "final": 111200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 17000,
+          "final": 13600
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 649000,
+          "final": 519200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 6790000,
+          "final": 5432000
         }
       },
       "review_hint": "Mixed<br>61% of the 2,850 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -919,7 +969,7 @@
       "search_text": "aliens: fireteam elite 2 aliens: fireteam elite 2 this is a fight for survival. xenomorphs swarm in overwhelming numbers. every room could be your last. action single-player multi-player co-op online co-op steam achievements adjustable text size camera comfort color alternatives custom volume controls adjustable difficulty dualshock controller support dualshock controller support dualsense controller support dualsense controller support stereo sound subtitle options surround sound partial controller support steam cloud family sharing english french italian german spanish-spain japanese schinese korean tchinese mixed<br>61% of the 2,850 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-26T22:26:34+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 1335530,
@@ -971,6 +1021,31 @@
           "currency": "USD",
           "original": 1799,
           "final": 539
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8600,
+          "final": 2580
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29800,
+          "final": 8900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6200,
+          "final": 1860
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 184000,
+          "final": 55200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1850000,
+          "final": 555000
         }
       },
       "review_hint": "Very Positive<br>89% of the 1,365 user reviews for this game are positive.",
@@ -985,7 +1060,7 @@
       "search_text": "alisa alisa alisa is a horror-themed action adventure game and a genuine throwback to the golden age of 90s 3d games. action adventure indie single-player partial controller support family sharing english french italian japanese very positive<br>89% of the 1,365 user reviews for this game are positive.",
       "first_seen": "2026-10-27T04:16:54+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 1310410,
@@ -3864,6 +3939,31 @@
           "currency": "USD",
           "original": 799,
           "final": 679
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4400,
+          "final": 3740
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15800,
+          "final": 13400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 2380
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 115000,
+          "final": 97700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 895000,
+          "final": 761000
         }
       },
       "review_hint": "Mixed<br>61% of the 13 user reviews for this game are positive.",
@@ -3878,7 +3978,7 @@
       "search_text": "blue ridge hunting blue ridge hunting blue ridge hunting is a co-op horror game set in the appalachian mountains. solo or with friends, investigate, document, and hunt cryptids based on real sightings, legends, and paranormal phenomena from the region. action adventure indie early access single-player multi-player co-op online co-op steam achievements custom volume controls stereo sound steam cloud stats family sharing english mixed<br>61% of the 13 user reviews for this game are positive.",
       "first_seen": "2026-10-26T22:26:34+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 5228920,
@@ -4869,6 +4969,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15900,
+          "final": 6360
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 66900,
+          "final": 26700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 13900,
+          "final": 5560
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 330000,
+          "final": 132000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2750000,
+          "final": 1100000
         }
       },
       "review_hint": "Very Positive<br>88% of the 466 user reviews for this game are positive.",
@@ -4883,7 +5008,7 @@
       "search_text": "clock tower: rewind clock tower: rewind the 16-bit nightmare returns. survive, hide, and avoid the deadly scissorman in this legendary horror classic. adventure single-player steam achievements full controller support gamepad recommended dualshock controller support dualshock controller support dualsense controller support dualsense controller support family sharing english french italian german spanish-spain japanese korean schinese tchinese spanish-latin very positive<br>88% of the 466 user reviews for this game are positive.",
       "first_seen": "2026-10-26T22:26:34+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 648410,
@@ -5036,6 +5161,31 @@
           "currency": "USD",
           "original": 799,
           "final": 679
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4800,
+          "final": 4080
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15900,
+          "final": 13500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2990,
+          "final": 2541
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 99000,
+          "final": 84100
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 799000,
+          "final": 679000
         }
       },
       "review_hint": "Positive<br>87% of the 40 user reviews for this game are positive.",
@@ -5050,7 +5200,7 @@
       "search_text": "crack crack why is there a giant egg in this lab? your job is simple: crack it open. don't ask questions. crack is a 1-4 player co-op incremental adventure about uncovering what's inside a mysterious giant egg. adventure simulation single-player multi-player co-op online co-op steam achievements full controller support #category_playable_at_your_own_pace dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil portuguese---portugal russian schinese spanish-latin tchinese turkish ukrainian positive<br>87% of the 40 user reviews for this game are positive.",
       "first_seen": "2026-10-26T22:26:34+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 1790930,
@@ -5105,6 +5255,31 @@
           "currency": "USD",
           "original": 1799,
           "final": 1349
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11300,
+          "final": 8475
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29800,
+          "final": 22300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6800,
+          "final": 5100
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 200000,
+          "final": 150000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1950000,
+          "final": 1462000
         }
       },
       "review_hint": "Mostly Positive<br>79% of the 1,517 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -5119,7 +5294,7 @@
       "search_text": "crisol: theater of idols crisol: theater of idols crisol is a survival horror adventure set in a twisted version of spain. as a soldier captured by religious dogmatism, you must use your own blood as ammunition, without draining to the point of death. explore the cursed island of tormentosa, uncover dark secrets, and battle horrifying enemies. action adventure single-player steam achievements full controller support dualshock controller support dualsense controller support family sharing english spanish-spain french german portuguese-brazil russian schinese mostly positive<br>79% of the 1,517 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-26T22:26:34+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 2101960,
@@ -5393,6 +5568,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 4750
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 13400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 2900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 85000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 825000
         }
       },
       "review_hint": "Very Positive<br>87% of the 485 user reviews for this game are positive.",
@@ -5407,7 +5607,7 @@
       "search_text": "cryo cryo cryo is a multiplayer co-op survival horror for 1-4 players. you have been deployed by your company to various locations around the antarctic due to communication issues. what awaits you in these dark, remote regions is far more sinister than a technical fault... action indie early access single-player multi-player co-op online co-op steam achievements partial controller support steam cloud family sharing english french italian schinese russian german spanish-spain polish portuguese-brazil turkish arabic czech indonesian japanese korean malay thai very positive<br>87% of the 485 user reviews for this game are positive.",
       "first_seen": "2026-10-26T22:26:34+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 2208570,
@@ -6784,6 +6984,31 @@
           "currency": "USD",
           "original": 999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 3300
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 9400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 2100
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 60000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 550000
         }
       },
       "review_hint": "Very Positive<br>90% of the 20,776 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -6798,7 +7023,7 @@
       "search_text": "devour devour devour is a co-op horror survival game for 1-4 players. stop possessed cultists before they drag you to hell. run. scream. hide. just don't get caught. indie single-player multi-player co-op online co-op steam achievements full controller support tracked controller support vr supported steam trading cards dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing english french italian german spanish-spain japanese korean polish russian schinese spanish-latin turkish thai portuguese---portugal czech dutch finnish norwegian portuguese-brazil romanian hungarian slovak ukrainian very positive<br>90% of the 20,776 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-26T22:26:34+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 2255370,
@@ -7164,6 +7389,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11500,
+          "final": 10350
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37700,
+          "final": 33900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7700,
+          "final": 6930
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 260000,
+          "final": 234000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2100000,
+          "final": 1890000
         }
       },
       "review_hint": "",
@@ -7178,7 +7428,7 @@
       "search_text": "divine frequency divine frequency a fever dream experience about the total collapse of reality as it lingers between states of erasure and transcendence. action adventure indie early access single-player family sharing english",
       "first_seen": "2026-10-27T04:16:54+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 219740,
@@ -9308,6 +9558,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 1169
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7500,
+          "final": 6750
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 23800,
+          "final": 21400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5200,
+          "final": 4680
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 153000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1400000,
+          "final": 1260000
         }
       },
       "review_hint": "",
@@ -9322,7 +9597,7 @@
       "search_text": "fangtopia fangtopia sink your teeth into fangtopia, a cozy and relaxing tile puzzle game where you assemble landscapes to craft a monsterrific paradise for friendly ghouls and ghosts. design a carefree, scare-free world of gentle chills. casual indie simulation strategy single-player steam achievements full controller support steam trading cards adjustable text size camera comfort color alternatives #category_contrast_controls custom volume controls keyboard only option mouse only option #category_playable_at_your_own_pace playable without timed input save anytime subtitle options steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese tchinese turkish dutch finnish indonesian norwegian ukrainian",
       "first_seen": "2026-10-26T22:26:34+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 3124540,
@@ -9708,6 +9983,31 @@
           "currency": "USD",
           "original": 999,
           "final": 399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 2640
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 7500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 1680
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 48000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 440000
         }
       },
       "review_hint": "Very Positive<br>91% of the 3,035 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -9722,7 +10022,7 @@
       "search_text": "fears to fathom - ironbark lookout fears to fathom - ironbark lookout jack nelson, a 24-year-old fire lookout, transferred to a new outpost. as he settled into his new home, he couldn't shake the feeling that something was off, little did he know what was transpiring down in ironbark state park. adventure casual indie single-player steam achievements family sharing english french german spanish-spain japanese russian schinese portuguese-brazil portuguese---portugal very positive<br>91% of the 3,035 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-26T22:26:34+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 4121170,
@@ -9778,6 +10078,31 @@
           "currency": "USD",
           "original": 799,
           "final": 559
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4800,
+          "final": 3360
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 17500,
+          "final": 12200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3300,
+          "final": 2310
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 105000,
+          "final": 73500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 870000,
+          "final": 609000
         }
       },
       "review_hint": "Mostly Positive<br>74% of the 3,662 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -9792,7 +10117,7 @@
       "search_text": "fears to fathom® - scratch creek fears to fathom® - scratch creek after noticing bone-chilling similarities to an episode of fears to fathom, tessa and marcus decide to share their own experience. scratch creek is an exclusively online co-op experience. adventure casual indie multi-player co-op online co-op steam achievements family sharing english french german portuguese-brazil russian spanish-spain japanese schinese mostly positive<br>74% of the 3,662 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-26T22:26:34+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 2287520,
@@ -9966,6 +10291,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 7500
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 19600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 4560
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 138000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 1290000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>95% of the 5,154 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -9980,7 +10330,7 @@
       "search_text": "five nights at freddy's: into the pit five nights at freddy's: into the pit survive five nights of terror in this chilling adventure game. travel between time periods to solve puzzles, gather clues, and outrun the threat relentlessly pursuing you. move swiftly and stay hidden, and you may just survive. but be careful—it's not just your own life that’s on the line this time. action adventure indie single-player steam achievements full controller support adjustable text size color alternatives custom volume controls adjustable difficulty keyboard only option playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support stereo sound subtitle options steam cloud stats remote play on tv family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese spanish-latin turkish overwhelmingly positive<br>95% of the 5,154 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-27T04:16:54+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 3414580,
@@ -10129,6 +10479,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 449
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9900,
+          "final": 2970
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 39800,
+          "final": 11900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4800,
+          "final": 1440
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 148000,
+          "final": 44400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1600000,
+          "final": 480000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>96% of the 8,531 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -10143,7 +10518,7 @@
       "search_text": "fran bow fran bow fran bow is a creepy adventure game that tells the story of fran, a young girl struggling with a mental disorder and an unfair destiny. adventure indie single-player steam achievements steam trading cards remote play on phone remote play on tablet family sharing english german spanish-spain russian french portuguese-brazil overwhelmingly positive<br>96% of the 8,531 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-27T04:16:54+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 3712080,
@@ -10591,6 +10966,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11500,
+          "final": 10350
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37700,
+          "final": 33900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6800,
+          "final": 6120
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 260000,
+          "final": 234000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2100000,
+          "final": 1890000
         }
       },
       "review_hint": "",
@@ -10605,7 +11005,7 @@
       "search_text": "giggleland giggleland tolie isn’t allowed to leave the house. one night she wakes up alone in giggleland, to a voice over the park speakers: her father is waiting for her at the information booth. a first-person psychological horror game in eight chapters. this game is not suitable for children. action adventure casual indie single-player full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support family sharing english",
       "first_seen": "2026-10-26T22:26:34+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 431240,
@@ -12717,6 +13117,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 649
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8300,
+          "final": 4150
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 23800,
+          "final": 11900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5200,
+          "final": 2600
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 150000,
+          "final": 75000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1450000,
+          "final": 725000
         }
       },
       "review_hint": "Mixed<br>58% of the 214 user reviews for this game are positive.",
@@ -12731,7 +13156,7 @@
       "search_text": "huntsman huntsman trapped inside a spider-infested research facility, huntsman immerses you in a survival horror experience fueled by arachnophobia. combining realistic spider behavior with intense tension, huntsman will test your nerve like never before. action adventure single-player steam achievements full controller support custom volume controls #category_playable_at_your_own_pace playable without timed input subtitle options family sharing english french german spanish-spain portuguese-brazil russian schinese tchinese mixed<br>58% of the 214 user reviews for this game are positive.",
       "first_seen": "2026-10-27T04:16:54+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 245390,
@@ -13507,6 +13932,31 @@
           "currency": "USD",
           "original": 999,
           "final": 449
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 2970
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 8400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 1890
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 54000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 495000
         }
       },
       "review_hint": "Very Positive<br>85% of the 7,548 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -13521,7 +13971,7 @@
       "search_text": "labyrinthine labyrinthine a co-op horror game like no other... play with 1-8 players online as you solve puzzles, collect items and run from the horrors that lie within. follow in the footsteps of joan in the story mode or tackle procedurally generated maps that scale with your level and bring a fresh experience each game.. action adventure indie single-player multi-player co-op online co-op steam achievements full controller support tracked controller support vr supported steam trading cards steam cloud stats remote play on tv family sharing english french german dutch schinese spanish-spain czech polish portuguese---portugal russian arabic japanese korean turkish italian serbian very positive<br>85% of the 7,548 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-26T22:26:34+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 3558600,
@@ -13869,6 +14319,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15000,
+          "final": 7500
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 53000,
+          "final": 26500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 12000,
+          "final": 6000
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 242000,
+          "final": 121000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2100000,
+          "final": 1050000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>95% of the 1,630 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -13883,7 +14358,7 @@
       "search_text": "little goody two shoes little goody two shoes venture into the woods as you play little goody two shoes, a phantasmagorical horror narrative adventure where all your decisions matter! adventure rpg single-player multi-player co-op steam achievements full controller support steam trading cards custom volume controls #category_playable_at_your_own_pace playable without timed input dualshock controller support stereo sound steam cloud family sharing english overwhelmingly positive<br>95% of the 1,630 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-27T04:16:54+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 714120,
@@ -13943,6 +14418,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8900,
+          "final": 2670
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 31800,
+          "final": 9500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7000,
+          "final": 2100
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 205000,
+          "final": 61500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2050000,
+          "final": 615000
         }
       },
       "review_hint": "Very Positive<br>90% of the 5,602 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -13957,7 +14457,7 @@
       "search_text": "little misfortune little misfortune led by her new friend, mr. voice, misfortune ventures into the woods, where mysteries are unraveled and a little bad luck unfolds. adventure casual indie single-player steam achievements steam trading cards partial controller support steam cloud remote play on phone remote play on tablet family sharing english french german spanish-spain portuguese-brazil japanese russian very positive<br>90% of the 5,602 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-27T04:16:54+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 424840,
@@ -14345,6 +14845,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 1499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 17900,
+          "final": 8950
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 79000,
+          "final": 39500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 11800,
+          "final": 5900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 297000,
+          "final": 148500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2980000,
+          "final": 1490000
         }
       },
       "review_hint": "Very Positive<br>80% of the 175 user reviews for this game are positive.",
@@ -14359,7 +14884,7 @@
       "search_text": "little nightmares vr: altered echoes little nightmares vr: altered echoes little nightmares vr: altered echoes is a dark atmospheric adventure‑puzzle game where you embody dark six, a mysterious figure with the shape of a little girl. navigate in a disturbing world, solve intricate puzzles, and escape terrifying giant foes in a desperate search to become whole again. action adventure single-player steam achievements tracked controller support vr only steam trading cards vr support adjustable text size color alternatives stereo sound steam cloud family sharing english french italian german spanish-spain arabic japanese korean polish portuguese-brazil russian schinese spanish-latin tchinese very positive<br>80% of the 175 user reviews for this game are positive.",
       "first_seen": "2026-10-26T22:26:34+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 568220,
@@ -14716,6 +15241,31 @@
           "currency": "USD",
           "original": 3499,
           "final": 2099
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 19900,
+          "final": 11940
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 49800,
+          "final": 29800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 12499,
+          "final": 7499
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 410000,
+          "final": 246000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3600000,
+          "final": 2160000
         }
       },
       "review_hint": "Very Positive<br>85% of the 1,217 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -14730,7 +15280,7 @@
       "search_text": "madison madison madison is a first person psychological horror game that delivers an immersive and terrifying experience. with the help of an instant camera, connect the human world with the beyond, take pictures and develop them by yourself. solve puzzles, explore your surroundings and most importantly, survive. action adventure indie simulation single-player steam achievements full controller support steam cloud family sharing english french italian german schinese korean spanish-latin japanese polish portuguese-brazil romanian russian thai turkish arabic spanish-spain czech tchinese greek hungarian swedish ukrainian very positive<br>85% of the 1,217 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-27T04:16:54+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 4395870,
@@ -14780,6 +15330,31 @@
           "currency": "USD",
           "original": 499,
           "final": 449
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 2700,
+          "final": 2430
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 10800,
+          "final": 9700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1900,
+          "final": 1710
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 77000,
+          "final": 69300
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 560000,
+          "final": 504000
         }
       },
       "review_hint": "Positive<br>90% of the 20 user reviews for this game are positive.",
@@ -14794,7 +15369,7 @@
       "search_text": "magical girl er magical girl er a medical simulation where you examine and treat magical girls injured in kaiju disasters. with limited hospital beds and stamina, decide who to accept, who to refuse, and which treatment to choose. indie simulation single-player steam achievements mouse only option #category_playable_at_your_own_pace playable without timed input family sharing english japanese positive<br>90% of the 20 user reviews for this game are positive.",
       "first_seen": "2026-10-26T22:26:34+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 368260,
@@ -15047,6 +15622,31 @@
           "currency": "USD",
           "original": 600,
           "final": 522
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3606,
+          "final": 3137
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 13600,
+          "final": 11800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2490,
+          "final": 2166
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 77700,
+          "final": 67600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 652000,
+          "final": 567000
         }
       },
       "review_hint": "Positive<br>90% of the 22 user reviews for this game are positive.",
@@ -15061,7 +15661,7 @@
       "search_text": "memeticbox memeticbox a brutal voxel gore sandbox. every body is built from blocks you can shoot, slice, burn and blow apart. play god: hurl people, strike them with lightning, hang them or impale them on spikes. or grab a gun for police raids, zombie waves and fully destructible cities. action indie simulation early access single-player steam achievements custom volume controls playable without timed input save anytime stereo sound surround sound steam cloud family sharing english russian spanish-latin positive<br>90% of the 22 user reviews for this game are positive.",
       "first_seen": "2026-10-26T22:26:34+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 286690,
@@ -16925,6 +17525,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 18700,
+          "final": 11220
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 48800,
+          "final": 29200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10800,
+          "final": 6480
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 340000,
+          "final": 204000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3200000,
+          "final": 1920000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>96% of the 2,166 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -16939,7 +17564,7 @@
       "search_text": "my friendly neighborhood my friendly neighborhood something scary is happening with everyone's favorite saturday morning puppet show, the friendly neighborhood! play as gordon, a repairman sent to get to the bottom of this disturbing dilemma. fend off puppets and solve puzzles in this survival horror adventure. action adventure indie single-player steam achievements full controller support steam trading cards captions available steam cloud family sharing english french italian german japanese korean polish portuguese-brazil russian schinese spanish-latin tchinese turkish overwhelmingly positive<br>96% of the 2,166 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-26T22:26:34+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 1084600,
@@ -17737,6 +18362,31 @@
           "currency": "USD",
           "original": 999,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6100,
+          "final": 5490
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21600,
+          "final": 19400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 3780
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 135000,
+          "final": 121500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 945000
         }
       },
       "review_hint": "",
@@ -17751,7 +18401,7 @@
       "search_text": "night plane night plane night plane is a job-sim horror game where you work as a flight attendant on a doomed plane. check tickets, serve passengers, and decide who stays onboard as demons hide among innocent souls. naturally, management says it’s your problem. adventure indie simulation single-player steam achievements partial controller support family sharing english french german spanish-spain portuguese-brazil schinese tchinese",
       "first_seen": "2026-10-26T22:26:34+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 275850,
@@ -20156,6 +20806,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 7600
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 30800,
+          "final": 24600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5900,
+          "final": 4720
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 190000,
+          "final": 152000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 1320000
         }
       },
       "review_hint": "Positive<br>83% of the 36 user reviews for this game are positive.",
@@ -20170,7 +20845,7 @@
       "search_text": "planet coaster 2: silver screen pack planet coaster 2: silver screen pack craft spectacular movie sets and cinematic backdrops to bring your silver screen adventures to life. create the metropolis of your dreams with striking skyscrapers, rich gold detailing, and sleek stucco finishes. simulation strategy single-player downloadable content steam achievements full controller support steam trading cards camera comfort color alternatives custom volume controls adjustable difficulty #category_playable_at_your_own_pace playable without timed input save anytime stereo sound surround sound steam cloud hdr available family sharing english french italian german spanish-spain czech dutch japanese korean polish portuguese-brazil schinese tchinese positive<br>83% of the 36 user reviews for this game are positive.",
       "first_seen": "2026-10-26T22:26:34+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 4492160,
@@ -20945,6 +21620,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11500,
+          "final": 8625
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37700,
+          "final": 28200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7700,
+          "final": 5775
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 260000,
+          "final": 195000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2100000,
+          "final": 1575000
         }
       },
       "review_hint": "",
@@ -20959,7 +21659,7 @@
       "search_text": "punch upon a time punch upon a time punch upon a time is a team-based party fighter inspired by smash bros where you take on rounds of modes, mini-games, and combat alongside your friends. assemble a squad of the biggest fairy tale names to punch, dunk, fly, score, and sumo your way to victory as the last team standing. action casual indie early access single-player multi-player pvp online pvp steam achievements full controller support camera comfort custom volume controls adjustable difficulty gamepad recommended keyboard only option playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support stereo sound steam cloud family sharing english",
       "first_seen": "2026-10-26T22:26:34+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 3419520,
@@ -23271,6 +23971,31 @@
           "currency": "USD",
           "original": 4999,
           "final": 3999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 33900,
+          "final": 27120
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 139000,
+          "final": 111200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 19900,
+          "final": 15920
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 898000,
+          "final": 718400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 6500000,
+          "final": 5200000
         }
       },
       "review_hint": "Very Positive<br>92% of the 1,655 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -23285,7 +24010,7 @@
       "search_text": "resonance: a plague tale legacy resonance: a plague tale legacy embark on an original story, prequel to the award-winning games: a plague tale. as sophia, journey to the minotaur’s island, outsmart deadly foes, unravel ancient secrets, and confront a mythical creature at the heart of a devastating curse. action adventure single-player steam achievements full controller support steam trading cards adjustable text size camera comfort color alternatives #category_contrast_controls custom volume controls adjustable difficulty gamepad recommended playable without timed input dualshock controller support dualsense controller support dualsense controller support stereo sound subtitle options surround sound steam cloud hdr available family sharing english french italian german spanish-spain arabic czech korean polish russian schinese spanish-latin tchinese ukrainian portuguese-brazil japanese turkish very positive<br>92% of the 1,655 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-26T22:26:34+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 653530,
@@ -25700,6 +26425,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 974
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6900,
+          "final": 5175
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 24800,
+          "final": 18600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4500,
+          "final": 3375
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 185000,
+          "final": 138700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1450000,
+          "final": 1087000
         }
       },
       "review_hint": "Mixed<br>63% of the 22 user reviews for this game are positive.",
@@ -25714,7 +26464,7 @@
       "search_text": "scramble knights online scramble knights online adventure with friends in this mmo-lite action rpg! explore the shared online kingdom of terracott as a knight-in-training. party up to conquer dungeons, slay monsters, discover rare loot, and return home to forge powerful new gear before setting out on your next quest. action adventure casual indie massively multiplayer rpg early access multi-player mmo pvp online pvp co-op online co-op cross-platform multiplayer steam achievements full controller support adjustable text size camera comfort color alternatives custom volume controls gamepad recommended keyboard only option dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime stereo sound surround sound steam cloud family sharing english french italian german spanish-spain japanese korean portuguese-brazil russian schinese tchinese spanish-latin mixed<br>63% of the 22 user reviews for this game are positive.",
       "first_seen": "2026-10-26T22:26:34+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 1244090,
@@ -26397,6 +27147,31 @@
           "currency": "USD",
           "original": 599,
           "final": 479
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3600,
+          "final": 2880
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 13600,
+          "final": 10800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2600,
+          "final": 2080
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 79000,
+          "final": 63200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 655000,
+          "final": 524000
         }
       },
       "review_hint": "Positive<br>91% of the 12 user reviews for this game are positive.",
@@ -26411,7 +27186,7 @@
       "search_text": "shreddead shreddead shreddead is a quirky relaxing incremental zombie-shredding game focused on progression with no lose conditions. defeat endless waves, collect loot, grow your skill tree and evolve the zombies. casual indie strategy single-player steam achievements full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese thai tchinese turkish positive<br>91% of the 12 user reviews for this game are positive.",
       "first_seen": "2026-10-26T22:26:34+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 1295660,
@@ -27866,6 +28641,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 1039
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8300,
+          "final": 6640
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 23800,
+          "final": 19000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5200,
+          "final": 4160
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 150000,
+          "final": 120000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1450000,
+          "final": 1160000
         }
       },
       "review_hint": "Very Positive<br>98% of the 113 user reviews for this game are positive.",
@@ -27880,7 +28680,7 @@
       "search_text": "soul mates soul mates you’re trapped inside a haunted house, stalked by angry ghosts. to survive, you’ll have to run, hide, strategize, give gifts, chat, flirt… wait, what kind of game is this? oh right, it’s a point-and-click survival horror dating sim! adventure indie simulation strategy single-player steam achievements steam cloud family sharing english very positive<br>98% of the 113 user reviews for this game are positive.",
       "first_seen": "2026-10-26T22:26:34+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 544750,
@@ -28649,6 +29449,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14500,
+          "final": 11600
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 46900,
+          "final": 37500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9300,
+          "final": 7440
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 315000,
+          "final": 252000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2650000,
+          "final": 2120000
         }
       },
       "review_hint": "Mostly Positive<br>79% of the 519 user reviews for this game are positive.",
@@ -28663,7 +29488,7 @@
       "search_text": "stygian: outer gods stygian: outer gods dive into a hostile world that challenges your very existence, in this survival horror game with rpg elements. unravel a thousand-year-old mystery, risk your sanity and face the outer gods with your skills. every bullet and every decision counts now, are you up to the task? action rpg single-player steam achievements partial controller support steam cloud family sharing english french german spanish-spain japanese portuguese-brazil russian schinese mostly positive<br>79% of the 519 user reviews for this game are positive.",
       "first_seen": "2026-10-26T22:26:34+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 264710,
@@ -30600,6 +31425,31 @@
           "currency": "USD",
           "original": 799,
           "final": 679
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4800,
+          "final": 4080
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 17500,
+          "final": 14800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3300,
+          "final": 2805
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 105000,
+          "final": 89200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 870000,
+          "final": 739000
         }
       },
       "review_hint": "Positive<br>100% of the 24 user reviews for this game are positive.",
@@ -30614,7 +31464,7 @@
       "search_text": "the mailroom the mailroom survive the horrors of hell’s deadest-end job: a human mail clerk. process occult specimens, sort infernal mail, repair cursed machinery, and survive your shift in a cozy horror workplace simulator. indie simulation single-player steam achievements full controller support custom volume controls #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support stereo sound steam cloud family sharing english french italian german arabic japanese korean norwegian polish portuguese-brazil portuguese---portugal russian spanish-latin spanish-spain schinese tchinese positive<br>100% of the 24 user reviews for this game are positive.",
       "first_seen": "2026-10-26T22:26:34+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 2863640,
@@ -30998,6 +31848,31 @@
           "currency": "USD",
           "original": 1399,
           "final": 979
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8900,
+          "final": 6230
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 24800,
+          "final": 17300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5600,
+          "final": 3920
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 160000,
+          "final": 112000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1550000,
+          "final": 1085000
         }
       },
       "review_hint": "Very Positive<br>93% of the 1,254 user reviews for this game are positive.",
@@ -31012,7 +31887,7 @@
       "search_text": "the other side the other side the other side is a co-op psychological thriller for up to 6 players. your goal is to investigate haunted locations using modern ghost hunting equipment, gather evidence, identify entities, and cleanse them from the location. customize your character, headquarters, and more. action adventure casual indie simulation strategy early access single-player multi-player co-op online co-op custom volume controls adjustable difficulty stereo sound steam cloud steam leaderboards family sharing english french italian german spanish-spain bulgarian czech danish dutch finnish greek hungarian japanese korean norwegian polish portuguese-brazil portuguese---portugal romanian russian schinese swedish tchinese turkish ukrainian catalan very positive<br>93% of the 1,254 user reviews for this game are positive.",
       "first_seen": "2026-10-27T04:16:54+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 1304930,
@@ -33224,6 +34099,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8700,
+          "final": 6960
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 30800,
+          "final": 24600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5900,
+          "final": 4720
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 190000,
+          "final": 152000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1600000,
+          "final": 1280000
         }
       },
       "review_hint": "Mixed<br>64% of the 164 user reviews for this game are positive.",
@@ -33238,7 +34138,7 @@
       "search_text": "trivia murder party 3 trivia murder party 3 your favorite trivia-obsessed serial killer is heading to summer camp to put you through a sinister new set of minigames and murder. take a stab at answering questions correctly, engage in luck and skill-based activities, and sabotage your fellow campers in order to survive the summer. action adventure casual indie strategy early access single-player multi-player pvp online pvp co-op online co-op full controller support custom volume controls playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support stereo sound surround sound family sharing english mixed<br>64% of the 164 user reviews for this game are positive.",
       "first_seen": "2026-10-26T22:26:34+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 492720,
@@ -423868,6 +424768,31 @@
           "currency": "USD",
           "original": 599,
           "final": 509
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3600,
+          "final": 3060
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 13600,
+          "final": 11500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2600,
+          "final": 2210
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 79000,
+          "final": 67100
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 655000,
+          "final": 557000
         }
       },
       "review_hint": "",
@@ -423882,7 +424807,7 @@
       "search_text": "tidy farm tidy farm tidy farm is a cozy organizing simulator where you transform a chaotic farm into your dream homestead. pick everything up, figure out where it belongs and sort 4,544 items. casual indie simulation single-player steam achievements adjustable text size camera comfort custom volume controls #category_playable_at_your_own_pace playable without timed input dualshock controller support dualsense controller support stereo sound partial controller support steam cloud family sharing english french german spanish-spain japanese korean polish portuguese---portugal russian schinese",
       "first_seen": "2026-10-26T22:26:34+00:00",
       "last_seen": "2026-10-27T04:16:54+00:00",
-      "updated_at": "2026-10-27T04:16:54+00:00"
+      "updated_at": "2026-10-27T08:32:20+00:00"
     },
     {
       "app_id": 4870430,
