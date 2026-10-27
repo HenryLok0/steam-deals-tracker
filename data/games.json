@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T17:43:11+00:00",
+  "updated_at": "2026-10-27T19:45:13+00:00",
   "total_count": 4725,
   "active_count": 349,
   "games": [
@@ -5580,6 +5580,31 @@
           "currency": "USD",
           "original": 4499,
           "final": 4049
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 31800,
+          "final": 28620
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 129000,
+          "final": 116100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 15300,
+          "final": 13770
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 638000,
+          "final": 574200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 5980000,
+          "final": 5382000
         }
       },
       "review_hint": "",
@@ -5594,7 +5619,7 @@
       "search_text": "culdcept begins culdcept begins a hidden classic that fuses board and card games, culdcept features a unique, innovative system that has captivated fans since its debut. players become cepters, wielding cards in intense battles where luck and strategy collide. after ten years, a brand-new story begins once again. adventure casual strategy single-player multi-player pvp online pvp steam achievements full controller support custom volume controls dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing english schinese tchinese japanese korean",
       "first_seen": "2026-10-27T17:43:11+00:00",
       "last_seen": "2026-10-27T17:43:11+00:00",
-      "updated_at": "2026-10-27T17:43:11+00:00"
+      "updated_at": "2026-10-27T19:45:13+00:00"
     },
     {
       "app_id": 2201320,
@@ -13888,6 +13913,31 @@
           "currency": "USD",
           "original": 699,
           "final": 454
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4600,
+          "final": 2990
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 13800,
+          "final": 8900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2900,
+          "final": 1885
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 80000,
+          "final": 52000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 780000,
+          "final": 507000
         }
       },
       "review_hint": "Very Positive<br>88% of the 15,379 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -13902,7 +13952,7 @@
       "search_text": "liar's bar liar's bar dive into this multiplayer online experience set in a sketchy bar where the games are as dangerous as the patrons. join a table of 4 and test your skills in liar's dice and liar's deck, where lying and bluffing are key to victory. ready for a night at liar's bar? casual indie simulation strategy early access multi-player pvp online pvp co-op online co-op family sharing english turkish schinese russian very positive<br>88% of the 15,379 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-27T17:43:11+00:00",
       "last_seen": "2026-10-27T17:43:11+00:00",
-      "updated_at": "2026-10-27T17:43:11+00:00"
+      "updated_at": "2026-10-27T19:45:13+00:00"
     },
     {
       "app_id": 3195580,
@@ -18228,6 +18278,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1349
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7900,
+          "final": 7110
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27800,
+          "final": 25000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5400,
+          "final": 4860
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 210000,
+          "final": 189000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1700000,
+          "final": 1530000
         }
       },
       "review_hint": "",
@@ -18242,7 +18317,7 @@
       "search_text": "nomad drive nomad drive repair your rundown rv and hit the road solo or in 1–4 player co-op through a procedurally generated post-apocalyptic world. gather resources, customize your rv, and survive as long as you can. adventure casual indie simulation early access single-player multi-player co-op online co-op steam achievements full controller support camera comfort custom volume controls adjustable difficulty dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime stereo sound surround sound steam cloud stats family sharing english french italian german spanish-spain japanese korean russian schinese turkish dutch indonesian polish spanish-latin thai tchinese ukrainian arabic danish finnish norwegian portuguese---portugal swedish portuguese-brazil",
       "first_seen": "2026-10-27T17:43:11+00:00",
       "last_seen": "2026-10-27T17:43:11+00:00",
-      "updated_at": "2026-10-27T17:43:11+00:00"
+      "updated_at": "2026-10-27T19:45:13+00:00"
     },
     {
       "app_id": 4487060,
@@ -18302,6 +18377,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1349
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7900,
+          "final": 7110
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29900,
+          "final": 26900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4800,
+          "final": 4320
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 208000,
+          "final": 187200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1780000,
+          "final": 1602000
         }
       },
       "review_hint": "Mixed<br>47% of the 17 user reviews for this game are positive.",
@@ -18316,7 +18416,7 @@
       "search_text": "northgard battlegrounds northgard battlegrounds a city-building auto-battler set in the viking world of northgard, where every building you place shapes your clan’s fate. develop your village, claim the gods’ blessings, and send your warband to battle against rival players! every move counts, only one clan will stand. casual indie simulation strategy early access single-player multi-player pvp online pvp full controller support steam cloud family sharing english french german spanish-spain russian schinese polish portuguese-brazil mixed<br>47% of the 17 user reviews for this game are positive.",
       "first_seen": "2026-10-27T17:43:11+00:00",
       "last_seen": "2026-10-27T17:43:11+00:00",
-      "updated_at": "2026-10-27T17:43:11+00:00"
+      "updated_at": "2026-10-27T19:45:13+00:00"
     },
     {
       "app_id": 466560,
@@ -26104,6 +26204,31 @@
           "currency": "USD",
           "original": 799,
           "final": 679
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4400,
+          "final": 3740
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 10800,
+          "final": 9100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2600,
+          "final": 2210
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 82000,
+          "final": 69700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 680000,
+          "final": 578000
         }
       },
       "review_hint": "",
@@ -26118,7 +26243,7 @@
       "search_text": "selkie's salvage&co. selkie's salvage&co. selkie’s salvage&amp;co. is a first-person physics based incremental fishing game. your task is to clean up the flooded planet! fish up scrap, grind all of it down and collect trinkets of the past. expand your salvaging operation and go beyond! casual indie single-player steam achievements family sharing english",
       "first_seen": "2026-10-27T17:43:11+00:00",
       "last_seen": "2026-10-27T17:43:11+00:00",
-      "updated_at": "2026-10-27T17:43:11+00:00"
+      "updated_at": "2026-10-27T19:45:13+00:00"
     },
     {
       "app_id": 1702010,
@@ -28018,6 +28143,31 @@
           "currency": "USD",
           "original": 999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7800,
+          "final": 6240
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 28800,
+          "final": 23000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 3360
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 139000,
+          "final": 111200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 880000
         }
       },
       "review_hint": "Very Positive<br>96% of the 50 user reviews for this game are positive.",
@@ -28032,7 +28182,7 @@
       "search_text": "songs of conquest - yulan songs of conquest - yulan the beautiful lands of yulan are rich in history and culture, but deeply fractured. once divided, the three great houses, li, sheng, and xuan, must now unite to defeat their ancient enemies. adventure rpg strategy single-player multi-player pvp online pvp shared/split screen pvp co-op online co-op shared/split screen co-op shared/split screen cross-platform multiplayer downloadable content steam achievements full controller support captions available dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud includes level editor remote play together family sharing english french italian german spanish-spain polish russian portuguese-brazil schinese korean tchinese ukrainian turkish japanese very positive<br>96% of the 50 user reviews for this game are positive.",
       "first_seen": "2026-10-27T17:43:11+00:00",
       "last_seen": "2026-10-27T17:43:11+00:00",
-      "updated_at": "2026-10-27T17:43:11+00:00"
+      "updated_at": "2026-10-27T19:45:13+00:00"
     },
     {
       "app_id": 1326470,
@@ -29936,6 +30086,31 @@
           "currency": "USD",
           "original": 1899,
           "final": 1519
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11900,
+          "final": 9520
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 31000,
+          "final": 24800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7200,
+          "final": 5760
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 210000,
+          "final": 168000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2050000,
+          "final": 1640000
         }
       },
       "review_hint": "Very Positive<br>81% of the 439 user reviews for this game are positive.",
@@ -29950,7 +30125,7 @@
       "search_text": "the boss gangster: criminal empire the boss gangster: criminal empire build a criminal empire from the streets up. commit crimes in third-person, run and automate illegal businesses, recruit your own crime family, fight rival organizations, and take control of a seamless open-world city. action indie rpg simulation strategy single-player steam achievements full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing english french italian german japanese russian turkish schinese korean spanish-spain portuguese-brazil bulgarian hungarian tchinese very positive<br>81% of the 439 user reviews for this game are positive.",
       "first_seen": "2026-10-27T17:43:11+00:00",
       "last_seen": "2026-10-27T17:43:11+00:00",
-      "updated_at": "2026-10-27T17:43:11+00:00"
+      "updated_at": "2026-10-27T19:45:13+00:00"
     },
     {
       "app_id": 4406280,
@@ -30727,6 +30902,31 @@
           "currency": "USD",
           "original": 2799,
           "final": 1399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 19000,
+          "final": 9500
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 79900,
+          "final": 39900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 11000,
+          "final": 5500
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 320000,
+          "final": 160000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2793000,
+          "final": 1396000
         }
       },
       "review_hint": "Very Positive<br>85% of the 1,847 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -30741,7 +30941,7 @@
       "search_text": "the last faith the last faith dive into the latest evolution of the last faith: a dark and gothic fusion of metroidvania and soulslike. engage in merciless and precise combat with a huge range of weapons, firearms, and custom executions. let nothing stand in the way of your journey to salvation. action adventure indie single-player steam achievements full controller support steam trading cards gamepad recommended dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing english french italian german spanish-spain japanese portuguese-brazil russian schinese polish spanish-latin tchinese korean very positive<br>85% of the 1,847 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-27T11:48:51+00:00",
       "last_seen": "2026-10-27T17:43:11+00:00",
-      "updated_at": "2026-10-27T17:43:11+00:00"
+      "updated_at": "2026-10-27T19:45:13+00:00"
     },
     {
       "app_id": 4150860,
@@ -34238,6 +34438,31 @@
           "currency": "USD",
           "original": 999,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5500,
+          "final": 4950
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 17800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3500,
+          "final": 3150
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 126000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 990000
         }
       },
       "review_hint": "",
@@ -34252,7 +34477,7 @@
       "search_text": "vampy's big day vampy's big day sneak through sunlit villages as a clumsy vampire. move the sun with a fairy's help to cast shadows, then spare or devour the villagers. action adventure indie rpg single-player steam achievements full controller support family sharing english",
       "first_seen": "2026-10-27T17:43:11+00:00",
       "last_seen": "2026-10-27T17:43:11+00:00",
-      "updated_at": "2026-10-27T17:43:11+00:00"
+      "updated_at": "2026-10-27T19:45:13+00:00"
     },
     {
       "app_id": 427290,
@@ -46772,6 +46997,31 @@
           "currency": "USD",
           "original": 2019,
           "final": 1352
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 16375,
+          "final": 10971
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 42700,
+          "final": 28500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4694,
+          "final": 3144
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 213800,
+          "final": 143200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2802000,
+          "final": 1877000
         }
       },
       "review_hint": "Very Positive<br>80% of the 394 user reviews for this game are positive.",
@@ -46786,7 +47036,7 @@
       "search_text": "air defender air defender command the sky in a tense real-time strategy simulation where you manage a nation's air defenses. analyze radar contacts, scramble interceptor jets, and make split-second decisions to protect your airspace from hostile threats. casual indie simulation strategy early access single-player custom volume controls adjustable difficulty playable without timed input save anytime steam cloud family sharing english very positive<br>80% of the 394 user reviews for this game are positive.",
       "first_seen": "2026-10-27T11:48:51+00:00",
       "last_seen": "2026-10-27T17:43:11+00:00",
-      "updated_at": "2026-10-27T17:43:11+00:00"
+      "updated_at": "2026-10-27T19:45:13+00:00"
     },
     {
       "app_id": 2438680,
@@ -356841,6 +357091,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 699
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 4375
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 11400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 2660
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 80500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 752000
         }
       },
       "review_hint": "Very Positive<br>86% of the 3,556 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -356855,7 +357130,7 @@
       "search_text": "slender: the arrival slender: the arrival slender man returns more terrifying than ever. you're on your own. no one to help you. no one to hear you scream. relive the horror all over again with cutting edge visuals for the 10th anniversary update and experience survival horror at its finest. action adventure indie single-player steam achievements steam trading cards partial controller support steam cloud stats steam leaderboards family sharing english french italian german spanish-spain japanese portuguese---portugal russian schinese tchinese very positive<br>86% of the 3,556 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-27T11:48:51+00:00",
       "last_seen": "2026-10-27T17:43:11+00:00",
-      "updated_at": "2026-10-27T17:43:11+00:00"
+      "updated_at": "2026-10-27T19:45:13+00:00"
     },
     {
       "app_id": 2651350,
