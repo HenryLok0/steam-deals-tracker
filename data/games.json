@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T04:46:18+00:00",
+  "updated_at": "2026-10-28T09:11:06+00:00",
   "total_count": 4733,
   "active_count": 350,
   "games": [
@@ -3014,6 +3014,31 @@
           "currency": "USD",
           "original": 999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 5280
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 15000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 3360
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 96000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 880000
         }
       },
       "review_hint": "",
@@ -3028,7 +3053,7 @@
       "search_text": "benny's backrooms benny's backrooms a co-op horror where you and your friends (if applicable) explore a seemingly infinite expanse of eerie creature-infested liminal spaces, armed only with a glorified vacuum and specialized equipment to help you locate and extract a rare substance in the name of science. action adventure casual indie simulation early access single-player multi-player co-op online co-op steam achievements captions available custom volume controls stereo sound partial controller support family sharing english french german spanish-spain japanese korean portuguese-brazil russian schinese",
       "first_seen": "2026-10-27T21:57:15+00:00",
       "last_seen": "2026-10-28T04:46:18+00:00",
-      "updated_at": "2026-10-28T04:46:18+00:00"
+      "updated_at": "2026-10-28T09:11:06+00:00"
     },
     {
       "app_id": 4304900,
@@ -15484,6 +15509,31 @@
           "currency": "USD",
           "original": 699,
           "final": 559
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4200,
+          "final": 3360
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15900,
+          "final": 12700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2900,
+          "final": 2320
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 90500,
+          "final": 72400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 760000,
+          "final": 608000
         }
       },
       "review_hint": "",
@@ -15498,7 +15548,7 @@
       "search_text": "monster hatcher monster hatcher an incremental monster-farming game where you catch and hatch unique creatures, unlock powerful upgrades, expand your skill tree, harvest resources, and battle in idle arenas to become the ultimate monster hatcher. casual indie single-player steam achievements camera comfort custom volume controls mouse only option #category_playable_at_your_own_pace playable without timed input save anytime touch only option steam cloud family sharing english french italian german spanish-spain japanese korean portuguese-brazil russian schinese tchinese",
       "first_seen": "2026-10-27T21:57:15+00:00",
       "last_seen": "2026-10-28T04:46:18+00:00",
-      "updated_at": "2026-10-28T04:46:18+00:00"
+      "updated_at": "2026-10-28T09:11:06+00:00"
     },
     {
       "app_id": 2356560,
@@ -17895,6 +17945,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6500,
+          "final": 4875
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 23800,
+          "final": 17800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 3150
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 127500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1350000,
+          "final": 1012000
         }
       },
       "review_hint": "",
@@ -17909,7 +17984,7 @@
       "search_text": "octbuster: video rental store cleanup octbuster: video rental store cleanup a physics sim meets a tidy-up game. octbuster has over 10,000 vhs tapes and an octopus with tentacle arms to scoop them up by the armful. a cart that follows you, a kitten army that helps, an arcade buried under the mess, co-op multiplayer, twitch chat in your store, and no generative ai. casual indie simulation single-player multi-player co-op online co-op steam achievements full controller support steam workshop camera comfort color alternatives custom volume controls adjustable difficulty #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime stereo sound surround sound steam cloud steam leaderboards family sharing english schinese",
       "first_seen": "2026-10-27T21:57:15+00:00",
       "last_seen": "2026-10-28T04:46:18+00:00",
-      "updated_at": "2026-10-28T04:46:18+00:00"
+      "updated_at": "2026-10-28T09:11:06+00:00"
     },
     {
       "app_id": 3339880,
@@ -20406,6 +20481,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 2699
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 22000,
+          "final": 19800
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 69900,
+          "final": 62900
+        },
+        "zh-Hans": {
+          "currency": "USD",
+          "original": 2999,
+          "final": 2699
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 420000,
+          "final": 378000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3550000,
+          "final": 3195000
         }
       },
       "review_hint": "",
@@ -20420,7 +20520,7 @@
       "search_text": "project exhibitionist project exhibitionist project exhibitionist is a 3d sandbox game about exhibitionism and humiliation. play as ciel, a girl who, following a challenge, decides to leave her home completely naked. discover all the points of interest and create your own story thanks to the game's complete customization. adventure indie rpg simulation single-player steam achievements steam leaderboards family sharing english italian spanish-spain japanese korean portuguese-brazil russian schinese spanish-latin thai tchinese french",
       "first_seen": "2026-10-27T21:57:15+00:00",
       "last_seen": "2026-10-28T04:46:18+00:00",
-      "updated_at": "2026-10-28T04:46:18+00:00"
+      "updated_at": "2026-10-28T09:11:06+00:00"
     },
     {
       "app_id": 2941710,
@@ -23339,6 +23439,31 @@
           "currency": "USD",
           "original": 745,
           "final": 670
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4800,
+          "final": 4320
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14100,
+          "final": 12600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3077,
+          "final": 2769
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 85700,
+          "final": 77100
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 830000,
+          "final": 747000
         }
       },
       "review_hint": "",
@@ -23353,7 +23478,7 @@
       "search_text": "rift of the necrodancer: mystery skulls music pack rift of the necrodancer: mystery skulls music pack get into the rhythm with the new mystery skulls music pack. action indie rpg single-player downloadable content steam achievements full controller support steam trading cards steam workshop camera comfort color alternatives custom volume controls adjustable difficulty keyboard only option dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam input api support steam cloud includes level editor family sharing english french italian german spanish-spain japanese korean portuguese-brazil russian schinese spanish-latin tchinese",
       "first_seen": "2026-10-28T04:46:18+00:00",
       "last_seen": "2026-10-28T04:46:18+00:00",
-      "updated_at": "2026-10-28T04:46:18+00:00"
+      "updated_at": "2026-10-28T09:11:06+00:00"
     },
     {
       "app_id": 294100,
@@ -29216,6 +29341,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 22800,
+          "final": 2280
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 48800,
+          "final": 4800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9800,
+          "final": 980
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 340000,
+          "final": 34000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3200000,
+          "final": 320000
         }
       },
       "review_hint": "Very Positive<br>88% of the 586 user reviews for this game are positive.",
@@ -29230,7 +29380,7 @@
       "search_text": "tchia tchia a tropical open-world adventure. climb, glide, swim, and sail your boat around a beautiful archipelago in this physics-driven sandbox. take control of any animal or object you can find, and jam on your fully playable ukulele. action adventure indie single-player steam achievements full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support family sharing english french italian german spanish-spain japanese korean portuguese-brazil russian schinese very positive<br>88% of the 586 user reviews for this game are positive.",
       "first_seen": "2026-10-27T21:57:15+00:00",
       "last_seen": "2026-10-28T04:46:18+00:00",
-      "updated_at": "2026-10-28T04:46:18+00:00"
+      "updated_at": "2026-10-28T09:11:06+00:00"
     },
     {
       "app_id": 389730,
@@ -29600,6 +29750,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1274
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8700,
+          "final": 7395
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 30800,
+          "final": 26100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5900,
+          "final": 5015
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 190000,
+          "final": 161500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1600000,
+          "final": 1360000
         }
       },
       "review_hint": "",
@@ -29614,7 +29789,7 @@
       "search_text": "that which remains that which remains 1–4 player sci-fi ghost-hunting horror extraction sim with proximity voice chat. travel across time to extract resources, identify and capture hostile entities as fuel for a supposed future utopia. speak to entities using your voice, upgrade your prison, craft tools, and meet a rising daily quota. action indie simulation early access single-player multi-player co-op online co-op steam achievements camera comfort adjustable difficulty playable without timed input stereo sound surround sound partial controller support steam cloud family sharing english",
       "first_seen": "2026-10-27T21:57:15+00:00",
       "last_seen": "2026-10-28T04:46:18+00:00",
-      "updated_at": "2026-10-28T04:46:18+00:00"
+      "updated_at": "2026-10-28T09:11:06+00:00"
     },
     {
       "app_id": 4160210,
@@ -30534,6 +30709,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 2249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 13500,
+          "final": 12150
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 42800,
+          "final": 38500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8700,
+          "final": 7830
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 300000,
+          "final": 270000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2800000,
+          "final": 2520000
         }
       },
       "review_hint": "Positive<br>90% of the 44 user reviews for this game are positive.",
@@ -30548,7 +30748,7 @@
       "search_text": "the long dark: iron road the long dark: iron road the long dark survival expansion. welcome to cauldron island. lost to history, hiding a mystery. restore &amp; activate a century-old train to journey deep along the caldera’s spine &amp; uncover a dark secret. what you discover in the end will change how you survive in this aurora-changed world, forever. adventure indie simulation strategy early access single-player downloadable content steam achievements full controller support steam trading cards adjustable text size camera comfort custom volume controls adjustable difficulty playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam input api support stereo sound subtitle options steam cloud remote play on tv family sharing english german russian french spanish-spain finnish japanese korean norwegian portuguese---portugal schinese swedish tchinese turkish portuguese-brazil dutch italian polish ukrainian spanish-latin positive<br>90% of the 44 user reviews for this game are positive.",
       "first_seen": "2026-10-27T21:57:15+00:00",
       "last_seen": "2026-10-28T04:46:18+00:00",
-      "updated_at": "2026-10-28T04:46:18+00:00"
+      "updated_at": "2026-10-28T09:11:06+00:00"
     },
     {
       "app_id": 4150860,
