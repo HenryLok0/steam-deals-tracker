@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T12:32:44+00:00",
+  "updated_at": "2026-10-29T19:57:16+00:00",
   "total_count": 4759,
   "active_count": 349,
   "games": [
@@ -4592,6 +4592,31 @@
           "currency": "USD",
           "original": 690,
           "final": 621
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4100,
+          "final": 3690
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15000,
+          "final": 13500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3000,
+          "final": 2700
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 89000,
+          "final": 80100
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 750000,
+          "final": 675000
         }
       },
       "review_hint": "Positive<br>88% of the 18 user reviews for this game are positive.",
@@ -4606,7 +4631,7 @@
       "search_text": "copperfell copperfell journey to copperfell, a vast magical land teeming with charming villages, interesting characters, and dangerous monsters. grind 24 skills, craft a huge variety of items, and grow stronger as you explore. get those level 100s, will you? action adventure indie rpg single-player steam achievements camera comfort color alternatives custom volume controls playable without timed input save anytime stereo sound subtitle options partial controller support steam cloud family sharing english positive<br>88% of the 18 user reviews for this game are positive.",
       "first_seen": "2026-10-29T12:32:44+00:00",
       "last_seen": "2026-10-29T12:32:44+00:00",
-      "updated_at": "2026-10-29T12:32:44+00:00"
+      "updated_at": "2026-10-29T19:57:16+00:00"
     },
     {
       "app_id": 774801,
@@ -5201,6 +5226,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 6240
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 16300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9200,
+          "final": 3680
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 112000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 1080000
         }
       },
       "review_hint": "Mostly Positive<br>75% of the 1,342 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -5215,7 +5265,7 @@
       "search_text": "cubic odyssey cubic odyssey embark on a galactic journey in cubic odyssey, an open-world adventure where you explore vibrant planets, craft tools, build vehicles, and fight the red darkness. uncover ancient mysteries, and shape a universe full of life, danger, and limitless possibilities! action adventure single-player multi-player co-op online co-op lan co-op steam achievements full controller support steam trading cards steam workshop adjustable text size camera comfort custom volume controls playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime steam cloud remote play on tv family sharing steam timeline english french italian german spanish-spain schinese russian japanese korean portuguese---portugal romanian mostly positive<br>75% of the 1,342 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-29T12:32:44+00:00",
       "last_seen": "2026-10-29T12:32:44+00:00",
-      "updated_at": "2026-10-29T12:32:44+00:00"
+      "updated_at": "2026-10-29T19:57:16+00:00"
     },
     {
       "app_id": 3322630,
@@ -10475,6 +10525,31 @@
           "currency": "USD",
           "original": 999,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6100,
+          "final": 5490
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21600,
+          "final": 19400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 3780
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 135000,
+          "final": 121500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 945000
         }
       },
       "review_hint": "",
@@ -10489,7 +10564,7 @@
       "search_text": "ghost in the sql data ghost in the sql data a call reported a school fire 14 minutes before the first witness saw it. find out who made it, in sql, by exploring a year of paris emergency calls. simulation strategy single-player steam achievements full controller support steam workshop adjustable text size camera comfort color alternatives custom volume controls #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime subtitle options steam cloud stats includes level editor family sharing english french italian german spanish-spain japanese korean russian schinese portuguese-brazil",
       "first_seen": "2026-10-29T12:32:44+00:00",
       "last_seen": "2026-10-29T12:32:44+00:00",
-      "updated_at": "2026-10-29T12:32:44+00:00"
+      "updated_at": "2026-10-29T19:57:16+00:00"
     },
     {
       "app_id": 3370490,
@@ -12568,6 +12643,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 3199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 24800,
+          "final": 19840
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 99900,
+          "final": 79900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 13700,
+          "final": 10960
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 510000,
+          "final": 408000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4100000,
+          "final": 3280000
         }
       },
       "review_hint": "",
@@ -12582,7 +12682,7 @@
       "search_text": "hunting simulator 3 hunting simulator 3 this open-world game lets you experience the thrill of the hunt, with your faithful dog by your side! choose your equipment from official brands, and explore the wilderness in search of your next game. simulation single-player steam achievements full controller support camera comfort custom volume controls adjustable difficulty playable without timed input dualshock controller support dualsense controller support save anytime stereo sound steam cloud stats steam leaderboards family sharing english french italian german spanish-spain schinese korean japanese polish portuguese-brazil russian",
       "first_seen": "2026-10-29T12:32:44+00:00",
       "last_seen": "2026-10-29T12:32:44+00:00",
-      "updated_at": "2026-10-29T12:32:44+00:00"
+      "updated_at": "2026-10-29T19:57:16+00:00"
     },
     {
       "app_id": 4693960,
@@ -12652,6 +12752,31 @@
           "currency": "USD",
           "original": 499,
           "final": 0
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3000,
+          "final": 3000
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 11700,
+          "final": 11700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 2200
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 65500,
+          "final": 65500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 545000,
+          "final": 545000
         }
       },
       "review_hint": "",
@@ -12666,7 +12791,7 @@
       "search_text": "hunting simulator 3 - classic american hunter pack hunting simulator 3 - classic american hunter pack this open-world game lets you experience the thrill of the hunt, with your faithful dog by your side! choose your equipment from official brands, and explore the wilderness in search of your next game. simulation single-player downloadable content steam achievements full controller support camera comfort custom volume controls adjustable difficulty playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime stereo sound steam cloud stats steam leaderboards family sharing english french italian german spanish-spain schinese korean japanese polish portuguese-brazil russian",
       "first_seen": "2026-10-29T12:32:44+00:00",
       "last_seen": "2026-10-29T12:32:44+00:00",
-      "updated_at": "2026-10-29T12:32:44+00:00"
+      "updated_at": "2026-10-29T19:57:16+00:00"
     },
     {
       "app_id": 245390,
