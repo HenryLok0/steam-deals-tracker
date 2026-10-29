@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T04:58:02+00:00",
+  "updated_at": "2026-10-29T09:10:56+00:00",
   "total_count": 4754,
   "active_count": 348,
   "games": [
@@ -298,6 +298,31 @@
           "currency": "USD",
           "original": 599,
           "final": 509
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3600,
+          "final": 3060
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 13600,
+          "final": 11500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2600,
+          "final": 2210
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 79000,
+          "final": 67100
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 655000,
+          "final": 557000
         }
       },
       "review_hint": "Positive<br>100% of the 11 user reviews for this game are positive.",
@@ -312,7 +337,7 @@
       "search_text": "a place for every potion a place for every potion a cozy potion-sorting puzzle game. pour scrambled liquids until every bottle runs pure, then shelve each one where it belongs. fill 4,160 potions across 52 shelves. no timers, no fail state, no rush. casual indie simulation single-player steam achievements full controller support custom volume controls #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime stereo sound steam cloud family sharing english french italian german spanish-spain japanese korean portuguese-brazil russian schinese ukrainian positive<br>100% of the 11 user reviews for this game are positive.",
       "first_seen": "2026-10-28T22:21:34+00:00",
       "last_seen": "2026-10-29T04:58:02+00:00",
-      "updated_at": "2026-10-29T04:58:02+00:00"
+      "updated_at": "2026-10-29T09:10:56+00:00"
     },
     {
       "app_id": 752590,
@@ -590,6 +615,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 1649
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15000,
+          "final": 8250
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 61500,
+          "final": 33800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 13500,
+          "final": 7425
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 469900,
+          "final": 258400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4400000,
+          "final": 2420000
         }
       },
       "review_hint": "Mixed<br>57% of the 1,184 user reviews for this game are positive.",
@@ -604,7 +654,7 @@
       "search_text": "aces of thunder aces of thunder experience the thrill of aerial combat with aces of thunder, the ultimate flight simulation game with high fidelity graphics that looks perfect both with and without vr hmds. action simulation single-player multi-player pvp online pvp steam achievements vr supported partial controller support family sharing english french italian german spanish-spain russian hungarian japanese korean polish portuguese-brazil portuguese---portugal schinese mixed<br>57% of the 1,184 user reviews for this game are positive.",
       "first_seen": "2026-10-28T22:21:34+00:00",
       "last_seen": "2026-10-29T04:58:02+00:00",
-      "updated_at": "2026-10-29T04:58:02+00:00"
+      "updated_at": "2026-10-29T09:10:56+00:00"
     },
     {
       "app_id": 1385380,
@@ -869,6 +919,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 11250
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 29500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 6840
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 225000,
+          "final": 202500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 1935000
         }
       },
       "review_hint": "Positive<br>90% of the 11 user reviews for this game are positive.",
@@ -883,7 +958,7 @@
       "search_text": "airport contraband airport contraband take over the duties of a customs officer in this roguelike-simulation game where every suitcase could be a risk. inspect documents, question passengers, scan luggage, and seize illegal goods as you try to maintain control at caldora airport. will you uphold the law or profit from contraband? casual indie simulation single-player steam achievements partial controller support steam cloud family sharing english french german spanish-spain polish russian turkish portuguese-brazil ukrainian japanese schinese tchinese positive<br>90% of the 11 user reviews for this game are positive.",
       "first_seen": "2026-10-28T22:21:34+00:00",
       "last_seen": "2026-10-29T04:58:02+00:00",
-      "updated_at": "2026-10-29T04:58:02+00:00"
+      "updated_at": "2026-10-29T09:10:56+00:00"
     },
     {
       "app_id": 214490,
@@ -1563,6 +1638,31 @@
           "currency": "USD",
           "original": 4999,
           "final": 4499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 35000,
+          "final": 31500
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 149000,
+          "final": 134100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 32400,
+          "final": 29160
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 858000,
+          "final": 772200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 6670000,
+          "final": 6003000
         }
       },
       "review_hint": "Mostly Positive<br>70% of the 37 user reviews for this game are positive.",
@@ -1577,7 +1677,7 @@
       "search_text": "anomalith anomalith “anomalith” is a survival third-person shooter set in japan, steeped in the atmosphere of liminal spaces and showa-era retro aesthetics. to search for her missing friend, a girl steps into a world writhing with anomalies. action rpg single-player steam achievements full controller support adjustable text size camera comfort color alternatives custom volume controls adjustable difficulty dualsense controller support subtitle options steam cloud steam leaderboards family sharing english schinese tchinese japanese korean mostly positive<br>70% of the 37 user reviews for this game are positive.",
       "first_seen": "2026-10-28T22:21:34+00:00",
       "last_seen": "2026-10-29T04:58:02+00:00",
-      "updated_at": "2026-10-29T04:58:02+00:00"
+      "updated_at": "2026-10-29T09:10:56+00:00"
     },
     {
       "app_id": 1540210,
@@ -4191,6 +4291,31 @@
           "currency": "USD",
           "original": 999,
           "final": 849
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6100,
+          "final": 5185
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21600,
+          "final": 18300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 3570
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 135000,
+          "final": 114700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 892000
         }
       },
       "review_hint": "",
@@ -4205,7 +4330,7 @@
       "search_text": "broke wizards broke wizards a 2–6 player competitive sandbox party game where wizard roommates vie to make rent! slay monsters, play prop hunt, race hoverboards, and take on crazy jobs to pay your giant imp landlord first! action adventure indie single-player multi-player co-op online co-op steam achievements camera comfort custom volume controls adjustable difficulty playable without timed input stereo sound family sharing english french italian german spanish-spain japanese polish portuguese-brazil schinese turkish russian ukrainian spanish-latin korean",
       "first_seen": "2026-10-28T22:21:34+00:00",
       "last_seen": "2026-10-29T04:58:02+00:00",
-      "updated_at": "2026-10-29T04:58:02+00:00"
+      "updated_at": "2026-10-29T09:10:56+00:00"
     },
     {
       "app_id": 2835570,
@@ -4761,6 +4886,31 @@
           "currency": "USD",
           "original": 999,
           "final": 699
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 4620
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 13100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 2940
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 84000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 770000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>98% of the 23,138 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -4775,7 +4925,7 @@
       "search_text": "crab champions crab champions claw your way across exotic islands combining fluid movement with fast paced combat to become a crab champion in this third person roguelike shooter. action adventure casual indie early access single-player multi-player co-op online co-op steam achievements full controller support dualshock controller support dualsense controller support steam cloud family sharing english overwhelmingly positive<br>98% of the 23,138 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-28T22:21:34+00:00",
       "last_seen": "2026-10-29T04:58:02+00:00",
-      "updated_at": "2026-10-29T04:58:02+00:00"
+      "updated_at": "2026-10-29T09:10:56+00:00"
     },
     {
       "app_id": 4312190,
@@ -8926,6 +9076,31 @@
           "currency": "USD",
           "original": 5999,
           "final": 4799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 38800,
+          "final": 31040
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 171800,
+          "final": 137400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 23800,
+          "final": 19040
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 799000,
+          "final": 639200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 6600000,
+          "final": 5280000
         }
       },
       "review_hint": "Mixed<br>68% of the 13,958 user reviews for this game are positive.<br><br>This product has experienced one or more periods of off-topic review activity.  Based on your preferences, the reviews within these periods have been excluded from this product's Review Score.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -8940,7 +9115,7 @@
       "search_text": "europa universalis v europa universalis v use war, trade or diplomacy to satisfy your grandest ambitions and dominate five centuries of history in the newest version of europa universalis, paradox interactive's flagship historical grand strategy game. strategy single-player multi-player pvp online pvp co-op online co-op steam achievements steam trading cards steam workshop steam cloud family sharing english french german spanish-spain japanese korean polish portuguese-brazil russian schinese turkish mixed<br>68% of the 13,958 user reviews for this game are positive.<br><br>this product has experienced one or more periods of off-topic review activity.  based on your preferences, the reviews within these periods have been excluded from this product's review score.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-28T22:21:34+00:00",
       "last_seen": "2026-10-29T04:58:02+00:00",
-      "updated_at": "2026-10-29T04:58:02+00:00"
+      "updated_at": "2026-10-29T09:10:56+00:00"
     },
     {
       "app_id": 3818450,
@@ -9000,6 +9175,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14500,
+          "final": 11600
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 46900,
+          "final": 37500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9300,
+          "final": 7440
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 315000,
+          "final": 252000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2650000,
+          "final": 2120000
         }
       },
       "review_hint": "",
@@ -9014,7 +9214,7 @@
       "search_text": "everlast: undying tale everlast: undying tale on everlast: undying tale’s magical world of sarkis, the undead have risen. gather, explore, skill, and craft in this mmo-lite action rpg adventure. only by bridging the gap between the living and the dead can you break death’s curse. action adventure rpg early access single-player multi-player pvp online pvp lan pvp co-op online co-op lan co-op full controller support dualshock controller support dualshock controller support steam cloud family sharing english",
       "first_seen": "2026-10-28T22:21:34+00:00",
       "last_seen": "2026-10-29T04:58:02+00:00",
-      "updated_at": "2026-10-29T04:58:02+00:00"
+      "updated_at": "2026-10-29T09:10:56+00:00"
     },
     {
       "app_id": 1179080,
@@ -9300,6 +9500,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1349
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8700,
+          "final": 7830
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 30800,
+          "final": 27700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5900,
+          "final": 5310
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 190000,
+          "final": 171000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1600000,
+          "final": 1440000
         }
       },
       "review_hint": "Positive<br>88% of the 36 user reviews for this game are positive.",
@@ -9314,7 +9539,7 @@
       "search_text": "fantasy world manager fantasy world manager create a vast, living fantasy world: heroes, creatures, quests and events; cultures, religions and factions; overworlds, interiors and dungeons-filled with stories, wars and choices. indie rpg simulation early access single-player steam workshop steam cloud includes level editor family sharing english french german schinese japanese russian turkish italian spanish-spain arabic bulgarian czech danish dutch finnish greek hungarian indonesian korean norwegian polish portuguese-brazil portuguese---portugal romanian spanish-latin swedish thai tchinese ukrainian vietnamese positive<br>88% of the 36 user reviews for this game are positive.",
       "first_seen": "2026-10-28T22:21:34+00:00",
       "last_seen": "2026-10-29T04:58:02+00:00",
-      "updated_at": "2026-10-29T04:58:02+00:00"
+      "updated_at": "2026-10-29T09:10:56+00:00"
     },
     {
       "app_id": 3124540,
@@ -10280,6 +10505,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 2249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 19900,
+          "final": 17910
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 74900,
+          "final": 67400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 13800,
+          "final": 12420
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 398000,
+          "final": 358200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2990000,
+          "final": 2691000
         }
       },
       "review_hint": "Very Positive<br>84% of the 64 user reviews for this game are positive.",
@@ -10294,7 +10544,7 @@
       "search_text": "geoplanetical geoplanetical a geopolitical simulation that starts on january 1, 2026, with the world as it stood that day. govern one of 200+ nations and territories, or lead its opposition: laws, budget, elections, strikes, diplomacy, war. the other governments never wait for you. no scenarios, no end date. indie simulation early access single-player steam workshop color alternatives custom volume controls #category_playable_at_your_own_pace playable without timed input save anytime steam cloud family sharing english french german italian schinese korean indonesian japanese dutch polish portuguese-brazil czech thai turkish ukrainian spanish-spain russian very positive<br>84% of the 64 user reviews for this game are positive.",
       "first_seen": "2026-10-28T22:21:34+00:00",
       "last_seen": "2026-10-29T04:58:02+00:00",
-      "updated_at": "2026-10-29T04:58:02+00:00"
+      "updated_at": "2026-10-29T09:10:56+00:00"
     },
     {
       "app_id": 3370490,
@@ -17412,6 +17662,31 @@
           "currency": "USD",
           "original": 699,
           "final": 594
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3800,
+          "final": 3230
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14800,
+          "final": 12500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2349,
+          "final": 1996
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 98500,
+          "final": 83700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 780000,
+          "final": 663000
         }
       },
       "review_hint": "Positive<br>90% of the 11 user reviews for this game are positive.",
@@ -17426,7 +17701,7 @@
       "search_text": "neuron activation neuron activation a digital fidget box of dopamine-fueled micro-challenges. push buttons. shoot targets. chain actions for higher scores. complete all tasks. don’t ask questions. adventure casual indie simulation strategy single-player steam achievements camera comfort color alternatives custom volume controls adjustable difficulty mouse only option playable without timed input save anytime subtitle options family sharing english french german schinese spanish-latin japanese portuguese-brazil russian positive<br>90% of the 11 user reviews for this game are positive.",
       "first_seen": "2026-10-28T22:21:34+00:00",
       "last_seen": "2026-10-29T04:58:02+00:00",
-      "updated_at": "2026-10-29T04:58:02+00:00"
+      "updated_at": "2026-10-29T09:10:56+00:00"
     },
     {
       "app_id": 275850,
@@ -19595,6 +19870,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1274
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8700,
+          "final": 7395
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 30800,
+          "final": 26100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5900,
+          "final": 5015
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 190000,
+          "final": 161500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1600000,
+          "final": 1360000
         }
       },
       "review_hint": "Positive<br>93% of the 16 user reviews for this game are positive.",
@@ -19609,7 +19909,7 @@
       "search_text": "pc cafe simulator pc cafe simulator run your own korean pc cafe! from customer service to cooking and store management — experience life as a pc cafe owner. start small, hire staff, expand your store, and deal with troublesome customers yourself! play solo or co-op with up to 8 players. casual indie simulation strategy early access single-player multi-player co-op online co-op camera comfort custom volume controls stereo sound steam cloud family sharing english korean french german spanish-spain russian japanese schinese tchinese turkish portuguese-brazil polish italian positive<br>93% of the 16 user reviews for this game are positive.",
       "first_seen": "2026-10-28T22:21:34+00:00",
       "last_seen": "2026-10-29T04:58:02+00:00",
-      "updated_at": "2026-10-29T04:58:02+00:00"
+      "updated_at": "2026-10-29T09:10:56+00:00"
     },
     {
       "app_id": 3695930,
@@ -20600,6 +20900,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 1104
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6900,
+          "final": 5865
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 24800,
+          "final": 21000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4500,
+          "final": 3825
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 185000,
+          "final": 157200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1450000,
+          "final": 1232000
         }
       },
       "review_hint": "Mostly Positive<br>73% of the 15 user reviews for this game are positive.",
@@ -20614,7 +20939,7 @@
       "search_text": "president simulator president simulator become president of the usa: sign absurd decrees and balance your policies to avoid being called a &quot;sellout.&quot; communicate to gain popularity, manage interviews, and face press conferences. everything falling apart? press the red button. simulation early access single-player steam achievements custom volume controls playable without timed input stereo sound steam cloud family sharing english french german schinese mostly positive<br>73% of the 15 user reviews for this game are positive.",
       "first_seen": "2026-10-28T22:21:34+00:00",
       "last_seen": "2026-10-29T04:58:02+00:00",
-      "updated_at": "2026-10-29T04:58:02+00:00"
+      "updated_at": "2026-10-29T09:10:56+00:00"
     },
     {
       "app_id": 480490,
@@ -20779,6 +21104,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6999,
+          "final": 6299
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27900,
+          "final": 25100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5500,
+          "final": 4950
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 199900,
+          "final": 179900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1990000,
+          "final": 1791000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>96% of the 721 user reviews for this game are positive.",
@@ -20793,7 +21143,7 @@
       "search_text": "probably stolen - cyberpunk shopkeeper sim probably stolen - cyberpunk shopkeeper sim probably stolen is a cyberpunk shopkeeping simulator set in a dystopian space station. craft, trade, and smuggle goods of questionable origin, navigate faction loyalties, and decide how far you’re willing to go to stay afloat. earn enough to buy out your shop before rising rent forces your hand. indie rpg simulation strategy single-player steam achievements adjustable text size custom volume controls mouse only option #category_playable_at_your_own_pace playable without timed input stereo sound steam cloud family sharing english german japanese russian schinese french spanish-spain polish overwhelmingly positive<br>96% of the 721 user reviews for this game are positive.",
       "first_seen": "2026-10-28T22:21:34+00:00",
       "last_seen": "2026-10-29T04:58:02+00:00",
-      "updated_at": "2026-10-29T04:58:02+00:00"
+      "updated_at": "2026-10-29T09:10:56+00:00"
     },
     {
       "app_id": 4688700,
@@ -21162,6 +21512,31 @@
           "currency": "USD",
           "original": 499,
           "final": 399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3000,
+          "final": 2400
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 11700,
+          "final": 9300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2000,
+          "final": 1600
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 65500,
+          "final": 52400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 545000,
+          "final": 436000
         }
       },
       "review_hint": "Mixed<br>64% of the 12,942 user reviews for games in this bundle are positive.",
@@ -21176,7 +21551,7 @@
       "search_text": "quarantine lab sort quarantine lab sort restore order to a lab left in complete chaos! sort over 7,000 items, examine unknown samples in a centrifuge, catch escaped animals, and handle radioactive waste with care. unlock skills and turn piles of clutter into neatly organized shelves. casual indie simulation single-player steam achievements full controller support camera comfort custom volume controls #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime stereo sound surround sound steam cloud family sharing english russian french italian german spanish-spain spanish-latin tchinese schinese korean polish portuguese-brazil portuguese---portugal turkish japanese mixed<br>64% of the 12,942 user reviews for games in this bundle are positive.",
       "first_seen": "2026-10-28T22:21:34+00:00",
       "last_seen": "2026-10-29T04:58:02+00:00",
-      "updated_at": "2026-10-29T04:58:02+00:00"
+      "updated_at": "2026-10-29T09:10:56+00:00"
     },
     {
       "app_id": 3419520,
@@ -24614,6 +24989,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1274
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8700,
+          "final": 7395
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 30800,
+          "final": 26100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5900,
+          "final": 5015
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 192300,
+          "final": 163400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1600000,
+          "final": 1360000
         }
       },
       "review_hint": "",
@@ -24628,7 +25028,7 @@
       "search_text": "rug cleaning simulator rug cleaning simulator turn filthy rugs into spotless transformations in a relaxing first-person cleaning simulator. take on customer jobs, clean rugs step by step, earn money, upgrade your equipment, and grow your own rug-cleaning business. casual indie simulation single-player steam achievements adjustable text size #category_contrast_controls custom volume controls playable without timed input save anytime stereo sound partial controller support steam cloud family sharing english french italian german spanish-spain japanese polish schinese dutch korean portuguese-brazil portuguese---portugal russian turkish ukrainian",
       "first_seen": "2026-10-28T22:21:34+00:00",
       "last_seen": "2026-10-29T04:58:02+00:00",
-      "updated_at": "2026-10-29T04:58:02+00:00"
+      "updated_at": "2026-10-29T09:10:56+00:00"
     },
     {
       "app_id": 1374490,
@@ -29980,6 +30380,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 779
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7600,
+          "final": 4560
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27500,
+          "final": 16500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5200,
+          "final": 3120
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 102000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1400000,
+          "final": 840000
         }
       },
       "review_hint": "Very Positive<br>90% of the 1,743 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -29994,7 +30419,7 @@
       "search_text": "the classrooms the classrooms the classrooms is a procedural, liminal-space, found-footage, survival horror game. explore the classrooms and discover the various anomalies it contains; from malicious entities, to harmless oddities. and remember, it's different every time you play, so your found footage is uniquely yours. action early access single-player partial controller support family sharing english french italian german spanish-spain arabic czech dutch finnish greek hungarian indonesian japanese korean norwegian polish portuguese-brazil portuguese---portugal russian schinese spanish-latin thai tchinese ukrainian vietnamese bulgarian danish romanian swedish turkish hebrew hindi icelandic mongolian very positive<br>90% of the 1,743 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-28T22:21:34+00:00",
       "last_seen": "2026-10-29T04:58:02+00:00",
-      "updated_at": "2026-10-29T04:58:02+00:00"
+      "updated_at": "2026-10-29T09:10:56+00:00"
     },
     {
       "app_id": 268050,
@@ -244030,6 +244455,31 @@
           "currency": "USD",
           "original": 2758,
           "final": 689
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 17436,
+          "final": 4359
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 47200,
+          "final": 11700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10455,
+          "final": 2613
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 310600,
+          "final": 77600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3003000,
+          "final": 751000
         }
       },
       "review_hint": "Mostly Positive<br>71% of the 1,331 user reviews for this game are positive.",
@@ -244044,7 +244494,7 @@
       "search_text": "lakeburg legacies lakeburg legacies take fate into your own hands in lakeburg legacies, a social-based village management sim where love is your favourite resource. play matchmaker to create the most effective, and most loved up, couples and help your kingdom thrive. how long will it take you to crown a sovereign? rpg simulation strategy single-player steam achievements steam cloud family sharing english french german schinese mostly positive<br>71% of the 1,331 user reviews for this game are positive.",
       "first_seen": "2026-10-28T22:21:34+00:00",
       "last_seen": "2026-10-29T04:58:02+00:00",
-      "updated_at": "2026-10-29T04:58:02+00:00"
+      "updated_at": "2026-10-29T09:10:56+00:00"
     },
     {
       "app_id": 3959530,
