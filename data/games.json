@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T12:24:14+00:00",
+  "updated_at": "2026-10-30T19:46:46+00:00",
   "total_count": 4789,
   "active_count": 350,
   "games": [
@@ -13871,6 +13871,31 @@
           "currency": "USD",
           "original": 1990,
           "final": 1174
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11449,
+          "final": 6754
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37500,
+          "final": 22100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7666,
+          "final": 4522
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 258800,
+          "final": 152600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2091000,
+          "final": 1234000
         }
       },
       "review_hint": "Very Positive<br>94% of the 89 user reviews for this game are positive.",
@@ -13885,7 +13910,7 @@
       "search_text": "hypnos hypnos hypnos is a first-person adventure and exploration game, set in a lovecraftian megastructure fever dream. enter the nameless city at the edge of dreams. follow the trail into the shadow of the holy mountain. embrace your destiny. adventure indie single-player steam achievements full controller support steam cloud family sharing english french german spanish-spain japanese russian very positive<br>94% of the 89 user reviews for this game are positive.",
       "first_seen": "2026-10-30T12:24:14+00:00",
       "last_seen": "2026-10-30T12:24:14+00:00",
-      "updated_at": "2026-10-30T12:24:14+00:00"
+      "updated_at": "2026-10-30T19:46:46+00:00"
     },
     {
       "app_id": 1092790,
@@ -24694,6 +24719,31 @@
           "currency": "USD",
           "original": 999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 5280
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 15000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3500,
+          "final": 2800
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 96000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 880000
         }
       },
       "review_hint": "Positive<br>100% of the 25 user reviews for this game are positive.",
@@ -24708,7 +24758,7 @@
       "search_text": "robogal: gaga delta lady robogal: gaga delta lady plutobell is in trouble! help rei-bo in this action-platformer full of challenges and traps, filled with of cute and silly characters. choose the stage order, get new weapons as you defeat each boss and test all your skills in robogal! action indie single-player steam achievements full controller support gamepad recommended keyboard only option #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing english japanese korean schinese tchinese portuguese-brazil positive<br>100% of the 25 user reviews for this game are positive.",
       "first_seen": "2026-10-30T12:24:14+00:00",
       "last_seen": "2026-10-30T12:24:14+00:00",
-      "updated_at": "2026-10-30T12:24:14+00:00"
+      "updated_at": "2026-10-30T19:46:46+00:00"
     },
     {
       "app_id": 606160,
