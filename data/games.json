@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T04:43:55+00:00",
+  "updated_at": "2026-10-31T09:08:37+00:00",
   "total_count": 4804,
   "active_count": 350,
   "games": [
@@ -2438,6 +2438,31 @@
           "currency": "USD",
           "original": 999,
           "final": 0
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 6600
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 18800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 4200
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 120000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 1100000
         }
       },
       "review_hint": "Very Positive<br>91% of the 316 user reviews for this game are positive.",
@@ -2452,7 +2477,7 @@
       "search_text": "asleep: act 1 asleep: act 1 use light to survive a nightmare: each creature reacts differently to it. explore, solve puzzles, and evade the horrors in the dark. you are in the skin of ana lúcia. action adventure indie simulation single-player steam achievements full controller support family sharing english portuguese-brazil spanish-spain french schinese very positive<br>91% of the 316 user reviews for this game are positive.",
       "first_seen": "2026-10-30T22:03:04+00:00",
       "last_seen": "2026-10-31T04:43:55+00:00",
-      "updated_at": "2026-10-31T04:43:55+00:00"
+      "updated_at": "2026-10-31T09:08:37+00:00"
     },
     {
       "app_id": 3058630,
@@ -4197,6 +4222,31 @@
           "currency": "USD",
           "original": 699,
           "final": 629
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4200,
+          "final": 3780
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15900,
+          "final": 14300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2900,
+          "final": 2610
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 89900,
+          "final": 80900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 760000,
+          "final": 684000
         }
       },
       "review_hint": "",
@@ -4211,7 +4261,7 @@
       "search_text": "can 'em all can 'em all a juicy first-person incremental game about turning cute creatures into cans. kill them, collect their bodies, can them, and sell them. make money, upgrade your weapons and machines, and produce more and more. action indie simulation strategy single-player steam achievements family sharing english spanish-spain",
       "first_seen": "2026-10-30T22:03:04+00:00",
       "last_seen": "2026-10-31T04:43:55+00:00",
-      "updated_at": "2026-10-31T04:43:55+00:00"
+      "updated_at": "2026-10-31T09:08:37+00:00"
     },
     {
       "app_id": 953490,
@@ -6441,6 +6491,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1319
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11500,
+          "final": 7590
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37700,
+          "final": 24800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7700,
+          "final": 5082
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 260000,
+          "final": 171600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2100000,
+          "final": 1386000
         }
       },
       "review_hint": "",
@@ -6455,7 +6530,7 @@
       "search_text": "dead of the brain dead of the brain a cult classic japanese pc-98 horror adventure from 1992, resurrected for modern platforms. investigate a zombie outbreak, survive gruesome encounters, and experience unforgettable pixel art terror in this point &amp; click nightmare. adventure single-player steam achievements camera comfort color alternatives custom volume controls mouse only option subtitle options touch only option steam cloud family sharing english schinese japanese",
       "first_seen": "2026-10-30T22:03:04+00:00",
       "last_seen": "2026-10-31T04:43:55+00:00",
-      "updated_at": "2026-10-31T04:43:55+00:00"
+      "updated_at": "2026-10-31T09:08:37+00:00"
     },
     {
       "app_id": 2527390,
@@ -9206,6 +9281,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 791
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8200,
+          "final": 5412
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27000,
+          "final": 17800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4300,
+          "final": 2838
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 180000,
+          "final": 118800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1350000,
+          "final": 891000
         }
       },
       "review_hint": "Positive<br>85% of the 35 user reviews for this game are positive.",
@@ -9220,7 +9320,7 @@
       "search_text": "expedition of the guild expedition of the guild lead your guild into epic raid battles! recruit heroes from different classes, build your own team, and challenge powerful bosses with unique mechanics. unlock talent trees, collect endgame gear, and grow from a small squad into the strongest guild. relive the golden age of mmorpgs! adventure rpg single-player steam achievements camera comfort custom volume controls adjustable difficulty #category_playable_at_your_own_pace playable without timed input save anytime steam cloud family sharing english japanese schinese tchinese korean positive<br>85% of the 35 user reviews for this game are positive.",
       "first_seen": "2026-10-30T22:03:04+00:00",
       "last_seen": "2026-10-31T04:43:55+00:00",
-      "updated_at": "2026-10-31T04:43:55+00:00"
+      "updated_at": "2026-10-31T09:08:37+00:00"
     },
     {
       "app_id": 1477590,
@@ -9381,6 +9481,31 @@
           "currency": "USD",
           "original": 2299,
           "final": 2069
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14900,
+          "final": 13410
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 48900,
+          "final": 44000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 11800,
+          "final": 10620
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 275000,
+          "final": 247500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2650000,
+          "final": 2385000
         }
       },
       "review_hint": "Positive<br>100% of the 20 user reviews for this game are positive.",
@@ -9395,7 +9520,7 @@
       "search_text": "ez2on reboot : r - pump it up rise collaboration dlc ez2on reboot : r - pump it up rise collaboration dlc the music of pump it up rise arrives in ez2on. from the joy of familiar melodies to the thrill of new challenges, discover a special experience as two rhythm games come together. action casual sports single-player multi-player pvp online pvp co-op online co-op downloadable content steam achievements custom volume controls adjustable difficulty dualshock controller support dualsense controller support save anytime partial controller support steam cloud family sharing steam timeline english japanese korean positive<br>100% of the 20 user reviews for this game are positive.",
       "first_seen": "2026-10-30T22:03:04+00:00",
       "last_seen": "2026-10-31T04:43:55+00:00",
-      "updated_at": "2026-10-31T04:43:55+00:00"
+      "updated_at": "2026-10-31T09:08:37+00:00"
     },
     {
       "app_id": 1179080,
@@ -12648,6 +12773,31 @@
           "currency": "USD",
           "original": 499,
           "final": 249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3300,
+          "final": 1650
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 10200,
+          "final": 5100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1100
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 58000,
+          "final": 29000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 560000,
+          "final": 280000
         }
       },
       "review_hint": "Very Positive<br>94% of the 456 user reviews for this game are positive.",
@@ -12662,7 +12812,7 @@
       "search_text": "gun frog gun frog gun frog is a unique physics-based movement shooter where you bounce on lily pads, kill flies and explore a vibrant world as a frog that ate a gun. indie single-player steam achievements full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing english french portuguese-brazil schinese spanish-latin swedish japanese very positive<br>94% of the 456 user reviews for this game are positive.",
       "first_seen": "2026-10-30T22:03:04+00:00",
       "last_seen": "2026-10-31T04:43:55+00:00",
-      "updated_at": "2026-10-31T04:43:55+00:00"
+      "updated_at": "2026-10-31T09:08:37+00:00"
     },
     {
       "app_id": 1217060,
@@ -13409,6 +13559,31 @@
           "currency": "USD",
           "original": 599,
           "final": 479
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3300,
+          "final": 2640
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 12800,
+          "final": 10200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1760
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 84500,
+          "final": 67600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 670000,
+          "final": 536000
         }
       },
       "review_hint": "Mostly Positive<br>72% of the 11 user reviews for this game are positive.",
@@ -13423,7 +13598,7 @@
       "search_text": "how to destroy a city how to destroy a city how to destroy a city is a casual incremental game where you pilot a giant robot to destroy the city. upgrade your robot, fight the army, and unlock special abilities and new robots. it's time to turn the city to ashes! casual single-player steam achievements camera comfort custom volume controls #category_playable_at_your_own_pace playable without timed input family sharing english french german spanish-latin japanese schinese tchinese korean russian mostly positive<br>72% of the 11 user reviews for this game are positive.",
       "first_seen": "2026-10-31T04:43:55+00:00",
       "last_seen": "2026-10-31T04:43:55+00:00",
-      "updated_at": "2026-10-31T04:43:55+00:00"
+      "updated_at": "2026-10-31T09:08:37+00:00"
     },
     {
       "app_id": 477160,
@@ -14458,6 +14633,31 @@
           "currency": "USD",
           "original": 699,
           "final": 629
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4200,
+          "final": 3780
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15900,
+          "final": 14300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2900,
+          "final": 2610
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 90500,
+          "final": 81400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 760000,
+          "final": 684000
         }
       },
       "review_hint": "Mixed<br>42% of the 14 user reviews for this game are positive.",
@@ -14472,7 +14672,7 @@
       "search_text": "i’m a wizard, but i dig i’m a wizard, but i dig shorten your journey to the castle by digging a tunnel through the mountain. use magic and craft: swing your pickaxe, cast spells, blow up obstacles, and light your path with glowing slimes. trade resources with the goose, unlock new tools, and uncover the mountain's secrets. adventure casual indie simulation single-player steam achievements full controller support camera comfort custom volume controls #category_playable_at_your_own_pace playable without timed input save anytime stereo sound steam cloud family sharing english french italian german spanish-spain bulgarian greek danish spanish-latin tchinese schinese korean dutch norwegian polish portuguese-brazil portuguese---portugal romanian russian thai turkish ukrainian finnish czech swedish japanese mixed<br>42% of the 14 user reviews for this game are positive.",
       "first_seen": "2026-10-30T22:03:04+00:00",
       "last_seen": "2026-10-31T04:43:55+00:00",
-      "updated_at": "2026-10-31T04:43:55+00:00"
+      "updated_at": "2026-10-31T09:08:37+00:00"
     },
     {
       "app_id": 2157830,
@@ -21334,6 +21534,31 @@
           "currency": "USD",
           "original": 699,
           "final": 594
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4300,
+          "final": 3655
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15900,
+          "final": 13500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2900,
+          "final": 2465
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 93000,
+          "final": 79000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 770000,
+          "final": 654000
         }
       },
       "review_hint": "Positive<br>100% of the 10 user reviews for this game are positive.",
@@ -21348,7 +21573,7 @@
       "search_text": "put your toys away together! put your toys away together! a cozy co-op game about turning the toy store of your dreams into a perfectly organized world. sort all 20,000 toys, find the right home for every doll, dinosaur and train, and watch the shelves spring back to life – on your own or with up to 8 friends. casual simulation single-player multi-player co-op online co-op steam achievements full controller support camera comfort custom volume controls adjustable difficulty #category_playable_at_your_own_pace playable without timed input save anytime stereo sound steam cloud remote play on tv remote play together family sharing english russian french german spanish-spain japanese portuguese-brazil schinese spanish-latin italian korean tchinese turkish ukrainian positive<br>100% of the 10 user reviews for this game are positive.",
       "first_seen": "2026-10-30T22:03:04+00:00",
       "last_seen": "2026-10-31T04:43:55+00:00",
-      "updated_at": "2026-10-31T04:43:55+00:00"
+      "updated_at": "2026-10-31T09:08:37+00:00"
     },
     {
       "app_id": 1799840,
@@ -21409,6 +21634,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1699
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10500,
+          "final": 8925
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 34800,
+          "final": 29500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7000,
+          "final": 5950
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 238000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2250000,
+          "final": 1912000
         }
       },
       "review_hint": "Very Positive<br>92% of the 54 user reviews for this game are positive.",
@@ -21423,7 +21673,7 @@
       "search_text": "queen's domain queen's domain a retro-fantasy action rpg with brutal combat and traversal-focused exploration. embark on a quest to find your father who disappeared on the mysterious isle of neasied, where sinister forces gather, secrets hide everywhere, and the sleeping queen has begun to stir… action adventure indie rpg single-player steam achievements full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing english french german spanish-spain japanese portuguese-brazil russian schinese very positive<br>92% of the 54 user reviews for this game are positive.",
       "first_seen": "2026-10-30T22:03:04+00:00",
       "last_seen": "2026-10-31T04:43:55+00:00",
-      "updated_at": "2026-10-31T04:43:55+00:00"
+      "updated_at": "2026-10-31T09:08:37+00:00"
     },
     {
       "app_id": 3241660,
@@ -21796,6 +22046,31 @@
           "currency": "USD",
           "original": 599,
           "final": 539
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3300,
+          "final": 2970
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 12800,
+          "final": 11500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1980
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 84500,
+          "final": 76000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 670000,
+          "final": 603000
         }
       },
       "review_hint": "",
@@ -21810,7 +22085,7 @@
       "search_text": "rat game rat game asymmetrical horror comedy co-op for up to 8 players. play either a pack of rats trying to sabotage a restaurant, or the chef determined to stop them. action indie multi-player pvp online pvp co-op online co-op steam achievements full controller support camera comfort color alternatives custom volume controls adjustable difficulty dualshock controller support dualshock controller support dualsense controller support dualsense controller support stereo sound steam cloud family sharing english french italian german spanish-spain dutch japanese korean portuguese-brazil schinese tchinese",
       "first_seen": "2026-10-30T22:03:04+00:00",
       "last_seen": "2026-10-31T04:43:55+00:00",
-      "updated_at": "2026-10-31T04:43:55+00:00"
+      "updated_at": "2026-10-31T09:08:37+00:00"
     },
     {
       "app_id": 2129530,
@@ -24346,6 +24621,31 @@
           "currency": "USD",
           "original": 699,
           "final": 629
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3800,
+          "final": 3420
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14800,
+          "final": 13300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2500,
+          "final": 2250
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 98500,
+          "final": 88600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 780000,
+          "final": 702000
         }
       },
       "review_hint": "Mixed<br>55% of the 121 user reviews for this game are positive.",
@@ -24360,7 +24660,7 @@
       "search_text": "rip it! card collector rip it! card collector a single-player incremental game where you rip boosters and collect cards to complete the ultimate collection. sell dupes, upgrade your gear and automate your setup to pull more cards, quicker! enjoy the satisfaction of ripping packs, filling your binder, and gathering all sets. let's get cracking! casual indie simulation single-player camera comfort custom volume controls mouse only option #category_playable_at_your_own_pace playable without timed input save anytime steam cloud family sharing english french german spanish-spain japanese schinese spanish-latin tchinese russian thai turkish ukrainian mixed<br>55% of the 121 user reviews for this game are positive.",
       "first_seen": "2026-10-30T22:03:04+00:00",
       "last_seen": "2026-10-31T04:43:55+00:00",
-      "updated_at": "2026-10-31T04:43:55+00:00"
+      "updated_at": "2026-10-31T09:08:37+00:00"
     },
     {
       "app_id": 5031210,
@@ -26847,6 +27147,31 @@
           "currency": "USD",
           "original": 1400,
           "final": 1148
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8126,
+          "final": 6663
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 28800,
+          "final": 23600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5511,
+          "final": 4519
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 177500,
+          "final": 145500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1494000,
+          "final": 1225000
         }
       },
       "review_hint": "Positive<br>82% of the 23 user reviews for this game are positive.",
@@ -26861,7 +27186,7 @@
       "search_text": "silberheim evolving card game silberheim evolving card game silberheim is a tactical collectible card game where card packs are earned, never sold. build your collection, discover what your cards become as they evolve through play, and explore an ever-changing world through pvp battles, pve adventures, and community events. action casual indie strategy single-player multi-player pvp online pvp family sharing english german positive<br>82% of the 23 user reviews for this game are positive.",
       "first_seen": "2026-10-30T22:03:04+00:00",
       "last_seen": "2026-10-31T04:43:55+00:00",
-      "updated_at": "2026-10-31T04:43:55+00:00"
+      "updated_at": "2026-10-31T09:08:37+00:00"
     },
     {
       "app_id": 4594150,
@@ -33098,6 +33423,31 @@
           "currency": "USD",
           "original": 599,
           "final": 449
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3600,
+          "final": 2700
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 13600,
+          "final": 10200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1850,
+          "final": 1387
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 79000,
+          "final": 59200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 655000,
+          "final": 491000
         }
       },
       "review_hint": "",
@@ -33112,7 +33462,7 @@
       "search_text": "totally safe moon project totally safe moon project breaking news! a giant asteroid is about to wipe out earth, and your only escape is the moon! grab anything you can find, stack it high, and build your way to safety, solo or with up to 3 friends! think only up, but you're the architect. what could possibly go wrong? simulation single-player multi-player co-op online co-op steam achievements steam trading cards custom volume controls steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian turkish ukrainian schinese tchinese",
       "first_seen": "2026-10-30T22:03:04+00:00",
       "last_seen": "2026-10-31T04:43:55+00:00",
-      "updated_at": "2026-10-31T04:43:55+00:00"
+      "updated_at": "2026-10-31T09:08:37+00:00"
     },
     {
       "app_id": 3115220,
@@ -35096,6 +35446,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 25500,
+          "final": 2550
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 99000,
+          "final": 9900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10900,
+          "final": 1090
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 437900,
+          "final": 43700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3200000,
+          "final": 320000
         }
       },
       "review_hint": "Mostly Positive<br>76% of the 512 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -35110,7 +35485,7 @@
       "search_text": "white day: a labyrinth named school white day: a labyrinth named school notorious cult-classic korean horror. sneak into school at midnight to return your sweetheart's diary and get caught in a terrifying game of cat and mouse. explore haunted hallways, solve classic survival horror puzzles and escape the clutches of a killer janitor who is out for your blood. action adventure indie single-player steam achievements steam trading cards in-app purchases partial controller support steam cloud family sharing english french italian german spanish-spain russian korean schinese tchinese mostly positive<br>76% of the 512 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-10-30T22:03:04+00:00",
       "last_seen": "2026-10-31T04:43:55+00:00",
-      "updated_at": "2026-10-31T04:43:55+00:00"
+      "updated_at": "2026-10-31T09:08:37+00:00"
     },
     {
       "app_id": 3195790,
