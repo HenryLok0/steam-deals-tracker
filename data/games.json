@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T17:00:52+00:00",
+  "updated_at": "2026-10-31T18:54:53+00:00",
   "total_count": 4806,
   "active_count": 349,
   "games": [
@@ -5585,6 +5585,31 @@
           "currency": "USD",
           "original": 1699,
           "final": 1529
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9900,
+          "final": 8910
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 33100,
+          "final": 29700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6700,
+          "final": 6030
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 215000,
+          "final": 193500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1800000,
+          "final": 1620000
         }
       },
       "review_hint": "Positive<br>93% of the 16 user reviews for this game are positive.",
@@ -5599,7 +5624,7 @@
       "search_text": "crystallium crystallium crystallium is a furry-themed rhythm game where you build a team of warriors to fight monsters. vanquish corruption from the dungeons and unearth the ancient mystery that has faded from everyone's memory. casual indie rpg early access single-player steam achievements camera comfort custom volume controls adjustable difficulty stereo sound steam cloud stats steam leaderboards family sharing english tchinese japanese positive<br>93% of the 16 user reviews for this game are positive.",
       "first_seen": "2026-10-31T11:54:17+00:00",
       "last_seen": "2026-10-31T17:00:52+00:00",
-      "updated_at": "2026-10-31T17:00:52+00:00"
+      "updated_at": "2026-10-31T18:54:53+00:00"
     },
     {
       "app_id": 3322630,
@@ -27761,6 +27786,31 @@
           "currency": "USD",
           "original": 199,
           "final": 169
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 1300,
+          "final": 1105
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 4500,
+          "final": 3800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1100,
+          "final": 935
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 23500,
+          "final": 19900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 230000,
+          "final": 195000
         }
       },
       "review_hint": "Positive<br>92% of the 13 user reviews for this game are positive.",
@@ -27775,7 +27825,7 @@
       "search_text": "slowly sliding ducks slowly sliding ducks placid plastic duck in multiplayer? with races, minigames, and a shared pool for up to 50 players? yes! chill with friends and become the pool’s most distinguished duck! action casual early access multi-player pvp online pvp steam achievements in-app purchases partial controller support family sharing english french italian german spanish-spain japanese korean portuguese-brazil russian schinese polish tchinese turkish ukrainian positive<br>92% of the 13 user reviews for this game are positive.",
       "first_seen": "2026-10-31T17:00:52+00:00",
       "last_seen": "2026-10-31T17:00:52+00:00",
-      "updated_at": "2026-10-31T17:00:52+00:00"
+      "updated_at": "2026-10-31T18:54:53+00:00"
     },
     {
       "app_id": 2975950,
