@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T05:05:42+00:00",
+  "updated_at": "2026-11-01T09:56:28+00:00",
   "total_count": 4808,
   "active_count": 349,
   "games": [
@@ -15557,6 +15557,31 @@
           "currency": "USD",
           "original": 999,
           "final": 599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 3960
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 11200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3800,
+          "final": 2280
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 72000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 660000
         }
       },
       "review_hint": "Very Positive<br>87% of the 1,690 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -15571,7 +15596,7 @@
       "search_text": "kletka kletka kletka is a co-op (up to 6 players) horror game about going down in an elevator that is trying to eat you. feed the elevator, explore deadly floors and descend deeper. action adventure indie single-player multi-player co-op online co-op lan co-op cross-platform multiplayer steam achievements full controller support steam trading cards steam workshop camera comfort color alternatives #category_contrast_controls custom volume controls adjustable difficulty #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support stereo sound subtitle options surround sound steam cloud stats steam leaderboards family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese turkish ukrainian arabic spanish-latin romanian tchinese catalan very positive<br>87% of the 1,690 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-01T05:05:42+00:00",
       "last_seen": "2026-11-01T05:05:42+00:00",
-      "updated_at": "2026-11-01T05:05:42+00:00"
+      "updated_at": "2026-11-01T09:56:28+00:00"
     },
     {
       "app_id": 4294490,
@@ -15837,6 +15862,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 2124
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14500,
+          "final": 12325
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 46900,
+          "final": 39900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9300,
+          "final": 7905
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 315000,
+          "final": 267700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2650000,
+          "final": 2252000
         }
       },
       "review_hint": "Mostly Positive<br>74% of the 63 user reviews for this game are positive.",
@@ -15851,7 +15901,7 @@
       "search_text": "lacey's flash games lacey's flash games these are the real girls’ games. charlie (charchar887) discovers lacey's mid-2000s flash games and their disturbing secrets. enter the virtual world to uncover the whereabouts of the website's missing creator, rocio yani, and explore all the games and activities with lacey and her friends! action adventure indie single-player steam achievements family sharing english french italian spanish-latin portuguese-brazil russian hungarian mostly positive<br>74% of the 63 user reviews for this game are positive.",
       "first_seen": "2026-11-01T05:05:42+00:00",
       "last_seen": "2026-11-01T05:05:42+00:00",
-      "updated_at": "2026-11-01T05:05:42+00:00"
+      "updated_at": "2026-11-01T09:56:28+00:00"
     },
     {
       "app_id": 3981100,
