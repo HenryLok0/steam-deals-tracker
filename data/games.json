@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T12:53:36+00:00",
+  "updated_at": "2026-11-01T19:16:57+00:00",
   "total_count": 4809,
   "active_count": 349,
   "games": [
@@ -15513,6 +15513,31 @@
           "currency": "USD",
           "original": 7999,
           "final": 5999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 44700,
+          "final": 33525
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 159900,
+          "final": 119900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 33900,
+          "final": 25425
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 985000,
+          "final": 738700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 8200000,
+          "final": 6150000
         }
       },
       "review_hint": "Mostly Positive<br>74% of the 493 user reviews for this game are positive.",
@@ -15527,7 +15552,7 @@
       "search_text": "korea. il-2 series korea. il-2 series korea. il-2 series is a next-generation flight simulator set during the korean war. climb into the cockpit of early jet fighters and shape the outcome of legendary aerial battles. action simulation single-player multi-player pvp online pvp co-op online co-op steam achievements full controller support vr supported steam trading cards camera comfort adjustable difficulty gamepad recommended playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support stereo sound surround sound includes level editor hdr available family sharing english russian schinese french german spanish-spain mostly positive<br>74% of the 493 user reviews for this game are positive.",
       "first_seen": "2026-11-01T12:53:36+00:00",
       "last_seen": "2026-11-01T12:53:36+00:00",
-      "updated_at": "2026-11-01T12:53:36+00:00"
+      "updated_at": "2026-11-01T19:16:57+00:00"
     },
     {
       "app_id": 4294490,
