@@ -4,7 +4,28 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Mon, 02 Nov 2026 10:23:47 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 15:07:14 +0000</lastBuildDate>
+<item>
+<title>Avorion</title>
+<link>https://store.steampowered.com/app/445220/</link>
+<guid isPermaLink="false">445220</guid>
+<pubDate>Mon, 02 Nov 2026 15:07:14 +0000</pubDate>
+<description>A procedural co-op space sandbox where players can build their own space ships out of dynamically scalable blocks. Fight epic space battles, explore, mine, trade, wage wars and build your own empire to save your galaxy from being torn apart by an unknown enemy.</description>
+</item>
+<item>
+<title>Legend of Defenders</title>
+<link>https://store.steampowered.com/app/4740930/</link>
+<guid isPermaLink="false">4740930</guid>
+<pubDate>Mon, 02 Nov 2026 15:07:14 +0000</pubDate>
+<description>A thrilling idle tower defense game with automated battles and endless growth, and enjoy a pure single-player experience with zero in-app purchases! Build your defenses, deploy heroes, and watch your fortress evolve from a humble outpost into an unstoppable stronghold—even while you’re away.</description>
+</item>
+<item>
+<title>Replay Value: Second Hand Games</title>
+<link>https://store.steampowered.com/app/3683940/</link>
+<guid isPermaLink="false">3683940</guid>
+<pubDate>Mon, 02 Nov 2026 15:07:14 +0000</pubDate>
+<description>Run a 2000s second-hand game store! A Job Simulator where you buy and sell used games, negotiate with colorful customers, make a profit and upgrade your shop! Repair customers' consoles, clean up retro finds, and stack your shelves with the most popular games with the highest replay value!</description>
+</item>
 <item>
 <title>Embr</title>
 <link>https://store.steampowered.com/app/1062830/</link>
@@ -25,13 +46,6 @@
 <guid isPermaLink="false">115800</guid>
 <pubDate>Sun, 01 Nov 2026 21:50:19 +0000</pubDate>
 <description>Owlboy is a story-driven platform adventure game, where you can fly and explore a brand new world in the clouds! Pick up your friends, and bring them with you as you explore the open skies, in one of the most detailed adventures of this era.</description>
-</item>
-<item>
-<title>Korea. IL-2 Series</title>
-<link>https://store.steampowered.com/app/247970/</link>
-<guid isPermaLink="false">247970</guid>
-<pubDate>Sun, 01 Nov 2026 12:53:36 +0000</pubDate>
-<description>Korea. IL-2 Series is a next-generation flight simulator set during the Korean War. Climb into the cockpit of early jet fighters and shape the outcome of legendary aerial battles.</description>
 </item>
 <item>
 <title>Asleep: Act 1</title>
