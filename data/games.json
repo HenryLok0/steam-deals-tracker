@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T15:07:14+00:00",
+  "updated_at": "2026-11-02T22:56:54+00:00",
   "total_count": 4815,
   "active_count": 350,
   "games": [
@@ -3629,6 +3629,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 7800
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 20400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9200,
+          "final": 4600
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 140000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 1350000
         }
       },
       "review_hint": "Very Positive<br>89% of the 8,031 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -3643,7 +3668,7 @@
       "search_text": "avorion avorion a procedural co-op space sandbox where players can build their own space ships out of dynamically scalable blocks. fight epic space battles, explore, mine, trade, wage wars and build your own empire to save your galaxy from being torn apart by an unknown enemy. action indie simulation single-player multi-player pvp online pvp lan pvp co-op online co-op lan co-op cross-platform multiplayer steam achievements steam trading cards steam workshop valve anti-cheat enabled stats family sharing english german spanish-spain russian schinese spanish-latin french japanese portuguese-brazil very positive<br>89% of the 8,031 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-02T15:07:14+00:00",
       "last_seen": "2026-11-02T15:07:14+00:00",
-      "updated_at": "2026-11-02T15:07:14+00:00"
+      "updated_at": "2026-11-02T22:56:54+00:00"
     },
     {
       "app_id": 2141730,
@@ -16758,6 +16783,31 @@
           "currency": "USD",
           "original": 1400,
           "final": 980
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6800,
+          "final": 4760
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 18700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5400,
+          "final": 3780
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 190000,
+          "final": 133000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1550000,
+          "final": 1085000
         }
       },
       "review_hint": "Positive<br>95% of the 22 user reviews for this game are positive.",
@@ -16772,7 +16822,7 @@
       "search_text": "legend of defenders legend of defenders a thrilling idle tower defense game with automated battles and endless growth, and enjoy a pure single-player experience with zero in-app purchases! build your defenses, deploy heroes, and watch your fortress evolve from a humble outpost into an unstoppable stronghold—even while you’re away. casual indie strategy single-player steam achievements custom volume controls mouse only option #category_playable_at_your_own_pace playable without timed input steam cloud family sharing schinese english japanese tchinese korean positive<br>95% of the 22 user reviews for this game are positive.",
       "first_seen": "2026-11-02T15:07:14+00:00",
       "last_seen": "2026-11-02T15:07:14+00:00",
-      "updated_at": "2026-11-02T15:07:14+00:00"
+      "updated_at": "2026-11-02T22:56:54+00:00"
     },
     {
       "app_id": 3195580,
@@ -23666,6 +23716,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 974
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6900,
+          "final": 5175
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 24800,
+          "final": 18600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4500,
+          "final": 3375
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 166000,
+          "final": 124500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1300000,
+          "final": 975000
         }
       },
       "review_hint": "Positive<br>100% of the 12 user reviews for this game are positive.",
@@ -23680,7 +23755,7 @@
       "search_text": "replay value: second hand games replay value: second hand games run a 2000s second-hand game store! a job simulator where you buy and sell used games, negotiate with colorful customers, make a profit and upgrade your shop! repair customers' consoles, clean up retro finds, and stack your shelves with the most popular games with the highest replay value! casual indie simulation strategy single-player steam achievements custom volume controls adjustable difficulty mouse only option playable without timed input save anytime stereo sound steam cloud family sharing english french german spanish-spain japanese korean portuguese-brazil russian schinese tchinese turkish positive<br>100% of the 12 user reviews for this game are positive.",
       "first_seen": "2026-11-02T15:07:14+00:00",
       "last_seen": "2026-11-02T15:07:14+00:00",
-      "updated_at": "2026-11-02T15:07:14+00:00"
+      "updated_at": "2026-11-02T22:56:54+00:00"
     },
     {
       "app_id": 304240,
