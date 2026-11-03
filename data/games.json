@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T13:51:28+00:00",
+  "updated_at": "2026-11-03T20:42:45+00:00",
   "total_count": 4847,
   "active_count": 349,
   "games": [
@@ -3956,6 +3956,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 7600
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 21400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 4640
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 136000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 1320000
         }
       },
       "review_hint": "Positive<br>84% of the 33 user reviews for this game are positive.",
@@ -3970,7 +3995,7 @@
       "search_text": "beat for speed beat for speed turn any song into a playable rhythm ride! import your favorite music or play along with your device's audio in live audio mode. discover official tracks from indie artists, climb the leaderboards, create custom levels in the level editor, and explore endless community levels on steam workshop. casual indie single-player steam achievements full controller support steam workshop camera comfort custom volume controls mouse only option dualshock controller support dualsense controller support touch only option steam cloud steam leaderboards includes level editor family sharing english french italian german spanish-spain danish ukrainian russian bulgarian hungarian indonesian turkish greek norwegian czech japanese polish thai swedish schinese tchinese romanian finnish dutch portuguese-brazil portuguese---portugal spanish-latin vietnamese arabic korean positive<br>84% of the 33 user reviews for this game are positive.",
       "first_seen": "2026-11-03T13:51:28+00:00",
       "last_seen": "2026-11-03T13:51:28+00:00",
-      "updated_at": "2026-11-03T13:51:28+00:00"
+      "updated_at": "2026-11-03T20:42:45+00:00"
     },
     {
       "app_id": 4421010,
@@ -4360,6 +4385,31 @@
           "currency": "USD",
           "original": 599,
           "final": 539
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3300,
+          "final": 2970
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 12800,
+          "final": 11500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1980
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 84500,
+          "final": 76000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 670000,
+          "final": 603000
         }
       },
       "review_hint": "Positive<br>85% of the 20 user reviews for this game are positive.",
@@ -4374,7 +4424,7 @@
       "search_text": "bob logistics bob logistics welcome to bob company! fill orders, haul goods, and make work easier with automation. rise from intern to director in a relaxing first-person warehouse sim. each promotion opens new areas of the company and reveals more of the stories behind it. casual indie simulation single-player steam achievements full controller support adjustable text size camera comfort custom volume controls #category_playable_at_your_own_pace playable without timed input save anytime stereo sound steam cloud family sharing english korean french german spanish-spain russian spanish-latin japanese schinese tchinese portuguese-brazil polish portuguese---portugal italian dutch vietnamese swedish ukrainian indonesian czech thai turkish hungarian positive<br>85% of the 20 user reviews for this game are positive.",
       "first_seen": "2026-11-03T13:51:28+00:00",
       "last_seen": "2026-11-03T13:51:28+00:00",
-      "updated_at": "2026-11-03T13:51:28+00:00"
+      "updated_at": "2026-11-03T20:42:45+00:00"
     },
     {
       "app_id": 3832030,
@@ -6971,6 +7021,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 6250
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 16400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 3800
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 115000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 1075000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>97% of the 2,251 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -6985,7 +7060,7 @@
       "search_text": "chicory: a colorful tale chicory: a colorful tale a top-down adventure game in a coloring book world full of vibrant characters. use painting powers to explore, solve puzzles, make friends, and draw on anything! from creators on wandersong + celeste. adventure indie rpg single-player multi-player co-op shared/split screen co-op shared/split screen steam achievements full controller support steam cloud remote play together family sharing english french italian german spanish-spain portuguese-brazil russian japanese korean schinese tchinese overwhelmingly positive<br>97% of the 2,251 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-03T13:51:28+00:00",
       "last_seen": "2026-11-03T13:51:28+00:00",
-      "updated_at": "2026-11-03T13:51:28+00:00"
+      "updated_at": "2026-11-03T20:42:45+00:00"
     },
     {
       "app_id": 330020,
@@ -7758,6 +7833,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 3120
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 8100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8600,
+          "final": 1720
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 56000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 540000
         }
       },
       "review_hint": "Very Positive<br>86% of the 330 user reviews for this game are positive.",
@@ -7772,7 +7872,7 @@
       "search_text": "creatures of ava creatures of ava let your empathy guide you as you play an exciting action-adventure, creature-saver game. understand and tame the creatures of ava and let them lead you through a variety of ecosystems – all in the hopes of saving the planet from a life-consuming infection. action adventure indie single-player steam achievements full controller support steam trading cards dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing english french german spanish-spain japanese polish portuguese-brazil russian schinese very positive<br>86% of the 330 user reviews for this game are positive.",
       "first_seen": "2026-11-03T13:51:28+00:00",
       "last_seen": "2026-11-03T13:51:28+00:00",
-      "updated_at": "2026-11-03T13:51:28+00:00"
+      "updated_at": "2026-11-03T20:42:45+00:00"
     },
     {
       "app_id": 2394650,
@@ -8753,6 +8853,31 @@
           "currency": "USD",
           "original": 499,
           "final": 424
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 2700,
+          "final": 2295
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 10800,
+          "final": 9100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1900,
+          "final": 1615
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 70500,
+          "final": 59900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 560000,
+          "final": 476000
         }
       },
       "review_hint": "Very Positive<br>94% of the 114 user reviews for this game are positive.",
@@ -8767,7 +8892,7 @@
       "search_text": "deadzoned deadzoned deadzoned is a sci-fi turn-based action roguelike. blast your way through zones battling the beasts, bandits, and monsters that stalk the blackouts. but you'll need your wits to make best use of the gear you stumble upon to survive and save the fate of the planet! adventure indie rpg single-player steam achievements full controller support camera comfort custom volume controls keyboard only option mouse only option #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud steam leaderboards remote play together family sharing english very positive<br>94% of the 114 user reviews for this game are positive.",
       "first_seen": "2026-11-03T13:51:28+00:00",
       "last_seen": "2026-11-03T13:51:28+00:00",
-      "updated_at": "2026-11-03T13:51:28+00:00"
+      "updated_at": "2026-11-03T20:42:45+00:00"
     },
     {
       "app_id": 3758950,
@@ -8825,6 +8950,31 @@
           "currency": "USD",
           "original": 1799,
           "final": 1619
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8600,
+          "final": 7740
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 29500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6200,
+          "final": 5580
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 184000,
+          "final": 165600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1800000,
+          "final": 1620000
         }
       },
       "review_hint": "Mixed<br>44% of the 18 user reviews for this game are positive.",
@@ -8839,7 +8989,7 @@
       "search_text": "death at fleming manor death at fleming manor &quot;your job is to write the death certificate.&quot; investigate a mysterious death in a british manor in 1959. explore eerie scenes, analyze evidence, and complete death certificates and emergency reports. a forensic mystery with art inspired by 1960s european detective comics. adventure indie single-player steam achievements custom volume controls mouse only option #category_playable_at_your_own_pace playable without timed input touch only option steam cloud remote play on tablet family sharing english japanese schinese tchinese korean mixed<br>44% of the 18 user reviews for this game are positive.",
       "first_seen": "2026-11-03T13:51:28+00:00",
       "last_seen": "2026-11-03T13:51:28+00:00",
-      "updated_at": "2026-11-03T13:51:28+00:00"
+      "updated_at": "2026-11-03T20:42:45+00:00"
     },
     {
       "app_id": 2825880,
@@ -14154,6 +14304,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 974
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7600,
+          "final": 5700
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27500,
+          "final": 20600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5200,
+          "final": 3900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 127500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1400000,
+          "final": 1050000
         }
       },
       "review_hint": "Positive<br>100% of the 17 user reviews for this game are positive.",
@@ -14168,7 +14343,7 @@
       "search_text": "golf 5 max golf 5 max launching november 2 on steam! retro arcade golf meets real physics. build your golfer, master your swing and take on birdie or bust, where every hole is all or nothing. play solo or challenge rivals worldwide. try the free demo now! casual indie simulation sports single-player multi-player pvp online pvp full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support family sharing english spanish-spain french italian german japanese korean portuguese-brazil portuguese---portugal russian schinese positive<br>100% of the 17 user reviews for this game are positive.",
       "first_seen": "2026-11-03T13:51:28+00:00",
       "last_seen": "2026-11-03T13:51:28+00:00",
-      "updated_at": "2026-11-03T13:51:28+00:00"
+      "updated_at": "2026-11-03T20:42:45+00:00"
     },
     {
       "app_id": 431240,
@@ -17307,6 +17482,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11500,
+          "final": 10350
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37700,
+          "final": 33900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7700,
+          "final": 6930
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 260000,
+          "final": 234000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2100000,
+          "final": 1890000
         }
       },
       "review_hint": "Positive<br>100% of the 14 user reviews for this game are positive.",
@@ -17321,7 +17521,7 @@
       "search_text": "killer aces volleyball killer aces volleyball the ultimate 6v6 indoor volleyball game! build a powerhouse from the ground up to challenge the greatest men's and women's teams in the world! action indie simulation sports early access single-player multi-player pvp shared/split screen pvp shared/split screen full controller support custom volume controls adjustable difficulty keyboard only option dualshock controller support dualsense controller support remote play together family sharing english positive<br>100% of the 14 user reviews for this game are positive.",
       "first_seen": "2026-11-03T13:51:28+00:00",
       "last_seen": "2026-11-03T13:51:28+00:00",
-      "updated_at": "2026-11-03T13:51:28+00:00"
+      "updated_at": "2026-11-03T20:42:45+00:00"
     },
     {
       "app_id": 232090,
@@ -27102,6 +27302,31 @@
           "currency": "USD",
           "original": 699,
           "final": 629
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4200,
+          "final": 3780
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15900,
+          "final": 14300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2900,
+          "final": 2610
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 90500,
+          "final": 81400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 760000,
+          "final": 684000
         }
       },
       "review_hint": "Positive<br>93% of the 44 user reviews for this game are positive.",
@@ -27116,7 +27341,7 @@
       "search_text": "sabado sabado reunite with your favorite classmate, but you can never really graduate from the past... wander through a nostalgic, shifting maze of old high school memories with a cheerful friend named chesa. but the exits are vanishing, the hallways are warping, and a silent observer is tracking your every step. indie simulation single-player steam achievements family sharing english french spanish-spain portuguese-brazil russian schinese turkish ukrainian spanish-latin positive<br>93% of the 44 user reviews for this game are positive.",
       "first_seen": "2026-11-03T13:51:28+00:00",
       "last_seen": "2026-11-03T13:51:28+00:00",
-      "updated_at": "2026-11-03T13:51:28+00:00"
+      "updated_at": "2026-11-03T20:42:45+00:00"
     },
     {
       "app_id": 698670,
@@ -30523,6 +30748,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 7600
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 21400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5000,
+          "final": 4000
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 176000,
+          "final": 140800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 1320000
         }
       },
       "review_hint": "Mostly Positive<br>76% of the 625 user reviews for this game are positive.",
@@ -30537,7 +30787,7 @@
       "search_text": "the alters: last variable the alters: last variable continue jan scientist's story as he stays behind to unlock the planet's secrets. build an underground base, assemble a crew of specialised scientist alters, master terraformation, invent new technologies, and conduct research that could define a legacy. adventure single-player downloadable content steam achievements full controller support steam trading cards adjustable text size camera comfort custom volume controls adjustable difficulty playable without timed input dualsense controller support stereo sound subtitle options surround sound steam cloud family sharing english french german spanish-spain japanese korean polish russian schinese turkish portuguese-brazil ukrainian mostly positive<br>76% of the 625 user reviews for this game are positive.",
       "first_seen": "2026-11-03T13:51:28+00:00",
       "last_seen": "2026-11-03T13:51:28+00:00",
-      "updated_at": "2026-11-03T13:51:28+00:00"
+      "updated_at": "2026-11-03T20:42:45+00:00"
     },
     {
       "app_id": 2774040,
@@ -30706,6 +30956,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11500,
+          "final": 8625
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 24600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 5700
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 172500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2100000,
+          "final": 1575000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>97% of the 3,730 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -30720,7 +30995,7 @@
       "search_text": "the drifter the drifter a pulp adventure thriller - a murdered drifter awakens. alive again, seconds before his death. hunted and haunted, help him untangle a mad web of conspiracy in this fast-paced point 'n click thrill-ride. adventure indie single-player steam achievements full controller support custom volume controls mouse only option #category_playable_at_your_own_pace playable without timed input dualshock controller support dualsense controller support save anytime stereo sound steam cloud family sharing english german french italian spanish-spain overwhelmingly positive<br>97% of the 3,730 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-03T13:51:28+00:00",
       "last_seen": "2026-11-03T13:51:28+00:00",
-      "updated_at": "2026-11-03T13:51:28+00:00"
+      "updated_at": "2026-11-03T20:42:45+00:00"
     },
     {
       "app_id": 2060160,
@@ -35075,6 +35350,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 4750
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 13400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 2900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 85000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 825000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>97% of the 797 user reviews for this game are positive.",
@@ -35089,7 +35389,7 @@
       "search_text": "wilmot works it out wilmot works it out wilmot works it out is a puzzle building game about completing beautiful images and using them to decorate the walls of your house. casual indie single-player steam achievements full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing english french german spanish-spain polish portuguese-brazil japanese korean schinese tchinese overwhelmingly positive<br>97% of the 797 user reviews for this game are positive.",
       "first_seen": "2026-11-03T13:51:28+00:00",
       "last_seen": "2026-11-03T13:51:28+00:00",
-      "updated_at": "2026-11-03T13:51:28+00:00"
+      "updated_at": "2026-11-03T20:42:45+00:00"
     },
     {
       "app_id": 1054490,
