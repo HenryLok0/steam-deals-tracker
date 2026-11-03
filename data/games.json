@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T00:44:37+00:00",
+  "updated_at": "2026-11-03T10:21:29+00:00",
   "total_count": 4835,
   "active_count": 349,
   "games": [
@@ -4358,6 +4358,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11500,
+          "final": 10350
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37700,
+          "final": 33900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7700,
+          "final": 6930
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 260000,
+          "final": 234000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2100000,
+          "final": 1890000
         }
       },
       "review_hint": "Positive<br>93% of the 15 user reviews for this game are positive.",
@@ -4372,7 +4397,7 @@
       "search_text": "boost vector ex boost vector ex run fast. faster than any other. take control of a vector master and sprint in uncompromising pure parkour racing. hone your style with responsive, flowing controls and break limits in the premier vector world cup. the race, your friends, and victory beckon your arrival... did i mention it was fast? action indie racing sports single-player multi-player pvp online pvp co-op online co-op cross-platform multiplayer steam achievements full controller support camera comfort custom volume controls adjustable difficulty playable without timed input stereo sound steam cloud steam leaderboards family sharing english japanese spanish-latin korean positive<br>93% of the 15 user reviews for this game are positive.",
       "first_seen": "2026-11-03T00:44:37+00:00",
       "last_seen": "2026-11-03T00:44:37+00:00",
-      "updated_at": "2026-11-03T00:44:37+00:00"
+      "updated_at": "2026-11-03T10:21:29+00:00"
     },
     {
       "app_id": 49520,
@@ -4535,6 +4560,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 23300,
+          "final": 2330
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 89500,
+          "final": 8900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9500,
+          "final": 950
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 298000,
+          "final": 29800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3200000,
+          "final": 320000
         }
       },
       "review_hint": "Mostly Negative<br>36% of the 293 user reviews for this game are positive.",
@@ -4549,7 +4599,7 @@
       "search_text": "borderlands 2 season pass borderlands 2 season pass grab the borderlands 2 season pass and get access to four downloadable content packs for borderlands 2 at one discounted price. action rpg single-player multi-player online pvp co-op online co-op downloadable content steam achievements full controller support steam cloud family sharing english german french italian spanish-spain japanese korean mostly negative<br>36% of the 293 user reviews for this game are positive.",
       "first_seen": "2026-11-03T00:44:37+00:00",
       "last_seen": "2026-11-03T00:44:37+00:00",
-      "updated_at": "2026-11-03T00:44:37+00:00"
+      "updated_at": "2026-11-03T10:21:29+00:00"
     },
     {
       "app_id": 872280,
@@ -4607,6 +4657,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 494
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11900,
+          "final": 3927
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 49500,
+          "final": 16300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9900,
+          "final": 3267
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 189000,
+          "final": 62300
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1850000,
+          "final": 610000
         }
       },
       "review_hint": "Mixed<br>43% of the 560 user reviews for this game are positive.",
@@ -4621,7 +4696,7 @@
       "search_text": "borderlands 2: commander lilith & the fight for sanctuary borderlands 2: commander lilith & the fight for sanctuary return to the award-winning shooter-looter for an all-new adventure that sets the stage for the upcoming borderlands 3. action rpg single-player co-op downloadable content steam achievements full controller support steam cloud family sharing english french german italian japanese spanish-spain korean tchinese mixed<br>43% of the 560 user reviews for this game are positive.",
       "first_seen": "2026-11-03T00:44:37+00:00",
       "last_seen": "2026-11-03T00:44:37+00:00",
-      "updated_at": "2026-11-03T00:44:37+00:00"
+      "updated_at": "2026-11-03T10:21:29+00:00"
     },
     {
       "app_id": 397540,
@@ -4790,6 +4865,31 @@
           "currency": "USD",
           "original": 4999,
           "final": 1499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 39000,
+          "final": 11700
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 149000,
+          "final": 44700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 17900,
+          "final": 5370
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 658800,
+          "final": 197600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 5300000,
+          "final": 1590000
         }
       },
       "review_hint": "Mixed<br>58% of the 640 user reviews for this game are positive.",
@@ -4804,7 +4904,7 @@
       "search_text": "borderlands 3: season pass borderlands 3: season pass continue your borderlands 3 adventure with the season pass, featuring exclusive cosmetic items and four story campaign add-ons with new missions and challenges! action rpg single-player multi-player co-op online co-op lan co-op cross-platform multiplayer downloadable content steam achievements full controller support family sharing english french italian german spanish-spain japanese korean portuguese-brazil russian schinese tchinese mixed<br>58% of the 640 user reviews for this game are positive.",
       "first_seen": "2026-11-03T00:44:37+00:00",
       "last_seen": "2026-11-03T00:44:37+00:00",
-      "updated_at": "2026-11-03T00:44:37+00:00"
+      "updated_at": "2026-11-03T10:21:29+00:00"
     },
     {
       "app_id": 1396474,
@@ -4872,6 +4972,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 23400,
+          "final": 14040
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 90000,
+          "final": 54000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9900,
+          "final": 5940
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 330000,
+          "final": 198000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3400000,
+          "final": 2040000
         }
       },
       "review_hint": "Mostly Negative<br>22% of the 763 user reviews for this game are positive.",
@@ -4886,7 +5011,7 @@
       "search_text": "borderlands 3: season pass 2 borderlands 3: season pass 2 enhance borderlands 3 with the content add-ons of season pass 2, featuring new modes and missions, a 4th skill tree for each vault hunter, and unique cosmetic outfits! action rpg single-player multi-player co-op online co-op lan co-op cross-platform multiplayer downloadable content steam achievements full controller support steam trading cards steam cloud remote play on phone remote play on tablet remote play on tv family sharing english french italian german spanish-spain japanese korean portuguese-brazil russian schinese tchinese mostly negative<br>22% of the 763 user reviews for this game are positive.",
       "first_seen": "2026-11-03T00:44:37+00:00",
       "last_seen": "2026-11-03T00:44:37+00:00",
-      "updated_at": "2026-11-03T00:44:37+00:00"
+      "updated_at": "2026-11-03T10:21:29+00:00"
     },
     {
       "app_id": 1285190,
@@ -5060,6 +5185,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 23900,
+          "final": 2390
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 99000,
+          "final": 9900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9900,
+          "final": 990
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 378000,
+          "final": 37800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3170000,
+          "final": 317000
         }
       },
       "review_hint": "Mostly Positive<br>79% of the 12,837 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -5074,7 +5224,7 @@
       "search_text": "borderlands game of the year enhanced borderlands game of the year enhanced discover the original co-op shooter-looter, crammed with new enhancements! as one of 4 trigger-happy mercenaries with rpg progression, equip bazillions of guns to take on the desert planet pandora. action rpg single-player multi-player co-op online co-op steam achievements partial controller support steam cloud family sharing english french italian german spanish-spain japanese mostly positive<br>79% of the 12,837 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-03T00:44:37+00:00",
       "last_seen": "2026-11-03T00:44:37+00:00",
-      "updated_at": "2026-11-03T00:44:37+00:00"
+      "updated_at": "2026-11-03T10:21:29+00:00"
     },
     {
       "app_id": 261640,
@@ -5227,6 +5377,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 23300,
+          "final": 2330
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 89500,
+          "final": 8900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9500,
+          "final": 950
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 298000,
+          "final": 29800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3200000,
+          "final": 320000
         }
       },
       "review_hint": "Mixed<br>62% of the 361 user reviews for this game are positive.<br><br>This product has experienced one or more periods of off-topic review activity.  Based on your preferences, the reviews within these periods have been excluded from this product's Review Score.",
@@ -5241,7 +5416,7 @@
       "search_text": "borderlands: the pre-sequel season pass borderlands: the pre-sequel season pass extend the lunar mayhem with the borderlands: the pre-sequel season pass featuring new characters, challenges, missions, and more! harness the power of your good looks with the “handsome jack” character pack; raise your level cap &amp; battle waves of enemies in the holodome onslaught; and two more add-on packs! action rpg single-player co-op downloadable content family sharing english french italian german spanish-spain japanese mixed<br>62% of the 361 user reviews for this game are positive.<br><br>this product has experienced one or more periods of off-topic review activity.  based on your preferences, the reviews within these periods have been excluded from this product's review score.",
       "first_seen": "2026-11-03T00:44:37+00:00",
       "last_seen": "2026-11-03T00:44:37+00:00",
-      "updated_at": "2026-11-03T00:44:37+00:00"
+      "updated_at": "2026-11-03T10:21:29+00:00"
     },
     {
       "app_id": 4627490,
@@ -12204,6 +12379,31 @@
           "currency": "USD",
           "original": 799,
           "final": 599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4499,
+          "final": 3374
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 10900,
+          "final": 8100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2499,
+          "final": 1874
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 79900,
+          "final": 59900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 700000,
+          "final": 525000
         }
       },
       "review_hint": "Positive<br>93% of the 31 user reviews for this game are positive.",
@@ -12218,7 +12418,7 @@
       "search_text": "feed the forest feed the forest use snail powers to grow a desert into a lush forest, and then profit-maximize it to insanity in this active incremental game. optimize plant layouts to automate production of multiple resources. hire minions, unlock immoral plants, get ungodly rich, and remember: blood is a type of juice. simulation single-player steam achievements full controller support custom volume controls keyboard only option #category_playable_at_your_own_pace playable without timed input save anytime stereo sound steam cloud family sharing english german spanish-spain japanese portuguese-brazil russian schinese positive<br>93% of the 31 user reviews for this game are positive.",
       "first_seen": "2026-11-03T00:44:37+00:00",
       "last_seen": "2026-11-03T00:44:37+00:00",
-      "updated_at": "2026-11-03T00:44:37+00:00"
+      "updated_at": "2026-11-03T10:21:29+00:00"
     },
     {
       "app_id": 5313470,
@@ -12275,6 +12475,31 @@
           "currency": "USD",
           "original": 599,
           "final": 479
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3600,
+          "final": 2880
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 13600,
+          "final": 10800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2600,
+          "final": 2080
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 79000,
+          "final": 63200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 655000,
+          "final": 524000
         }
       },
       "review_hint": "Positive<br>88% of the 17 user reviews for this game are positive.",
@@ -12289,7 +12514,7 @@
       "search_text": "figure me out figure me out a multiplayer fps where you eliminate opponents by typing the numbers on their foreheads. read theirs before they read yours, use tactical gadgets to disrupt the fight, and battle friends or strangers in matches with up to 20 players. action casual indie multi-player pvp online pvp steam workshop steam cloud family sharing english german spanish-spain hungarian japanese schinese tchinese french positive<br>88% of the 17 user reviews for this game are positive.",
       "first_seen": "2026-11-03T00:44:37+00:00",
       "last_seen": "2026-11-03T00:44:37+00:00",
-      "updated_at": "2026-11-03T00:44:37+00:00"
+      "updated_at": "2026-11-03T10:21:29+00:00"
     },
     {
       "app_id": 4715160,
@@ -14656,6 +14881,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10500,
+          "final": 7875
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 34900,
+          "final": 26100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6800,
+          "final": 5100
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 278000,
+          "final": 208500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2250000,
+          "final": 1687000
         }
       },
       "review_hint": "Very Positive<br>98% of the 50 user reviews for this game are positive.",
@@ -14670,7 +14920,7 @@
       "search_text": "gravhounds gravhounds gravhounds is a 1–4 player co-op action builder. drop into hostile planets as a pack, build and defend your base in physics-driven mayhem, and extract with everything you can carry before you become alien chow! the longer you stay, the greater the danger... and the rewards. action indie strategy early access single-player multi-player co-op online co-op full controller support camera comfort color alternatives custom volume controls playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support stereo sound subtitle options family sharing english french german spanish-spain portuguese-brazil spanish-latin very positive<br>98% of the 50 user reviews for this game are positive.",
       "first_seen": "2026-11-03T00:44:37+00:00",
       "last_seen": "2026-11-03T00:44:37+00:00",
-      "updated_at": "2026-11-03T00:44:37+00:00"
+      "updated_at": "2026-11-03T10:21:29+00:00"
     },
     {
       "app_id": 2479810,
@@ -15929,6 +16179,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 2249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14500,
+          "final": 13050
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 46900,
+          "final": 42200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9300,
+          "final": 8370
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 315000,
+          "final": 283500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2650000,
+          "final": 2385000
         }
       },
       "review_hint": "",
@@ -15943,7 +16218,7 @@
       "search_text": "imperium imperium imperium is a single-player 4x space strategy game. colonize alien worlds, design your own spaceships, research exotic technologies, and outmaneuver rival empires through diplomacy or open war. build a galactic empire and rule it your way. indie simulation strategy single-player steam cloud family sharing english japanese russian schinese portuguese-brazil",
       "first_seen": "2026-11-03T00:44:37+00:00",
       "last_seen": "2026-11-03T00:44:37+00:00",
-      "updated_at": "2026-11-03T00:44:37+00:00"
+      "updated_at": "2026-11-03T10:21:29+00:00"
     },
     {
       "app_id": 5475960,
@@ -16009,6 +16284,31 @@
           "currency": "USD",
           "original": 999,
           "final": 699
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5500,
+          "final": 3850
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 13800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3500,
+          "final": 2450
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 98000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 770000
         }
       },
       "review_hint": "Positive<br>87% of the 16 user reviews for this game are positive.",
@@ -16023,7 +16323,7 @@
       "search_text": "incremental traffic incremental traffic an incremental logistics game where traffic becomes a challenge. haul goods from fields, forests and quarries through a procedurally generated town, earn money with every delivery and buy more trucks, until your own fleet jams the streets. then fix it with traffic rules. casual simulation single-player steam achievements full controller support adjustable text size custom volume controls #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime steam input api support steam cloud family sharing english french german spanish-spain portuguese-brazil schinese japanese korean russian positive<br>87% of the 16 user reviews for this game are positive.",
       "first_seen": "2026-11-03T00:44:37+00:00",
       "last_seen": "2026-11-03T00:44:37+00:00",
-      "updated_at": "2026-11-03T00:44:37+00:00"
+      "updated_at": "2026-11-03T10:21:29+00:00"
     },
     {
       "app_id": 2116120,
@@ -17547,6 +17847,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 7800
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 20400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9200,
+          "final": 4600
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 140000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 1350000
         }
       },
       "review_hint": "Very Positive<br>81% of the 1,439 user reviews for this game are positive.",
@@ -17561,7 +17886,7 @@
       "search_text": "laysara: summit kingdom laysara: summit kingdom build and expand your very own settlements in high mountains! carefully plan production chains and satisfy various needs of your three-caste society while dealing with mountain hazards such as weather breakdowns and avalanches. are you skilled enough to make your town thrive? indie simulation strategy single-player steam achievements steam trading cards steam cloud family sharing english french german spanish-spain polish ukrainian schinese japanese portuguese-brazil tchinese italian very positive<br>81% of the 1,439 user reviews for this game are positive.",
       "first_seen": "2026-11-03T00:44:37+00:00",
       "last_seen": "2026-11-03T00:44:37+00:00",
-      "updated_at": "2026-11-03T00:44:37+00:00"
+      "updated_at": "2026-11-03T10:21:29+00:00"
     },
     {
       "app_id": 3981100,
@@ -18552,6 +18877,31 @@
           "currency": "USD",
           "original": 1399,
           "final": 1119
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8200,
+          "final": 6560
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 28500,
+          "final": 22800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4900,
+          "final": 3920
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 160000,
+          "final": 128000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1500000,
+          "final": 1200000
         }
       },
       "review_hint": "Positive<br>88% of the 17 user reviews for this game are positive.",
@@ -18566,7 +18916,7 @@
       "search_text": "mayday: the survival island mayday: the survival island after a mysterious crash, you awaken alone on a strange island. survive by hunting, farming, and crafting, then explore a vast archipelago filled with secrets, ancient ruins, and magical totems. build your base, uncover the truth, and escape—if you can. adventure indie single-player steam achievements full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing portuguese-brazil english french italian german japanese korean russian schinese spanish-latin tchinese positive<br>88% of the 17 user reviews for this game are positive.",
       "first_seen": "2026-11-03T00:44:37+00:00",
       "last_seen": "2026-11-03T00:44:37+00:00",
-      "updated_at": "2026-11-03T00:44:37+00:00"
+      "updated_at": "2026-11-03T10:21:29+00:00"
     },
     {
       "app_id": 5027520,
@@ -20713,6 +21063,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 1999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 29900,
+          "final": 14950
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 119000,
+          "final": 59500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 13900,
+          "final": 6950
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 550000,
+          "final": 275000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4480000,
+          "final": 2240000
         }
       },
       "review_hint": "Mostly Negative<br>29% of the 1,753 user reviews for this game are positive.",
@@ -20727,7 +21102,7 @@
       "search_text": "new tales from the borderlands new tales from the borderlands decide the fates of altruistic scientist anu, her ambitious, &quot;streetwise&quot; brother octavio, and the fierce, frogurt-slinging fran. claw and con your way through five thrilling chapters! adventure single-player steam achievements full controller support steam cloud family sharing english french italian german spanish-spain portuguese-brazil mostly negative<br>29% of the 1,753 user reviews for this game are positive.",
       "first_seen": "2026-11-03T00:44:37+00:00",
       "last_seen": "2026-11-03T00:44:37+00:00",
-      "updated_at": "2026-11-03T00:44:37+00:00"
+      "updated_at": "2026-11-03T10:21:29+00:00"
     },
     {
       "app_id": 481510,
@@ -20780,6 +21155,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 6250
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 16400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 3800
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 115000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 1075000
         }
       },
       "review_hint": "Very Positive<br>94% of the 13,568 user reviews for this game are positive.<br><br>This product has experienced one or more periods of off-topic review activity.  Based on your preferences, the reviews within these periods have been excluded from this product's Review Score.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -20794,7 +21194,7 @@
       "search_text": "night in the woods night in the woods night in the woods is an adventure game focused on exploration, story, and character, featuring dozens of characters to meet and lots to do across a lush, vibrant world. adventure single-player steam achievements full controller support steam trading cards dualshock controller support steam cloud remote play on tv family sharing english japanese very positive<br>94% of the 13,568 user reviews for this game are positive.<br><br>this product has experienced one or more periods of off-topic review activity.  based on your preferences, the reviews within these periods have been excluded from this product's review score.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-03T00:44:37+00:00",
       "last_seen": "2026-11-03T00:44:37+00:00",
-      "updated_at": "2026-11-03T00:44:37+00:00"
+      "updated_at": "2026-11-03T10:21:29+00:00"
     },
     {
       "app_id": 275850,
@@ -22467,6 +22867,31 @@
           "currency": "USD",
           "original": 799,
           "final": 679
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4400,
+          "final": 3740
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15800,
+          "final": 13400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1870
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 100000,
+          "final": 85000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 800000,
+          "final": 680000
         }
       },
       "review_hint": "Positive<br>92% of the 13 user reviews for this game are positive.",
@@ -22481,7 +22906,7 @@
       "search_text": "plinkidle plinkidle plinkidle is a retro-inspired game with an idle/incremental spin on a classic ball drop mechanic. falling balls, rare buffs, and steady upgrades unlock colorful, cozy stages and immersive environments. casual indie strategy single-player steam achievements camera comfort custom volume controls keyboard only option mouse only option #category_playable_at_your_own_pace playable without timed input save anytime touch only option partial controller support steam cloud family sharing english german japanese korean schinese thai tchinese russian spanish-latin portuguese-brazil positive<br>92% of the 13 user reviews for this game are positive.",
       "first_seen": "2026-11-03T00:44:37+00:00",
       "last_seen": "2026-11-03T00:44:37+00:00",
-      "updated_at": "2026-11-03T00:44:37+00:00"
+      "updated_at": "2026-11-03T10:21:29+00:00"
     },
     {
       "app_id": 2938460,
@@ -22642,6 +23067,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10900,
+          "final": 7630
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37900,
+          "final": 26500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7499,
+          "final": 5249
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 161000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2000000,
+          "final": 1400000
         }
       },
       "review_hint": "Mixed<br>68% of the 4,565 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -22656,7 +23106,7 @@
       "search_text": "poppy playtime - chapter 4 poppy playtime - chapter 4 brace yourself for the darkest chapter yet in the epic poppy playtime saga. action adventure indie single-player downloadable content family sharing english french italian german japanese korean portuguese-brazil russian spanish-latin mixed<br>68% of the 4,565 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-03T00:44:37+00:00",
       "last_seen": "2026-11-03T00:44:37+00:00",
-      "updated_at": "2026-11-03T00:44:37+00:00"
+      "updated_at": "2026-11-03T10:21:29+00:00"
     },
     {
       "app_id": 4100940,
@@ -24016,6 +24466,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 974
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8300,
+          "final": 6225
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 23800,
+          "final": 17800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5200,
+          "final": 3900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 150000,
+          "final": 112500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1450000,
+          "final": 1087000
         }
       },
       "review_hint": "Very Positive<br>84% of the 360 user reviews for this game are positive.",
@@ -24030,7 +24505,7 @@
       "search_text": "repel the rifts repel the rifts repel the rifts is a roguelite tower defense game where you lead a commander through an alien world, uncovering new terrain each wave, drafting powerful upgrades, and constructing defenses to hold back the chaos. indie strategy single-player steam achievements full controller support steam cloud stats family sharing english schinese french german spanish-spain japanese korean very positive<br>84% of the 360 user reviews for this game are positive.",
       "first_seen": "2026-11-03T00:44:37+00:00",
       "last_seen": "2026-11-03T00:44:37+00:00",
-      "updated_at": "2026-11-03T00:44:37+00:00"
+      "updated_at": "2026-11-03T10:21:29+00:00"
     },
     {
       "app_id": 1663850,
@@ -30785,6 +31260,31 @@
           "currency": "USD",
           "original": 899,
           "final": 629
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4800,
+          "final": 3360
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 16900,
+          "final": 11800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 1960
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 110000,
+          "final": 77000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 990000,
+          "final": 693000
         }
       },
       "review_hint": "Positive<br>100% of the 11 user reviews for this game are positive.",
@@ -30799,7 +31299,7 @@
       "search_text": "the miner was replaced the miner was replaced get the mining upgrade for your drone! program it to dig, explore, and mine underground resources. using a simple python-like language, automate excavation, optimize mining routes, and uncover valuable minerals hidden deep beneath the surface. casual indie simulation strategy single-player downloadable content steam achievements adjustable text size camera comfort custom volume controls playable without timed input save anytime stereo sound steam cloud steam leaderboards family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese positive<br>100% of the 11 user reviews for this game are positive.",
       "first_seen": "2026-11-03T00:44:37+00:00",
       "last_seen": "2026-11-03T00:44:37+00:00",
-      "updated_at": "2026-11-03T00:44:37+00:00"
+      "updated_at": "2026-11-03T10:21:29+00:00"
     },
     {
       "app_id": 2569760,
