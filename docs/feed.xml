@@ -4,7 +4,42 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Tue, 03 Nov 2026 23:00:45 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 05:28:57 +0000</lastBuildDate>
+<item>
+<title>DevilConnection</title>
+<link>https://store.steampowered.com/app/3054820/</link>
+<guid isPermaLink="false">3054820</guid>
+<pubDate>Wed, 04 Nov 2026 05:28:57 +0000</pubDate>
+<description>Punish the little bastard demon and being punished too! Cemo-Summoning Adventure Game</description>
+</item>
+<item>
+<title>HAVKER-MAN X</title>
+<link>https://store.steampowered.com/app/3645540/</link>
+<guid isPermaLink="false">3645540</guid>
+<pubDate>Wed, 04 Nov 2026 05:28:57 +0000</pubDate>
+<description>HAVKERMAN X is an open world, post apocalyptic, first person shooter, immersive Sim. Featuring high risk / high reward gunfights, a multitude of weapons and augmentations to collect to hone your playstyle, and a branching story with quests where you can explore and decide the fate of the wasteland.</description>
+</item>
+<item>
+<title>How Empires Work</title>
+<link>https://store.steampowered.com/app/4663730/</link>
+<guid isPermaLink="false">4663730</guid>
+<pubDate>Wed, 04 Nov 2026 05:28:57 +0000</pubDate>
+<description>An incremental grand strategy game about building the machinery of empire. Tax, trade, conquer, and civilise subjects and foreigners alike. Automate it all into institutions that run themselves across centuries of history. Her Imperial Majesty expects results.</description>
+</item>
+<item>
+<title>PIT OF GOBLIN</title>
+<link>https://store.steampowered.com/app/3253530/</link>
+<guid isPermaLink="false">3253530</guid>
+<pubDate>Wed, 04 Nov 2026 05:28:57 +0000</pubDate>
+<description>In this online horror co-op, you play as a scrappy goblin, scavenging dungeons, dodging traps, and fleeing monsters to feed the Goblin King-Queen. Team up with goblin pals, or go rogue, as you dive deep and cause chaos! Fail to feed them, and you might be the next meal!</description>
+</item>
+<item>
+<title>Walkers</title>
+<link>https://store.steampowered.com/app/4779470/</link>
+<guid isPermaLink="false">4779470</guid>
+<pubDate>Wed, 04 Nov 2026 05:28:57 +0000</pubDate>
+<description>Walkers is an open-world zombie survival game with advanced base building and NPC systems. Scavenge, craft, and loot across a post-apocalyptic wasteland. Recruit survivors from the streets, assign them as workers, guards, or companions.</description>
+</item>
 <item>
 <title>Age of Wonders 4: Rise from Ruin</title>
 <link>https://store.steampowered.com/app/3976900/</link>
@@ -69,25 +104,11 @@
 <description>DnD meets Football Manager. Create a guild, watch them form relationships and grow old together. Lose people both to the dark and to rival guilds battling to be the best in the realm. Grow your own town, or vote to help build an existing one. Or take the Cozy approach and run a guild on your terms.</description>
 </item>
 <item>
-<title>DYNASTY WARRIORS 8 Empires</title>
-<link>https://store.steampowered.com/app/322520/</link>
-<guid isPermaLink="false">322520</guid>
-<pubDate>Tue, 03 Nov 2026 23:00:45 +0000</pubDate>
-<description>DYNASTY WARRIORS 8 Empires is part of the &amp;quot;Empires&amp;quot; series, in which you aim to conquer ancient China using both strategy and the one warrior versus one thousand tactical action the WARRIORS series is known for.</description>
-</item>
-<item>
 <title>Hypnospace Outlaw</title>
 <link>https://store.steampowered.com/app/844590/</link>
 <guid isPermaLink="false">844590</guid>
 <pubDate>Tue, 03 Nov 2026 23:00:45 +0000</pubDate>
 <description>Greetings Enforcer, and thank you for enlisting in the Hypnospace Patrol Department! As the world falls into its slumber, Hypnospace becomes a bustling global village. These virtual streets aren't going to police themselves!</description>
-</item>
-<item>
-<title>Little Rocket Lab</title>
-<link>https://store.steampowered.com/app/2451100/</link>
-<guid isPermaLink="false">2451100</guid>
-<pubDate>Tue, 03 Nov 2026 23:00:45 +0000</pubDate>
-<description>Transform your childhood home as you build brilliant factories and forge lifelong friendships, then reach for the skies and finally finish your family's dream - your mother's precious rocket ship. Roll up your sleeves, it turns out that saving this town really IS rocket science!</description>
 </item>
 <item>
 <title>Livin' the Cream: Ice Cream Simulator</title>
@@ -160,13 +181,6 @@
 <description>Welcome to Bob Company! Fill orders, haul goods, and make work easier with automation. Rise from Intern to Director in a relaxing first-person warehouse sim. Each promotion opens new areas of the company and reveals more of the stories behind it.</description>
 </item>
 <item>
-<title>Chicory: A Colorful Tale</title>
-<link>https://store.steampowered.com/app/1123450/</link>
-<guid isPermaLink="false">1123450</guid>
-<pubDate>Tue, 03 Nov 2026 13:51:28 +0000</pubDate>
-<description>A top-down adventure game in a coloring book world full of vibrant characters. Use painting powers to explore, solve puzzles, make friends, and draw on anything! From creators on Wandersong + Celeste.</description>
-</item>
-<item>
 <title>Creatures of Ava</title>
 <link>https://store.steampowered.com/app/2304440/</link>
 <guid isPermaLink="false">2304440</guid>
@@ -193,139 +207,6 @@
 <guid isPermaLink="false">1170570</guid>
 <pubDate>Tue, 03 Nov 2026 13:51:28 +0000</pubDate>
 <description>A Pulp Adventure Thriller - A murdered drifter awakens. Alive again, seconds before his death. Hunted and haunted, help him untangle a mad web of conspiracy in this fast-paced point 'n click thrill-ride.</description>
-</item>
-<item>
-<title>Wilmot Works It Out</title>
-<link>https://store.steampowered.com/app/2060590/</link>
-<guid isPermaLink="false">2060590</guid>
-<pubDate>Tue, 03 Nov 2026 13:51:28 +0000</pubDate>
-<description>Wilmot Works It Out is a puzzle building game about completing beautiful images and using them to decorate the walls of your house.</description>
-</item>
-<item>
-<title>BOOST VECTOR EX</title>
-<link>https://store.steampowered.com/app/3832030/</link>
-<guid isPermaLink="false">3832030</guid>
-<pubDate>Tue, 03 Nov 2026 00:44:37 +0000</pubDate>
-<description>RUN FAST. Faster than any other. Take control of a Vector Master and sprint in uncompromising pure parkour racing. Hone your style with responsive, flowing controls and break limits in the Premier Vector World Cup. The race, your friends, and victory beckon your arrival... Did I mention it was fast?</description>
-</item>
-<item>
-<title>Borderlands 2 Season Pass</title>
-<link>https://store.steampowered.com/app/218560/</link>
-<guid isPermaLink="false">218560</guid>
-<pubDate>Tue, 03 Nov 2026 00:44:37 +0000</pubDate>
-<description>Grab the Borderlands 2 Season Pass and get access to four downloadable content packs for Borderlands 2 at one discounted price.</description>
-</item>
-<item>
-<title>Borderlands 2: Commander Lilith &amp; the Fight for Sanctuary</title>
-<link>https://store.steampowered.com/app/872280/</link>
-<guid isPermaLink="false">872280</guid>
-<pubDate>Tue, 03 Nov 2026 00:44:37 +0000</pubDate>
-<description>Return to the award-winning shooter-looter for an all-new adventure that sets the stage for the upcoming Borderlands 3.</description>
-</item>
-<item>
-<title>Borderlands 3: Season Pass</title>
-<link>https://store.steampowered.com/app/1233062/</link>
-<guid isPermaLink="false">1233062</guid>
-<pubDate>Tue, 03 Nov 2026 00:44:37 +0000</pubDate>
-<description>Continue your Borderlands 3 adventure with the Season Pass, featuring exclusive cosmetic items and four story campaign add-ons with new missions and challenges!</description>
-</item>
-<item>
-<title>Borderlands 3: Season Pass 2</title>
-<link>https://store.steampowered.com/app/1396474/</link>
-<guid isPermaLink="false">1396474</guid>
-<pubDate>Tue, 03 Nov 2026 00:44:37 +0000</pubDate>
-<description>Enhance Borderlands 3 with the content add-ons of Season Pass 2, featuring new modes and missions, a 4th skill tree for each Vault Hunter, and unique cosmetic outfits!</description>
-</item>
-<item>
-<title>Borderlands Game of the Year Enhanced</title>
-<link>https://store.steampowered.com/app/729040/</link>
-<guid isPermaLink="false">729040</guid>
-<pubDate>Tue, 03 Nov 2026 00:44:37 +0000</pubDate>
-<description>Discover the original co-op shooter-looter, crammed with new enhancements! As one of 4 trigger-happy mercenaries with RPG progression, equip bazillions of guns to take on the desert planet Pandora.</description>
-</item>
-<item>
-<title>Borderlands: The Pre-Sequel Season Pass</title>
-<link>https://store.steampowered.com/app/319090/</link>
-<guid isPermaLink="false">319090</guid>
-<pubDate>Tue, 03 Nov 2026 00:44:37 +0000</pubDate>
-<description>Extend the lunar mayhem with the Borderlands: The Pre-Sequel Season Pass featuring new characters, challenges, missions, and more! Harness the power of your good looks with the “Handsome Jack” Character Pack; raise your level cap &amp;amp; battle waves of enemies in The Holodome Onslaught; and two more add-on Packs!</description>
-</item>
-<item>
-<title>Feed The Forest</title>
-<link>https://store.steampowered.com/app/4362170/</link>
-<guid isPermaLink="false">4362170</guid>
-<pubDate>Tue, 03 Nov 2026 00:44:37 +0000</pubDate>
-<description>Use snail powers to grow a desert into a lush forest, and then profit-maximize it to insanity in this active incremental game. Optimize plant layouts to automate production of multiple resources. Hire minions, unlock immoral plants, get ungodly rich, and remember: Blood is a type of juice.</description>
-</item>
-<item>
-<title>Figure Me Out</title>
-<link>https://store.steampowered.com/app/5313470/</link>
-<guid isPermaLink="false">5313470</guid>
-<pubDate>Tue, 03 Nov 2026 00:44:37 +0000</pubDate>
-<description>A multiplayer FPS where you eliminate opponents by typing the numbers on their foreheads. Read theirs before they read yours, use tactical gadgets to disrupt the fight, and battle friends or strangers in matches with up to 20 players.</description>
-</item>
-<item>
-<title>GRAVHOUNDS</title>
-<link>https://store.steampowered.com/app/2440760/</link>
-<guid isPermaLink="false">2440760</guid>
-<pubDate>Tue, 03 Nov 2026 00:44:37 +0000</pubDate>
-<description>GRAVHOUNDS is a 1–4 player co-op action builder. Drop into hostile planets as a pack, build and defend your base in physics-driven mayhem, and extract with everything you can carry before you become alien chow! The longer you stay, the greater the danger... and the rewards.</description>
-</item>
-<item>
-<title>Imperium</title>
-<link>https://store.steampowered.com/app/4806180/</link>
-<guid isPermaLink="false">4806180</guid>
-<pubDate>Tue, 03 Nov 2026 00:44:37 +0000</pubDate>
-<description>Imperium is a single-player 4X space strategy game. Colonize alien worlds, design your own spaceships, research exotic technologies, and outmaneuver rival empires through diplomacy or open war. Build a galactic empire and rule it your way.</description>
-</item>
-<item>
-<title>Incremental Traffic</title>
-<link>https://store.steampowered.com/app/5475960/</link>
-<guid isPermaLink="false">5475960</guid>
-<pubDate>Tue, 03 Nov 2026 00:44:37 +0000</pubDate>
-<description>An incremental logistics game where traffic becomes a challenge. Haul goods from fields, forests and quarries through a procedurally generated town, earn money with every delivery and buy more trucks, until your own fleet jams the streets. Then fix it with traffic rules.</description>
-</item>
-<item>
-<title>Mayday: The Survival Island</title>
-<link>https://store.steampowered.com/app/1686230/</link>
-<guid isPermaLink="false">1686230</guid>
-<pubDate>Tue, 03 Nov 2026 00:44:37 +0000</pubDate>
-<description>After a mysterious crash, you awaken alone on a strange island. Survive by hunting, farming, and crafting, then explore a vast archipelago filled with secrets, ancient ruins, and magical totems. Build your base, uncover the truth, and escape—if you can.</description>
-</item>
-<item>
-<title>New Tales from the Borderlands</title>
-<link>https://store.steampowered.com/app/1454970/</link>
-<guid isPermaLink="false">1454970</guid>
-<pubDate>Tue, 03 Nov 2026 00:44:37 +0000</pubDate>
-<description>Decide the fates of altruistic scientist Anu, her ambitious, &amp;quot;streetwise&amp;quot; brother Octavio, and the fierce, frogurt-slinging Fran. Claw and con your way through five thrilling chapters!</description>
-</item>
-<item>
-<title>Night in the Woods</title>
-<link>https://store.steampowered.com/app/481510/</link>
-<guid isPermaLink="false">481510</guid>
-<pubDate>Tue, 03 Nov 2026 00:44:37 +0000</pubDate>
-<description>NIGHT IN THE WOODS is an adventure game focused on exploration, story, and character, featuring dozens of characters to meet and lots to do across a lush, vibrant world.</description>
-</item>
-<item>
-<title>PlinkIdle</title>
-<link>https://store.steampowered.com/app/3684530/</link>
-<guid isPermaLink="false">3684530</guid>
-<pubDate>Tue, 03 Nov 2026 00:44:37 +0000</pubDate>
-<description>PlinkIdle is a retro-inspired game with an idle/incremental spin on a classic ball drop mechanic. Falling balls, rare buffs, and steady upgrades unlock colorful, cozy stages and immersive environments.</description>
-</item>
-<item>
-<title>Repel The Rifts</title>
-<link>https://store.steampowered.com/app/3686580/</link>
-<guid isPermaLink="false">3686580</guid>
-<pubDate>Tue, 03 Nov 2026 00:44:37 +0000</pubDate>
-<description>Repel the Rifts is a roguelite tower defense game where you lead a commander through an alien world, uncovering new terrain each wave, drafting powerful upgrades, and constructing defenses to hold back the chaos.</description>
-</item>
-<item>
-<title>The Miner Was Replaced</title>
-<link>https://store.steampowered.com/app/4521700/</link>
-<guid isPermaLink="false">4521700</guid>
-<pubDate>Tue, 03 Nov 2026 00:44:37 +0000</pubDate>
-<description>Get the mining upgrade for your drone! Program it to dig, explore, and mine underground resources. Using a simple Python-like language, automate excavation, optimize mining routes, and uncover valuable minerals hidden deep beneath the surface.</description>
 </item>
 <item>
 <title>Hunting Simulator 3 - Classic American Hunter Pack</title>
