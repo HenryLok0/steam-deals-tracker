@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T05:28:57+00:00",
+  "updated_at": "2026-11-04T10:15:02+00:00",
   "total_count": 4872,
   "active_count": 349,
   "games": [
@@ -1130,6 +1130,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 13800,
+          "final": 11040
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 56800,
+          "final": 45400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8800,
+          "final": 7040
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 269000,
+          "final": 215200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2200000,
+          "final": 1760000
         }
       },
       "review_hint": "Mixed<br>65% of the 109 user reviews for this game are positive.",
@@ -1144,7 +1169,7 @@
       "search_text": "age of wonders 4: rise from ruin age of wonders 4: rise from ruin forge a mighty realm from the ashes in age of wonders 4: rise from ruin. contains a new culture, form, wildlife and magical tomes, as well as new environmental challenges and locations to conquer and explore. strategy single-player multi-player pvp online pvp co-op online co-op cross-platform multiplayer downloadable content steam achievements steam workshop partial controller support steam cloud remote play together family sharing english french german spanish-spain japanese korean polish russian schinese mixed<br>65% of the 109 user reviews for this game are positive.",
       "first_seen": "2026-11-03T23:00:45+00:00",
       "last_seen": "2026-11-04T05:28:57+00:00",
-      "updated_at": "2026-11-04T05:28:57+00:00"
+      "updated_at": "2026-11-04T10:15:02+00:00"
     },
     {
       "app_id": 3976890,
@@ -1208,6 +1233,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12800,
+          "final": 10240
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 56800,
+          "final": 45400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8800,
+          "final": 7040
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 269000,
+          "final": 215200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2200000,
+          "final": 1760000
         }
       },
       "review_hint": "Mostly Positive<br>71% of the 171 user reviews for this game are positive.",
@@ -1222,7 +1272,7 @@
       "search_text": "age of wonders 4: thrones of blood age of wonders 4: thrones of blood embrace the night in age of wonders 4: thrones of blood! command vampire legions, build your dark empire with blood magic, and dominate sunless lands. features a new vampire ruler, tomes, wildlife, and a story realm exploring elder vampire origins. strategy single-player multi-player pvp online pvp co-op online co-op cross-platform multiplayer downloadable content steam achievements steam workshop partial controller support steam cloud remote play together family sharing english french german spanish-spain japanese korean polish russian schinese mostly positive<br>71% of the 171 user reviews for this game are positive.",
       "first_seen": "2026-11-03T23:00:45+00:00",
       "last_seen": "2026-11-04T05:28:57+00:00",
-      "updated_at": "2026-11-04T05:28:57+00:00"
+      "updated_at": "2026-11-04T10:15:02+00:00"
     },
     {
       "app_id": 2914280,
@@ -4025,6 +4075,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1699
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11500,
+          "final": 9775
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37700,
+          "final": 32000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7700,
+          "final": 6545
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 260000,
+          "final": 221000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2100000,
+          "final": 1785000
         }
       },
       "review_hint": "",
@@ -4039,7 +4114,7 @@
       "search_text": "astra bestiary astra bestiary raise beasts from eggs into powerful champions in this 2d monster-raising/taming rpg. feed, train and evolve your partners to explore a perilous, non-linear world. master fast-paced, tactical battles, uncover the secrets of a fading world and pass on the beasts' legacy across generations. adventure rpg simulation single-player steam achievements full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing english spanish-spain french italian german portuguese-brazil spanish-latin",
       "first_seen": "2026-11-03T23:00:45+00:00",
       "last_seen": "2026-11-04T05:28:57+00:00",
-      "updated_at": "2026-11-04T05:28:57+00:00"
+      "updated_at": "2026-11-04T10:15:02+00:00"
     },
     {
       "app_id": 2138090,
@@ -4091,6 +4166,31 @@
           "currency": "USD",
           "original": 4999,
           "final": 1499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 32500,
+          "final": 9750
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 159000,
+          "final": 47700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 29900,
+          "final": 8970
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 638000,
+          "final": 191400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 5980000,
+          "final": 1794000
         }
       },
       "review_hint": "Very Positive<br>89% of the 323 user reviews for this game are positive.",
@@ -4105,7 +4205,7 @@
       "search_text": "atelier marie remake: the alchemist of salburg atelier marie remake: the alchemist of salburg it's not about saving the world. in this &quot;leisure adventure rpg,&quot; failing student marie pursues alchemy, adventures, and quests while aiming to graduate in five years. &quot;atelier marie,&quot; the origin of the atelier series, has been remade with new elements! casual rpg single-player steam achievements partial controller support steam cloud family sharing english schinese tchinese japanese korean very positive<br>89% of the 323 user reviews for this game are positive.",
       "first_seen": "2026-11-03T23:00:45+00:00",
       "last_seen": "2026-11-04T05:28:57+00:00",
-      "updated_at": "2026-11-04T05:28:57+00:00"
+      "updated_at": "2026-11-04T10:15:02+00:00"
     },
     {
       "app_id": 3365030,
@@ -7940,6 +8040,31 @@
           "currency": "USD",
           "original": 5999,
           "final": 4799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 29800,
+          "final": 23840
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 128000,
+          "final": 102400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 26800,
+          "final": 21440
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 799000,
+          "final": 639200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 6480000,
+          "final": 5184000
         }
       },
       "review_hint": "Very Positive<br>92% of the 9,716 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -7954,7 +8079,7 @@
       "search_text": "control resonant control resonant explore a warped manhattan on the brink of paranatural annihilation in this thrilling action-adventure rpg. unleash the extraordinary powers of dylan faden as he fights for his humanity and our survival against a reality-bending cosmic threat. action adventure rpg single-player steam achievements full controller support steam trading cards camera comfort color alternatives #category_contrast_controls custom volume controls adjustable difficulty keyboard only option playable without timed input dualsense controller support dualsense controller support save anytime subtitle options steam cloud hdr available family sharing english french italian german spanish-spain japanese korean portuguese-brazil schinese spanish-latin tchinese polish russian turkish ukrainian very positive<br>92% of the 9,716 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-03T23:00:45+00:00",
       "last_seen": "2026-11-04T05:28:57+00:00",
-      "updated_at": "2026-11-04T05:28:57+00:00"
+      "updated_at": "2026-11-04T10:15:02+00:00"
     },
     {
       "app_id": 4403940,
@@ -8017,6 +8142,31 @@
           "currency": "USD",
           "original": 1000,
           "final": 800
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7000,
+          "final": 5600
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21000,
+          "final": 16800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6000,
+          "final": 4800
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 100000,
+          "final": 80000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 880000
         }
       },
       "review_hint": "Mixed<br>50% of the 26 user reviews for this game are positive.",
@@ -8031,7 +8181,7 @@
       "search_text": "control resonant digital deluxe upgrade control resonant digital deluxe upgrade go behind the scenes of control resonant with the digital artbook, immerse yourself in new music from the original soundtrack, and enhance your experience with a unique awe mission outfit, untapped artifact (wallet), and starter resource bundle. action adventure rpg single-player downloadable content full controller support gamepad recommended dualshock controller support dualshock controller support dualsense controller support dualsense controller support family sharing english french italian german spanish-spain japanese korean portuguese-brazil schinese spanish-latin tchinese mixed<br>50% of the 26 user reviews for this game are positive.",
       "first_seen": "2026-11-03T23:00:45+00:00",
       "last_seen": "2026-11-04T05:28:57+00:00",
-      "updated_at": "2026-11-04T05:28:57+00:00"
+      "updated_at": "2026-11-04T10:15:02+00:00"
     },
     {
       "app_id": 1742440,
@@ -9182,6 +9332,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1699
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10500,
+          "final": 8925
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 34800,
+          "final": 29500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7000,
+          "final": 5950
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 238000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2250000,
+          "final": 1912000
         }
       },
       "review_hint": "",
@@ -9196,7 +9371,7 @@
       "search_text": "dead sector dead sector run your own data center. design server boards component by component and use your boards space wisely. wire power and network throughout your floor to form specialized clusters, and dispatch contracts to your custom hardware. scale from a single rack to a massive redundant, multi-cluster operation. indie simulation strategy early access single-player family sharing english",
       "first_seen": "2026-11-03T23:00:45+00:00",
       "last_seen": "2026-11-04T05:28:57+00:00",
-      "updated_at": "2026-11-04T05:28:57+00:00"
+      "updated_at": "2026-11-04T10:15:02+00:00"
     },
     {
       "app_id": 3026450,
@@ -9784,6 +9959,31 @@
           "currency": "USD",
           "original": 1666,
           "final": 1499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9990,
+          "final": 8991
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 36600,
+          "final": 32900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6666,
+          "final": 5999
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 166600,
+          "final": 149900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1666000,
+          "final": 1499000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>98% of the 2,083 user reviews for this game are positive.",
@@ -9798,7 +9998,7 @@
       "search_text": "devilconnection devilconnection punish the little bastard demon and being punished too! cemo-summoning adventure game adventure indie single-player steam achievements steam cloud family sharing japanese english schinese tchinese overwhelmingly positive<br>98% of the 2,083 user reviews for this game are positive.",
       "first_seen": "2026-11-04T05:28:57+00:00",
       "last_seen": "2026-11-04T05:28:57+00:00",
-      "updated_at": "2026-11-04T05:28:57+00:00"
+      "updated_at": "2026-11-04T10:15:02+00:00"
     },
     {
       "app_id": 3440070,
@@ -11104,6 +11304,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 974
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8700,
+          "final": 5655
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 30800,
+          "final": 20000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5900,
+          "final": 3835
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 190000,
+          "final": 123500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1600000,
+          "final": 1040000
         }
       },
       "review_hint": "Very Positive<br>87% of the 848 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -11118,7 +11343,7 @@
       "search_text": "dungeon rampage remastered dungeon rampage remastered battle your way to victory in this 1-4 player co-op hack-n-slash dungeon crawler completely remastered! play as a dynamic cast of heroes slicing their way through dungeons, earning weapons and loot. rampage past a gauntlet of enemies and destruction to end the evil lord dinglepus' reign! action casual indie rpg multi-player co-op online co-op steam achievements full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam input api support stats family sharing english very positive<br>87% of the 848 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-03T23:00:45+00:00",
       "last_seen": "2026-11-04T05:28:57+00:00",
-      "updated_at": "2026-11-04T05:28:57+00:00"
+      "updated_at": "2026-11-04T10:15:02+00:00"
     },
     {
       "app_id": 5101960,
@@ -11188,6 +11413,31 @@
           "currency": "USD",
           "original": 899,
           "final": 809
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5300,
+          "final": 4770
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 17800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3200,
+          "final": 2880
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 115000,
+          "final": 103500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 965000,
+          "final": 868000
         }
       },
       "review_hint": "",
@@ -11202,7 +11452,7 @@
       "search_text": "dungeons & dynasties dungeons & dynasties dnd meets football manager. create a guild, watch them form relationships and grow old together. lose people both to the dark and to rival guilds battling to be the best in the realm. grow your own town, or vote to help build an existing one. or take the cozy approach and run a guild on your terms. rpg simulation strategy early access single-player steam achievements adjustable text size color alternatives custom volume controls adjustable difficulty keyboard only option #category_playable_at_your_own_pace playable without timed input #category_playable_without_vision save anytime steam cloud family sharing english french german spanish-spain japanese schinese tchinese spanish-latin korean italian russian portuguese-brazil portuguese---portugal",
       "first_seen": "2026-11-03T23:00:45+00:00",
       "last_seen": "2026-11-04T05:28:57+00:00",
-      "updated_at": "2026-11-04T05:28:57+00:00"
+      "updated_at": "2026-11-04T10:15:02+00:00"
     },
     {
       "app_id": 239140,
@@ -15992,6 +16242,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1349
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8700,
+          "final": 7830
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 30800,
+          "final": 27700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5900,
+          "final": 5310
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 190000,
+          "final": 171000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1600000,
+          "final": 1440000
         }
       },
       "review_hint": "Positive<br>80% of the 10 user reviews for this game are positive.",
@@ -16006,7 +16281,7 @@
       "search_text": "havker-man x havker-man x havkerman x is an open world, post apocalyptic, first person shooter, immersive sim. featuring high risk / high reward gunfights, a multitude of weapons and augmentations to collect to hone your playstyle, and a branching story with quests where you can explore and decide the fate of the wasteland. action adventure indie rpg single-player steam achievements steam cloud family sharing english positive<br>80% of the 10 user reviews for this game are positive.",
       "first_seen": "2026-11-04T05:28:57+00:00",
       "last_seen": "2026-11-04T05:28:57+00:00",
-      "updated_at": "2026-11-04T05:28:57+00:00"
+      "updated_at": "2026-11-04T10:15:02+00:00"
     },
     {
       "app_id": 686810,
@@ -16279,6 +16554,31 @@
           "currency": "USD",
           "original": 999,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5500,
+          "final": 4950
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 17800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3900,
+          "final": 3510
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 126000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 990000
         }
       },
       "review_hint": "Positive<br>100% of the 15 user reviews for this game are positive.",
@@ -16293,7 +16593,7 @@
       "search_text": "how empires work how empires work an incremental grand strategy game about building the machinery of empire. tax, trade, conquer, and civilise subjects and foreigners alike. automate it all into institutions that run themselves across centuries of history. her imperial majesty expects results. casual indie simulation strategy single-player steam achievements custom volume controls mouse only option #category_playable_at_your_own_pace playable without timed input steam cloud family sharing english positive<br>100% of the 15 user reviews for this game are positive.",
       "first_seen": "2026-11-04T05:28:57+00:00",
       "last_seen": "2026-11-04T05:28:57+00:00",
-      "updated_at": "2026-11-04T05:28:57+00:00"
+      "updated_at": "2026-11-04T10:15:02+00:00"
     },
     {
       "app_id": 477160,
@@ -16680,6 +16980,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8900,
+          "final": 2225
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 31800,
+          "final": 7900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5900,
+          "final": 1475
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 205000,
+          "final": 51200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2050000,
+          "final": 512000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>96% of the 4,428 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -16694,7 +17019,7 @@
       "search_text": "hypnospace outlaw hypnospace outlaw greetings enforcer, and thank you for enlisting in the hypnospace patrol department! as the world falls into its slumber, hypnospace becomes a bustling global village. these virtual streets aren't going to police themselves! simulation single-player steam achievements steam trading cards partial controller support steam cloud family sharing english overwhelmingly positive<br>96% of the 4,428 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-03T23:00:45+00:00",
       "last_seen": "2026-11-04T05:28:57+00:00",
-      "updated_at": "2026-11-04T05:28:57+00:00"
+      "updated_at": "2026-11-04T10:15:02+00:00"
     },
     {
       "app_id": 4173620,
@@ -19101,6 +19426,31 @@
           "currency": "USD",
           "original": 999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5500,
+          "final": 4400
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 15000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3500,
+          "final": 2800
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 128000,
+          "final": 102400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 880000
         }
       },
       "review_hint": "Positive<br>92% of the 13 user reviews for this game are positive.",
@@ -19115,7 +19465,7 @@
       "search_text": "livin' the cream: ice cream simulator livin' the cream: ice cream simulator run your own ice cream shop in a vibrant caribbean setting! prepare ice cream, mix flavors, add toppings, serve customers, keep your shop clean, restock ingredients, hire staff, and expand your shop from a small stand into a busy business. simulation single-player steam achievements full controller support custom volume controls adjustable difficulty #category_playable_at_your_own_pace playable without timed input save anytime stereo sound steam cloud family sharing english french italian german spanish-spain schinese portuguese-brazil indonesian dutch japanese korean polish portuguese---portugal russian turkish vietnamese spanish-latin czech positive<br>92% of the 13 user reviews for this game are positive.",
       "first_seen": "2026-11-03T23:00:45+00:00",
       "last_seen": "2026-11-04T05:28:57+00:00",
-      "updated_at": "2026-11-04T05:28:57+00:00"
+      "updated_at": "2026-11-04T10:15:02+00:00"
     },
     {
       "app_id": 2320980,
@@ -19192,6 +19542,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 2489
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 16999,
+          "final": 14109
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 55900,
+          "final": 46300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10800,
+          "final": 8964
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 385000,
+          "final": 319500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2900000,
+          "final": 2407000
         }
       },
       "review_hint": "Mostly Positive<br>75% of the 40 user reviews for this game are positive.",
@@ -19206,7 +19581,7 @@
       "search_text": "loftia loftia welcome to loftia, a cozy, multiplayer world where you can build towards a brighter, more sustainable future! connect with friends both old and new, to farm, craft, explore, decorate, and create a meaningful impact - together. adventure casual indie massively multiplayer rpg simulation early access multi-player mmo co-op online co-op full controller support in-app purchases camera comfort custom volume controls adjustable difficulty dualshock controller support dualshock controller support dualsense controller support dualsense controller support stereo sound family sharing english french german spanish-spain japanese korean schinese portuguese-brazil italian indonesian russian spanish-latin thai turkish mostly positive<br>75% of the 40 user reviews for this game are positive.",
       "first_seen": "2026-11-03T23:00:45+00:00",
       "last_seen": "2026-11-04T05:28:57+00:00",
-      "updated_at": "2026-11-04T05:28:57+00:00"
+      "updated_at": "2026-11-04T10:15:02+00:00"
     },
     {
       "app_id": 2658450,
@@ -21121,6 +21496,31 @@
           "currency": "USD",
           "original": 499,
           "final": 399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 2700,
+          "final": 2160
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 10800,
+          "final": 8600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1900,
+          "final": 1520
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 70500,
+          "final": 56400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 560000,
+          "final": 448000
         }
       },
       "review_hint": "Very Positive<br>91% of the 56 user reviews for this game are positive.",
@@ -21135,7 +21535,7 @@
       "search_text": "mycelarium mycelarium grow an ever-expanding fungal network in this relaxing incremental exploration game. discover hidden resources, cultivate mushrooms that automate your production, and evolve your mycelium into a self-sustaining underground empire. simulation strategy single-player family sharing english french italian german spanish-spain japanese korean portuguese-brazil russian schinese tchinese ukrainian very positive<br>91% of the 56 user reviews for this game are positive.",
       "first_seen": "2026-11-03T23:00:45+00:00",
       "last_seen": "2026-11-04T05:28:57+00:00",
-      "updated_at": "2026-11-04T05:28:57+00:00"
+      "updated_at": "2026-11-04T10:15:02+00:00"
     },
     {
       "app_id": 349040,
@@ -23400,6 +23800,31 @@
           "currency": "USD",
           "original": 599,
           "final": 419
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3900,
+          "final": 2730
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 11800,
+          "final": 8200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2900,
+          "final": 2030
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 70000,
+          "final": 49000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 670000,
+          "final": 469000
         }
       },
       "review_hint": "Very Positive<br>84% of the 952 user reviews for this game are positive.",
@@ -23414,7 +23839,7 @@
       "search_text": "pit of goblin pit of goblin in this online horror co-op, you play as a scrappy goblin, scavenging dungeons, dodging traps, and fleeing monsters to feed the goblin king-queen. team up with goblin pals, or go rogue, as you dive deep and cause chaos! fail to feed them, and you might be the next meal! action adventure indie single-player multi-player co-op online co-op cross-platform multiplayer steam achievements full controller support steam trading cards dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing english french german spanish-spain russian schinese swedish ukrainian japanese very positive<br>84% of the 952 user reviews for this game are positive.",
       "first_seen": "2026-11-04T05:28:57+00:00",
       "last_seen": "2026-11-04T05:28:57+00:00",
-      "updated_at": "2026-11-04T05:28:57+00:00"
+      "updated_at": "2026-11-04T10:15:02+00:00"
     },
     {
       "app_id": 3684530,
@@ -23798,6 +24223,31 @@
           "currency": "USD",
           "original": 999,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5500,
+          "final": 4950
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 17800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3500,
+          "final": 3150
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 126000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 990000
         }
       },
       "review_hint": "Very Positive<br>88% of the 118 user reviews for this game are positive.",
@@ -23812,7 +24262,7 @@
       "search_text": "potato please potato please a first-person potato peeling game. you have a knife. you have a bucket. you have a mountain of potatoes. peel them with real physics. cut thin, waste nothing. buy better tools. finish the pile. casual indie simulation single-player steam achievements full controller support camera comfort custom volume controls #category_playable_at_your_own_pace playable without timed input save anytime steam input api support stereo sound steam cloud family sharing english french italian german portuguese-brazil japanese polish hungarian portuguese---portugal russian turkish ukrainian czech spanish-spain schinese tchinese korean spanish-latin vietnamese very positive<br>88% of the 118 user reviews for this game are positive.",
       "first_seen": "2026-11-03T23:00:45+00:00",
       "last_seen": "2026-11-04T05:28:57+00:00",
-      "updated_at": "2026-11-04T05:28:57+00:00"
+      "updated_at": "2026-11-04T10:15:02+00:00"
     },
     {
       "app_id": 4348910,
@@ -23980,6 +24430,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 10000
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 26200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 6080
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 184000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 1720000
         }
       },
       "review_hint": "Mostly Positive<br>74% of the 85 user reviews for this game are positive.",
@@ -23994,7 +24469,7 @@
       "search_text": "project afterfall project afterfall wake to a brutal world of thea, bent on destroying your colony. rebuild, explore the wastelands, and gather scarce resources. will you strike a deal with the ruthless baba yaga - or hack a rogue cyber-rat to turn it into an ally? a dark strategy-survival rpg with card-based tactical combat. rpg simulation strategy single-player multi-player co-op online co-op steam achievements custom volume controls mouse only option playable without timed input save anytime steam cloud family sharing english french german spanish-spain japanese korean polish schinese italian indonesian portuguese-brazil russian hindi mostly positive<br>74% of the 85 user reviews for this game are positive.",
       "first_seen": "2026-11-03T23:00:45+00:00",
       "last_seen": "2026-11-04T05:28:57+00:00",
-      "updated_at": "2026-11-04T05:28:57+00:00"
+      "updated_at": "2026-11-04T10:15:02+00:00"
     },
     {
       "app_id": 1799840,
@@ -24432,6 +24907,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1349
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8700,
+          "final": 7830
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 30800,
+          "final": 27700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5900,
+          "final": 5310
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 190000,
+          "final": 171000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1600000,
+          "final": 1440000
         }
       },
       "review_hint": "",
@@ -24446,7 +24946,7 @@
       "search_text": "ramen shop simulator ramen shop simulator take control of your very own ramen shop! transform a cozy, worn-out japanese alley back into a vibrant hotspot. from scrubbing floors to cooking the perfect bowl of ramen. decorate every corner, upgrade everything, and create your unique shop. simulation early access single-player steam cloud family sharing english japanese schinese thai",
       "first_seen": "2026-11-03T23:00:45+00:00",
       "last_seen": "2026-11-04T05:28:57+00:00",
-      "updated_at": "2026-11-04T05:28:57+00:00"
+      "updated_at": "2026-11-04T10:15:02+00:00"
     },
     {
       "app_id": 3347910,
@@ -26517,6 +27017,31 @@
           "currency": "USD",
           "original": 699,
           "final": 559
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4650,
+          "final": 3720
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14300,
+          "final": 11400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3000,
+          "final": 2400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 81500,
+          "final": 65200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 785000,
+          "final": 628000
         }
       },
       "review_hint": "Very Positive<br>84% of the 1,148 user reviews for this game are positive.",
@@ -26531,7 +27056,7 @@
       "search_text": "scam line scam line scam line is a 4–8 player social deception game where your party will face different challenges. become a liar, a manipulator, a cheater, or find your own path to victory indie multi-player pvp online pvp co-op online co-op family sharing english russian schinese turkish spanish-spain portuguese-brazil french korean german polish italian norwegian czech japanese very positive<br>84% of the 1,148 user reviews for this game are positive.",
       "first_seen": "2026-11-03T23:00:45+00:00",
       "last_seen": "2026-11-04T05:28:57+00:00",
-      "updated_at": "2026-11-04T05:28:57+00:00"
+      "updated_at": "2026-11-04T10:15:02+00:00"
     },
     {
       "app_id": 698670,
@@ -32721,6 +33246,31 @@
           "currency": "USD",
           "original": 999,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5500,
+          "final": 4950
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 17800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3500,
+          "final": 3150
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 126000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 990000
         }
       },
       "review_hint": "Mostly Positive<br>70% of the 10 user reviews for this game are positive.",
@@ -32735,7 +33285,7 @@
       "search_text": "traffic architect traffic architect become the master of traffic with your expert infrastructure designs. lay down streets, shape junctions, time traffic lights, design a public transport network, and watch the city come alive. it grows on its own, and every new building sends more trips onto the roads you built. simulation strategy single-player steam achievements steam workshop adjustable text size camera comfort custom volume controls adjustable difficulty mouse only option #category_playable_at_your_own_pace playable without timed input steam cloud stats includes level editor family sharing english french italian german spanish-spain bulgarian czech polish portuguese-brazil russian schinese ukrainian mostly positive<br>70% of the 10 user reviews for this game are positive.",
       "first_seen": "2026-11-03T23:00:45+00:00",
       "last_seen": "2026-11-04T05:28:57+00:00",
-      "updated_at": "2026-11-04T05:28:57+00:00"
+      "updated_at": "2026-11-04T10:15:02+00:00"
     },
     {
       "app_id": 585420,
@@ -33983,6 +34533,31 @@
           "currency": "USD",
           "original": 999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6100,
+          "final": 4880
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21600,
+          "final": 17200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 3360
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 135000,
+          "final": 108000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 840000
         }
       },
       "review_hint": "Mixed<br>48% of the 37 user reviews for this game are positive.",
@@ -33997,7 +34572,7 @@
       "search_text": "walkers walkers walkers is an open-world zombie survival game with advanced base building and npc systems. scavenge, craft, and loot across a post-apocalyptic wasteland. recruit survivors from the streets, assign them as workers, guards, or companions. action adventure indie early access single-player full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support family sharing english french italian german schinese portuguese-brazil japanese korean spanish-latin polish portuguese---portugal russian turkish ukrainian mixed<br>48% of the 37 user reviews for this game are positive.",
       "first_seen": "2026-11-04T05:28:57+00:00",
       "last_seen": "2026-11-04T05:28:57+00:00",
-      "updated_at": "2026-11-04T05:28:57+00:00"
+      "updated_at": "2026-11-04T10:15:02+00:00"
     },
     {
       "app_id": 3624140,
@@ -159081,6 +159656,31 @@
           "currency": "USD",
           "original": 4999,
           "final": 1499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 26000,
+          "final": 7800
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 158000,
+          "final": 47400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 31000,
+          "final": 9300
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 565700,
+          "final": 169700
+        },
+        "ko": {
+          "currency": "USD",
+          "original": 4999,
+          "final": 1499
         }
       },
       "review_hint": "Mixed<br>67% of the 1,459 user reviews for this game are positive.",
@@ -159095,7 +159695,7 @@
       "search_text": "dynasty warriors 8 empires dynasty warriors 8 empires dynasty warriors 8 empires is part of the &quot;empires&quot; series, in which you aim to conquer ancient china using both strategy and the one warrior versus one thousand tactical action the warriors series is known for. action single-player multi-player co-op shared/split screen co-op shared/split screen steam achievements camera comfort custom volume controls adjustable difficulty keyboard only option playable without timed input stereo sound partial controller support steam cloud steam leaderboards remote play together family sharing english japanese tchinese mixed<br>67% of the 1,459 user reviews for this game are positive.",
       "first_seen": "2026-11-03T23:00:45+00:00",
       "last_seen": "2026-11-04T05:28:57+00:00",
-      "updated_at": "2026-11-04T05:28:57+00:00"
+      "updated_at": "2026-11-04T10:15:02+00:00"
     },
     {
       "app_id": 278080,
@@ -256088,6 +256688,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 8125
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 21300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5300,
+          "final": 3445
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 199900,
+          "final": 129900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 1397000
         }
       },
       "review_hint": "Very Positive<br>90% of the 1,308 user reviews for this game are positive.",
@@ -256102,7 +256727,7 @@
       "search_text": "little rocket lab little rocket lab transform your childhood home as you build brilliant factories and forge lifelong friendships, then reach for the skies and finally finish your family's dream - your mother's precious rocket ship. roll up your sleeves, it turns out that saving this town really is rocket science! adventure rpg simulation single-player steam achievements full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing english french italian german spanish-spain schinese thai japanese portuguese-brazil very positive<br>90% of the 1,308 user reviews for this game are positive.",
       "first_seen": "2026-11-03T23:00:45+00:00",
       "last_seen": "2026-11-04T05:28:57+00:00",
-      "updated_at": "2026-11-04T05:28:57+00:00"
+      "updated_at": "2026-11-04T10:15:02+00:00"
     },
     {
       "app_id": 1429880,
