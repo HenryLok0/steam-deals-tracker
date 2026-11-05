@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T14:19:34+00:00",
+  "updated_at": "2026-11-05T21:16:59+00:00",
   "total_count": 4903,
   "active_count": 349,
   "games": [
@@ -10452,6 +10452,31 @@
           "currency": "USD",
           "original": 699,
           "final": 559
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4199,
+          "final": 3359
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 10200,
+          "final": 8100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2549,
+          "final": 2039
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 70000,
+          "final": 56000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 575000,
+          "final": 460000
         }
       },
       "review_hint": "Mixed<br>61% of the 18 user reviews for this game are positive.",
@@ -10466,7 +10491,7 @@
       "search_text": "dirt clicker dirt clicker start with a spoon and a dream. dig for treasures, unlock upgrades, get help from friendly pals and flip tools to dig up mountains of dirt. will you find out what secrets are hidden beneath the dirt? casual indie simulation strategy single-player steam achievements steam cloud stats steam leaderboards family sharing english french italian german spanish-spain bulgarian danish dutch japanese korean portuguese-brazil portuguese---portugal russian schinese spanish-latin ukrainian hindi norwegian polish turkish mixed<br>61% of the 18 user reviews for this game are positive.",
       "first_seen": "2026-11-05T14:19:34+00:00",
       "last_seen": "2026-11-05T14:19:34+00:00",
-      "updated_at": "2026-11-05T14:19:34+00:00"
+      "updated_at": "2026-11-05T21:16:59+00:00"
     },
     {
       "app_id": 2548880,
@@ -10712,14 +10737,39 @@
       "steam_url": "https://store.steampowered.com/app/3572090/",
       "release_date": "Nov 5, 2026",
       "discount_expiration": null,
-      "original_price": 0,
+      "original_price": 1999,
       "final_price": 1599,
       "discount_percent": 20,
       "prices": {
         "en": {
           "currency": "USD",
-          "original": 0,
+          "original": 1999,
           "final": 1599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11500,
+          "final": 9200
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37700,
+          "final": 30100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7500,
+          "final": 6000
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 250000,
+          "final": 200000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2100000,
+          "final": 1680000
         }
       },
       "review_hint": "",
@@ -10734,7 +10784,7 @@
       "search_text": "dominus gladiatus dominus gladiatus dominus gladiatus is a brutal gladiator management simulator where you recruit, train and equip gladiators and make life or death decisions throughout a deadly tournament against rival domini. simulation strategy single-player steam achievements full controller support dualshock controller support dualsense controller support steam cloud family sharing english french italian german spanish-spain dutch greek japanese korean portuguese---portugal russian schinese tchinese turkish polish",
       "first_seen": "2026-11-05T14:19:34+00:00",
       "last_seen": "2026-11-05T14:19:34+00:00",
-      "updated_at": "2026-11-05T14:19:34+00:00"
+      "updated_at": "2026-11-05T21:16:59+00:00"
     },
     {
       "app_id": 219740,
@@ -11736,6 +11786,31 @@
           "currency": "USD",
           "original": 999,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7500,
+          "final": 6750
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29900,
+          "final": 26900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6500,
+          "final": 5850
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 150000,
+          "final": 135000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 945000
         }
       },
       "review_hint": "",
@@ -11750,7 +11825,7 @@
       "search_text": "dungeon munchies 2 dungeon munchies 2 who in their right mind would even want to eat cosmic monsters? find out in this side-scrollin', action-fightin', level-grindin', treasure-lootin', dungeon-munchin' grubapalooza! action adventure indie rpg early access single-player full controller support steam workshop adjustable text size custom volume controls adjustable difficulty keyboard only option save anytime stereo sound steam cloud family sharing english schinese tchinese",
       "first_seen": "2026-11-05T14:19:34+00:00",
       "last_seen": "2026-11-05T14:19:34+00:00",
-      "updated_at": "2026-11-05T14:19:34+00:00"
+      "updated_at": "2026-11-05T21:16:59+00:00"
     },
     {
       "app_id": 3053950,
@@ -13668,6 +13743,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 1949
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 17900,
+          "final": 11635
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 49900,
+          "final": 32400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10900,
+          "final": 7085
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 355500,
+          "final": 231000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3100000,
+          "final": 2015000
         }
       },
       "review_hint": "Very Positive<br>82% of the 345 user reviews for this game are positive.",
@@ -13682,7 +13782,7 @@
       "search_text": "exd - extra dimensional exd - extra dimensional a delivery guy. a dimensional rift. a quest across another world. master telekinesis and elemental magic in erath, where everyday objects become legendary weapons. battle mythical creatures. solve ancient puzzles. uncover dark truths. advanced vr physics meet epic fantasy adventure. action adventure rpg single-player steam achievements tracked controller support vr only family sharing english french italian german spanish-spain japanese schinese portuguese-brazil russian very positive<br>82% of the 345 user reviews for this game are positive.",
       "first_seen": "2026-11-05T14:19:34+00:00",
       "last_seen": "2026-11-05T14:19:34+00:00",
-      "updated_at": "2026-11-05T14:19:34+00:00"
+      "updated_at": "2026-11-05T21:16:59+00:00"
     },
     {
       "app_id": 4176000,
@@ -13734,6 +13834,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11000,
+          "final": 9900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 55000,
+          "final": 49500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10000,
+          "final": 9000
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 484000,
+          "final": 435600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 1935000
         }
       },
       "review_hint": "",
@@ -13748,7 +13873,7 @@
       "search_text": "false myth 2 false myth 2 the true sequel to false myth— a true classic jrpg × beautiful-heroine adventure! rouge, the agile assassin, sets off with his companions to uncover the truth behind the mysterious girl sylphina, weaving the most heartrending and fiery “tale of hearts.” adventure indie rpg single-player full controller support steam cloud family sharing tchinese english japanese schinese korean",
       "first_seen": "2026-11-05T14:19:34+00:00",
       "last_seen": "2026-11-05T14:19:34+00:00",
-      "updated_at": "2026-11-05T14:19:34+00:00"
+      "updated_at": "2026-11-05T21:16:59+00:00"
     },
     {
       "app_id": 4362170,
@@ -25332,6 +25457,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10500,
+          "final": 9450
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 29500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6500,
+          "final": 5850
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 252000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2380000,
+          "final": 2142000
         }
       },
       "review_hint": "Positive<br>97% of the 46 user reviews for this game are positive.",
@@ -25346,7 +25496,7 @@
       "search_text": "psycho-sleuth psycho-sleuth psycho-sleuth is a mystery game where cognitive disorders distort the rules of murder. enter the minds of 13 afflicted players trapped in a deadly game, each with an abnormal mental condition. these disorders are contagious, but the killer hides amongst twisted logic. adventure indie single-player steam achievements full controller support color alternatives custom volume controls adjustable difficulty keyboard only option mouse only option #category_playable_at_your_own_pace playable without timed input save anytime stereo sound subtitle options steam cloud family sharing english japanese schinese tchinese korean positive<br>97% of the 46 user reviews for this game are positive.",
       "first_seen": "2026-11-05T14:19:34+00:00",
       "last_seen": "2026-11-05T14:19:34+00:00",
-      "updated_at": "2026-11-05T14:19:34+00:00"
+      "updated_at": "2026-11-05T21:16:59+00:00"
     },
     {
       "app_id": 1799840,
@@ -28912,6 +29062,31 @@
           "currency": "USD",
           "original": 999,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5500,
+          "final": 4950
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 17800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3500,
+          "final": 3150
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 126000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 990000
         }
       },
       "review_hint": "",
@@ -28926,7 +29101,7 @@
       "search_text": "spellchain spellchain create and combine your own spells through a dynamic spellcrafting system. fight through a hostile kingdom, disrupt its events and grow your magical powers on a quest to slay the king. action adventure indie rpg single-player steam achievements full controller support adjustable text size custom volume controls playable without timed input save anytime stereo sound family sharing english french italian german spanish-spain japanese korean schinese",
       "first_seen": "2026-11-05T14:19:34+00:00",
       "last_seen": "2026-11-05T14:19:34+00:00",
-      "updated_at": "2026-11-05T14:19:34+00:00"
+      "updated_at": "2026-11-05T21:16:59+00:00"
     },
     {
       "app_id": 972660,
@@ -35859,6 +36034,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10500,
+          "final": 8400
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 34800,
+          "final": 27800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7000,
+          "final": 5600
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 224000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2100000,
+          "final": 1680000
         }
       },
       "review_hint": "",
@@ -35873,7 +36073,7 @@
       "search_text": "works: motorsport factory works: motorsport factory a tycoon game about building a racing factory from your garage. scavenge, buy or design your own parts, fix cars, and climb every tier of motorsport. balancing tight finances and decaying parts forces hard calls: repairs, upgrades, or paying the debts to keep the team alive. casual racing sports strategy early access single-player custom volume controls #category_playable_at_your_own_pace playable without timed input save anytime family sharing english portuguese-brazil french italian german spanish-spain japanese schinese",
       "first_seen": "2026-11-05T14:19:34+00:00",
       "last_seen": "2026-11-05T14:19:34+00:00",
-      "updated_at": "2026-11-05T14:19:34+00:00"
+      "updated_at": "2026-11-05T21:16:59+00:00"
     },
     {
       "app_id": 1548180,
