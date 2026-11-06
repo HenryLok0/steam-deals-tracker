@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T05:45:24+00:00",
+  "updated_at": "2026-11-06T10:13:01+00:00",
   "total_count": 4952,
   "active_count": 350,
   "games": [
@@ -1547,6 +1547,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 974
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7600,
+          "final": 5700
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27500,
+          "final": 20600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5200,
+          "final": 3900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 127500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1400000,
+          "final": 1050000
         }
       },
       "review_hint": "Mixed<br>58% of the 73 user reviews for this game are positive.",
@@ -1561,7 +1586,7 @@
       "search_text": "airframe ultra airframe ultra airframe ultra is an online, multiplayer combat racing game. there's only two types of racers in megacity west: the winners and the dead. down here, you’ve got a chop shop airframe, a rusted machete, and blood on the motorway. welcome to the violent underground world of ultra circuit racing! action indie racing multi-player pvp online pvp shared/split screen pvp co-op online co-op shared/split screen co-op shared/split screen steam achievements full controller support custom volume controls gamepad recommended keyboard only option playable without timed input family sharing english french italian german spanish-spain portuguese-brazil mixed<br>58% of the 73 user reviews for this game are positive.",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 4318080,
@@ -4246,6 +4271,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 3125
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 8200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 1900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 57500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 537000
         }
       },
       "review_hint": "Mostly Positive<br>78% of the 4,350 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -4260,7 +4310,7 @@
       "search_text": "axis & allies 1942 online axis & allies 1942 online play the classic board game, axis &amp; allies 1942 2nd edition! act as wwii powers in a turn-based strategy game that fits your screen and schedule— get notified on your turn and command armies at your own pace! team up with friends, challenge the world’s top players, or go solo vs. a.i. strategy single-player multi-player pvp online pvp shared/split screen pvp co-op online co-op shared/split screen co-op shared/split screen cross-platform multiplayer partial controller support family sharing english french italian german spanish-spain polish portuguese-brazil russian mostly positive<br>78% of the 4,350 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 2146170,
@@ -7484,6 +7534,31 @@
           "currency": "USD",
           "original": 1799,
           "final": 1439
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 7600
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 31800,
+          "final": 25400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6900,
+          "final": 5520
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 255000,
+          "final": 204000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2000000,
+          "final": 1600000
         }
       },
       "review_hint": "",
@@ -7498,7 +7573,7 @@
       "search_text": "cash is king! business simulator cash is king! business simulator start with nothing and build your own business empire in sunny miami beach! sell lemonade, run vending machines, automate your companies and turn small side jobs into big profits in this relaxed first-person simulator. casual indie simulation single-player steam achievements full controller support custom volume controls #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime stereo sound steam cloud stats steam leaderboards family sharing english french german spanish-spain portuguese-brazil schinese japanese polish russian turkish",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 2904040,
@@ -7990,6 +8065,31 @@
           "currency": "USD",
           "original": 1249,
           "final": 999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 5280
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 24000,
+          "final": 19200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 3360
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 180000,
+          "final": 144000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1400000,
+          "final": 1120000
         }
       },
       "review_hint": "Positive<br>96% of the 25 user reviews for this game are positive.",
@@ -8004,7 +8104,7 @@
       "search_text": "clean start clean start clean and organize other people’s homes while uncovering emotional stories through the objects you find. discover each room’s unique history, dig up secrets, and feel the satisfaction of tidying up the space in this wholesome, casual puzzle game about new beginnings in a foreign country. casual indie simulation single-player steam achievements full controller support mouse only option playable without timed input steam cloud family sharing english french german schinese polish japanese korean tchinese spanish-latin positive<br>96% of the 25 user reviews for this game are positive.",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 2362060,
@@ -8380,6 +8480,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14800,
+          "final": 11840
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 44900,
+          "final": 35900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8800,
+          "final": 7040
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 290000,
+          "final": 232000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 2160000
         }
       },
       "review_hint": "Mixed<br>51% of the 275 user reviews for this game are positive.",
@@ -8394,7 +8519,7 @@
       "search_text": "company of heroes 3: dare & destroy company of heroes 3: dare & destroy this content requires the base game company of heroes 3 on steam in order to play. action strategy single-player multi-player pvp online pvp co-op online co-op downloadable content steam achievements steam trading cards steam workshop stats family sharing english french italian german spanish-spain czech korean polish schinese tchinese japanese portuguese-brazil turkish russian ukrainian mixed<br>51% of the 275 user reviews for this game are positive.",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 4095900,
@@ -9094,6 +9219,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 2249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 11250
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 49900,
+          "final": 44900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8700,
+          "final": 7830
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 249900,
+          "final": 224900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2490000,
+          "final": 2241000
         }
       },
       "review_hint": "Positive<br>84% of the 19 user reviews for this game are positive.",
@@ -9108,7 +9258,7 @@
       "search_text": "county of fortune county of fortune build an entire medieval county, not just a city. found villages across a wide, varied landscape, weave trade along rivers and roads, and guide mayors, noble houses, and cultures as your region comes to life. a city-builder on a much bigger scale, no two counties are alike. casual indie simulation strategy early access single-player steam achievements steam cloud family sharing english german czech french polish schinese tchinese spanish-spain portuguese-brazil portuguese---portugal spanish-latin japanese korean turkish ukrainian italian russian positive<br>84% of the 19 user reviews for this game are positive.",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 774801,
@@ -9250,6 +9400,31 @@
           "currency": "USD",
           "original": 499,
           "final": 249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3800,
+          "final": 1900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14900,
+          "final": 7400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 1400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 70000,
+          "final": 35000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 550000,
+          "final": 275000
         }
       },
       "review_hint": "",
@@ -9264,7 +9439,7 @@
       "search_text": "crusader: no regret™ crusader: no regret™ you’re a renegade silencer out to settle a score with the powerful world economic consortium. only your instincts, agility and firepower can get you in one piece to the ultimate confrontation with your greatest enemy. action adventure single-player steam cloud family sharing english german",
       "first_seen": "2026-11-06T05:45:24+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 3066890,
@@ -9310,6 +9485,31 @@
           "currency": "USD",
           "original": 499,
           "final": 249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3800,
+          "final": 1900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14900,
+          "final": 7400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 1400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 70000,
+          "final": 35000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 550000,
+          "final": 275000
         }
       },
       "review_hint": "",
@@ -9324,7 +9524,7 @@
       "search_text": "crusader: no remorse™ crusader: no remorse™ if you don't have a bad attitude... you don't have a chance. no pity... no mercy... no remorse. action adventure single-player steam cloud family sharing english",
       "first_seen": "2026-11-06T05:45:24+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 981750,
@@ -11217,6 +11417,31 @@
           "currency": "USD",
           "original": 2299,
           "final": 574
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14800,
+          "final": 3700
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 48800,
+          "final": 12200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6800,
+          "final": 1700
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 299000,
+          "final": 74700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2850000,
+          "final": 712000
         }
       },
       "review_hint": "Very Positive<br>94% of the 1,576 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -11231,7 +11456,7 @@
       "search_text": "dungeons of hinterberg dungeons of hinterberg discover the magic and lore of the alps in this acclaimed action adventure. forge relationships with locals to help you solve puzzles, battle monsters and uncover secrets of the legendary dungeons of hinterberg! action adventure indie rpg single-player steam achievements full controller support camera comfort custom volume controls adjustable difficulty keyboard only option dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime steam cloud family sharing english french german spanish-spain japanese korean polish portuguese-brazil schinese tchinese very positive<br>94% of the 1,576 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 239140,
@@ -12281,6 +12506,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1699
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10500,
+          "final": 8925
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 34800,
+          "final": 29500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7000,
+          "final": 5950
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 220000,
+          "final": 187000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2100000,
+          "final": 1785000
         }
       },
       "review_hint": "Positive<br>90% of the 11 user reviews for this game are positive.",
@@ -12295,7 +12545,7 @@
       "search_text": "escape academy 2: back 2 school escape academy 2: back 2 school class is (back) in session with escape academy 2: back 2 school! play in solo or co-op and explore an all-new campus, escape life-threatening puzzle rooms, and unravel a conspiracy as old as the school itself — all before the bell rings. adventure casual simulation single-player multi-player co-op online co-op shared/split screen co-op shared/split screen steam achievements full controller support camera comfort color alternatives custom volume controls adjustable difficulty #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support stereo sound subtitle options surround sound steam cloud family sharing english french italian german japanese schinese spanish-latin positive<br>90% of the 11 user reviews for this game are positive.",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 1435790,
@@ -14274,6 +14524,31 @@
           "currency": "USD",
           "original": 499,
           "final": 449
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 2700,
+          "final": 2430
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 10800,
+          "final": 9700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1900,
+          "final": 1710
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 70500,
+          "final": 63400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 560000,
+          "final": 504000
         }
       },
       "review_hint": "Positive<br>87% of the 32 user reviews for this game are positive.",
@@ -14288,7 +14563,7 @@
       "search_text": "gildoria - organize a dragon's hoard gildoria - organize a dragon's hoard the dragon's hoard has gotten out of hand. sit back, sweep up mountains of gold coin by coin, fill chest after chest, and give every buried treasure its rightful place on the shelves. watch chaos turn into order, piece by piece. a cozy organizing game. there are cats. adventure casual indie simulation single-player steam achievements full controller support #category_playable_at_your_own_pace playable without timed input save anytime stereo sound steam cloud family sharing english french italian german spanish-spain arabic schinese tchinese japanese korean russian turkish portuguese-brazil spanish-latin positive<br>87% of the 32 user reviews for this game are positive.",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 780290,
@@ -16541,6 +16816,31 @@
           "currency": "USD",
           "original": 1289,
           "final": 644
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8300,
+          "final": 4150
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 23800,
+          "final": 11900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5200,
+          "final": 2600
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 150000,
+          "final": 75000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1450000,
+          "final": 725000
         }
       },
       "review_hint": "Mostly Positive<br>79% of the 614 user reviews for this game are positive.",
@@ -16555,7 +16855,7 @@
       "search_text": "insider trading insider trading insider trading is a roguelike deckbuilder where you bend the market to your will. synergize perks, manipulate stock prices, and trade wisely or risk pricing yourself out. casual indie strategy single-player steam achievements full controller support adjustable text size camera comfort color alternatives custom volume controls adjustable difficulty mouse only option playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime subtitle options steam cloud family sharing english japanese korean schinese french italian german spanish-spain polish portuguese-brazil russian mostly positive<br>79% of the 614 user reviews for this game are positive.",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 2950790,
@@ -18621,6 +18921,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1349
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7900,
+          "final": 7110
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27800,
+          "final": 25000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5400,
+          "final": 4860
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 210000,
+          "final": 189000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1700000,
+          "final": 1530000
         }
       },
       "review_hint": "",
@@ -18635,7 +18960,7 @@
       "search_text": "meadgard meadgard a chaotic 1-4 player co-op adventure where you and your friends create the ultimate viking tavern. hunt mystical beasts by day, cook and serve rowdy patrons by night, and survive the wrath of norse gods when the mead stops flowing. action adventure casual indie simulation early access single-player multi-player co-op online co-op full controller support gamepad recommended family sharing english french german japanese portuguese-brazil schinese spanish-latin swedish",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 5027520,
@@ -21311,6 +21636,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10500,
+          "final": 9450
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 34800,
+          "final": 31300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7000,
+          "final": 6300
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 252000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2250000,
+          "final": 2025000
         }
       },
       "review_hint": "Positive<br>100% of the 10 user reviews for this game are positive.",
@@ -21325,7 +21675,7 @@
       "search_text": "pathos pathos pathos is a turn-based fantasy adventure inspired by retro dungeon crawlers. experience deep, emergent gameplay with modern graphics, sound and a touch-first interface. extensively customise your character and embark on epic procedurally generated campaigns. adventure rpg single-player multi-player co-op shared/split screen co-op shared/split screen steam achievements steam workshop camera comfort custom volume controls adjustable difficulty keyboard only option mouse only option narrated game menus #category_playable_at_your_own_pace playable without timed input save anytime touch only option partial controller support steam cloud includes level editor remote play together family sharing english french italian german spanish-spain hungarian japanese korean polish portuguese-brazil russian schinese tchinese turkish ukrainian vietnamese positive<br>100% of the 10 user reviews for this game are positive.",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 1272080,
@@ -21515,6 +21865,31 @@
           "currency": "USD",
           "original": 399,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 2800,
+          "final": 2100
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 8200,
+          "final": 6100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1800,
+          "final": 1350
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 49000,
+          "final": 36700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 450000,
+          "final": 337000
         }
       },
       "review_hint": "Very Positive<br>87% of the 95 user reviews for this game are positive.",
@@ -21529,7 +21904,7 @@
       "search_text": "payday 3: boys in blue weapon pack payday 3: boys in blue weapon pack the boys in blue weapon pack contains three powerful new weapons brimming with mods to even out the heister's arsenal. action adventure rpg single-player multi-player co-op online co-op cross-platform multiplayer downloadable content steam achievements steam trading cards in-app purchases dualshock controller support dualshock controller support dualsense controller support dualsense controller support partial controller support steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese spanish-latin tchinese turkish very positive<br>87% of the 95 user reviews for this game are positive.",
       "first_seen": "2026-11-06T05:45:24+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 3171990,
@@ -21602,6 +21977,31 @@
           "currency": "USD",
           "original": 399,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 2800,
+          "final": 2100
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 8200,
+          "final": 6100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1800,
+          "final": 1350
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 49000,
+          "final": 36700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 450000,
+          "final": 337000
         }
       },
       "review_hint": "Very Positive<br>89% of the 79 user reviews for this game are positive.",
@@ -21616,7 +22016,7 @@
       "search_text": "payday 3: fear & greed weapon pack payday 3: fear & greed weapon pack the fear &amp; greed weapon pack expands the heister's arsenal with three high-caliber firearms, each able to blow a silver dollar-sized hole in any target. action adventure rpg single-player multi-player co-op online co-op cross-platform multiplayer downloadable content steam achievements steam trading cards in-app purchases dualshock controller support dualshock controller support dualsense controller support dualsense controller support partial controller support steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese spanish-latin tchinese turkish very positive<br>89% of the 79 user reviews for this game are positive.",
       "first_seen": "2026-11-06T05:45:24+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 2450697,
@@ -21689,6 +22089,31 @@
           "currency": "USD",
           "original": 399,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 2800,
+          "final": 2100
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 8200,
+          "final": 6100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1800,
+          "final": 1350
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 49000,
+          "final": 36700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 450000,
+          "final": 337000
         }
       },
       "review_hint": "Mostly Positive<br>70% of the 62 user reviews for this game are positive.",
@@ -21703,7 +22128,7 @@
       "search_text": "payday 3: houston breakout weapon pack payday 3: houston breakout weapon pack the houston breakout weapon contains three burstfire weapons complete with mods that will perfectly perforate any foes. action adventure rpg single-player multi-player co-op online co-op cross-platform multiplayer downloadable content steam achievements steam trading cards in-app purchases dualshock controller support dualshock controller support dualsense controller support dualsense controller support partial controller support steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese spanish-latin tchinese turkish mostly positive<br>70% of the 62 user reviews for this game are positive.",
       "first_seen": "2026-11-06T05:45:24+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 3450550,
@@ -21776,6 +22201,31 @@
           "currency": "USD",
           "original": 499,
           "final": 349
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3200,
+          "final": 2240
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 10200,
+          "final": 7100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2100,
+          "final": 1470
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 59000,
+          "final": 41300
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 560000,
+          "final": 392000
         }
       },
       "review_hint": "Very Positive<br>86% of the 623 user reviews for this game are positive.",
@@ -21790,7 +22240,7 @@
       "search_text": "payday 3: jacket character pack payday 3: jacket character pack take a swing at crime with the jacket character pack. a payday gang veteran, jacket brings with him his weapons of choice, his chicken mask, a recorder and an unrivaled enthusiasm for violence. action adventure rpg single-player multi-player co-op online co-op cross-platform multiplayer downloadable content steam achievements steam trading cards in-app purchases dualshock controller support dualshock controller support dualsense controller support dualsense controller support partial controller support steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese spanish-latin tchinese turkish very positive<br>86% of the 623 user reviews for this game are positive.",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 4640190,
@@ -21869,6 +22319,31 @@
           "currency": "USD",
           "original": 399,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 2800,
+          "final": 2100
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 8200,
+          "final": 6100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1800,
+          "final": 1350
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 49000,
+          "final": 36700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 450000,
+          "final": 337000
         }
       },
       "review_hint": "Very Positive<br>87% of the 131 user reviews for this game are positive.",
@@ -21883,7 +22358,7 @@
       "search_text": "payday 3: swedish weapon pack payday 3: swedish weapon pack four swedish forces of destruction are at your fingertips. includes a secondary, primary, overkill weapon, and a throwable. action adventure rpg single-player multi-player co-op online co-op cross-platform multiplayer downloadable content steam achievements steam trading cards in-app purchases camera comfort custom volume controls adjustable difficulty dualshock controller support dualshock controller support dualsense controller support dualsense controller support stereo sound subtitle options surround sound partial controller support steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese spanish-latin tchinese turkish very positive<br>87% of the 131 user reviews for this game are positive.",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 2450691,
@@ -21954,6 +22429,31 @@
           "currency": "USD",
           "original": 399,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 2800,
+          "final": 2100
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 8200,
+          "final": 6100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1800,
+          "final": 1350
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 49000,
+          "final": 36700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 450000,
+          "final": 337000
         }
       },
       "review_hint": "Mixed<br>53% of the 169 user reviews for this game are positive.",
@@ -21968,7 +22468,7 @@
       "search_text": "payday 3: syntax error weapon pack payday 3: syntax error weapon pack this pack contains a brand new smg, shotgun and marksman rifle for heisters looking to expand their repertoir of weapons. action rpg single-player multi-player co-op online co-op cross-platform multiplayer downloadable content steam achievements in-app purchases dualshock controller support dualshock controller support dualsense controller support dualsense controller support partial controller support steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese spanish-latin tchinese turkish mixed<br>53% of the 169 user reviews for this game are positive.",
       "first_seen": "2026-11-06T05:45:24+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 3527290,
@@ -22712,6 +23212,31 @@
           "currency": "USD",
           "original": 799,
           "final": 719
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4400,
+          "final": 3960
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 12800,
+          "final": 11500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2600,
+          "final": 2340
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 82000,
+          "final": 73800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 680000,
+          "final": 612000
         }
       },
       "review_hint": "Positive<br>100% of the 10 user reviews for this game are positive.",
@@ -22726,7 +23251,7 @@
       "search_text": "plague inc: the board game plague inc: the board game yes, this really is a video game of a board game of a video game! spread across the world, evolve deadly symptoms and battle rival pathogens to wipe out humanity. an infectious single-player and multiplayer challenge based on the smash hit with over 200 million players. strategy single-player multi-player pvp online pvp shared/split screen pvp co-op online co-op shared/split screen co-op shared/split screen cross-platform multiplayer steam achievements steam trading cards adjustable text size camera comfort color alternatives custom volume controls adjustable difficulty keyboard only option mouse only option #category_playable_at_your_own_pace playable without timed input save anytime family sharing english french italian german spanish-spain japanese korean russian schinese tchinese positive<br>100% of the 10 user reviews for this game are positive.",
       "first_seen": "2026-11-06T05:45:24+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 5037510,
@@ -22983,6 +23508,31 @@
           "currency": "USD",
           "original": 999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7800,
+          "final": 3900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29900,
+          "final": 14900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 2900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 70000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 550000
         }
       },
       "review_hint": "",
@@ -22997,7 +23547,7 @@
       "search_text": "privateer 2: the darkening: 30th anniversary edition privateer 2: the darkening: 30th anniversary edition privateer 2: the darkening is a definitive example of pc gaming expression during the mid-1990s. now celebrated in this special 30th anniversary edition, the game has been restored in collaboration with the dedicated community. rpg simulation single-player dualshock controller support dualsense controller support partial controller support steam cloud family sharing english french german spanish-spain",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 4348910,
@@ -24685,6 +25235,31 @@
           "currency": "USD",
           "original": 999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7800,
+          "final": 3900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29900,
+          "final": 14900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 2900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 70000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 550000
         }
       },
       "review_hint": "Very Positive<br>98% of the 53 user reviews for this game are positive.",
@@ -24699,7 +25274,7 @@
       "search_text": "road rash™: 30th anniversary edition road rash™: 30th anniversary edition road rash, the franchise which defined the combat racing genre, returns in the first ever digital version of the game. this 30th anniversary edition includes a fully relicensed soundtrack, higher resolution cinematics, up to 60 fps gameplay, and more. action racing single-player multi-player pvp lan pvp dualshock controller support dualsense controller support partial controller support steam cloud family sharing english french italian german spanish-spain very positive<br>98% of the 53 user reviews for this game are positive.",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 606160,
@@ -27527,6 +28102,31 @@
           "currency": "USD",
           "original": 599,
           "final": 419
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3300,
+          "final": 2310
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 12800,
+          "final": 8900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1540
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 84500,
+          "final": 59100
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 670000,
+          "final": 469000
         }
       },
       "review_hint": "",
@@ -27541,7 +28141,7 @@
       "search_text": "swarmslam swarmslam watch a swarm of tiny slammers hurl themselves at a planet and mine it till it breaks, then feed that ore to the void to make your swarm bigger and faster. slam, crack, repeat casual indie simulation strategy single-player steam achievements custom volume controls keyboard only option #category_playable_at_your_own_pace playable without timed input save anytime steam cloud family sharing english spanish-spain japanese portuguese-brazil russian schinese german polish french tchinese turkish",
       "first_seen": "2026-11-06T05:45:24+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 2453160,
@@ -29945,6 +30545,31 @@
           "currency": "USD",
           "original": 499,
           "final": 249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3800,
+          "final": 1900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14900,
+          "final": 7400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 1400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 70000,
+          "final": 35000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 550000,
+          "final": 275000
         }
       },
       "review_hint": "",
@@ -29959,7 +30584,7 @@
       "search_text": "theme hospital™ theme hospital™ design, maintain and manage a hi-tech hospital facility, making the most of limited resources and turning cures into cash. can you balance the books and the bedpans? casual simulation single-player multi-player pvp lan pvp steam cloud family sharing english french italian german spanish-spain swedish",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 3002130,
@@ -31762,6 +32387,31 @@
           "currency": "USD",
           "original": 499,
           "final": 249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3800,
+          "final": 1900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14900,
+          "final": 7400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 1400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 70000,
+          "final": 35000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 550000,
+          "final": 275000
         }
       },
       "review_hint": "",
@@ -31776,7 +32426,7 @@
       "search_text": "ultima™  iv: quest of the avatar ultima™  iv: quest of the avatar survive this multi-quest fantasy, then begin the final conflict, your quest of the avatar. the ultimate challenge - the self - awaits… adventure rpg single-player steam cloud family sharing english",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 3067480,
@@ -31822,6 +32472,31 @@
           "currency": "USD",
           "original": 499,
           "final": 249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3800,
+          "final": 1900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14900,
+          "final": 7400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 1400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 70000,
+          "final": 35000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 550000,
+          "final": 275000
         }
       },
       "review_hint": "",
@@ -31836,7 +32511,7 @@
       "search_text": "ultima™ i: the first age of darkness ultima™ i: the first age of darkness the original ultima i was a pioneering product that established new standards in fantasy role-playing games. journey back to the first era of the dark ages and embark on the original quests of the ultima chronicles. adventure rpg single-player steam cloud family sharing english",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 3067490,
@@ -31882,6 +32557,31 @@
           "currency": "USD",
           "original": 499,
           "final": 249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3800,
+          "final": 1900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14900,
+          "final": 7400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 1400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 70000,
+          "final": 35000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 550000,
+          "final": 275000
         }
       },
       "review_hint": "",
@@ -31896,7 +32596,7 @@
       "search_text": "ultima™ ii: the revenge of the enchantress ultima™ ii: the revenge of the enchantress a map of the realm, and the responsibility that goes with it is now yours. welcome to the realm of adventure. welcome to the realm of lord british. adventure rpg single-player steam cloud family sharing english",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 3067500,
@@ -31942,6 +32642,31 @@
           "currency": "USD",
           "original": 499,
           "final": 249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3800,
+          "final": 1900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14900,
+          "final": 7400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 1400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 70000,
+          "final": 35000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 550000,
+          "final": 275000
         }
       },
       "review_hint": "",
@@ -31956,7 +32681,7 @@
       "search_text": "ultima™ iii: exodus ultima™ iii: exodus without further feats of skill, daring, and perseverance, all of your past accomplishments may be lost. you stand up, prepare your armour, and walk to the dimension door. stepping in, the hunt resumes. adventure rpg single-player steam cloud family sharing english",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 3067560,
@@ -32004,6 +32729,31 @@
           "currency": "USD",
           "original": 499,
           "final": 249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3800,
+          "final": 1900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14900,
+          "final": 7400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 1400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 70000,
+          "final": 35000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 550000,
+          "final": 275000
         }
       },
       "review_hint": "",
@@ -32018,7 +32768,7 @@
       "search_text": "ultima™ ix: ascension ultima™ ix: ascension featuring the legendary ultima system of virtues where moral fiber is more powerful than physical might. find out if you have what it takes to be the ultimate hero. adventure rpg single-player steam cloud family sharing english french german",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 3067580,
@@ -32064,6 +32814,31 @@
           "currency": "USD",
           "original": 499,
           "final": 249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3800,
+          "final": 1900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14900,
+          "final": 7400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 1400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 70000,
+          "final": 35000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 550000,
+          "final": 275000
         }
       },
       "review_hint": "",
@@ -32078,7 +32853,7 @@
       "search_text": "ultima™ underworld 1 ultima™ underworld 1 you are the avatar, noblest of heroes. you have beheld many wonders and proved yourself master of many dungeons. but nothing in your experience prepared you for this - the terror-filled passages of britannia’s underworld. adventure rpg single-player steam cloud family sharing english",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 3067590,
@@ -32124,6 +32899,31 @@
           "currency": "USD",
           "original": 499,
           "final": 249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3800,
+          "final": 1900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14900,
+          "final": 7400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 1400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 70000,
+          "final": 35000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 550000,
+          "final": 275000
         }
       },
       "review_hint": "",
@@ -32138,7 +32938,7 @@
       "search_text": "ultima™ underworld ii ultima™ underworld ii time is running out, food and water are running low, and an agent of the guardian is killing off the imprisoned heroes one by one. you hold britannia’s fate in your hands once again. adventure rpg single-player steam cloud family sharing english",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 3067520,
@@ -32184,6 +32984,31 @@
           "currency": "USD",
           "original": 499,
           "final": 249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3800,
+          "final": 1900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14900,
+          "final": 7400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 1400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 70000,
+          "final": 35000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 550000,
+          "final": 275000
         }
       },
       "review_hint": "",
@@ -32198,7 +33023,7 @@
       "search_text": "ultima™ v: warriors of destiny ultima™ v: warriors of destiny now, britannia’s destiny depends on your ability to discover the fate of lord british and unseat the merciless blackthorn. adventure rpg single-player steam cloud family sharing english",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 3067530,
@@ -32244,6 +33069,31 @@
           "currency": "USD",
           "original": 499,
           "final": 249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3800,
+          "final": 1900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14900,
+          "final": 7400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 1400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 70000,
+          "final": 35000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 550000,
+          "final": 275000
         }
       },
       "review_hint": "",
@@ -32258,7 +33108,7 @@
       "search_text": "ultima™ vi: the false prophet ultima™ vi: the false prophet uncover the mystery of the gargoyles in this exciting sixth episode of the award-winning ultima saga. adventure rpg single-player steam cloud family sharing english",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 3067540,
@@ -32304,6 +33154,31 @@
           "currency": "USD",
           "original": 499,
           "final": 249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3800,
+          "final": 1900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14900,
+          "final": 7400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 1400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 70000,
+          "final": 35000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 550000,
+          "final": 275000
         }
       },
       "review_hint": "",
@@ -32318,7 +33193,7 @@
       "search_text": "ultima™ vii: the complete edition ultima™ vii: the complete edition the first chapter in the third book of the award-winning ultima saga! includes both ultima vii: the black gate and ultima vii part 2: serpent isle. adventure rpg single-player steam cloud family sharing english",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 3067550,
@@ -32365,6 +33240,31 @@
           "currency": "USD",
           "original": 499,
           "final": 249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3800,
+          "final": 1900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14900,
+          "final": 7400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 1400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 70000,
+          "final": 35000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 550000,
+          "final": 275000
         }
       },
       "review_hint": "",
@@ -32379,7 +33279,7 @@
       "search_text": "ultima™ viii gold edition ultima™ viii gold edition on the world of pagan, the guardian’s control is absolute. you must discover how to defeat the ruling elemental titans on their own terms. the time has come to bring the battle to the guardian. rpg single-player steam cloud family sharing english french german",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 1682970,
@@ -32442,6 +33342,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1124
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8900,
+          "final": 6675
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 20100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6400,
+          "final": 4800
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 127500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1599000,
+          "final": 1199000
         }
       },
       "review_hint": "Very Positive<br>94% of the 2,466 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -32456,7 +33381,7 @@
       "search_text": "uncrashed : fpv drone simulator uncrashed : fpv drone simulator amateur or experienced fpv pilot, learn or improve your skills on uncrashed, the ultra realistic fpv simulator. simulate your own fpv drone with settings based on real values and you will have the same feeling as a real flight without the risk of breaking your drone! action indie racing simulation sports single-player multi-player pvp online pvp steam workshop dualshock controller support dualsense controller support partial controller support steam cloud steam leaderboards includes level editor family sharing english french schinese russian ukrainian very positive<br>94% of the 2,466 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 2411200,
@@ -32519,6 +33444,31 @@
           "currency": "USD",
           "original": 2295,
           "final": 1950
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 13317,
+          "final": 11319
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 43100,
+          "final": 36600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8995,
+          "final": 7645
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 289300,
+          "final": 245900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2434000,
+          "final": 2069000
         }
       },
       "review_hint": "Very Positive<br>96% of the 64 user reviews for this game are positive.",
@@ -32533,7 +33483,7 @@
       "search_text": "underkeep underkeep explore a dangerous fantasy world in this role-playing dungeon crawler with tactical, turn-based combat. assemble a party of adventurers, upgrade your gear, and explore a fully handcrafted world. adventure indie rpg single-player steam achievements custom volume controls adjustable difficulty mouse only option #category_playable_at_your_own_pace playable without timed input save anytime stereo sound touch only option partial controller support steam cloud family sharing english french german spanish-spain czech polish russian very positive<br>96% of the 64 user reviews for this game are positive.",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 1451190,
@@ -33695,6 +34645,31 @@
           "currency": "USD",
           "original": 599,
           "final": 539
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4400,
+          "final": 3960
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 17800,
+          "final": 16000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1900,
+          "final": 1710
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 76000,
+          "final": 68400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 670000,
+          "final": 603000
         }
       },
       "review_hint": "Positive<br>94% of the 37 user reviews for this game are positive.",
@@ -33709,7 +34684,7 @@
       "search_text": "wielders of the essence wielders of the essence single-player horde survival with a touch of incremental base building. cast spells, command troops, and take your town from puddle to paradise. eight-minute runs. eight hours to complete. action indie single-player steam achievements full controller support steam trading cards adjustable text size camera comfort color alternatives custom volume controls adjustable difficulty keyboard only option mouse only option playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support stereo sound subtitle options steam cloud family sharing steam timeline english french german polish russian schinese ukrainian korean positive<br>94% of the 37 user reviews for this game are positive.",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 2008730,
@@ -33758,6 +34733,31 @@
           "currency": "USD",
           "original": 999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7800,
+          "final": 3900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29900,
+          "final": 14900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 2900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 70000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 550000
         }
       },
       "review_hint": "",
@@ -33772,7 +34772,7 @@
       "search_text": "wing commander™ ii: vengeance of the kilrathi: 35th anniversary edition wing commander™ ii: vengeance of the kilrathi: 35th anniversary edition wing commander ii pushed the boundaries for storytelling in games upon its release in 1991. now celebrated in this special 35th anniversary edition, the game has been restored in collaboration with the dedicated wing commander community. action simulation single-player dualshock controller support dualsense controller support partial controller support steam cloud family sharing english",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 2008740,
@@ -33823,6 +34823,31 @@
           "currency": "USD",
           "original": 999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7800,
+          "final": 3900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29900,
+          "final": 14900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 2900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 70000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 550000
         }
       },
       "review_hint": "",
@@ -33837,7 +34862,7 @@
       "search_text": "wing commander™ iii: heart of the tiger: 30th anniversary edition wing commander™ iii: heart of the tiger: 30th anniversary edition wing commander iii: heart of the tiger is one of the most iconic games of the 1990s. now celebrated in this special 30th anniversary edition, the game has been restored in collaboration with the dedicated wing commander community. action simulation single-player dualshock controller support dualsense controller support partial controller support steam cloud family sharing english french german",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 2008750,
@@ -33888,6 +34913,31 @@
           "currency": "USD",
           "original": 999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7800,
+          "final": 3900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29900,
+          "final": 14900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 2900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 70000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 550000
         }
       },
       "review_hint": "",
@@ -33902,7 +34952,7 @@
       "search_text": "wing commander™ iv: the price of freedom: 30th anniversary edition wing commander™ iv: the price of freedom: 30th anniversary edition wing commander iv: the price of freedom is one of the most iconic games of the 1990s. now celebrated in this special 30th anniversary edition, the game has been restored in collaboration with the dedicated wing commander community. action simulation single-player dualshock controller support dualsense controller support partial controller support steam cloud family sharing english french german",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 3067120,
@@ -33955,6 +35005,31 @@
           "currency": "USD",
           "original": 999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7800,
+          "final": 3900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29900,
+          "final": 14900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 2900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 70000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 550000
         }
       },
       "review_hint": "",
@@ -33969,7 +35044,7 @@
       "search_text": "wing commander™ prophecy: 30th anniversary edition wing commander™ prophecy: 30th anniversary edition wing commander: prophecy includes the base game plus the amazing secret ops episodes. now celebrated in this special 30th anniversary edition, the game has been restored in collaboration with the dedicated wing commander community. action simulation single-player dualshock controller support dualsense controller support partial controller support steam cloud family sharing english french italian german spanish-spain",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 1996640,
@@ -34018,6 +35093,31 @@
           "currency": "USD",
           "original": 999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7800,
+          "final": 3900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29900,
+          "final": 14900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 2900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 70000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 550000
         }
       },
       "review_hint": "",
@@ -34032,7 +35132,7 @@
       "search_text": "wing commander™: 35th anniversary edition wing commander™: 35th anniversary edition wing commander defined the space combat genre upon its release in 1990. now celebrated in this special 35th anniversary edition, the game has been restored in collaboration with the dedicated wing commander community. action simulation single-player dualshock controller support dualsense controller support partial controller support steam cloud family sharing english",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 3067090,
@@ -34078,6 +35178,31 @@
           "currency": "USD",
           "original": 499,
           "final": 249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3800,
+          "final": 1900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14900,
+          "final": 7400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 1400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 70000,
+          "final": 35000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 550000,
+          "final": 275000
         }
       },
       "review_hint": "",
@@ -34092,7 +35217,7 @@
       "search_text": "wing commander™: academy wing commander™: academy as a student at the tcsn academy, you custom-design and fly unique missions from the cyberschool’s holographic simulator. wing commander academy is not another cinematic extravaganza - it’s an intense dogfighting marathon. action simulation single-player steam cloud family sharing english",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 3067100,
@@ -34138,6 +35263,31 @@
           "currency": "USD",
           "original": 499,
           "final": 249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3800,
+          "final": 1900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14900,
+          "final": 7400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 1400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 70000,
+          "final": 35000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 550000,
+          "final": 275000
         }
       },
       "review_hint": "",
@@ -34152,7 +35302,7 @@
       "search_text": "wing commander™: armada wing commander™: armada you are the sole commander, responsible for heading up a momentous strike against your enemy's homeland. in wing commander armada, you have the freedom to construct your own universe, your own missions and your own campaign. simulation strategy single-player steam cloud family sharing english",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 2008760,
@@ -34198,6 +35348,31 @@
           "currency": "USD",
           "original": 499,
           "final": 249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3800,
+          "final": 1900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14900,
+          "final": 7400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 1400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 70000,
+          "final": 35000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 550000,
+          "final": 275000
         }
       },
       "review_hint": "",
@@ -34212,7 +35387,7 @@
       "search_text": "wing commander™: privateer wing commander™: privateer in the far reaches of space, you live by no man’s rules but your own. choose the life of a pirate, merchant or mercenary. it takes more than a pilot to win this game - it takes a privateer! rpg simulation single-player steam cloud family sharing english",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 1054490,
@@ -34601,6 +35776,31 @@
           "currency": "USD",
           "original": 799,
           "final": 319
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5200,
+          "final": 2080
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15200,
+          "final": 6000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3300,
+          "final": 1320
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 92000,
+          "final": 36800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 890000,
+          "final": 356000
         }
       },
       "review_hint": "Very Positive<br>89% of the 1,030 user reviews for this game are positive.",
@@ -34615,7 +35815,7 @@
       "search_text": "word play word play spell words, pick perks, score points, and survive until the end. every round is different. how far can you make it? casual single-player steam achievements full controller support adjustable difficulty keyboard only option mouse only option playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime touch only option steam cloud family sharing english very positive<br>89% of the 1,030 user reviews for this game are positive.",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 5119400,
@@ -434647,6 +435847,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 1949
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12900,
+          "final": 8385
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 43800,
+          "final": 28400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9000,
+          "final": 5850
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 309000,
+          "final": 200800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3100000,
+          "final": 2015000
         }
       },
       "review_hint": "Very Positive<br>93% of the 1,663 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -434661,7 +435886,7 @@
       "search_text": "the ranch of rivershine the ranch of rivershine saddle up and build your own horse ranch! raise foals, care for your horses and train them as you explore the countryside. participate in cross country competitions and become your town's champion! befriend the villagers who'll help you on your adventure at the ranch of rivershine! simulation single-player steam achievements dualshock controller support dualshock controller support dualsense controller support dualsense controller support partial controller support steam cloud family sharing english french very positive<br>93% of the 1,663 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-05T23:26:28+00:00",
       "last_seen": "2026-11-06T05:45:24+00:00",
-      "updated_at": "2026-11-06T05:45:24+00:00"
+      "updated_at": "2026-11-06T10:13:01+00:00"
     },
     {
       "app_id": 1501310,
