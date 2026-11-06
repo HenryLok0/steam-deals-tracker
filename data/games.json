@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T13:57:07+00:00",
+  "updated_at": "2026-11-06T20:39:44+00:00",
   "total_count": 4958,
   "active_count": 350,
   "games": [
@@ -7469,6 +7469,31 @@
           "currency": "USD",
           "original": 999,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6100,
+          "final": 5490
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21600,
+          "final": 19400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 3780
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 135000,
+          "final": 121500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 945000
         }
       },
       "review_hint": "Positive<br>100% of the 17 user reviews for this game are positive.",
@@ -7483,7 +7508,7 @@
       "search_text": "chivalware chivalware chivalware is a frantic tile-matching action roguelite. challenge your reflexes and coordination in real-time on a grid battlefield: evade attacks, match tiles to charge your weapons, and find the right opportunity to strike. action adventure indie single-player steam achievements full controller support steam trading cards camera comfort custom volume controls keyboard only option steam cloud family sharing english french german spanish-spain japanese korean portuguese-brazil russian schinese tchinese ukrainian positive<br>100% of the 17 user reviews for this game are positive.",
       "first_seen": "2026-11-06T13:57:07+00:00",
       "last_seen": "2026-11-06T13:57:07+00:00",
-      "updated_at": "2026-11-06T13:57:07+00:00"
+      "updated_at": "2026-11-06T20:39:44+00:00"
     },
     {
       "app_id": 4904200,
@@ -12208,6 +12233,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8700,
+          "final": 6960
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 30800,
+          "final": 24600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5900,
+          "final": 4720
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 190000,
+          "final": 152000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1600000,
+          "final": 1280000
         }
       },
       "review_hint": "Positive<br>100% of the 10 user reviews for this game are positive.",
@@ -12222,7 +12272,7 @@
       "search_text": "elven huntress: sunveil elven huntress: sunveil an atmospheric action rpg about an elven huntress exploring fantasy worlds through magical portals. fight, collect rare equipment, and improve your character. action adventure rpg single-player steam achievements full controller support custom volume controls adjustable difficulty #category_playable_at_your_own_pace playable without timed input save anytime stereo sound surround sound family sharing english french italian german spanish-spain portuguese-brazil russian positive<br>100% of the 10 user reviews for this game are positive.",
       "first_seen": "2026-11-06T13:57:07+00:00",
       "last_seen": "2026-11-06T13:57:07+00:00",
-      "updated_at": "2026-11-06T13:57:07+00:00"
+      "updated_at": "2026-11-06T20:39:44+00:00"
     },
     {
       "app_id": 2382520,
@@ -13993,6 +14043,31 @@
           "currency": "USD",
           "original": 599,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3500,
+          "final": 1750
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 11800,
+          "final": 5900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2600,
+          "final": 1300
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 62000,
+          "final": 31000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 650000,
+          "final": 325000
         }
       },
       "review_hint": "Mixed<br>51% of the 485 user reviews for this game are positive.",
@@ -14007,7 +14082,7 @@
       "search_text": "for the king: lost civilization adventure pack for the king: lost civilization adventure pack explore the mysterious jungle falls and uncover the secrets of an ancient civilization in this thrilling adventure pack. includes the new jungle realm, arena battles, wands and dual wielding, two new playable characters, and tons of unique enemies and loot. adventure indie rpg strategy single-player multi-player pvp online pvp shared/split screen pvp co-op online co-op shared/split screen co-op shared/split screen downloadable content steam achievements full controller support steam trading cards steam cloud remote play on phone remote play on tablet remote play on tv remote play together family sharing english french italian german spanish-spain portuguese-brazil russian schinese tchinese polish japanese korean mixed<br>51% of the 485 user reviews for this game are positive.",
       "first_seen": "2026-11-06T13:57:07+00:00",
       "last_seen": "2026-11-06T13:57:07+00:00",
-      "updated_at": "2026-11-06T13:57:07+00:00"
+      "updated_at": "2026-11-06T20:39:44+00:00"
     },
     {
       "app_id": 4731620,
@@ -22591,6 +22666,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 10920
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 28500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9200,
+          "final": 6440
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 196000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 1890000
         }
       },
       "review_hint": "Very Positive<br>97% of the 266 user reviews for this game are positive.",
@@ -22605,7 +22705,7 @@
       "search_text": "piano glow piano glow piano in online multiplayer lobbies, with leaderboards, gamified training modes (ear, sheet, rhythm, 4k/7k and falling notes). play any song using either a qwerty computer/laptop keyboard or a piano. convert any piano video or sheet music into falling notes tutorial/midi. casual indie simulation animation & modeling audio production video production single-player multi-player pvp online pvp co-op online co-op steam achievements steam trading cards steam workshop steam cloud stats steam leaderboards remote play together family sharing english french italian german spanish-spain arabic indonesian japanese korean polish portuguese-brazil russian schinese spanish-latin turkish ukrainian bangla hindi very positive<br>97% of the 266 user reviews for this game are positive.",
       "first_seen": "2026-11-06T13:57:07+00:00",
       "last_seen": "2026-11-06T13:57:07+00:00",
-      "updated_at": "2026-11-06T13:57:07+00:00"
+      "updated_at": "2026-11-06T20:39:44+00:00"
     },
     {
       "app_id": 3275210,
@@ -22767,6 +22867,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1349
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7900,
+          "final": 7110
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27800,
+          "final": 25000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5400,
+          "final": 4860
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 199000,
+          "final": 179100
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1700000,
+          "final": 1530000
         }
       },
       "review_hint": "Positive<br>81% of the 16 user reviews for this game are positive.",
@@ -22781,7 +22906,7 @@
       "search_text": "pix football manager pix football manager an online football manager. scout talent from 350+ clubs, trust your eye to find the right players, and outbid rival managers in auctions. build squad chemistry, shape your tactics, and face other managers’ clubs in weekly leagues, on your own schedule. casual indie simulation sports strategy early access multi-player pvp online pvp steam achievements family sharing english french german portuguese-brazil spanish-latin turkish positive<br>81% of the 16 user reviews for this game are positive.",
       "first_seen": "2026-11-06T13:57:07+00:00",
       "last_seen": "2026-11-06T13:57:07+00:00",
-      "updated_at": "2026-11-06T13:57:07+00:00"
+      "updated_at": "2026-11-06T20:39:44+00:00"
     },
     {
       "app_id": 4508320,
@@ -35983,6 +36108,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 719
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7800,
+          "final": 4680
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 22600,
+          "final": 13500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4800,
+          "final": 2880
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 84000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1350000,
+          "final": 810000
         }
       },
       "review_hint": "Very Positive<br>82% of the 744 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -35997,7 +36147,7 @@
       "search_text": "zed zone zed zone a great catastrophe has struck. while on a mission, your aircraft crashes and you are trapped in the zed zone. zombies and monsters are everywhere. to escape, gather materials, upgrade your skills, build shelters, and defeat zombie hordes and mysterious mechs as you chase a glimmer of hope. action indie rpg simulation single-player multi-player co-op online co-op lan co-op full controller support steam workshop steam cloud family sharing english schinese french german spanish-spain japanese korean polish portuguese-brazil portuguese---portugal russian spanish-latin very positive<br>82% of the 744 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-06T13:57:07+00:00",
       "last_seen": "2026-11-06T13:57:07+00:00",
-      "updated_at": "2026-11-06T13:57:07+00:00"
+      "updated_at": "2026-11-06T20:39:44+00:00"
     },
     {
       "app_id": 992300,
