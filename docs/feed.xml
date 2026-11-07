@@ -4,20 +4,41 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sat, 07 Nov 2026 09:29:12 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 12:41:15 +0000</lastBuildDate>
+<item>
+<title>Age of Wonders 4: Empires &amp; Ashes</title>
+<link>https://store.steampowered.com/app/2401830/</link>
+<guid isPermaLink="false">2401830</guid>
+<pubDate>Sat, 07 Nov 2026 12:41:15 +0000</pubDate>
+<description>Fuse magic and steel to create mighty weapons of war. Ravage the realms of the Godir with the brutal Reaver culture, and besiege cities with war machines. Unlock the secrets of the Seals of Power to conquer the Astral Sea!</description>
+</item>
+<item>
+<title>KESSLER: Orbital Incremental</title>
+<link>https://store.steampowered.com/app/5131440/</link>
+<guid isPermaLink="false">5131440</guid>
+<pubDate>Sat, 07 Nov 2026 12:41:15 +0000</pubDate>
+<description>1983: a killer satellite is put into orbit, then forgotten. 2041: it wakes up, and everything circling the Earth becomes a target. One shot, a cloud of debris, a chain reaction. A short incremental pixel-art game where you set off the Kessler syndrome.</description>
+</item>
+<item>
+<title>PITH</title>
+<link>https://store.steampowered.com/app/4775660/</link>
+<guid isPermaLink="false">4775660</guid>
+<pubDate>Sat, 07 Nov 2026 12:41:15 +0000</pubDate>
+<description>Traverse a wonderful and strange world, find playful tools, and uncover secrets in PITH, a metroidbrainia/puzzle-platforming adventure full of twists and surprises.</description>
+</item>
+<item>
+<title>Punch The Walls</title>
+<link>https://store.steampowered.com/app/5455340/</link>
+<guid isPermaLink="false">5455340</guid>
+<pubDate>Sat, 07 Nov 2026 12:41:15 +0000</pubDate>
+<description>Locked in a cell with nothing but your fists. Punch the walls into cubes, vacuum up the rubble and shred it for cash. Upgrade, dig through harder rock, and find the notes the prisoners before you left behind: they hold the code to the door.</description>
+</item>
 <item>
 <title>Cheater's Table</title>
 <link>https://store.steampowered.com/app/3951810/</link>
 <guid isPermaLink="false">3951810</guid>
 <pubDate>Sat, 07 Nov 2026 05:15:46 +0000</pubDate>
 <description>At this table, cheating is the game. Hide your power cards up your sleeve or down your pant leg, then strike when the time is right. But stay sharp - a scratch isn't always a cheat. This table is full of traps...</description>
-</item>
-<item>
-<title>Echo Mates</title>
-<link>https://store.steampowered.com/app/5113760/</link>
-<guid isPermaLink="false">5113760</guid>
-<pubDate>Sat, 07 Nov 2026 05:15:46 +0000</pubDate>
-<description>To see, you must speak. To speak is to be found. A co-op horror in near-total darkness where every sound sends out a wave that lights the level — and calls whatever lives in it. 1–4 players, real voice, microphone required.</description>
 </item>
 <item>
 <title>Gear Up Einstein!</title>
@@ -32,13 +53,6 @@
 <guid isPermaLink="false">4337040</guid>
 <pubDate>Sat, 07 Nov 2026 05:15:46 +0000</pubDate>
 <description>A base of the worst nightmares. Try to escape before your soul is destroyed...</description>
-</item>
-<item>
-<title>Pogo Together</title>
-<link>https://store.steampowered.com/app/4088720/</link>
-<guid isPermaLink="false">4088720</guid>
-<pubDate>Sat, 07 Nov 2026 05:15:46 +0000</pubDate>
-<description>Bounce, fall, rage, and climb together. Pogo Together is a 1-4 player physics-based precision platformer where ridiculously jacked animals attempt to conquer brutal obstacles on pogo sticks. Help each other, kick each other off, or take on the climb alone.</description>
 </item>
 <item>
 <title>Tenebrarium</title>
