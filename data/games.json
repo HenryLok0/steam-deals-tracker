@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T12:41:15+00:00",
+  "updated_at": "2026-11-07T19:11:27+00:00",
   "total_count": 4980,
   "active_count": 350,
   "games": [
@@ -1029,6 +1029,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 13800,
+          "final": 8970
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 56800,
+          "final": 36900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8800,
+          "final": 5720
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 269000,
+          "final": 174800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2200000,
+          "final": 1430000
         }
       },
       "review_hint": "Very Positive<br>81% of the 191 user reviews for this game are positive.",
@@ -1043,7 +1068,7 @@
       "search_text": "age of wonders 4: empires & ashes age of wonders 4: empires & ashes fuse magic and steel to create mighty weapons of war. ravage the realms of the godir with the brutal reaver culture, and besiege cities with war machines. unlock the secrets of the seals of power to conquer the astral sea! strategy single-player multi-player pvp online pvp co-op cross-platform multiplayer downloadable content steam achievements steam workshop partial controller support steam cloud remote play together family sharing english french german spanish-spain japanese korean polish russian schinese very positive<br>81% of the 191 user reviews for this game are positive.",
       "first_seen": "2026-11-07T12:41:15+00:00",
       "last_seen": "2026-11-07T12:41:15+00:00",
-      "updated_at": "2026-11-07T12:41:15+00:00"
+      "updated_at": "2026-11-07T19:11:27+00:00"
     },
     {
       "app_id": 3181500,
@@ -17989,6 +18014,31 @@
           "currency": "USD",
           "original": 599,
           "final": 449
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3300,
+          "final": 2475
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 12800,
+          "final": 9600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1650
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 84500,
+          "final": 63300
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 670000,
+          "final": 502000
         }
       },
       "review_hint": "Positive<br>88% of the 26 user reviews for this game are positive.",
@@ -18003,7 +18053,7 @@
       "search_text": "kessler: orbital incremental kessler: orbital incremental 1983: a killer satellite is put into orbit, then forgotten. 2041: it wakes up, and everything circling the earth becomes a target. one shot, a cloud of debris, a chain reaction. a short incremental pixel-art game where you set off the kessler syndrome. casual indie simulation strategy single-player steam achievements custom volume controls #category_playable_at_your_own_pace playable without timed input save anytime steam cloud family sharing english french italian german spanish-spain bulgarian schinese tchinese korean danish spanish-latin finnish greek hungarian indonesian japanese malay norwegian dutch polish portuguese-brazil portuguese---portugal romanian russian swedish czech thai turkish ukrainian vietnamese positive<br>88% of the 26 user reviews for this game are positive.",
       "first_seen": "2026-11-07T12:41:15+00:00",
       "last_seen": "2026-11-07T12:41:15+00:00",
-      "updated_at": "2026-11-07T12:41:15+00:00"
+      "updated_at": "2026-11-07T19:11:27+00:00"
     },
     {
       "app_id": 232090,
@@ -23873,6 +23923,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 1079
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7200,
+          "final": 6480
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26000,
+          "final": 23400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4800,
+          "final": 4320
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 160000,
+          "final": 144000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1300000,
+          "final": 1170000
         }
       },
       "review_hint": "Positive<br>92% of the 13 user reviews for this game are positive.",
@@ -23887,7 +23962,7 @@
       "search_text": "pith pith traverse a wonderful and strange world, find playful tools, and uncover secrets in pith, a metroidbrainia/puzzle-platforming adventure full of twists and surprises. indie single-player steam achievements full controller support custom volume controls playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime stereo sound steam cloud remote play on tv family sharing english positive<br>92% of the 13 user reviews for this game are positive.",
       "first_seen": "2026-11-07T12:41:15+00:00",
       "last_seen": "2026-11-07T12:41:15+00:00",
-      "updated_at": "2026-11-07T12:41:15+00:00"
+      "updated_at": "2026-11-07T19:11:27+00:00"
     },
     {
       "app_id": 246620,
@@ -24668,6 +24743,31 @@
           "currency": "USD",
           "original": 299,
           "final": 239
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 1700,
+          "final": 1360
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 6900,
+          "final": 5500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1300,
+          "final": 1040
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 42000,
+          "final": 33600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 335000,
+          "final": 268000
         }
       },
       "review_hint": "Mostly Positive<br>76% of the 30 user reviews for this game are positive.",
@@ -24682,7 +24782,7 @@
       "search_text": "punch the walls punch the walls locked in a cell with nothing but your fists. punch the walls into cubes, vacuum up the rubble and shred it for cash. upgrade, dig through harder rock, and find the notes the prisoners before you left behind: they hold the code to the door. casual indie simulation single-player steam achievements camera comfort custom volume controls #category_playable_at_your_own_pace playable without timed input save anytime stereo sound steam cloud family sharing english french german spanish-spain japanese korean polish portuguese-brazil russian schinese tchinese turkish mostly positive<br>76% of the 30 user reviews for this game are positive.",
       "first_seen": "2026-11-07T12:41:15+00:00",
       "last_seen": "2026-11-07T12:41:15+00:00",
-      "updated_at": "2026-11-07T12:41:15+00:00"
+      "updated_at": "2026-11-07T19:11:27+00:00"
     },
     {
       "app_id": 3241660,
