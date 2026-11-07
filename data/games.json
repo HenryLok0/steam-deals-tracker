@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T05:15:46+00:00",
+  "updated_at": "2026-11-07T09:29:12+00:00",
   "total_count": 4976,
   "active_count": 350,
   "games": [
@@ -3422,6 +3422,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14900,
+          "final": 2980
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 39900,
+          "final": 7900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8900,
+          "final": 1780
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 56000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 540000
         }
       },
       "review_hint": "Very Positive<br>83% of the 5,491 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -3436,7 +3461,7 @@
       "search_text": "armello armello armello is a grim fairy-tale board game come to life, with every match combining deep, tactical card play, rich tabletop strategy and rpg elements. leverage subterfuge, spells and careful strategy to wrangle control of the game's chaotic odds as you quest for the throne. adventure indie rpg strategy single-player multi-player pvp online pvp cross-platform multiplayer steam achievements full controller support steam trading cards in-app purchases steam cloud valve anti-cheat enabled remote play on tv family sharing english italian spanish-spain dutch japanese korean polish portuguese-brazil russian french german schinese tchinese very positive<br>83% of the 5,491 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-06T22:52:26+00:00",
       "last_seen": "2026-11-07T05:15:46+00:00",
-      "updated_at": "2026-11-07T05:15:46+00:00"
+      "updated_at": "2026-11-07T09:29:12+00:00"
     },
     {
       "app_id": 33230,
@@ -7710,6 +7735,31 @@
           "currency": "USD",
           "original": 699,
           "final": 594
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4800,
+          "final": 4080
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 13900,
+          "final": 11800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2999,
+          "final": 2549
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 79900,
+          "final": 67900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 790000,
+          "final": 671000
         }
       },
       "review_hint": "Very Positive<br>94% of the 89 user reviews for this game are positive.",
@@ -7724,7 +7774,7 @@
       "search_text": "cheater's table cheater's table at this table, cheating is the game. hide your power cards up your sleeve or down your pant leg, then strike when the time is right. but stay sharp - a scratch isn't always a cheat. this table is full of traps... casual indie simulation strategy multi-player pvp online pvp co-op online co-op color alternatives playable without timed input family sharing english turkish spanish-spain russian portuguese---portugal schinese arabic french german japanese korean portuguese-brazil thai hindi tchinese very positive<br>94% of the 89 user reviews for this game are positive.",
       "first_seen": "2026-11-07T05:15:46+00:00",
       "last_seen": "2026-11-07T05:15:46+00:00",
-      "updated_at": "2026-11-07T05:15:46+00:00"
+      "updated_at": "2026-11-07T09:29:12+00:00"
     },
     {
       "app_id": 1903340,
@@ -9256,6 +9306,31 @@
           "currency": "USD",
           "original": 999,
           "final": 699
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6100,
+          "final": 4270
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21600,
+          "final": 15100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 2940
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 135000,
+          "final": 94500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 735000
         }
       },
       "review_hint": "Very Positive<br>94% of the 23,919 user reviews for this software are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -9270,7 +9345,7 @@
       "search_text": "crosshair x crosshair x improve your aim and accuracy in every shooter you play. crosshair x overlays a custom crosshair on top of any game, even games that do not include one. choose from thousands of community designs or build your own with the designer. action adventure indie software training utilities captions available steam workshop dualshock controller support dualshock controller support dualsense controller support dualsense controller support partial controller support steam cloud english german portuguese-brazil russian schinese spanish-latin french italian spanish-spain czech polish swedish turkish japanese korean very positive<br>94% of the 23,919 user reviews for this software are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-06T22:52:26+00:00",
       "last_seen": "2026-11-07T05:15:46+00:00",
-      "updated_at": "2026-11-07T05:15:46+00:00"
+      "updated_at": "2026-11-07T09:29:12+00:00"
     },
     {
       "app_id": 3066890,
@@ -9517,6 +9592,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 1399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 24800,
+          "final": 8680
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 99900,
+          "final": 34900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 13600,
+          "final": 4760
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 450000,
+          "final": 157500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4200000,
+          "final": 1470000
         }
       },
       "review_hint": "Mixed<br>52% of the 281 user reviews for this game are positive.",
@@ -9531,7 +9631,7 @@
       "search_text": "cthulhu: the cosmic abyss cthulhu: the cosmic abyss a mining station in the pacific abyss is no longer responding. as an investigator of the occult, unravel the mysteries of the deep. test your wits and sanity in this lovecraftian thriller. adventure single-player steam achievements full controller support camera comfort color alternatives #category_contrast_controls custom volume controls adjustable difficulty #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support stereo sound surround sound steam cloud family sharing english french italian german spanish-spain japanese korean portuguese-brazil russian schinese polish mixed<br>52% of the 281 user reviews for this game are positive.",
       "first_seen": "2026-11-06T22:52:26+00:00",
       "last_seen": "2026-11-07T05:15:46+00:00",
-      "updated_at": "2026-11-07T05:15:46+00:00"
+      "updated_at": "2026-11-07T09:29:12+00:00"
     },
     {
       "app_id": 3144340,
@@ -12439,6 +12539,31 @@
           "currency": "USD",
           "original": 999,
           "final": 849
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5500,
+          "final": 4675
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 16800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3500,
+          "final": 2975
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 119000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 935000
         }
       },
       "review_hint": "Positive<br>90% of the 11 user reviews for this game are positive.",
@@ -12453,7 +12578,7 @@
       "search_text": "echo mates echo mates to see, you must speak. to speak is to be found. a co-op horror in near-total darkness where every sound sends out a wave that lights the level — and calls whatever lives in it. 1–4 players, real voice, microphone required. action adventure indie early access single-player multi-player co-op online co-op family sharing english russian spanish-spain turkish spanish-latin schinese positive<br>90% of the 11 user reviews for this game are positive.",
       "first_seen": "2026-11-07T05:15:46+00:00",
       "last_seen": "2026-11-07T05:15:46+00:00",
-      "updated_at": "2026-11-07T05:15:46+00:00"
+      "updated_at": "2026-11-07T09:29:12+00:00"
     },
     {
       "app_id": 2244210,
@@ -13683,6 +13808,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1274
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7900,
+          "final": 6715
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27800,
+          "final": 23600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5400,
+          "final": 4590
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 210000,
+          "final": 178500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1700000,
+          "final": 1445000
         }
       },
       "review_hint": "Mostly Positive<br>73% of the 49 user reviews for this game are positive.",
@@ -13697,7 +13847,7 @@
       "search_text": "find the needle find the needle you have a shovel and a haystack with about six million strands in it. somewhere inside there's a needle. dig it out by hand, sell the hay, then spend the money on belts and machines until you don't have to dig anymore. casual indie simulation early access single-player steam achievements family sharing english german polish french spanish-spain czech schinese russian japanese korean turkish portuguese-brazil italian tchinese ukrainian arabic persian mostly positive<br>73% of the 49 user reviews for this game are positive.",
       "first_seen": "2026-11-06T22:52:26+00:00",
       "last_seen": "2026-11-07T05:15:46+00:00",
-      "updated_at": "2026-11-07T05:15:46+00:00"
+      "updated_at": "2026-11-07T09:29:12+00:00"
     },
     {
       "app_id": 3201730,
@@ -14660,6 +14810,31 @@
           "currency": "USD",
           "original": 1479,
           "final": 1257
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 5610
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 41400,
+          "final": 35100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4199,
+          "final": 3569
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 220000,
+          "final": 187000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2000000,
+          "final": 1700000
         }
       },
       "review_hint": "Positive<br>100% of the 11 user reviews for this game are positive.",
@@ -14674,7 +14849,7 @@
       "search_text": "gear up einstein! gear up einstein! a strategic roguelite auto-battler for 1-3 players. travel through time, recruit historical figures, and gear them up with badass equipment for ridiculous combos. master tactical missions solo or with friends. ready to save the world? indie strategy early access single-player multi-player co-op online co-op steam achievements full controller support custom volume controls mouse only option #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support stereo sound touch only option steam cloud family sharing english french italian german spanish-spain czech japanese korean polish portuguese-brazil russian schinese spanish-latin thai turkish positive<br>100% of the 11 user reviews for this game are positive.",
       "first_seen": "2026-11-07T05:15:46+00:00",
       "last_seen": "2026-11-07T05:15:46+00:00",
-      "updated_at": "2026-11-07T05:15:46+00:00"
+      "updated_at": "2026-11-07T09:29:12+00:00"
     },
     {
       "app_id": 1546400,
@@ -17376,6 +17551,31 @@
           "currency": "USD",
           "original": 1175,
           "final": 998
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7056,
+          "final": 5997
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 25500,
+          "final": 21600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4704,
+          "final": 3998
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 156800,
+          "final": 133200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1274000,
+          "final": 1083000
         }
       },
       "review_hint": "Mostly Positive<br>72% of the 11 user reviews for this game are positive.",
@@ -17390,7 +17590,7 @@
       "search_text": "it's about pirates it's about pirates command your ship in an action-packed pirate roguelike. combine deadly weapons, powerful items, and a fearless captain to create unique builds and survive the dangers of the high seas! action single-player steam achievements full controller support camera comfort #category_contrast_controls custom volume controls gamepad recommended playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud steam leaderboards family sharing english french italian german spanish-spain japanese schinese korean portuguese-brazil russian ukrainian polish turkish mostly positive<br>72% of the 11 user reviews for this game are positive.",
       "first_seen": "2026-11-06T22:52:26+00:00",
       "last_seen": "2026-11-07T05:15:46+00:00",
-      "updated_at": "2026-11-07T05:15:46+00:00"
+      "updated_at": "2026-11-07T09:29:12+00:00"
     },
     {
       "app_id": 2157830,
@@ -18098,6 +18298,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 359
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 2280
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 6400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 1392
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 40800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 396000
         }
       },
       "review_hint": "Very Positive<br>85% of the 1,787 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -18112,7 +18337,7 @@
       "search_text": "late shift late shift late shift is a high stakes fmv crime thriller. forced into a brutal london heist, your choices matter in this interactive cinematic experience with adaptable storylines that lead to one of seven conclusions. your decisions are you. adventure indie single-player steam achievements full controller support steam trading cards steam cloud remote play on tv family sharing english french italian german spanish-spain czech russian schinese arabic danish turkish portuguese-brazil hungarian korean polish ukrainian japanese tchinese very positive<br>85% of the 1,787 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-06T22:52:26+00:00",
       "last_seen": "2026-11-07T05:15:46+00:00",
-      "updated_at": "2026-11-07T05:15:46+00:00"
+      "updated_at": "2026-11-07T09:29:12+00:00"
     },
     {
       "app_id": 3981100,
@@ -20955,6 +21180,31 @@
           "currency": "USD",
           "original": 999,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5500,
+          "final": 4950
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21600,
+          "final": 19400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3950,
+          "final": 3555
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 132000,
+          "final": 118800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 990000
         }
       },
       "review_hint": "Positive<br>92% of the 25 user reviews for this game are positive.",
@@ -20969,7 +21219,7 @@
       "search_text": "noa and the bandits' den noa and the bandits' den a base of the worst nightmares. try to escape before your soul is destroyed... casual indie rpg single-player steam achievements steam cloud family sharing tchinese english japanese schinese positive<br>92% of the 25 user reviews for this game are positive.",
       "first_seen": "2026-11-07T05:15:46+00:00",
       "last_seen": "2026-11-07T05:15:46+00:00",
-      "updated_at": "2026-11-07T05:15:46+00:00"
+      "updated_at": "2026-11-07T09:29:12+00:00"
     },
     {
       "app_id": 1374860,
@@ -23752,6 +24002,31 @@
           "currency": "USD",
           "original": 399,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 2300,
+          "final": 1725
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 8600,
+          "final": 6400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1500,
+          "final": 1125
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 56000,
+          "final": 42000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 445000,
+          "final": 334000
         }
       },
       "review_hint": "Positive<br>95% of the 20 user reviews for this game are positive.",
@@ -23766,7 +24041,7 @@
       "search_text": "pogo together pogo together bounce, fall, rage, and climb together. pogo together is a 1-4 player physics-based precision platformer where ridiculously jacked animals attempt to conquer brutal obstacles on pogo sticks. help each other, kick each other off, or take on the climb alone. casual indie single-player multi-player co-op online co-op steam achievements steam leaderboards family sharing english french italian german japanese korean polish russian schinese tchinese turkish spanish-latin portuguese---portugal positive<br>95% of the 20 user reviews for this game are positive.",
       "first_seen": "2026-11-07T05:15:46+00:00",
       "last_seen": "2026-11-07T05:15:46+00:00",
-      "updated_at": "2026-11-07T05:15:46+00:00"
+      "updated_at": "2026-11-07T09:29:12+00:00"
     },
     {
       "app_id": 2938460,
@@ -23927,6 +24202,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "USD",
+          "original": 1999,
+          "final": 1799
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 39800,
+          "final": 35800
+        },
+        "zh-Hans": {
+          "currency": "USD",
+          "original": 1999,
+          "final": 1799
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 248000,
+          "final": 223200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2200000,
+          "final": 1980000
         }
       },
       "review_hint": "Mostly Positive<br>70% of the 10 user reviews for this game are positive.",
@@ -23941,7 +24241,7 @@
       "search_text": "pool of radiance: ruins of myth drannor pool of radiance: ruins of myth drannor pool of radiance: ruins of myth drannor is a turn-based party rpg set in the forgotten realms. build a band of heroes, descend into the haunted elven ruins of myth drannor, and use tactical positioning, spellcraft and steel to stop a dracolich from corrupting the realm. rpg single-player steam achievements full controller support dualshock controller support dualsense controller support steam cloud family sharing english french german spanish-spain polish russian tchinese mostly positive<br>70% of the 10 user reviews for this game are positive.",
       "first_seen": "2026-11-06T22:52:26+00:00",
       "last_seen": "2026-11-07T05:15:46+00:00",
-      "updated_at": "2026-11-07T05:15:46+00:00"
+      "updated_at": "2026-11-07T09:29:12+00:00"
     },
     {
       "app_id": 4100940,
@@ -26066,6 +26366,31 @@
           "currency": "USD",
           "original": 1899,
           "final": 1139
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11900,
+          "final": 7140
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 31000,
+          "final": 18600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7200,
+          "final": 4320
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 210000,
+          "final": 126000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2050000,
+          "final": 1230000
         }
       },
       "review_hint": "Very Positive<br>89% of the 882 user reviews for this game are positive.",
@@ -26080,7 +26405,7 @@
       "search_text": "saloon simulator saloon simulator start by running a saloon and carve your own place in the wild west. shape your bar, hire help, and get drawn into the lives and troubles of the people who gather around your counter. out here, honest business is rarely enough. see what it takes to survive the frontier. simulation single-player steam achievements full controller support steam cloud family sharing english polish french italian german spanish-spain schinese russian turkish japanese korean portuguese-brazil very positive<br>89% of the 882 user reviews for this game are positive.",
       "first_seen": "2026-11-06T22:52:26+00:00",
       "last_seen": "2026-11-07T05:15:46+00:00",
-      "updated_at": "2026-11-07T05:15:46+00:00"
+      "updated_at": "2026-11-07T09:29:12+00:00"
     },
     {
       "app_id": 2794590,
@@ -26789,6 +27114,31 @@
           "currency": "USD",
           "original": 1699,
           "final": 1019
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8200,
+          "final": 4920
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 28800,
+          "final": 17200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5700,
+          "final": 3420
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 173000,
+          "final": 103800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1750000,
+          "final": 1050000
         }
       },
       "review_hint": "Very Positive<br>82% of the 1,341 user reviews for this game are positive.",
@@ -26803,7 +27153,7 @@
       "search_text": "sir whoopass™: immortal death sir whoopass™: immortal death warning: this game contains puns, dad jokes, flappy-bird-like-arcade-minigames, breaking of the 4th wall and jabs directed at tryhard-overly-serious-rpgs. do not play if you hate fun or would not like to strap in for a hilarious quest for the legendary villain-beating artifact™. action adventure indie rpg single-player multi-player co-op online co-op lan co-op steam achievements full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud stats steam leaderboards family sharing english french german spanish-spain portuguese-brazil schinese polish hungarian turkish very positive<br>82% of the 1,341 user reviews for this game are positive.",
       "first_seen": "2026-11-06T22:52:26+00:00",
       "last_seen": "2026-11-07T05:15:46+00:00",
-      "updated_at": "2026-11-07T05:15:46+00:00"
+      "updated_at": "2026-11-07T09:29:12+00:00"
     },
     {
       "app_id": 4594150,
@@ -29234,6 +29584,31 @@
           "currency": "USD",
           "original": 599,
           "final": 389
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3300,
+          "final": 2145
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 8500,
+          "final": 5500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1430
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 60500,
+          "final": 39300
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 490000,
+          "final": 318000
         }
       },
       "review_hint": "Positive<br>100% of the 16 user reviews for this game are positive.",
@@ -29248,7 +29623,7 @@
       "search_text": "tenebrarium tenebrarium an idle-like alien colony simulator. study an alien species and expand the colony to discover all their peculiar behaviours. casual indie simulation single-player steam achievements custom volume controls #category_playable_at_your_own_pace playable without timed input steam cloud stats family sharing english positive<br>100% of the 16 user reviews for this game are positive.",
       "first_seen": "2026-11-07T05:15:46+00:00",
       "last_seen": "2026-11-07T05:15:46+00:00",
-      "updated_at": "2026-11-07T05:15:46+00:00"
+      "updated_at": "2026-11-07T09:29:12+00:00"
     },
     {
       "app_id": 1839950,
@@ -29515,6 +29890,31 @@
           "currency": "USD",
           "original": 1799,
           "final": 1439
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10500,
+          "final": 8400
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 34300,
+          "final": 27400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6900,
+          "final": 5520
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 225000,
+          "final": 180000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1900000,
+          "final": 1520000
         }
       },
       "review_hint": "Positive<br>82% of the 46 user reviews for this game are positive.",
@@ -29529,7 +29929,7 @@
       "search_text": "tfc2: the fertile crescent 2 - collapse of the bronze age tfc2: the fertile crescent 2 - collapse of the bronze age lead your small caravan on a great journey across the ancient world, in a story-driven base-building rts where protecting your family and friends matters more than conquest. strategy single-player multi-player pvp online pvp co-op online co-op cross-platform multiplayer steam achievements adjustable text size camera comfort adjustable difficulty save anytime steam cloud family sharing english french italian german spanish-spain schinese polish portuguese-brazil russian positive<br>82% of the 46 user reviews for this game are positive.",
       "first_seen": "2026-11-06T22:52:26+00:00",
       "last_seen": "2026-11-07T05:15:46+00:00",
-      "updated_at": "2026-11-07T05:15:46+00:00"
+      "updated_at": "2026-11-07T09:29:12+00:00"
     },
     {
       "app_id": 1601570,
@@ -35780,6 +36180,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 1250
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 3200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 760
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 23000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 215000
         }
       },
       "review_hint": "Very Positive<br>88% of the 504 user reviews for this game are positive.",
@@ -35794,7 +36219,7 @@
       "search_text": "you suck at parking® - complete edition you suck at parking® - complete edition you suck at parking® is the only racing game where your goal is to stop and parking your ride is more important than your driving skills. it’s a hot race against the clock as you drift, cruise, and go airborne over 250 frustratingly fun, wild levels. action indie racing sports single-player multi-player pvp online pvp cross-platform multiplayer steam achievements full controller support adjustable text size camera comfort custom volume controls save anytime steam cloud family sharing english french italian german spanish-spain dutch japanese korean polish portuguese-brazil russian schinese tchinese very positive<br>88% of the 504 user reviews for this game are positive.",
       "first_seen": "2026-11-06T22:52:26+00:00",
       "last_seen": "2026-11-07T05:15:46+00:00",
-      "updated_at": "2026-11-07T05:15:46+00:00"
+      "updated_at": "2026-11-07T09:29:12+00:00"
     },
     {
       "app_id": 1211600,
@@ -159885,6 +160310,31 @@
           "currency": "USD",
           "original": 1399,
           "final": 1189
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6900,
+          "final": 5865
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26500,
+          "final": 22500
+        },
+        "zh-Hans": {
+          "currency": "USD",
+          "original": 1399,
+          "final": 1189
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 160000,
+          "final": 136000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1400000,
+          "final": 1190000
         }
       },
       "review_hint": "",
@@ -159899,7 +160349,7 @@
       "search_text": "dungeons & furry dungeons & furry ✨what's more alluring than the charm of fantasy worlds? answer: the same, but with sex. the more sex and magic, the better. choose your character’s gender, solve match-three puzzles, enjoy the fully 28 voiced animations, and find out how your story ends!✨ adventure casual indie rpg simulation strategy single-player steam achievements custom volume controls mouse only option #category_playable_at_your_own_pace playable without timed input steam cloud family sharing english french italian german spanish-spain portuguese-brazil schinese japanese russian dutch polish thai turkish tchinese",
       "first_seen": "2026-11-06T22:52:26+00:00",
       "last_seen": "2026-11-07T05:15:46+00:00",
-      "updated_at": "2026-11-07T05:15:46+00:00"
+      "updated_at": "2026-11-07T09:29:12+00:00"
     },
     {
       "app_id": 1643310,
