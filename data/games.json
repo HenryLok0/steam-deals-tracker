@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T05:11:41+00:00",
+  "updated_at": "2026-11-08T09:45:42+00:00",
   "total_count": 4987,
   "active_count": 349,
   "games": [
@@ -496,6 +496,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 959
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7800,
+          "final": 6240
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 22600,
+          "final": 18000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4800,
+          "final": 3840
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 112000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1350000,
+          "final": 1080000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>99% of the 514 user reviews for this game are positive.",
@@ -510,7 +535,7 @@
       "search_text": "a world of keflings a world of keflings keflings may be small, but their kingdom-building adventures are gigantic! build a world with your friends in a world of keflings! harvest resources, construct robots, befriend a dragon, and help a creepy witch get even creepier in this update of the classic 2010 city-building adventure. adventure casual simulation single-player multi-player co-op online co-op steam achievements full controller support steam trading cards custom volume controls keyboard only option mouse only option playable without timed input save anytime stereo sound touch only option steam cloud family sharing english french italian german spanish-spain japanese korean tchinese overwhelmingly positive<br>99% of the 514 user reviews for this game are positive.",
       "first_seen": "2026-11-07T21:36:42+00:00",
       "last_seen": "2026-11-08T05:11:41+00:00",
-      "updated_at": "2026-11-08T05:11:41+00:00"
+      "updated_at": "2026-11-08T09:45:42+00:00"
     },
     {
       "app_id": 1904480,
@@ -16142,6 +16167,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 3800
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 10700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 2320
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 68000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 660000
         }
       },
       "review_hint": "Very Positive<br>89% of the 3,258 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -16156,7 +16206,7 @@
       "search_text": "grocery store simulator grocery store simulator grocery store simulator is a 1-4 player co-op game where you build and manage your own supermarket by stocking shelves, setting prices, hiring staff, and customizing your store, all while expanding your business and keeping customers happy. action casual indie simulation strategy single-player multi-player co-op online co-op steam achievements color alternatives custom volume controls #category_playable_at_your_own_pace playable without timed input save anytime stereo sound family sharing english french italian german spanish-spain dutch portuguese-brazil portuguese---portugal russian turkish ukrainian japanese korean schinese tchinese very positive<br>89% of the 3,258 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-08T05:11:41+00:00",
       "last_seen": "2026-11-08T05:11:41+00:00",
-      "updated_at": "2026-11-08T05:11:41+00:00"
+      "updated_at": "2026-11-08T09:45:42+00:00"
     },
     {
       "app_id": 1672500,
@@ -20314,6 +20364,31 @@
           "currency": "USD",
           "original": 499,
           "final": 374
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3000,
+          "final": 2250
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 11700,
+          "final": 8700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1650
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 65500,
+          "final": 49100
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 545000,
+          "final": 409000
         }
       },
       "review_hint": "Positive<br>100% of the 13 user reviews for this game are positive.",
@@ -20328,7 +20403,7 @@
       "search_text": "mosaique neko waifus 6 mosaique neko waifus 6 solve rotating puzzles with cute cat girls. cozy, soft-incremental gameplay. chat with cat girls. somehow get better at puzzles. make questionable choices. unlock surprisingly useful stuff. casual indie rpg single-player steam achievements custom volume controls mouse only option #category_playable_at_your_own_pace playable without timed input save anytime family sharing english french german spanish-spain tchinese schinese spanish-latin japanese korean polish portuguese---portugal russian thai turkish hungarian positive<br>100% of the 13 user reviews for this game are positive.",
       "first_seen": "2026-11-08T05:11:41+00:00",
       "last_seen": "2026-11-08T05:11:41+00:00",
-      "updated_at": "2026-11-08T05:11:41+00:00"
+      "updated_at": "2026-11-08T09:45:42+00:00"
     },
     {
       "app_id": 5181520,
@@ -22621,6 +22696,31 @@
           "currency": "USD",
           "original": 299,
           "final": 200
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 2000,
+          "final": 1340
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 6600,
+          "final": 4400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1500,
+          "final": 1005
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 36000,
+          "final": 24100
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 330000,
+          "final": 221000
         }
       },
       "review_hint": "Positive<br>80% of the 40 user reviews for this game are positive.",
@@ -22635,7 +22735,7 @@
       "search_text": "payday 3: fear & greed tailor pack payday 3: fear & greed tailor pack the fear &amp; greed tailor pack gives a visual representation of greed itself as heisters don the typical garb of the dreaded day trader. action adventure rpg single-player multi-player co-op online co-op cross-platform multiplayer downloadable content steam achievements steam trading cards in-app purchases dualshock controller support dualshock controller support dualsense controller support dualsense controller support partial controller support steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese spanish-latin tchinese turkish positive<br>80% of the 40 user reviews for this game are positive.",
       "first_seen": "2026-11-07T21:36:42+00:00",
       "last_seen": "2026-11-08T05:11:41+00:00",
-      "updated_at": "2026-11-08T05:11:41+00:00"
+      "updated_at": "2026-11-08T09:45:42+00:00"
     },
     {
       "app_id": 3171990,
@@ -22820,6 +22920,31 @@
           "currency": "USD",
           "original": 299,
           "final": 200
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 2000,
+          "final": 1340
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 6600,
+          "final": 4400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1500,
+          "final": 1005
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 36000,
+          "final": 24100
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 330000,
+          "final": 221000
         }
       },
       "review_hint": "Mostly Positive<br>76% of the 51 user reviews for this game are positive.",
@@ -22834,7 +22959,7 @@
       "search_text": "payday 3: houston breakout tailor pack payday 3: houston breakout tailor pack the houston breakout tailor pack puts you in the clothes of every notable role in a court hearing, pick a side and break in to break him out. action adventure rpg single-player multi-player co-op online co-op cross-platform multiplayer downloadable content steam achievements steam trading cards in-app purchases dualshock controller support dualshock controller support dualsense controller support dualsense controller support partial controller support steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese spanish-latin tchinese turkish mostly positive<br>76% of the 51 user reviews for this game are positive.",
       "first_seen": "2026-11-08T05:11:41+00:00",
       "last_seen": "2026-11-08T05:11:41+00:00",
-      "updated_at": "2026-11-08T05:11:41+00:00"
+      "updated_at": "2026-11-08T09:45:42+00:00"
     },
     {
       "app_id": 2450697,
@@ -24297,6 +24422,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1049
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7900,
+          "final": 5530
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27900,
+          "final": 19500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5629,
+          "final": 3940
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 119000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1500000,
+          "final": 1050000
         }
       },
       "review_hint": "Very Positive<br>86% of the 4,155 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -24311,7 +24461,7 @@
       "search_text": "poppy playtime - chapter 3 poppy playtime - chapter 3 a decrepit orphanage known as playcare sits beneath the once magical toy factory. you must make your way through this haunted place, solving new puzzles and avoiding the nightmares that lurk within the dark. answers lie between the blood-stained bedsheets and screaming echoes... if you can survive. action adventure indie single-player downloadable content family sharing english french italian german portuguese-brazil russian spanish-latin japanese korean very positive<br>86% of the 4,155 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-07T21:36:42+00:00",
       "last_seen": "2026-11-08T05:11:41+00:00",
-      "updated_at": "2026-11-08T05:11:41+00:00"
+      "updated_at": "2026-11-08T09:45:42+00:00"
     },
     {
       "app_id": 4100940,
@@ -24874,6 +25024,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14800,
+          "final": 1480
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 58800,
+          "final": 5800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7800,
+          "final": 780
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 248000,
+          "final": 24800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 270000
         }
       },
       "review_hint": "Very Positive<br>90% of the 2,607 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -24888,7 +25063,7 @@
       "search_text": "quern - undying thoughts quern - undying thoughts discover the truth about quern’s past, unfold the mysteries of its present, and be the explorer who shapes its future. quern introduces reusable puzzle mechanics to the classic genre, making the player think about the game as a whole, and not just as a series of individual challenges. adventure single-player steam achievements steam trading cards captions available partial controller support steam cloud family sharing english french hungarian italian german spanish-spain russian czech polish schinese very positive<br>90% of the 2,607 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-07T21:36:42+00:00",
       "last_seen": "2026-11-08T05:11:41+00:00",
-      "updated_at": "2026-11-08T05:11:41+00:00"
+      "updated_at": "2026-11-08T09:45:42+00:00"
     },
     {
       "app_id": 3241660,
