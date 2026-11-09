@@ -4,7 +4,21 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sun, 08 Nov 2026 21:51:11 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 05:23:01 +0000</lastBuildDate>
+<item>
+<title>SANABI</title>
+<link>https://store.steampowered.com/app/1562700/</link>
+<guid isPermaLink="false">1562700</guid>
+<pubDate>Mon, 09 Nov 2026 05:23:01 +0000</pubDate>
+<description>SANABI is an exhilarating stylish dystopian action-platformer. Play as a legendary retired veteran and use your signature prosthetic arm to jump over cliffs and skyscrapers, zip through bullets and traps and defeat powerful enemies.</description>
+</item>
+<item>
+<title>Stick A Fork</title>
+<link>https://store.steampowered.com/app/5345040/</link>
+<guid isPermaLink="false">5345040</guid>
+<pubDate>Mon, 09 Nov 2026 05:23:01 +0000</pubDate>
+<description>A cute incremental game packed with dopamine! Just hover. Stab forks into giant fruit for gold, buy more forks, and pick Boons that stack into big synergies. Smash the fruit into jam and spend it on powerful skills!</description>
+</item>
 <item>
 <title>Age of Wonders 4: Eldritch Realms</title>
 <link>https://store.steampowered.com/app/2401860/</link>
@@ -18,13 +32,6 @@
 <guid isPermaLink="false">3430340</guid>
 <pubDate>Sun, 08 Nov 2026 21:51:11 +0000</pubDate>
 <description>Have you ever tried to roll 1,000,000 on a set of dice? No? Build the right bag of die, and you might just pull it off.</description>
-</item>
-<item>
-<title>Hammer these nails!</title>
-<link>https://store.steampowered.com/app/5229450/</link>
-<guid isPermaLink="false">5229450</guid>
-<pubDate>Sun, 08 Nov 2026 21:51:11 +0000</pubDate>
-<description>Hammer 10,000 nails.</description>
 </item>
 <item>
 <title>Sailing Era</title>
@@ -53,20 +60,6 @@
 <guid isPermaLink="false">2450692</guid>
 <pubDate>Sun, 08 Nov 2026 12:58:32 +0000</pubDate>
 <description>Dress for a successful heist with the Syntax Error Tailor Pack.</description>
-</item>
-<item>
-<title>Mosaique Neko Waifus 6</title>
-<link>https://store.steampowered.com/app/4873800/</link>
-<guid isPermaLink="false">4873800</guid>
-<pubDate>Sun, 08 Nov 2026 05:11:41 +0000</pubDate>
-<description>Solve rotating puzzles with cute cat girls. Cozy, soft-incremental gameplay. Chat With Cat Girls. Somehow Get Better at Puzzles. Make Questionable Choices. Unlock Surprisingly Useful Stuff.</description>
-</item>
-<item>
-<title>PAYDAY 3: Houston Breakout Tailor Pack</title>
-<link>https://store.steampowered.com/app/3111880/</link>
-<guid isPermaLink="false">3111880</guid>
-<pubDate>Sun, 08 Nov 2026 05:11:41 +0000</pubDate>
-<description>The Houston Breakout Tailor Pack puts you in the clothes of every notable role in a court hearing, pick a side and break in to break him out.</description>
 </item>
 <item>
 <title>Hunting Simulator 3 - Classic American Hunter Pack</title>
