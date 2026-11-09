@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T05:23:01+00:00",
+  "updated_at": "2026-11-09T10:43:36+00:00",
   "total_count": 4997,
   "active_count": 348,
   "games": [
@@ -1134,6 +1134,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 13800,
+          "final": 8970
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 56800,
+          "final": 36900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8800,
+          "final": 5720
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 269000,
+          "final": 174800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2200000,
+          "final": 1430000
         }
       },
       "review_hint": "Mixed<br>66% of the 222 user reviews for this game are positive.",
@@ -1148,7 +1173,7 @@
       "search_text": "age of wonders 4: eldritch realms age of wonders 4: eldritch realms the umbral abyss is yours to conquer in age of wonders 4: eldritch realms. rule as an eldritch sovereign, wield terrifying new tomes of magic, survive world-altering global events and lead your people against the darkness before it spreads across the realms. strategy single-player multi-player pvp online pvp co-op downloadable content steam achievements steam workshop partial controller support steam cloud remote play together family sharing english french german spanish-spain japanese korean polish russian schinese mixed<br>66% of the 222 user reviews for this game are positive.",
       "first_seen": "2026-11-08T21:51:11+00:00",
       "last_seen": "2026-11-09T05:23:01+00:00",
-      "updated_at": "2026-11-09T05:23:01+00:00"
+      "updated_at": "2026-11-09T10:43:36+00:00"
     },
     {
       "app_id": 2401830,
@@ -9416,6 +9441,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 974
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7200,
+          "final": 5400
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 23800,
+          "final": 17800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4000,
+          "final": 3000
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 150000,
+          "final": 112500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1450000,
+          "final": 1087000
         }
       },
       "review_hint": "Very Positive<br>90% of the 1,132 user reviews for this game are positive.",
@@ -9430,7 +9480,7 @@
       "search_text": "dice a million dice a million have you ever tried to roll 1,000,000 on a set of dice? no? build the right bag of die, and you might just pull it off. indie strategy single-player steam achievements full controller support camera comfort custom volume controls mouse only option #category_playable_at_your_own_pace playable without timed input save anytime steam cloud family sharing english spanish-spain schinese german portuguese-brazil russian french japanese turkish korean very positive<br>90% of the 1,132 user reviews for this game are positive.",
       "first_seen": "2026-11-08T21:51:11+00:00",
       "last_seen": "2026-11-09T05:23:01+00:00",
-      "updated_at": "2026-11-09T05:23:01+00:00"
+      "updated_at": "2026-11-09T10:43:36+00:00"
     },
     {
       "app_id": 1984270,
@@ -26015,6 +26065,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1124
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 7020
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 18300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8800,
+          "final": 3960
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 126000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 1215000
         }
       },
       "review_hint": "Very Positive<br>83% of the 385 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -26029,7 +26104,7 @@
       "search_text": "sailing era sailing era every voyage is a journey of &quot;sailing &amp; beyond&quot; in sailing era! navigate your fleet and sail for fun; run a business; have a romantic encounter in the tavern; capture pirates amid intense battle; explore inland for treasure... experience foreign culture, make novel discoveries, and sail away! adventure rpg simulation strategy single-player steam achievements full controller support steam cloud family sharing english japanese schinese tchinese very positive<br>83% of the 385 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-08T21:51:11+00:00",
       "last_seen": "2026-11-09T05:23:01+00:00",
-      "updated_at": "2026-11-09T05:23:01+00:00"
+      "updated_at": "2026-11-09T10:43:36+00:00"
     },
     {
       "app_id": 1876930,
@@ -26184,6 +26259,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 974
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 6175
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 17400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4300,
+          "final": 2795
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 152000,
+          "final": 98800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1550000,
+          "final": 1007000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>95% of the 4,834 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -26198,7 +26298,7 @@
       "search_text": "sanabi sanabi sanabi is an exhilarating stylish dystopian action-platformer. play as a legendary retired veteran and use your signature prosthetic arm to jump over cliffs and skyscrapers, zip through bullets and traps and defeat powerful enemies. action adventure indie single-player partial controller support steam cloud family sharing english korean schinese russian portuguese-brazil japanese tchinese french german spanish-spain spanish-latin overwhelmingly positive<br>95% of the 4,834 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-09T05:23:01+00:00",
       "last_seen": "2026-11-09T05:23:01+00:00",
-      "updated_at": "2026-11-09T05:23:01+00:00"
+      "updated_at": "2026-11-09T10:43:36+00:00"
     },
     {
       "app_id": 2794590,
@@ -28570,6 +28670,31 @@
           "currency": "USD",
           "original": 499,
           "final": 399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3000,
+          "final": 2400
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 11700,
+          "final": 9300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1760
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 65500,
+          "final": 52400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 545000,
+          "final": 436000
         }
       },
       "review_hint": "Very Positive<br>98% of the 125 user reviews for this game are positive.",
@@ -28584,7 +28709,7 @@
       "search_text": "stick a fork stick a fork a cute incremental game packed with dopamine! just hover. stab forks into giant fruit for gold, buy more forks, and pick boons that stack into big synergies. smash the fruit into jam and spend it on powerful skills! casual indie simulation single-player steam achievements camera comfort #category_contrast_controls custom volume controls mouse only option #category_playable_at_your_own_pace playable without timed input stereo sound steam cloud family sharing english korean french italian german spanish-spain czech danish dutch finnish japanese norwegian polish portuguese-brazil portuguese---portugal russian schinese spanish-latin swedish tchinese turkish ukrainian very positive<br>98% of the 125 user reviews for this game are positive.",
       "first_seen": "2026-11-09T05:23:01+00:00",
       "last_seen": "2026-11-09T05:23:01+00:00",
-      "updated_at": "2026-11-09T05:23:01+00:00"
+      "updated_at": "2026-11-09T10:43:36+00:00"
     },
     {
       "app_id": 985890,
@@ -31218,6 +31343,31 @@
           "currency": "USD",
           "original": 499,
           "final": 249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3300,
+          "final": 1650
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 10200,
+          "final": 5100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1100
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 58000,
+          "final": 29000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 560000,
+          "final": 280000
         }
       },
       "review_hint": "Very Positive<br>85% of the 1,556 user reviews for this game are positive.",
@@ -31232,7 +31382,7 @@
       "search_text": "timber rush timber rush timber rush is a fast-paced incremental roguelite where every swing explodes into upgrades, chaos, and massive numbers. action casual indie strategy single-player steam achievements camera comfort custom volume controls playable without timed input steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese very positive<br>85% of the 1,556 user reviews for this game are positive.",
       "first_seen": "2026-11-08T21:51:11+00:00",
       "last_seen": "2026-11-09T05:23:01+00:00",
-      "updated_at": "2026-11-09T05:23:01+00:00"
+      "updated_at": "2026-11-09T10:43:36+00:00"
     },
     {
       "app_id": 1286680,
@@ -216787,6 +216937,31 @@
           "currency": "USD",
           "original": 399,
           "final": 359
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 2300,
+          "final": 2070
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 8600,
+          "final": 7700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1500,
+          "final": 1350
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 56000,
+          "final": 50400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 445000,
+          "final": 400000
         }
       },
       "review_hint": "Positive<br>88% of the 26 user reviews for this game are positive.",
@@ -216801,7 +216976,7 @@
       "search_text": "hammer these nails! hammer these nails! hammer 10,000 nails. casual simulation single-player steam achievements custom volume controls #category_playable_at_your_own_pace playable without timed input save anytime stereo sound steam cloud family sharing english positive<br>88% of the 26 user reviews for this game are positive.",
       "first_seen": "2026-11-08T21:51:11+00:00",
       "last_seen": "2026-11-09T05:23:01+00:00",
-      "updated_at": "2026-11-09T05:23:01+00:00"
+      "updated_at": "2026-11-09T10:43:36+00:00"
     },
     {
       "app_id": 2726490,
