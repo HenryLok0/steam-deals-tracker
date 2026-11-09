@@ -4,13 +4,55 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Mon, 09 Nov 2026 10:43:36 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 15:38:20 +0000</lastBuildDate>
 <item>
-<title>SANABI</title>
-<link>https://store.steampowered.com/app/1562700/</link>
-<guid isPermaLink="false">1562700</guid>
-<pubDate>Mon, 09 Nov 2026 05:23:01 +0000</pubDate>
-<description>SANABI is an exhilarating stylish dystopian action-platformer. Play as a legendary retired veteran and use your signature prosthetic arm to jump over cliffs and skyscrapers, zip through bullets and traps and defeat powerful enemies.</description>
+<title>Brick Buddies</title>
+<link>https://store.steampowered.com/app/4901540/</link>
+<guid isPermaLink="false">4901540</guid>
+<pubDate>Mon, 09 Nov 2026 15:38:20 +0000</pubDate>
+<description>Pick up a brick and build a little world. Follow the instructions, add stickers, and collect new models in this cozy brick-building game. Unwind on your own or grow your collection with friends.</description>
+</item>
+<item>
+<title>Casualties: Unknown</title>
+<link>https://store.steampowered.com/app/4576490/</link>
+<guid isPermaLink="false">4576490</guid>
+<pubDate>Mon, 09 Nov 2026 15:38:20 +0000</pubDate>
+<description>Casualties: Unknown is an unforgiving cave-exploration survival simulator. Your captors have tasked you with retrieving lost cargo on a foreign planet, explore its 11 layers and do your best to survive diverse hostile environments. You are just one of the thousands of test subjects sent to die.</description>
+</item>
+<item>
+<title>Casualties: Unknown Soundtrack</title>
+<link>https://store.steampowered.com/app/5326310/</link>
+<guid isPermaLink="false">5326310</guid>
+<pubDate>Mon, 09 Nov 2026 15:38:20 +0000</pubDate>
+<description>This is additional content for Casualties: Unknown, but does not include the base game.</description>
+</item>
+<item>
+<title>DREADMOOR</title>
+<link>https://store.steampowered.com/app/3629430/</link>
+<guid isPermaLink="false">3629430</guid>
+<pubDate>Mon, 09 Nov 2026 15:38:20 +0000</pubDate>
+<description>DREADMOOR is a dark first-person fishing adventure game set in a submerged world, rotting from a past catastrophe. Fish in murky waters, upgrade your boat, craft survival gear, and fight monstrous creatures that lurk under the water and on the land.</description>
+</item>
+<item>
+<title>Dying Light: The Following</title>
+<link>https://store.steampowered.com/app/325724/</link>
+<guid isPermaLink="false">325724</guid>
+<pubDate>Mon, 09 Nov 2026 15:38:20 +0000</pubDate>
+<description>Experience the untold chapter of Kyle Crane's story set in a vast breathtaking region outside the city of Harran. Leave the city walls behind and discover a countryside full of mysterious characters, deadly weapons and blood-chilling quests.</description>
+</item>
+<item>
+<title>Funeral for the Sun</title>
+<link>https://store.steampowered.com/app/4088360/</link>
+<guid isPermaLink="false">4088360</guid>
+<pubDate>Mon, 09 Nov 2026 15:38:20 +0000</pubDate>
+<description>Search the ashes of an abandoned Latin American town and uncover 400 years of secrets. An epic non-linear mystery where you travel back in time and untangle the history of a community cursed by generations of supernatural forces.</description>
+</item>
+<item>
+<title>Hell Wait</title>
+<link>https://store.steampowered.com/app/3936340/</link>
+<guid isPermaLink="false">3936340</guid>
+<pubDate>Mon, 09 Nov 2026 15:38:20 +0000</pubDate>
+<description>HELL WAIT is riichi mahjong crossed with roguelike deckbuilding. Stack your jokers. Upgrade your yaku. Try not to deal in. You'll need those fingers.</description>
 </item>
 <item>
 <title>Stick A Fork</title>
@@ -46,20 +88,6 @@
 <guid isPermaLink="false">4298880</guid>
 <pubDate>Sun, 08 Nov 2026 21:51:11 +0000</pubDate>
 <description>Timber Rush is a fast-paced incremental roguelite where every swing explodes into upgrades, chaos, and massive numbers.</description>
-</item>
-<item>
-<title>PAYDAY 3: Boys in Blue Tailor Pack</title>
-<link>https://store.steampowered.com/app/2450695/</link>
-<guid isPermaLink="false">2450695</guid>
-<pubDate>Sun, 08 Nov 2026 12:58:32 +0000</pubDate>
-<description>The Boys in Blue Tailor Pack puts you in the literal shoes of both criminals and law enforcement.</description>
-</item>
-<item>
-<title>PAYDAY 3: Syntax Error Tailor Pack</title>
-<link>https://store.steampowered.com/app/2450692/</link>
-<guid isPermaLink="false">2450692</guid>
-<pubDate>Sun, 08 Nov 2026 12:58:32 +0000</pubDate>
-<description>Dress for a successful heist with the Syntax Error Tailor Pack.</description>
 </item>
 <item>
 <title>Hunting Simulator 3 - Classic American Hunter Pack</title>
