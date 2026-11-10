@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T14:33:42+00:00",
+  "updated_at": "2026-11-10T21:06:18+00:00",
   "total_count": 5039,
   "active_count": 347,
   "games": [
@@ -1827,6 +1827,31 @@
           "currency": "USD",
           "original": 1699,
           "final": 1529
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9900,
+          "final": 8910
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 33100,
+          "final": 29700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6800,
+          "final": 6120
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 198000,
+          "final": 178200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1800000,
+          "final": 1620000
         }
       },
       "review_hint": "",
@@ -1841,7 +1866,7 @@
       "search_text": "annihilated annihilated a story-driven roguelite rpg about a journey through the depths with a broken hero — and what they have to answer for. the hero's party has been annihilated: you carry one of them out of a cursed dungeon, learn what broke them, and settle it together. four routes, four heroes, four reckonings. indie rpg single-player steam achievements custom volume controls keyboard only option mouse only option playable without timed input touch only option steam cloud family sharing japanese english schinese",
       "first_seen": "2026-11-10T14:33:42+00:00",
       "last_seen": "2026-11-10T14:33:42+00:00",
-      "updated_at": "2026-11-10T14:33:42+00:00"
+      "updated_at": "2026-11-10T21:06:18+00:00"
     },
     {
       "app_id": 3274580,
@@ -2443,6 +2468,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 3199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 21000,
+          "final": 16800
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 66800,
+          "final": 53400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 13800,
+          "final": 11040
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 565000,
+          "final": 452000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4500000,
+          "final": 3600000
         }
       },
       "review_hint": "",
@@ -2457,7 +2507,7 @@
       "search_text": "ashes of the singularity ii ashes of the singularity ii in this massive rts game, command vast armies fighting for control of entire worlds. control the forces of earth, the mechanical ai substrate, or the enigmatic post-human coalition as you battle across the solar system in single player, cooperative multiplayer, or competitive multiplayer. simulation strategy single-player multi-player pvp online pvp co-op online co-op steam achievements adjustable text size custom volume controls adjustable difficulty playable without timed input save anytime stereo sound surround sound partial controller support steam cloud stats family sharing english german schinese korean french spanish-spain polish russian italian danish greek japanese turkish portuguese---portugal",
       "first_seen": "2026-11-10T14:33:42+00:00",
       "last_seen": "2026-11-10T14:33:42+00:00",
-      "updated_at": "2026-11-10T14:33:42+00:00"
+      "updated_at": "2026-11-10T21:06:18+00:00"
     },
     {
       "app_id": 507490,
@@ -4382,6 +4432,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 7600
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 21400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5200,
+          "final": 4160
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 190000,
+          "final": 152000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 1320000
         }
       },
       "review_hint": "Very Positive<br>92% of the 5,627 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -4396,7 +4471,7 @@
       "search_text": "backpack battles backpack battles a pvp inventory management auto battler! buy and craft powerful items, then carefully arrange them in your backpack. strategy multi-player pvp online pvp steam achievements full controller support steam trading cards dualshock controller support dualsense controller support steam cloud family sharing english german japanese korean schinese tchinese french portuguese-brazil russian spanish-latin very positive<br>92% of the 5,627 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-10T14:33:42+00:00",
       "last_seen": "2026-11-10T14:33:42+00:00",
-      "updated_at": "2026-11-10T14:33:42+00:00"
+      "updated_at": "2026-11-10T21:06:18+00:00"
     },
     {
       "app_id": 2146170,
@@ -5267,6 +5342,31 @@
           "currency": "USD",
           "original": 999,
           "final": 699
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5500,
+          "final": 3850
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 13800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2900,
+          "final": 2030
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 98000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 770000
         }
       },
       "review_hint": "",
@@ -5281,7 +5381,7 @@
       "search_text": "booster pack heroes booster pack heroes rip open booster packs and pull your next foil hero in booster pack heroes - an incremental game where every pack could contain your next powerhouse. defend the tower from an endless onslaught of monsters and fight your way through the realms. casual strategy single-player steam achievements #category_contrast_controls mouse only option #category_playable_at_your_own_pace playable without timed input steam cloud family sharing english french german spanish-spain japanese korean polish portuguese-brazil russian schinese tchinese",
       "first_seen": "2026-11-10T14:33:42+00:00",
       "last_seen": "2026-11-10T14:33:42+00:00",
-      "updated_at": "2026-11-10T14:33:42+00:00"
+      "updated_at": "2026-11-10T21:06:18+00:00"
     },
     {
       "app_id": 49520,
@@ -8261,6 +8361,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 1900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 5300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 1160
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 34000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 330000
         }
       },
       "review_hint": "Very Positive<br>93% of the 9,970 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -8275,7 +8400,7 @@
       "search_text": "clustertruck clustertruck clustertruck is a chaotic physics based truckformer. jump your way through insane levels in a game of &quot;the floor is lava&quot; on top of speeding trucks driven by terrible drivers. action indie single-player steam achievements full controller support steam workshop stats steam leaderboards includes level editor remote play on tv family sharing english very positive<br>93% of the 9,970 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-10T14:33:42+00:00",
       "last_seen": "2026-11-10T14:33:42+00:00",
-      "updated_at": "2026-11-10T14:33:42+00:00"
+      "updated_at": "2026-11-10T21:06:18+00:00"
     },
     {
       "app_id": 2362060,
@@ -9470,6 +9595,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 359
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7800,
+          "final": 2340
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 22600,
+          "final": 6700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4800,
+          "final": 1440
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 42000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1350000,
+          "final": 405000
         }
       },
       "review_hint": "Mostly Positive<br>78% of the 784 user reviews for this game are positive.",
@@ -9484,7 +9634,7 @@
       "search_text": "darwinia darwinia darwinia blends real-time strategy, action, and puzzles with a unique gesture-based control system. save the darwinians, battle viruses, and restore order in a retro-inspired digital world. winner of multiple prestigious  awards, including the seumas mcnally grand prize at igf 2006. indie strategy single-player full controller support steam cloud includes level editor family sharing english german french italian spanish-spain mostly positive<br>78% of the 784 user reviews for this game are positive.",
       "first_seen": "2026-11-10T14:33:42+00:00",
       "last_seen": "2026-11-10T14:33:42+00:00",
-      "updated_at": "2026-11-10T14:33:42+00:00"
+      "updated_at": "2026-11-10T21:06:18+00:00"
     },
     {
       "app_id": 3026450,
@@ -13734,6 +13884,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 7800
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 20400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7900,
+          "final": 3950
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 140000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 1350000
         }
       },
       "review_hint": "Mixed<br>62% of the 761 user reviews for this game are positive.",
@@ -13748,7 +13923,7 @@
       "search_text": "ferocious ferocious immerse yourself in a survival fps adventure. stranded on a dangerous island, face mercenaries, dinosaurs, and a vibrant yet hostile ecosystem. explore breathtaking environments and survive the onslaught of intense, fast-paced encounters. action adventure indie single-player full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support family sharing english french german spanish-spain japanese portuguese-brazil russian schinese mixed<br>62% of the 761 user reviews for this game are positive.",
       "first_seen": "2026-11-10T14:33:42+00:00",
       "last_seen": "2026-11-10T14:33:42+00:00",
-      "updated_at": "2026-11-10T14:33:42+00:00"
+      "updated_at": "2026-11-10T21:06:18+00:00"
     },
     {
       "app_id": 4715160,
@@ -17819,6 +17994,31 @@
           "currency": "USD",
           "original": 999,
           "final": 849
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5500,
+          "final": 4675
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 16800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3500,
+          "final": 2975
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 119000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 935000
         }
       },
       "review_hint": "Positive<br>100% of the 29 user reviews for this game are positive.",
@@ -17833,7 +18033,7 @@
       "search_text": "icy tower icy tower the legendary jumping game is back! join harold the homeboy and friends as they jump up the icy tower. make combo jumps to build up massive scores. how high can you get? indie single-player steam achievements full controller support custom volume controls keyboard only option stereo sound steam cloud steam leaderboards family sharing english positive<br>100% of the 29 user reviews for this game are positive.",
       "first_seen": "2026-11-10T14:33:42+00:00",
       "last_seen": "2026-11-10T14:33:42+00:00",
-      "updated_at": "2026-11-10T14:33:42+00:00"
+      "updated_at": "2026-11-10T21:06:18+00:00"
     },
     {
       "app_id": 4364730,
@@ -21040,6 +21240,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8700,
+          "final": 6960
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 30800,
+          "final": 24600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5900,
+          "final": 4720
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 190000,
+          "final": 152000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1600000,
+          "final": 1280000
         }
       },
       "review_hint": "Mixed<br>66% of the 12 user reviews for this game are positive.",
@@ -21054,7 +21279,7 @@
       "search_text": "music manager music manager sign artists, develop talent, release music and steer careers through tours, festivals and changing trends in a detailed music industry management sim set from 1952 to 2026. indie simulation strategy single-player camera comfort custom volume controls adjustable difficulty mouse only option #category_playable_at_your_own_pace playable without timed input save anytime family sharing english french italian german spanish-spain arabic bulgarian czech danish dutch finnish greek hungarian indonesian japanese korean norwegian polish portuguese-brazil portuguese---portugal romanian russian schinese spanish-latin swedish thai tchinese turkish ukrainian vietnamese mixed<br>66% of the 12 user reviews for this game are positive.",
       "first_seen": "2026-11-10T14:33:42+00:00",
       "last_seen": "2026-11-10T14:33:42+00:00",
-      "updated_at": "2026-11-10T14:33:42+00:00"
+      "updated_at": "2026-11-10T21:06:18+00:00"
     },
     {
       "app_id": 5181520,
@@ -28168,6 +28393,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7499,
+          "final": 2999
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 45900,
+          "final": 18300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3900,
+          "final": 1560
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 149000,
+          "final": 59600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1500000,
+          "final": 600000
         }
       },
       "review_hint": "Very Positive<br>94% of the 2,832 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -28182,7 +28432,7 @@
       "search_text": "spiderheck spiderheck spiders with laser swords! duel to the death against your friends or choose to team up and hold back swarms of savage enemies. swing, stab and shoot with style, effortlessly performing movie-worthy parkour. action casual indie single-player multi-player pvp online pvp shared/split screen pvp co-op online co-op shared/split screen co-op shared/split screen cross-platform multiplayer steam achievements full controller support steam trading cards steam workshop dualshock controller support dualsense controller support includes level editor remote play together family sharing english french italian german spanish-spain japanese korean portuguese-brazil russian schinese polish ukrainian very positive<br>94% of the 2,832 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-10T14:33:42+00:00",
       "last_seen": "2026-11-10T14:33:42+00:00",
-      "updated_at": "2026-11-10T14:33:42+00:00"
+      "updated_at": "2026-11-10T21:06:18+00:00"
     },
     {
       "app_id": 1236720,
@@ -33639,6 +33889,31 @@
           "currency": "USD",
           "original": 799,
           "final": 719
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4800,
+          "final": 4320
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 17500,
+          "final": 15700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3300,
+          "final": 2970
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 105000,
+          "final": 94500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 870000,
+          "final": 783000
         }
       },
       "review_hint": "Mixed<br>69% of the 182 user reviews for this game are positive.",
@@ -33653,7 +33928,7 @@
       "search_text": "warhammer survivors warhammer survivors warhammer survivors is the official grim and dark bullet-heaven game from the developers of warhammer 40,000 boltgun. play as over 40 iconic champions from the warhammer 40,000 and warhammer age of sigmar universes and obliterate those who champion death and destruction. action casual indie rpg single-player steam achievements full controller support camera comfort custom volume controls keyboard only option #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support stereo sound steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese turkish ukrainian mixed<br>69% of the 182 user reviews for this game are positive.",
       "first_seen": "2026-11-10T14:33:42+00:00",
       "last_seen": "2026-11-10T14:33:42+00:00",
-      "updated_at": "2026-11-10T14:33:42+00:00"
+      "updated_at": "2026-11-10T21:06:18+00:00"
     },
     {
       "app_id": 3178350,
@@ -35331,6 +35606,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 1399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 22800,
+          "final": 7980
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 68900,
+          "final": 24100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 13700,
+          "final": 4795
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 510000,
+          "final": 178500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4100000,
+          "final": 1435000
         }
       },
       "review_hint": "Very Positive<br>88% of the 256 user reviews for this game are positive.",
@@ -35345,7 +35645,7 @@
       "search_text": "world of outlaws: dirt racing 24 gold edition world of outlaws: dirt racing 24 gold edition iracing presents the official game of the world of outlaws, featuring the world of outlaws sprint car, late models and super dirtcar big block modifieds, as well as 8 additional series including the all-new micro sprints, and many others. racing simulation sports single-player multi-player pvp online pvp shared/split screen pvp shared/split screen steam achievements gamepad recommended partial controller support steam cloud remote play together family sharing english very positive<br>88% of the 256 user reviews for this game are positive.",
       "first_seen": "2026-11-10T14:33:42+00:00",
       "last_seen": "2026-11-10T14:33:42+00:00",
-      "updated_at": "2026-11-10T14:33:42+00:00"
+      "updated_at": "2026-11-10T21:06:18+00:00"
     },
     {
       "app_id": 1548180,
