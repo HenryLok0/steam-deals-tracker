@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T01:18:43+00:00",
+  "updated_at": "2026-11-10T10:39:37+00:00",
   "total_count": 5027,
   "active_count": 347,
   "games": [
@@ -7351,6 +7351,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1349
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8700,
+          "final": 7830
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 30800,
+          "final": 27700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4500,
+          "final": 4050
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 190000,
+          "final": 171000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1600000,
+          "final": 1440000
         }
       },
       "review_hint": "",
@@ -7365,7 +7390,7 @@
       "search_text": "cinema theater tycoon cinema theater tycoon tycoon game where you manage your movie theater through more than 100 years of history. build and customize your cinematic empire without being overtaken by the evolution of the 7th art. casual indie simulation strategy single-player steam achievements steam workshop camera comfort custom volume controls adjustable difficulty mouse only option narrated game menus #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime stereo sound subtitle options partial controller support steam cloud stats family sharing english french italian german spanish-spain schinese korean japanese tchinese russian portuguese-brazil",
       "first_seen": "2026-11-10T01:18:43+00:00",
       "last_seen": "2026-11-10T01:18:43+00:00",
-      "updated_at": "2026-11-10T01:18:43+00:00"
+      "updated_at": "2026-11-10T10:39:37+00:00"
     },
     {
       "app_id": 1903340,
@@ -10690,6 +10715,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 6250
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 16400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6900,
+          "final": 3450
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 200000,
+          "final": 100000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1950000,
+          "final": 975000
         }
       },
       "review_hint": "Very Positive<br>84% of the 852 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -10704,7 +10754,7 @@
       "search_text": "drill core drill core corporate greed meets strategic planet-mining in drill core! drill to the heart of planets while managing workers, researching cutting-edge tech, and fortifying against alien attacks. will you prioritize efficiency and risk your workers' safety, or focus on defense for survival? indie strategy single-player steam achievements full controller support steam cloud steam leaderboards family sharing english french german spanish-spain portuguese-brazil russian schinese ukrainian japanese korean serbian very positive<br>84% of the 852 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-10T01:18:43+00:00",
       "last_seen": "2026-11-10T01:18:43+00:00",
-      "updated_at": "2026-11-10T01:18:43+00:00"
+      "updated_at": "2026-11-10T10:39:37+00:00"
     },
     {
       "app_id": 2525310,
@@ -10868,6 +10918,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15500,
+          "final": 3875
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 59600,
+          "final": 14900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6400,
+          "final": 1600
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 198000,
+          "final": 49500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2100000,
+          "final": 525000
         }
       },
       "review_hint": "Mixed<br>67% of the 3,861 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -10882,7 +10957,7 @@
       "search_text": "duke nukem forever duke nukem forever the king arrives with an arsenal of over-the-top weapons, giant explosions and pure unadulterated fun! action single-player multi-player pvp online pvp steam achievements full controller support color alternatives custom volume controls adjustable difficulty stereo sound steam cloud stats steam leaderboards family sharing english french german italian spanish-spain mixed<br>67% of the 3,861 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-10T01:18:43+00:00",
       "last_seen": "2026-11-10T01:18:43+00:00",
-      "updated_at": "2026-11-10T01:18:43+00:00"
+      "updated_at": "2026-11-10T10:39:37+00:00"
     },
     {
       "app_id": 5101960,
@@ -13116,6 +13191,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 2599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 17800,
+          "final": 11570
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 58900,
+          "final": 38200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 12600,
+          "final": 8190
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 498000,
+          "final": 323700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4100000,
+          "final": 2665000
         }
       },
       "review_hint": "",
@@ -13130,7 +13230,7 @@
       "search_text": "evenicle - next fragment medica evenicle - next fragment medica in a world where human civilization is threatened by monsters, only the rare few individuals who wield forbidden skills dare challenge them. however, these brave warriors have to face an even more dangerous hazard... the hero syndrome. only a young doctor can hope to cure the disease in this jrpg! rpg single-player custom volume controls mouse only option #category_playable_at_your_own_pace playable without timed input save anytime subtitle options steam cloud family sharing english",
       "first_seen": "2026-11-10T01:18:43+00:00",
       "last_seen": "2026-11-10T01:18:43+00:00",
-      "updated_at": "2026-11-10T01:18:43+00:00"
+      "updated_at": "2026-11-10T10:39:37+00:00"
     },
     {
       "app_id": 3818450,
@@ -14537,6 +14637,31 @@
           "currency": "USD",
           "original": 799,
           "final": 719
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5400,
+          "final": 4860
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21800,
+          "final": 19600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 2520
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 110000,
+          "final": 99000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 950000,
+          "final": 855000
         }
       },
       "review_hint": "",
@@ -14551,7 +14676,7 @@
       "search_text": "for the king ii: dust to dust character pack for the king ii: dust to dust character pack dig in and give your party a fighting chance with the dust to dust character pack! adventure indie rpg strategy single-player multi-player co-op online co-op shared/split screen co-op shared/split screen cross-platform multiplayer downloadable content steam achievements full controller support steam trading cards adjustable text size camera comfort custom volume controls adjustable difficulty keyboard only option mouse only option dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime steam cloud remote play together family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese tchinese ukrainian",
       "first_seen": "2026-11-10T01:18:43+00:00",
       "last_seen": "2026-11-10T01:18:43+00:00",
-      "updated_at": "2026-11-10T01:18:43+00:00"
+      "updated_at": "2026-11-10T10:39:37+00:00"
     },
     {
       "app_id": 3840400,
@@ -14633,6 +14758,31 @@
           "currency": "USD",
           "original": 799,
           "final": 599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5400,
+          "final": 4050
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21800,
+          "final": 16300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 2100
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 110000,
+          "final": 82500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 950000,
+          "final": 712000
         }
       },
       "review_hint": "Mixed<br>59% of the 61 user reviews for this game are positive.",
@@ -14647,7 +14797,7 @@
       "search_text": "for the king ii: fallen oaths character pack for the king ii: fallen oaths character pack strength and honor is at the forefront as we introduce two new playable characters - the fallen knight and the voidwalker. these characters bring a host of new content to fahrul, and beyond, to aid you in your journey - new weapons, a new trait, a new merc, and more! adventure indie rpg strategy single-player multi-player co-op online co-op shared/split screen co-op shared/split screen cross-platform multiplayer downloadable content steam achievements full controller support steam trading cards adjustable text size camera comfort custom volume controls adjustable difficulty keyboard only option mouse only option dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime steam cloud remote play together family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese tchinese ukrainian mixed<br>59% of the 61 user reviews for this game are positive.",
       "first_seen": "2026-11-10T01:18:43+00:00",
       "last_seen": "2026-11-10T01:18:43+00:00",
-      "updated_at": "2026-11-10T01:18:43+00:00"
+      "updated_at": "2026-11-10T10:39:37+00:00"
     },
     {
       "app_id": 4354810,
@@ -14729,6 +14879,31 @@
           "currency": "USD",
           "original": 799,
           "final": 599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5400,
+          "final": 4050
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21800,
+          "final": 16300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 2100
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 110000,
+          "final": 82500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 950000,
+          "final": 712000
         }
       },
       "review_hint": "Positive<br>81% of the 22 user reviews for this game are positive.",
@@ -14743,7 +14918,7 @@
       "search_text": "for the king ii: into the wild character pack for the king ii: into the wild character pack the angler and the beekeeper bring with them a menagerie of new content to for the king ii - including two all-new weapon sets, a new trait, a new merc, a new pet, and a fantastic new cosmetic skin. adventure indie rpg strategy single-player multi-player co-op online co-op shared/split screen co-op shared/split screen cross-platform multiplayer downloadable content steam achievements full controller support steam trading cards adjustable text size camera comfort custom volume controls adjustable difficulty keyboard only option mouse only option dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime steam cloud remote play together family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese tchinese ukrainian positive<br>81% of the 22 user reviews for this game are positive.",
       "first_seen": "2026-11-10T01:18:43+00:00",
       "last_seen": "2026-11-10T01:18:43+00:00",
-      "updated_at": "2026-11-10T01:18:43+00:00"
+      "updated_at": "2026-11-10T10:39:37+00:00"
     },
     {
       "app_id": 3840390,
@@ -14825,6 +15000,31 @@
           "currency": "USD",
           "original": 799,
           "final": 599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5400,
+          "final": 4050
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21800,
+          "final": 16300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 2100
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 110000,
+          "final": 82500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 950000,
+          "final": 712000
         }
       },
       "review_hint": "Very Positive<br>89% of the 65 user reviews for this game are positive.",
@@ -14839,7 +15039,7 @@
       "search_text": "for the king ii: tinkerers of fate character pack for the king ii: tinkerers of fate character pack bolster your adventures and renew the strength of the resistance with the tinkerers of fate character pack! adventure indie rpg strategy single-player multi-player co-op online co-op shared/split screen co-op shared/split screen cross-platform multiplayer downloadable content steam achievements full controller support steam trading cards adjustable text size camera comfort custom volume controls adjustable difficulty keyboard only option mouse only option dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime steam cloud remote play together family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese tchinese ukrainian very positive<br>89% of the 65 user reviews for this game are positive.",
       "first_seen": "2026-11-10T01:18:43+00:00",
       "last_seen": "2026-11-10T01:18:43+00:00",
-      "updated_at": "2026-11-10T01:18:43+00:00"
+      "updated_at": "2026-11-10T10:39:37+00:00"
     },
     {
       "app_id": 410900,
@@ -15650,6 +15850,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1274
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7900,
+          "final": 6715
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27800,
+          "final": 23600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5400,
+          "final": 4590
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 210000,
+          "final": 178500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1700000,
+          "final": 1445000
         }
       },
       "review_hint": "Positive<br>89% of the 39 user reviews for this game are positive.",
@@ -15664,7 +15889,7 @@
       "search_text": "go next! go next! your weapons fire on their own. your job is to keep moving. wall-run, dash and bunny-hop through hordes of monsters across 11 worlds, and turn 71 weapons and 131 items into an unstoppable build. play solo or in online co-op for up to 4 players. action adventure indie single-player multi-player co-op online co-op steam achievements full controller support adjustable text size camera comfort color alternatives custom volume controls adjustable difficulty playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support stereo sound steam cloud stats steam leaderboards family sharing steam timeline english french italian german spanish-spain czech dutch japanese korean polish portuguese---portugal russian schinese spanish-latin tchinese turkish ukrainian hungarian indonesian portuguese-brazil positive<br>89% of the 39 user reviews for this game are positive.",
       "first_seen": "2026-11-10T01:18:43+00:00",
       "last_seen": "2026-11-10T01:18:43+00:00",
-      "updated_at": "2026-11-10T01:18:43+00:00"
+      "updated_at": "2026-11-10T10:39:37+00:00"
     },
     {
       "app_id": 265930,
@@ -18342,6 +18567,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 7800
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 20400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9200,
+          "final": 4600
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 140000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 1350000
         }
       },
       "review_hint": "Mostly Positive<br>72% of the 1,246 user reviews for this game are positive.",
@@ -18356,7 +18606,7 @@
       "search_text": "iracing arcade iracing arcade race across global licensed series and build your own racing team to secure your motorsport legacy in this third person arcade racer. racing single-player multi-player pvp online pvp shared/split screen pvp shared/split screen steam achievements full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support family sharing english french italian german portuguese-brazil schinese spanish-latin tchinese mostly positive<br>72% of the 1,246 user reviews for this game are positive.",
       "first_seen": "2026-11-10T01:18:43+00:00",
       "last_seen": "2026-11-10T01:18:43+00:00",
-      "updated_at": "2026-11-10T01:18:43+00:00"
+      "updated_at": "2026-11-10T10:39:37+00:00"
     },
     {
       "app_id": 4883590,
@@ -18416,6 +18666,31 @@
           "currency": "USD",
           "original": 5999,
           "final": 4499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 33600,
+          "final": 25200
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 103000,
+          "final": 77200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 20000,
+          "final": 15000
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 735000,
+          "final": 551200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 6150000,
+          "final": 4612000
         }
       },
       "review_hint": "Mostly Positive<br>74% of the 458 user reviews for this game are positive.",
@@ -18430,7 +18705,7 @@
       "search_text": "iracing® studios nascar 26 iracing® studios nascar 26 the official game of nascar is back and better than ever with nascar 26! battle your way through all four nascar national series in career, quick race, championship, multiplayer, or our all new mode featuring the chase! racing simulation sports single-player multi-player pvp online pvp steam achievements camera comfort custom volume controls adjustable difficulty gamepad recommended playable without timed input dualsense controller support stereo sound surround sound partial controller support steam cloud family sharing english mostly positive<br>74% of the 458 user reviews for this game are positive.",
       "first_seen": "2026-11-10T01:18:43+00:00",
       "last_seen": "2026-11-10T01:18:43+00:00",
-      "updated_at": "2026-11-10T01:18:43+00:00"
+      "updated_at": "2026-11-10T10:39:37+00:00"
     },
     {
       "app_id": 2950790,
@@ -20805,6 +21080,31 @@
           "currency": "USD",
           "original": 4999,
           "final": 3749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 30800,
+          "final": 23100
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 119000,
+          "final": 89200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 19800,
+          "final": 14850
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 648000,
+          "final": 486000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 5480000,
+          "final": 4110000
         }
       },
       "review_hint": "Very Positive<br>83% of the 10,027 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -20819,7 +21119,7 @@
       "search_text": "mortal shell ii mortal shell ii their flesh is your weapon. mortal shell ii is a standalone sequel action-rpg with adrenaline-charged, high-stakes combat. possess warrior shells, dethrone false gods, redeem a ravaged world. action rpg single-player steam achievements full controller support adjustable text size #category_contrast_controls custom volume controls playable without timed input dualshock controller support dualsense controller support dualsense controller support stereo sound subtitle options steam cloud family sharing english french italian german spanish-spain japanese polish portuguese-brazil portuguese---portugal russian schinese spanish-latin tchinese korean ukrainian very positive<br>83% of the 10,027 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-10T01:18:43+00:00",
       "last_seen": "2026-11-10T01:18:43+00:00",
-      "updated_at": "2026-11-10T01:18:43+00:00"
+      "updated_at": "2026-11-10T10:39:37+00:00"
     },
     {
       "app_id": 2830030,
@@ -20981,6 +21281,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15000,
+          "final": 3000
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 62000,
+          "final": 12400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9000,
+          "final": 1800
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 270000,
+          "final": 54000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 540000
         }
       },
       "review_hint": "Very Positive<br>90% of the 5,202 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -20995,7 +21320,7 @@
       "search_text": "motorsport manager motorsport manager have you got what it takes to become the manager of a high-performance motorsport team? motorsport manager is a highly detailed, best-in-class management game for fans of motorsport. you’ll hire the drivers, build the cars and embed yourself in the dynamic world of racing. racing simulation sports strategy single-player steam achievements steam trading cards steam workshop steam cloud family sharing english french italian german spanish-spain polish russian portuguese-brazil dutch hungarian very positive<br>90% of the 5,202 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-10T01:18:43+00:00",
       "last_seen": "2026-11-10T01:18:43+00:00",
-      "updated_at": "2026-11-10T01:18:43+00:00"
+      "updated_at": "2026-11-10T10:39:37+00:00"
     },
     {
       "app_id": 5181520,
@@ -21576,6 +21901,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1699
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11500,
+          "final": 9775
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37700,
+          "final": 32000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7700,
+          "final": 6545
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 260000,
+          "final": 221000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2100000,
+          "final": 1785000
         }
       },
       "review_hint": "",
@@ -21590,7 +21940,7 @@
       "search_text": "neo junk city neo junk city sinister tides are rising in the drowned city. dive into a point and click action-rpg with fast-paced shoot-outs and retro arcade racing. uncover the truth behind a murder you don't remember committing! action adventure indie rpg single-player steam achievements full controller support custom volume controls playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime stereo sound subtitle options steam cloud family sharing english japanese portuguese-brazil german spanish-latin russian schinese tchinese",
       "first_seen": "2026-11-10T01:18:43+00:00",
       "last_seen": "2026-11-10T01:18:43+00:00",
-      "updated_at": "2026-11-10T01:18:43+00:00"
+      "updated_at": "2026-11-10T10:39:37+00:00"
     },
     {
       "app_id": 1454970,
@@ -22279,6 +22629,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 1104
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6900,
+          "final": 5865
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 24800,
+          "final": 21000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4500,
+          "final": 3825
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 185000,
+          "final": 157200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1450000,
+          "final": 1232000
         }
       },
       "review_hint": "Positive<br>100% of the 20 user reviews for this game are positive.",
@@ -22293,7 +22668,7 @@
       "search_text": "oboro no ichi oboro no ichi build and manage a spiritual market inspired by japan, welcome wandering spirits, produce and sell resources, and grow your space through memories and a cozy atmosphere. casual indie simulation early access single-player adjustable text size camera comfort color alternatives custom volume controls adjustable difficulty mouse only option #category_playable_at_your_own_pace playable without timed input save anytime stereo sound subtitle options steam cloud family sharing english italian spanish-spain schinese korean japanese russian french german positive<br>100% of the 20 user reviews for this game are positive.",
       "first_seen": "2026-11-10T01:18:43+00:00",
       "last_seen": "2026-11-10T01:18:43+00:00",
-      "updated_at": "2026-11-10T01:18:43+00:00"
+      "updated_at": "2026-11-10T10:39:37+00:00"
     },
     {
       "app_id": 3339880,
@@ -22441,6 +22816,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1699
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10500,
+          "final": 8925
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 34800,
+          "final": 29500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7000,
+          "final": 5950
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 238000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2250000,
+          "final": 1912000
         }
       },
       "review_hint": "",
@@ -22455,7 +22855,7 @@
       "search_text": "one fenix down one fenix down a retro-inspired, classic turn-based rpg for those with nostalgia for the '90s golden era. explore a vast world with 14 playable characters, fight hundreds of unique enemies, and delve into an epic story of war, betrayal, and redemption. adventure indie rpg single-player steam achievements full controller support gamepad recommended family sharing english",
       "first_seen": "2026-11-10T01:18:43+00:00",
       "last_seen": "2026-11-10T01:18:43+00:00",
-      "updated_at": "2026-11-10T01:18:43+00:00"
+      "updated_at": "2026-11-10T10:39:37+00:00"
     },
     {
       "app_id": 420530,
@@ -25875,6 +26275,31 @@
           "currency": "USD",
           "original": 699,
           "final": 594
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3800,
+          "final": 3230
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14800,
+          "final": 12500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2500,
+          "final": 2125
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 98500,
+          "final": 83700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 780000,
+          "final": 663000
         }
       },
       "review_hint": "Positive<br>100% of the 17 user reviews for this game are positive.",
@@ -25889,7 +26314,7 @@
       "search_text": "project tomorrow project tomorrow a base-building survival game with terraforming and crafting. earth lies poisoned and abandoned ten thousand years after invasion. awaken from stasis, defend your fragile foothold, and restore a dead world so humanity can live here again. strategy early access single-player steam achievements full controller support custom volume controls adjustable difficulty dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime stereo sound steam cloud family sharing english french german spanish-spain schinese portuguese-brazil russian positive<br>100% of the 17 user reviews for this game are positive.",
       "first_seen": "2026-11-10T01:18:43+00:00",
       "last_seen": "2026-11-10T01:18:43+00:00",
-      "updated_at": "2026-11-10T01:18:43+00:00"
+      "updated_at": "2026-11-10T10:39:37+00:00"
     },
     {
       "app_id": 3432860,
@@ -26780,6 +27205,31 @@
           "currency": "USD",
           "original": 799,
           "final": 679
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4400,
+          "final": 3740
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15800,
+          "final": 13400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 2380
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 115000,
+          "final": 97700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 895000,
+          "final": 761000
         }
       },
       "review_hint": "Mixed<br>53% of the 63 user reviews for this game are positive.",
@@ -26794,7 +27244,7 @@
       "search_text": "safari-tv safari-tv run a safari agency with friends in chaotic 2–4 player co-op. drive a fully destructible, physics-based truck, take care of tourists, and survive wildlife encounters. film the chaos, watch your videos together, and grow your in-game channel. action adventure indie early access multi-player co-op online co-op steam achievements full controller support family sharing english french italian german spanish-spain bulgarian czech danish dutch finnish greek hungarian indonesian japanese korean malay norwegian polish portuguese-brazil portuguese---portugal romanian russian schinese spanish-latin swedish thai tchinese turkish ukrainian vietnamese arabic mixed<br>53% of the 63 user reviews for this game are positive.",
       "first_seen": "2026-11-10T01:18:43+00:00",
       "last_seen": "2026-11-10T01:18:43+00:00",
-      "updated_at": "2026-11-10T01:18:43+00:00"
+      "updated_at": "2026-11-10T10:39:37+00:00"
     },
     {
       "app_id": 2161440,
@@ -27565,6 +28015,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 974
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8700,
+          "final": 5655
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 30800,
+          "final": 20000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5900,
+          "final": 3835
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 190000,
+          "final": 123500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1600000,
+          "final": 1040000
         }
       },
       "review_hint": "Mostly Positive<br>76% of the 721 user reviews for this game are positive.",
@@ -27579,7 +28054,7 @@
       "search_text": "signs of life signs of life signs of life is a sci-fi survival sandbox platformer you can play alone or with friends in online co-op multiplayer. explore a procedurally generated world, discover hand-crafted locations, and uncover the story of the life that was here before you. action adventure casual indie rpg single-player multi-player pvp online pvp co-op online co-op steam achievements steam trading cards steam cloud family sharing english mostly positive<br>76% of the 721 user reviews for this game are positive.",
       "first_seen": "2026-11-10T01:18:43+00:00",
       "last_seen": "2026-11-10T01:18:43+00:00",
-      "updated_at": "2026-11-10T01:18:43+00:00"
+      "updated_at": "2026-11-10T10:39:37+00:00"
     },
     {
       "app_id": 4992070,
@@ -28901,6 +29376,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11500,
+          "final": 10350
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37700,
+          "final": 33900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7000,
+          "final": 6300
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 260000,
+          "final": 234000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2100000,
+          "final": 1890000
         }
       },
       "review_hint": "",
@@ -28915,7 +29415,7 @@
       "search_text": "takeover 2 takeover 2 take to the streets solo or with a partner in this fast paced, high-impact arcade beat ’em up. takeover returns with refined gameplay, upgraded visuals and a pulse-pounding new soundtrack. action casual indie single-player multi-player co-op shared/split screen co-op shared/split screen steam achievements full controller support custom volume controls adjustable difficulty gamepad recommended keyboard only option playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud steam leaderboards remote play together family sharing english french german spanish-spain portuguese-brazil",
       "first_seen": "2026-11-10T01:18:43+00:00",
       "last_seen": "2026-11-10T01:18:43+00:00",
-      "updated_at": "2026-11-10T01:18:43+00:00"
+      "updated_at": "2026-11-10T10:39:37+00:00"
     },
     {
       "app_id": 330830,
@@ -32936,6 +33436,31 @@
           "currency": "USD",
           "original": 599,
           "final": 479
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3300,
+          "final": 2640
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 12800,
+          "final": 10200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1760
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 84500,
+          "final": 67600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 670000,
+          "final": 536000
         }
       },
       "review_hint": "",
@@ -32950,7 +33475,7 @@
       "search_text": "waifu curator waifu curator restore a chaotic waifu museum by finding, sorting, and displaying 420 collectible figures made up of over 3,600 scattered pieces. organize every collection and bring the ultimate waifu exhibition to life! casual indie simulation single-player steam achievements custom volume controls #category_playable_at_your_own_pace playable without timed input save anytime steam cloud family sharing english french italian german japanese portuguese-brazil portuguese---portugal schinese spanish-spain spanish-latin russian",
       "first_seen": "2026-11-10T01:18:43+00:00",
       "last_seen": "2026-11-10T01:18:43+00:00",
-      "updated_at": "2026-11-10T01:18:43+00:00"
+      "updated_at": "2026-11-10T10:39:37+00:00"
     },
     {
       "app_id": 1910150,
@@ -33673,6 +34198,31 @@
           "currency": "USD",
           "original": 699,
           "final": 489
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4200,
+          "final": 2940
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15900,
+          "final": 11100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 1960
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 90500,
+          "final": 63300
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 690000,
+          "final": 483000
         }
       },
       "review_hint": "Positive<br>96% of the 28 user reviews for this game are positive.",
@@ -33687,7 +34237,7 @@
       "search_text": "what the buck?! what the buck?! what the buck?! is a satisfying incremental game about destroying money. shred stacks of cash, set off chain reactions across the table, prestige for permanent upgrades and automate your money destruction. your demo progress carries over to the full game. casual indie simulation strategy single-player steam achievements full controller support adjustable text size camera comfort color alternatives custom volume controls mouse only option #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime touch only option steam cloud family sharing english french italian german spanish-spain portuguese-brazil tchinese schinese japanese korean polish portuguese---portugal russian spanish-latin turkish ukrainian indonesian bulgarian danish finnish greek malay dutch norwegian romanian swedish czech hungarian arabic thai vietnamese positive<br>96% of the 28 user reviews for this game are positive.",
       "first_seen": "2026-11-10T01:18:43+00:00",
       "last_seen": "2026-11-10T01:18:43+00:00",
-      "updated_at": "2026-11-10T01:18:43+00:00"
+      "updated_at": "2026-11-10T10:39:37+00:00"
     },
     {
       "app_id": 3546610,
@@ -35302,6 +35852,31 @@
           "currency": "USD",
           "original": 699,
           "final": 454
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3600,
+          "final": 2340
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15200,
+          "final": 9800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 1820
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 98500,
+          "final": 64000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 780000,
+          "final": 507000
         }
       },
       "review_hint": "",
@@ -35316,7 +35891,7 @@
       "search_text": "worst class ever worst class ever 1 teacher vs 7 students. hide. prank. survive. up to 8-player asymmetric party chaos! mischievous students blend into dozens of npc classmates, secretly snacking, texting, and causing trouble, while the teacher must spot these wannabe delinquents and restore complete order to the classroom. action adventure casual indie simulation multi-player pvp online pvp lan pvp co-op online co-op lan co-op steam achievements steam workshop custom volume controls stereo sound steam cloud family sharing english schinese tchinese french german japanese korean",
       "first_seen": "2026-11-10T01:18:43+00:00",
       "last_seen": "2026-11-10T01:18:43+00:00",
-      "updated_at": "2026-11-10T01:18:43+00:00"
+      "updated_at": "2026-11-10T10:39:37+00:00"
     },
     {
       "app_id": 3717070,
