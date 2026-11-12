@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T00:15:47+00:00",
+  "updated_at": "2026-11-12T10:31:17+00:00",
   "total_count": 5087,
   "active_count": 347,
   "games": [
@@ -4047,6 +4047,31 @@
           "currency": "USD",
           "original": 899,
           "final": 809
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5000,
+          "final": 4500
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 12800,
+          "final": 11500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2900,
+          "final": 2610
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 100000,
+          "final": 90000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 765000,
+          "final": 688000
         }
       },
       "review_hint": "",
@@ -4061,7 +4086,7 @@
       "search_text": "apotheosis engine apotheosis engine lost in the void, a space probe awakens to a mind it was never designed to possess. apotheosis engine is a lore-rich incremental game about exploring an alien operating system and growing from a simple probe into a digital deity. action casual indie simulation strategy single-player steam achievements adjustable text size camera comfort color alternatives #category_contrast_controls custom volume controls mouse only option #category_playable_at_your_own_pace playable without timed input save anytime steam cloud steam leaderboards family sharing english french italian german spanish-spain japanese portuguese-brazil schinese korean russian",
       "first_seen": "2026-11-12T00:15:47+00:00",
       "last_seen": "2026-11-12T00:15:47+00:00",
-      "updated_at": "2026-11-12T00:15:47+00:00"
+      "updated_at": "2026-11-12T10:31:17+00:00"
     },
     {
       "app_id": 3904850,
@@ -4235,6 +4260,31 @@
           "currency": "USD",
           "original": 499,
           "final": 424
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3300,
+          "final": 2805
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 10500,
+          "final": 8900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1870
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 84500,
+          "final": 71800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 670000,
+          "final": 569000
         }
       },
       "review_hint": "Positive<br>86% of the 23 user reviews for this game are positive.",
@@ -4249,7 +4299,7 @@
       "search_text": "armory keeper armory keeper restore order to a massive armory solo or with friends in co-op! sort over 3,000 weapons based on real-world firearms, ammunition, grenades, and military equipment into their proper places. unlock abilities to work faster, or take a break at the shooting range! casual indie simulation single-player multi-player co-op online co-op steam achievements full controller support custom volume controls #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime steam cloud family sharing english japanese korean schinese tchinese turkish positive<br>86% of the 23 user reviews for this game are positive.",
       "first_seen": "2026-11-12T00:15:47+00:00",
       "last_seen": "2026-11-12T00:15:47+00:00",
-      "updated_at": "2026-11-12T00:15:47+00:00"
+      "updated_at": "2026-11-12T10:31:17+00:00"
     },
     {
       "app_id": 3499790,
@@ -7159,6 +7209,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8900,
+          "final": 3560
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 31800,
+          "final": 12700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4800,
+          "final": 1920
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 198000,
+          "final": 79200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2050000,
+          "final": 820000
         }
       },
       "review_hint": "Very Positive<br>85% of the 4,797 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -7173,7 +7248,7 @@
       "search_text": "bright memory: infinite bright memory: infinite bright memory: infinite is an all-new lightning-fast fusion of the fps and action genres, created by fyqd-studio. combine a wide variety of skills and abilities to unleash dazzling combo attacks. action indie single-player steam achievements partial controller support steam cloud family sharing english japanese french italian german spanish-latin portuguese-brazil russian korean schinese tchinese very positive<br>85% of the 4,797 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-12T00:15:47+00:00",
       "last_seen": "2026-11-12T00:15:47+00:00",
-      "updated_at": "2026-11-12T00:15:47+00:00"
+      "updated_at": "2026-11-12T10:31:17+00:00"
     },
     {
       "app_id": 1942280,
@@ -13940,6 +14015,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7800,
+          "final": 6240
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29800,
+          "final": 23800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 4640
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 210000,
+          "final": 168000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1700000,
+          "final": 1360000
         }
       },
       "review_hint": "Positive<br>91% of the 48 user reviews for this game are positive.",
@@ -13954,7 +14054,7 @@
       "search_text": "farm & feast farm & feast grow fresh ingredients and run your own little restaurant. enjoy a peaceful day that stretches from the field to the table. plan a fresh menu for a delightful day, keep your pantry full, and make your customers happy. earn your own money and build your little world step by step. casual indie simulation early access single-player steam achievements full controller support custom volume controls adjustable difficulty #category_playable_at_your_own_pace playable without timed input dualsense controller support dualsense controller support save anytime steam cloud family sharing english french german spanish-spain schinese tchinese japanese korean spanish-latin portuguese---portugal russian turkish ukrainian italian positive<br>91% of the 48 user reviews for this game are positive.",
       "first_seen": "2026-11-12T00:15:47+00:00",
       "last_seen": "2026-11-12T00:15:47+00:00",
-      "updated_at": "2026-11-12T00:15:47+00:00"
+      "updated_at": "2026-11-12T10:31:17+00:00"
     },
     {
       "app_id": 2492040,
@@ -15779,6 +15879,31 @@
           "currency": "USD",
           "original": 999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4500,
+          "final": 3600
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 13900,
+          "final": 11100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3500,
+          "final": 2800
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 88000,
+          "final": 70400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 980000,
+          "final": 784000
         }
       },
       "review_hint": "Positive<br>84% of the 13 user reviews for this game are positive.",
@@ -15793,7 +15918,7 @@
       "search_text": "gas n cars gas n cars run a chaotic gas station sandbox: fuel cars, clean and repair vehicles, buy wild tools, catch wanted drivers, earn reviews, unlock upgrades, climb the leaderboard, or turn every stop into total mayhem. casual simulation single-player full controller support vr supported adjustable text size camera comfort #category_contrast_controls custom volume controls #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime stereo sound family sharing english french italian german spanish-spain arabic schinese spanish-latin portuguese-brazil russian positive<br>84% of the 13 user reviews for this game are positive.",
       "first_seen": "2026-11-12T00:15:47+00:00",
       "last_seen": "2026-11-12T00:15:47+00:00",
-      "updated_at": "2026-11-12T00:15:47+00:00"
+      "updated_at": "2026-11-12T10:31:17+00:00"
     },
     {
       "app_id": 5017810,
@@ -17097,6 +17222,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11000,
+          "final": 9900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 29500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 6840
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 200000,
+          "final": 180000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1900000,
+          "final": 1710000
         }
       },
       "review_hint": "",
@@ -17111,7 +17261,7 @@
       "search_text": "hope in the city hope in the city 17-year-old hope song thought the national exams were her biggest worry... until she got home to a ransacked apartment and two missing parents. investigate through the eyes of an artist, turn sketches into evidence, and watch her family's mystery grow stranger and darker with every answer. adventure indie single-player steam achievements full controller support custom volume controls adjustable difficulty #category_playable_at_your_own_pace playable without timed input dualshock controller support save anytime steam cloud family sharing english korean schinese japanese tchinese",
       "first_seen": "2026-11-12T00:15:47+00:00",
       "last_seen": "2026-11-12T00:15:47+00:00",
-      "updated_at": "2026-11-12T00:15:47+00:00"
+      "updated_at": "2026-11-12T10:31:17+00:00"
     },
     {
       "app_id": 3326230,
@@ -18260,6 +18410,31 @@
           "currency": "USD",
           "original": 1990,
           "final": 1791
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11449,
+          "final": 10304
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37500,
+          "final": 33700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7666,
+          "final": 6899
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 258800,
+          "final": 232900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2091000,
+          "final": 1882000
         }
       },
       "review_hint": "",
@@ -18274,7 +18449,7 @@
       "search_text": "imperial grace imperial grace imperial grace is a visual novel about romance, medieval intrigue, and political strategy. will you rule with your head, or your heart? adventure indie single-player steam achievements full controller support adjustable text size camera comfort color alternatives #category_contrast_controls custom volume controls adjustable difficulty keyboard only option mouse only option #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime family sharing english french",
       "first_seen": "2026-11-12T00:15:47+00:00",
       "last_seen": "2026-11-12T00:15:47+00:00",
-      "updated_at": "2026-11-12T00:15:47+00:00"
+      "updated_at": "2026-11-12T10:31:17+00:00"
     },
     {
       "app_id": 5475960,
@@ -18963,6 +19138,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 959
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6500,
+          "final": 5200
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 23900,
+          "final": 19100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4500,
+          "final": 3600
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 130000,
+          "final": 104000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1350000,
+          "final": 1080000
         }
       },
       "review_hint": "Positive<br>100% of the 43 user reviews for this game are positive.",
@@ -18977,7 +19177,7 @@
       "search_text": "john gleep john gleep john gleep is a tiny alien with a big problem. his casino is a failure and he owes the mob a galaxy. solution? fly from planet to planet and forcibly abduct gamblers to boost business, pay off your debt, and fix your failed marriage in this unexplainable intergalactic action-roguelike mashup. casual indie strategy single-player steam achievements full controller support camera comfort color alternatives custom volume controls adjustable difficulty playable without timed input dualshock controller support dualsense controller support steam cloud family sharing english spanish-spain japanese portuguese-brazil schinese french russian positive<br>100% of the 43 user reviews for this game are positive.",
       "first_seen": "2026-11-12T00:15:47+00:00",
       "last_seen": "2026-11-12T00:15:47+00:00",
-      "updated_at": "2026-11-12T00:15:47+00:00"
+      "updated_at": "2026-11-12T10:31:17+00:00"
     },
     {
       "app_id": 1903620,
@@ -19246,6 +19446,31 @@
           "currency": "USD",
           "original": 1799,
           "final": 1079
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11300,
+          "final": 6780
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29800,
+          "final": 17800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6800,
+          "final": 4080
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 200000,
+          "final": 120000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1950000,
+          "final": 1170000
         }
       },
       "review_hint": "Mostly Positive<br>77% of the 401 user reviews for this game are positive.",
@@ -19260,7 +19485,7 @@
       "search_text": "lanesplit lanesplit push performance bikes to the absolute limit, and weave through traffic where one wrong move can spell disaster. action indie racing simulation sports single-player multi-player pvp online pvp co-op online co-op steam achievements full controller support custom volume controls keyboard only option playable without timed input stereo sound surround sound steam leaderboards family sharing english mostly positive<br>77% of the 401 user reviews for this game are positive.",
       "first_seen": "2026-11-12T00:15:47+00:00",
       "last_seen": "2026-11-12T00:15:47+00:00",
-      "updated_at": "2026-11-12T00:15:47+00:00"
+      "updated_at": "2026-11-12T10:31:17+00:00"
     },
     {
       "app_id": 2776090,
@@ -20801,6 +21026,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 1079
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6500,
+          "final": 5850
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 22800,
+          "final": 20500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 3780
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 168000,
+          "final": 151200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1350000,
+          "final": 1215000
         }
       },
       "review_hint": "Very Positive<br>100% of the 50 user reviews for this game are positive.",
@@ -20815,7 +21065,7 @@
       "search_text": "monomoon monomoon in monomoon, the way forward is reserved for the knowing and the daring. guided by moonlight, you’ll uncover hidden truths and wander through a tiny and mysterious open world. adventure indie single-player steam achievements full controller support custom volume controls narrated game menus playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese spanish-latin tchinese arabic turkish ukrainian very positive<br>100% of the 50 user reviews for this game are positive.",
       "first_seen": "2026-11-12T00:15:47+00:00",
       "last_seen": "2026-11-12T00:15:47+00:00",
-      "updated_at": "2026-11-12T00:15:47+00:00"
+      "updated_at": "2026-11-12T10:31:17+00:00"
     },
     {
       "app_id": 2350790,
@@ -21184,6 +21434,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1699
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10500,
+          "final": 8925
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 34800,
+          "final": 29500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7000,
+          "final": 5950
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 238000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2250000,
+          "final": 1912000
         }
       },
       "review_hint": "Very Positive<br>90% of the 185 user reviews for this game are positive.",
@@ -21198,7 +21473,7 @@
       "search_text": "mycorelic mycorelic mycorelic is a cooperative third person action-rpg set on islands inhabited by tribal mushroom robots. loot derelict foundries to upgrade your robotic body. explore ancient temples to infuse your fungus with forgotten elemental powers. action adventure indie rpg single-player multi-player co-op online co-op full controller support camera comfort custom volume controls dualshock controller support dualsense controller support steam input api support stereo sound family sharing english very positive<br>90% of the 185 user reviews for this game are positive.",
       "first_seen": "2026-11-12T00:15:47+00:00",
       "last_seen": "2026-11-12T00:15:47+00:00",
-      "updated_at": "2026-11-12T00:15:47+00:00"
+      "updated_at": "2026-11-12T10:31:17+00:00"
     },
     {
       "app_id": 3873970,
@@ -24752,6 +25027,31 @@
           "currency": "USD",
           "original": 615,
           "final": 522
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3344,
+          "final": 2842
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 13000,
+          "final": 11000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1870
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 86700,
+          "final": 73700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 686000,
+          "final": 583000
         }
       },
       "review_hint": "Positive<br>100% of the 11 user reviews for this game are positive.",
@@ -24766,7 +25066,7 @@
       "search_text": "potions galore potions galore a slow-paced, cozy sorting game, where you organize 2900+ potions in a fantasy alchemy shop. read the book to learn about each new potion. use narrative deduction to find the correct placement and tidy up the mess! casual indie simulation single-player steam achievements partial controller support steam cloud family sharing english positive<br>100% of the 11 user reviews for this game are positive.",
       "first_seen": "2026-11-12T00:15:47+00:00",
       "last_seen": "2026-11-12T00:15:47+00:00",
-      "updated_at": "2026-11-12T00:15:47+00:00"
+      "updated_at": "2026-11-12T10:31:17+00:00"
     },
     {
       "app_id": 4966730,
@@ -25342,6 +25642,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 987
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8800,
+          "final": 6688
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29900,
+          "final": 22700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 4408
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 188800,
+          "final": 143400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1500000,
+          "final": 1140000
         }
       },
       "review_hint": "Positive<br>95% of the 45 user reviews for this game are positive.",
@@ -25356,7 +25681,7 @@
       "search_text": "rejected draft rejected draft climb out of the trash and fight your way back to the artist who rejected you. defeat sketches, steal their strengths, and begin a months-long incremental journey through an ever-growing web of stats, upgrades, prestige layers, automation, and absurd numbers. easy to start, hard to master. casual indie rpg simulation strategy early access single-player steam achievements adjustable text size camera comfort color alternatives #category_contrast_controls custom volume controls mouse only option #category_playable_at_your_own_pace playable without timed input save anytime touch only option steam cloud steam leaderboards family sharing english german japanese polish russian schinese korean spanish-latin french portuguese-brazil italian positive<br>95% of the 45 user reviews for this game are positive.",
       "first_seen": "2026-11-12T00:15:47+00:00",
       "last_seen": "2026-11-12T00:15:47+00:00",
-      "updated_at": "2026-11-12T00:15:47+00:00"
+      "updated_at": "2026-11-12T10:31:17+00:00"
     },
     {
       "app_id": 3552140,
@@ -30259,6 +30584,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11300,
+          "final": 4520
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29800,
+          "final": 11900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5500,
+          "final": 2200
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 92000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 860000
         }
       },
       "review_hint": "Very Positive<br>90% of the 1,295 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -30273,7 +30623,7 @@
       "search_text": "the last flame the last flame recruit a party of unique heroes, fight deadly encounters, loot and craft powerful gear, discover and create thousands of synergetic builds! the last flame is an endless roguelike auto-battler in which you guide a righteous party of heroes through many challenges. adventure indie rpg strategy single-player steam achievements steam cloud family sharing english schinese tchinese french german japanese korean portuguese-brazil russian spanish-spain very positive<br>90% of the 1,295 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-12T00:15:47+00:00",
       "last_seen": "2026-11-12T00:15:47+00:00",
-      "updated_at": "2026-11-12T00:15:47+00:00"
+      "updated_at": "2026-11-12T10:31:17+00:00"
     },
     {
       "app_id": 1696770,
@@ -31574,6 +31924,31 @@
           "currency": "USD",
           "original": 999,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5500,
+          "final": 4950
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 17800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3500,
+          "final": 3150
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 108000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 945000
         }
       },
       "review_hint": "Positive<br>100% of the 11 user reviews for this game are positive.",
@@ -31588,7 +31963,7 @@
       "search_text": "thronefall - craaghelm thronefall - craaghelm the craaghelm dlc features a wealth of additional content for thronefall, including new maps, weapons, perks, mutators, heroes, and units. action indie strategy single-player downloadable content steam achievements full controller support adjustable text size color alternatives custom volume controls playable without timed input dualshock controller support dualsense controller support steam input api support steam cloud steam leaderboards family sharing english french italian german spanish-spain czech japanese korean polish portuguese-brazil russian schinese turkish ukrainian positive<br>100% of the 11 user reviews for this game are positive.",
       "first_seen": "2026-11-12T00:15:47+00:00",
       "last_seen": "2026-11-12T00:15:47+00:00",
-      "updated_at": "2026-11-12T00:15:47+00:00"
+      "updated_at": "2026-11-12T10:31:17+00:00"
     },
     {
       "app_id": 1286680,
@@ -33024,6 +33399,31 @@
           "currency": "USD",
           "original": 899,
           "final": 719
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5300,
+          "final": 4240
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 15800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3600,
+          "final": 2880
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 99000,
+          "final": 79200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 965000,
+          "final": 772000
         }
       },
       "review_hint": "Positive<br>83% of the 18 user reviews for this game are positive.",
@@ -33038,7 +33438,7 @@
       "search_text": "void reaver void reaver organize. optimize. obliterate. void reaver is a sci-fi bullet heaven where your backpack is your firepower. grid-manage 300+ weapons and artifacts into explosive synergies, unlock specialized skill trees, and blast through alien hordes to a high-octane electronic soundtrack. action rpg single-player steam achievements full controller support adjustable text size camera comfort color alternatives custom volume controls adjustable difficulty playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support stereo sound steam cloud family sharing english french spanish-spain schinese tchinese japanese german korean polish portuguese-brazil russian turkish positive<br>83% of the 18 user reviews for this game are positive.",
       "first_seen": "2026-11-12T00:15:47+00:00",
       "last_seen": "2026-11-12T00:15:47+00:00",
-      "updated_at": "2026-11-12T00:15:47+00:00"
+      "updated_at": "2026-11-12T10:31:17+00:00"
     },
     {
       "app_id": 2615540,
