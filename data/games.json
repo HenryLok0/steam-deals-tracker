@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T14:51:32+00:00",
+  "updated_at": "2026-11-12T21:39:28+00:00",
   "total_count": 5096,
   "active_count": 347,
   "games": [
@@ -5030,6 +5030,31 @@
           "currency": "USD",
           "original": 999,
           "final": 699
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 4620
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 13100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 2940
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 84000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 770000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>96% of the 6,775 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -5044,7 +5069,7 @@
       "search_text": "aviassembly aviassembly build and fly your own airplane! complete missions to earn money, upgrade your plane, and discover new locations in an open world. simulation single-player partial controller support family sharing english french german spanish-spain dutch portuguese---portugal overwhelmingly positive<br>96% of the 6,775 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-12T14:51:32+00:00",
       "last_seen": "2026-11-12T14:51:32+00:00",
-      "updated_at": "2026-11-12T14:51:32+00:00"
+      "updated_at": "2026-11-12T21:39:28+00:00"
     },
     {
       "app_id": 445220,
@@ -17795,6 +17820,31 @@
           "currency": "USD",
           "original": 599,
           "final": 539
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3300,
+          "final": 2970
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 12800,
+          "final": 11500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1980
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 84500,
+          "final": 76000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 670000,
+          "final": 603000
         }
       },
       "review_hint": "Mixed<br>40% of the 15 user reviews for this game are positive.",
@@ -17809,7 +17859,7 @@
       "search_text": "hypermarket: sort & stock hypermarket: sort & stock a large-scale sorting simulator set in a two-storey hypermarket: organize 65,146 products and boxes across 23 departments, stock shelves and warehouse racks, and use boosters to find, carry and place items. casual indie simulation early access single-player steam achievements custom volume controls #category_playable_at_your_own_pace playable without timed input steam cloud family sharing english french italian german spanish-spain danish dutch japanese korean portuguese---portugal russian schinese swedish mixed<br>40% of the 15 user reviews for this game are positive.",
       "first_seen": "2026-11-12T14:51:32+00:00",
       "last_seen": "2026-11-12T14:51:32+00:00",
-      "updated_at": "2026-11-12T14:51:32+00:00"
+      "updated_at": "2026-11-12T21:39:28+00:00"
     },
     {
       "app_id": 3014860,
@@ -19864,6 +19914,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 1078
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4900,
+          "final": 4067
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19900,
+          "final": 16500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3600,
+          "final": 2988
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 141100
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1450000,
+          "final": 1203000
         }
       },
       "review_hint": "Very Positive<br>99% of the 139 user reviews for this game are positive.",
@@ -19878,7 +19953,7 @@
       "search_text": "love in summer love in summer summer nears. a campus photo job brings you to caring beauty liu shilin, aloof yet warm artist li feier, mischievous model xia wei, and childhood friend le tong. together, you plan graduation shoots, each lending your talents, as your own summer romance with four unique girls quietly begins. casual indie rpg simulation single-player steam achievements full controller support captions available steam cloud english schinese tchinese french spanish-spain russian indonesian japanese thai portuguese-brazil vietnamese korean very positive<br>99% of the 139 user reviews for this game are positive.",
       "first_seen": "2026-11-12T14:51:32+00:00",
       "last_seen": "2026-11-12T14:51:32+00:00",
-      "updated_at": "2026-11-12T14:51:32+00:00"
+      "updated_at": "2026-11-12T21:39:28+00:00"
     },
     {
       "app_id": 3495730,
@@ -20685,6 +20760,31 @@
           "currency": "USD",
           "original": 499,
           "final": 399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 2700,
+          "final": 2160
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 10800,
+          "final": 8600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1900,
+          "final": 1520
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 70500,
+          "final": 56400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 560000,
+          "final": 448000
         }
       },
       "review_hint": "",
@@ -20699,7 +20799,7 @@
       "search_text": "military base tidy up military base tidy up a relaxing first-person sim about tidying up a forgotten military underground base. shelve ammo crates, weapons, drones and gear, unlock new sectors and level up your skills – solo or in online co-op for up to 4 players. no timers, no pressure. indie simulation single-player multi-player co-op online co-op steam achievements full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil portuguese---portugal russian schinese spanish-latin tchinese turkish",
       "first_seen": "2026-11-12T14:51:32+00:00",
       "last_seen": "2026-11-12T14:51:32+00:00",
-      "updated_at": "2026-11-12T14:51:32+00:00"
+      "updated_at": "2026-11-12T21:39:28+00:00"
     },
     {
       "app_id": 5053820,
@@ -21166,6 +21266,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 11250
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 34900,
+          "final": 31400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 6840
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 207000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 1935000
         }
       },
       "review_hint": "",
@@ -21180,7 +21305,7 @@
       "search_text": "moomin: midsummer madness moomin: midsummer madness midsummer is right around the corner in moominvalley, when a sudden flood sets the moomins adrift! join tove jansson’s beloved moominfamily and friends on an adventure of mirth and mischief aboard a mysterious floating theatre. adventure casual indie single-player steam achievements full controller support dualshock controller support family sharing english french german spanish-spain swedish finnish russian japanese korean schinese tchinese portuguese-brazil",
       "first_seen": "2026-11-12T14:51:32+00:00",
       "last_seen": "2026-11-12T14:51:32+00:00",
-      "updated_at": "2026-11-12T14:51:32+00:00"
+      "updated_at": "2026-11-12T21:39:28+00:00"
     },
     {
       "app_id": 2350790,
@@ -24637,6 +24762,31 @@
           "currency": "USD",
           "original": 999,
           "final": 149
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6100,
+          "final": 915
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21600,
+          "final": 3200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 630
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 135000,
+          "final": 20200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 157000
         }
       },
       "review_hint": "Mostly Positive<br>75% of the 788 user reviews for this game are positive.",
@@ -24651,7 +24801,7 @@
       "search_text": "possessor(s) possessor(s) possessor(s) is a fast-paced action side scroller with combat inspired by platform fighters, a story told through dangerous characters, set in a deep interconnected world ready for exploration. action adventure single-player steam achievements full controller support gamepad recommended dualshock controller support dualsense controller support steam cloud family sharing english french german spanish-spain japanese korean portuguese-brazil russian schinese tchinese mostly positive<br>75% of the 788 user reviews for this game are positive.",
       "first_seen": "2026-11-12T14:51:32+00:00",
       "last_seen": "2026-11-12T14:51:32+00:00",
-      "updated_at": "2026-11-12T14:51:32+00:00"
+      "updated_at": "2026-11-12T21:39:28+00:00"
     },
     {
       "app_id": 5266240,
@@ -26492,6 +26642,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 959
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6500,
+          "final": 5200
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 23800,
+          "final": 19000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3999,
+          "final": 3199
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 150000,
+          "final": 120000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1350000,
+          "final": 1080000
         }
       },
       "review_hint": "Positive<br>100% of the 28 user reviews for this game are positive.",
@@ -26506,7 +26681,7 @@
       "search_text": "scarecrow: 90s crime story scarecrow: 90s crime story scarecrow: 90s crime story blends narrative adventure with brutal top-down action. in a crime-ridden town of humans and animals, you're a resident by day and a hitman by night. uncover your buried past before it catches up with you. action adventure casual indie single-player steam achievements full controller support custom volume controls adjustable difficulty playable without timed input dualsense controller support dualsense controller support stereo sound steam cloud family sharing russian english french german spanish-spain polish portuguese-brazil positive<br>100% of the 28 user reviews for this game are positive.",
       "first_seen": "2026-11-12T14:51:32+00:00",
       "last_seen": "2026-11-12T14:51:32+00:00",
-      "updated_at": "2026-11-12T14:51:32+00:00"
+      "updated_at": "2026-11-12T21:39:28+00:00"
     },
     {
       "app_id": 3948120,
@@ -29688,6 +29863,31 @@
           "currency": "USD",
           "original": 999,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5500,
+          "final": 4950
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 17800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3500,
+          "final": 3150
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 126000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 990000
         }
       },
       "review_hint": "Mixed<br>58% of the 12 user reviews for this game are positive.",
@@ -29702,7 +29902,7 @@
       "search_text": "the citadel project the citadel project the citadel project is a first-person stealth game with lite rpg/adventure elements, inspired by thief and dark messiah and set in a dark fantasy world. use your tools and surroundings wisely, stay hidden in the shadows, and uncover the dark secrets behind the citadel's downfall. adventure rpg early access single-player family sharing english german polish russian schinese mixed<br>58% of the 12 user reviews for this game are positive.",
       "first_seen": "2026-11-12T14:51:32+00:00",
       "last_seen": "2026-11-12T14:51:32+00:00",
-      "updated_at": "2026-11-12T14:51:32+00:00"
+      "updated_at": "2026-11-12T21:39:28+00:00"
     },
     {
       "app_id": 2698940,
@@ -30565,6 +30765,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 974
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6900,
+          "final": 5175
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 24800,
+          "final": 18600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4500,
+          "final": 3375
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 185000,
+          "final": 138700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1450000,
+          "final": 1087000
         }
       },
       "review_hint": "Positive<br>100% of the 12 user reviews for this game are positive.",
@@ -30579,7 +30804,7 @@
       "search_text": "the maker way the maker way design machines from parts, 3d-print them, and drive or fly them across an open arizona desert to raid government facilities for confiscated data. fight the robots guarding it and build bases to secure data on servers and refuel machines. first-person sandbox engineering. adventure indie simulation early access single-player steam cloud family sharing english french german spanish-spain japanese polish portuguese-brazil russian schinese spanish-latin positive<br>100% of the 12 user reviews for this game are positive.",
       "first_seen": "2026-11-12T14:51:32+00:00",
       "last_seen": "2026-11-12T14:51:32+00:00",
-      "updated_at": "2026-11-12T14:51:32+00:00"
+      "updated_at": "2026-11-12T21:39:28+00:00"
     },
     {
       "app_id": 4521700,
