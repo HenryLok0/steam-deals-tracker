@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T14:13:02+00:00",
+  "updated_at": "2026-11-13T21:04:57+00:00",
   "total_count": 5135,
   "active_count": 349,
   "games": [
@@ -3456,6 +3456,31 @@
           "currency": "USD",
           "original": 999,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6100,
+          "final": 5490
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21600,
+          "final": 19400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 3780
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 135000,
+          "final": 121500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 945000
         }
       },
       "review_hint": "Mostly Positive<br>75% of the 12 user reviews for this game are positive.",
@@ -3470,7 +3495,7 @@
       "search_text": "ancient wars: sparta hd ancient wars: sparta hd relive the epic battles between spartans, persians, and egyptians in ancient wars: sparta hd. enjoy hd graphics, asymmetric civilizations, enhanced campaigns, new maps, smarter ai, and a revamped multiplayer mode. forge your empire, master warfare, and make history in the ancient world! action adventure casual indie rpg strategy single-player multi-player pvp online pvp co-op online co-op steam achievements steam workshop steam workshop custom volume controls adjustable difficulty mouse only option save anytime stats includes level editor family sharing english french italian german spanish-spain schinese spanish-latin hungarian polish portuguese-brazil portuguese---portugal russian korean japanese turkish czech ukrainian mostly positive<br>75% of the 12 user reviews for this game are positive.",
       "first_seen": "2026-11-13T14:13:02+00:00",
       "last_seen": "2026-11-13T14:13:02+00:00",
-      "updated_at": "2026-11-13T14:13:02+00:00"
+      "updated_at": "2026-11-13T21:04:57+00:00"
     },
     {
       "app_id": 813230,
@@ -4778,6 +4803,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7900,
+          "final": 6320
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27500,
+          "final": 22000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5499,
+          "final": 4399
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 210000,
+          "final": 168000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1700000,
+          "final": 1360000
         }
       },
       "review_hint": "",
@@ -4792,7 +4842,7 @@
       "search_text": "backseat champions backseat champions manage your driver in short, tactical races. rapidly choose from dozens of upgrades each race. use tire compounds to shape your strategy. machine-learned drivers make every race unpredictable. can you become the champion? racing simulation strategy single-player multi-player pvp online pvp shared/split screen pvp co-op online co-op shared/split screen co-op shared/split screen steam achievements full controller support steam workshop adjustable text size camera comfort custom volume controls adjustable difficulty keyboard only option mouse only option #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime stereo sound steam cloud stats steam leaderboards includes level editor remote play together family sharing english german dutch hungarian portuguese---portugal french polish portuguese-brazil romanian italian czech russian tchinese spanish-latin ukrainian",
       "first_seen": "2026-11-13T14:13:02+00:00",
       "last_seen": "2026-11-13T14:13:02+00:00",
-      "updated_at": "2026-11-13T14:13:02+00:00"
+      "updated_at": "2026-11-13T21:04:57+00:00"
     },
     {
       "app_id": 2062430,
@@ -7232,6 +7282,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 959
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6100,
+          "final": 4880
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21600,
+          "final": 17200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 3360
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 135000,
+          "final": 108000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 840000
         }
       },
       "review_hint": "Positive<br>100% of the 10 user reviews for this game are positive.",
@@ -7246,7 +7321,7 @@
       "search_text": "calmaria: wild growth calmaria: wild growth build and automate your settlement in this island survival game, play solo or with friends, but it’s better with friends! start by tilling the soil and planting your first crops, delegate tasks to your settlers. sail to new islands, loot dungeons, and prepare your defenses for the next wave. adventure indie rpg simulation strategy single-player multi-player co-op online co-op steam achievements full controller support adjustable text size custom volume controls mouse only option #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support save anytime steam input api support steam cloud family sharing english polish french german russian spanish-spain schinese portuguese-brazil positive<br>100% of the 10 user reviews for this game are positive.",
       "first_seen": "2026-11-13T14:13:02+00:00",
       "last_seen": "2026-11-13T14:13:02+00:00",
-      "updated_at": "2026-11-13T14:13:02+00:00"
+      "updated_at": "2026-11-13T21:04:57+00:00"
     },
     {
       "app_id": 2404880,
@@ -7950,6 +8025,31 @@
           "currency": "USD",
           "original": 999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5500,
+          "final": 4400
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 15800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3500,
+          "final": 2800
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 112000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 880000
         }
       },
       "review_hint": "",
@@ -7964,7 +8064,7 @@
       "search_text": "cinema manager simulator cinema manager simulator 🎬 schedule movies, sell tickets, serve snacks, customize your theater, play arcade mini-games, and befriend adorable cats. turn your cinema into the ultimate entertainment destination, alone or with friends! 🍿 casual indie simulation strategy single-player multi-player co-op online co-op cross-platform multiplayer steam achievements custom volume controls #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime partial controller support family sharing english french italian german spanish-spain dutch japanese korean polish portuguese-brazil portuguese---portugal russian schinese spanish-latin tchinese",
       "first_seen": "2026-11-13T14:13:02+00:00",
       "last_seen": "2026-11-13T14:13:02+00:00",
-      "updated_at": "2026-11-13T14:13:02+00:00"
+      "updated_at": "2026-11-13T21:04:57+00:00"
     },
     {
       "app_id": 949230,
@@ -14929,6 +15029,31 @@
           "currency": "USD",
           "original": 549,
           "final": 439
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3300,
+          "final": 2640
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 12800,
+          "final": 10200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1860,
+          "final": 1488
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 84000,
+          "final": 67200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 670000,
+          "final": 536000
         }
       },
       "review_hint": "Positive<br>91% of the 12 user reviews for this game are positive.",
@@ -14943,7 +15068,7 @@
       "search_text": "fake me fake me model, paint, and blend in! fake me is an online multiplayer hide-and-seek game where you create your own disguise. use simple 3d modeling tools to build the object you’ll hide as. you can also create your own costume by modeling. hide from the seekers or find every faker before time runs out! casual indie multi-player pvp online pvp steam achievements steam workshop steam cloud stats steam leaderboards family sharing english turkish schinese tchinese japanese korean russian french german portuguese-brazil spanish-spain spanish-latin indonesian polish thai positive<br>91% of the 12 user reviews for this game are positive.",
       "first_seen": "2026-11-13T14:13:02+00:00",
       "last_seen": "2026-11-13T14:13:02+00:00",
-      "updated_at": "2026-11-13T14:13:02+00:00"
+      "updated_at": "2026-11-13T21:04:57+00:00"
     },
     {
       "app_id": 298110,
@@ -16455,6 +16580,31 @@
           "currency": "USD",
           "original": 1399,
           "final": 1259
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7400,
+          "final": 6660
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 25800,
+          "final": 23200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4800,
+          "final": 4320
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 195000,
+          "final": 175500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1550000,
+          "final": 1395000
         }
       },
       "review_hint": "Positive<br>91% of the 36 user reviews for this game are positive.",
@@ -16469,7 +16619,7 @@
       "search_text": "frontier tale frontier tale frontier tale is a cozy adventure farming game that blends extraction-style gameplay with town building. forge weapons, explore a charming cel-shaded fantasy world, gather rare resources, recruit unique companions, and build your dream frontier from the ground up. adventure casual indie rpg simulation single-player steam achievements full controller support steam cloud family sharing schinese english japanese tchinese positive<br>91% of the 36 user reviews for this game are positive.",
       "first_seen": "2026-11-13T14:13:02+00:00",
       "last_seen": "2026-11-13T14:13:02+00:00",
-      "updated_at": "2026-11-13T14:13:02+00:00"
+      "updated_at": "2026-11-13T21:04:57+00:00"
     },
     {
       "app_id": 323190,
@@ -17857,6 +18007,31 @@
           "currency": "USD",
           "original": 1498,
           "final": 1288
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7900,
+          "final": 6794
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27800,
+          "final": 23900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 4988
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 210000,
+          "final": 180600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1700000,
+          "final": 1462000
         }
       },
       "review_hint": "Mostly Positive<br>77% of the 22 user reviews for this game are positive.",
@@ -17871,7 +18046,7 @@
       "search_text": "guixu cultivation: mortal realm guixu cultivation: mortal realm an ink-wash, single-player xianxia rpg. you spend years in seclusion seeking a clear dao heart, while old friends break through or pass away. pick your techniques, build your own style and fight hands-on from qi refining to spirit transformation. join a sect, find a dao companion, settle old debts. rpg simulation early access single-player steam achievements camera comfort custom volume controls #category_playable_at_your_own_pace playable without timed input save anytime stereo sound steam cloud family sharing schinese english mostly positive<br>77% of the 22 user reviews for this game are positive.",
       "first_seen": "2026-11-13T14:13:02+00:00",
       "last_seen": "2026-11-13T14:13:02+00:00",
-      "updated_at": "2026-11-13T14:13:02+00:00"
+      "updated_at": "2026-11-13T21:04:57+00:00"
     },
     {
       "app_id": 2423290,
@@ -18054,6 +18229,31 @@
           "currency": "USD",
           "original": 299,
           "final": 254
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 1900,
+          "final": 1615
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 9900,
+          "final": 8400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1900,
+          "final": 1615
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 49900,
+          "final": 42400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 400000,
+          "final": 340000
         }
       },
       "review_hint": "Positive<br>100% of the 11 user reviews for this game are positive.",
@@ -18068,7 +18268,7 @@
       "search_text": "hands over hands over hands over is a 5-player co-op horror game where harmless challenges become cruel tests of luck and nerve. bluff, sabotage your friends, play dirty, and stay at the table longer than anyone else. action casual indie massively multiplayer early access multi-player pvp online pvp co-op online co-op family sharing english french italian german spanish-spain danish hungarian indonesian japanese korean polish portuguese-brazil portuguese---portugal russian schinese swedish thai turkish ukrainian positive<br>100% of the 11 user reviews for this game are positive.",
       "first_seen": "2026-11-13T14:13:02+00:00",
       "last_seen": "2026-11-13T14:13:02+00:00",
-      "updated_at": "2026-11-13T14:13:02+00:00"
+      "updated_at": "2026-11-13T21:04:57+00:00"
     },
     {
       "app_id": 1374680,
@@ -20452,6 +20652,31 @@
           "currency": "USD",
           "original": 999,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5500,
+          "final": 4950
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 17800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3500,
+          "final": 3150
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 126000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 990000
         }
       },
       "review_hint": "Positive<br>83% of the 12 user reviews for this game are positive.",
@@ -20466,7 +20691,7 @@
       "search_text": "la muraille 1806 la muraille 1806 a napoleonic-era roguelite tower defense. lead the defense of the wall against the hordes of the apocalypse. command the united armies of europe, deploy living lines of defense, map out range cards, and halt tens of thousands of enemies. ready! present! fire! commander, win humanity one more dawn. casual indie strategy single-player steam achievements steam cloud family sharing english ukrainian french italian german spanish-spain japanese korean portuguese-brazil schinese tchinese polish turkish positive<br>83% of the 12 user reviews for this game are positive.",
       "first_seen": "2026-11-13T14:13:02+00:00",
       "last_seen": "2026-11-13T14:13:02+00:00",
-      "updated_at": "2026-11-13T14:13:02+00:00"
+      "updated_at": "2026-11-13T21:04:57+00:00"
     },
     {
       "app_id": 2776090,
@@ -25486,6 +25711,31 @@
           "currency": "USD",
           "original": 899,
           "final": 719
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7100,
+          "final": 5680
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 28800,
+          "final": 23000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 4640
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 145000,
+          "final": 116000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1200000,
+          "final": 960000
         }
       },
       "review_hint": "Very Positive<br>98% of the 92 user reviews for this game are positive.",
@@ -25500,7 +25750,7 @@
       "search_text": "re2 i rise alone re2 i rise alone interactive movie‑game blending slg gameplay and real‑life romance simulation: step into the shoes of an underdog and live out a power‑fantasy rags‑to‑riches story. combat, character progression, drinking and romance — all in one! 100‑gb content volume- redefines your power‑fantasy experience! casual rpg simulation strategy single-player steam achievements subtitle options steam cloud family sharing english schinese very positive<br>98% of the 92 user reviews for this game are positive.",
       "first_seen": "2026-11-13T14:13:02+00:00",
       "last_seen": "2026-11-13T14:13:02+00:00",
-      "updated_at": "2026-11-13T14:13:02+00:00"
+      "updated_at": "2026-11-13T21:04:57+00:00"
     },
     {
       "app_id": 4574820,
@@ -29904,6 +30154,31 @@
           "currency": "USD",
           "original": 399,
           "final": 319
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 2300,
+          "final": 1840
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 8600,
+          "final": 6800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1500,
+          "final": 1200
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 56000,
+          "final": 44800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 445000,
+          "final": 356000
         }
       },
       "review_hint": "Positive<br>83% of the 12 user reviews for this game are positive.",
@@ -29918,7 +30193,7 @@
       "search_text": "the cozy board game shop: tidy up the cozy board game shop: tidy up a cozy first-person tidying game. thousands of board game boxes lie scattered across a charming two-storey shop. gather stacks of copies, shelve every game in its category and watch the shop come back to life, one satisfying section at a time. casual indie simulation single-player steam achievements camera comfort custom volume controls #category_playable_at_your_own_pace playable without timed input save anytime stereo sound steam cloud family sharing english french german spanish-spain japanese korean polish portuguese-brazil russian schinese tchinese turkish positive<br>83% of the 12 user reviews for this game are positive.",
       "first_seen": "2026-11-13T14:13:02+00:00",
       "last_seen": "2026-11-13T14:13:02+00:00",
-      "updated_at": "2026-11-13T14:13:02+00:00"
+      "updated_at": "2026-11-13T21:04:57+00:00"
     },
     {
       "app_id": 2698940,
