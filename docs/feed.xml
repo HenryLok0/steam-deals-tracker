@@ -4,7 +4,14 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Fri, 13 Nov 2026 23:23:29 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 05:35:50 +0000</lastBuildDate>
+<item>
+<title>King in the Mountain</title>
+<link>https://store.steampowered.com/app/4767130/</link>
+<guid isPermaLink="false">4767130</guid>
+<pubDate>Sat, 14 Nov 2026 05:35:50 +0000</pubDate>
+<description>A resource management incremental mining game where you rebuild your Mountain Hall. Plan each descent, choose where your dwarves dig, gather gold and rare artifacts, and return home when the torch burns out. Manage production, upgrade your crew, dig deeper, and bring your fallen kingdom back to life</description>
+</item>
 <item>
 <title>Beekeeper Simulator</title>
 <link>https://store.steampowered.com/app/3555210/</link>
@@ -69,13 +76,6 @@
 <description>RotM is an Action Roguelite FPS game where players get in the robes of a Mage. Let the hands of fate open ways for the power of your magic. Save the Multiverse to power up yourself! Unlock, collect, discover, live, die, repeat!</description>
 </item>
 <item>
-<title>Satelital</title>
-<link>https://store.steampowered.com/app/3256790/</link>
-<guid isPermaLink="false">3256790</guid>
-<pubDate>Fri, 13 Nov 2026 23:23:29 +0000</pubDate>
-<description>A rule-discovery puzzle game where you place alien symbols on a grid. Uncover their logic as you journey through an atmospheric solar system.</description>
-</item>
-<item>
 <title>Setter: Volleyball Manager 27</title>
 <link>https://store.steampowered.com/app/4908560/</link>
 <guid isPermaLink="false">4908560</guid>
@@ -90,25 +90,11 @@
 <description>Sloppy Forgeries is a fast-paced competitive painting game. Practice your skills by butchering iconic masterpieces in one of the few drawing games that measures accuracy pixel-by-pixel in real-time.</description>
 </item>
 <item>
-<title>The Eternal Cylinder</title>
-<link>https://store.steampowered.com/app/865680/</link>
-<guid isPermaLink="false">865680</guid>
-<pubDate>Fri, 13 Nov 2026 23:23:29 +0000</pubDate>
-<description>Control a herd of charming creatures called Trebhum and explore an unforgettable alien world filled with exotic lifeforms and surreal environments. Discover dozens of mutations to overcome puzzles, explore new biomes, and survive on a dangerous planet.</description>
-</item>
-<item>
 <title>The Last Stand: Aftermath</title>
 <link>https://store.steampowered.com/app/1266840/</link>
 <guid isPermaLink="false">1266840</guid>
 <pubDate>Fri, 13 Nov 2026 23:23:29 +0000</pubDate>
 <description>From the creators of The Last Stand: Union City and Dead Zone comes an all-new singleplayer rogue-lite action adventure. After you become infected by the zombie virus, you set out to explore the post-apocalypse and find hope for your fellow survivors. You can still make a difference. Don't give up.</description>
-</item>
-<item>
-<title>Tie Down</title>
-<link>https://store.steampowered.com/app/4500020/</link>
-<guid isPermaLink="false">4500020</guid>
-<pubDate>Fri, 13 Nov 2026 23:23:29 +0000</pubDate>
-<description>Tie Down is a first-person, open-world multiplayer driving game. Take on procedurally generated, physics-based deliveries, buy, customize and sell vehicles, earn Greystone’s trust to unlock bigger contracts, build your business, make your fortune, and drive hard.</description>
 </item>
 <item>
 <title>Water TD</title>
@@ -130,13 +116,6 @@
 <guid isPermaLink="false">5185890</guid>
 <pubDate>Fri, 13 Nov 2026 23:23:29 +0000</pubDate>
 <description>Zombies Aren't Real is a horde-defense, strategy game where you deploy military forces in an attempt to quell a quick-spreading zombie infection and save as many civilians as you can!</description>
-</item>
-<item>
-<title>Ancient Wars: Sparta HD</title>
-<link>https://store.steampowered.com/app/2953940/</link>
-<guid isPermaLink="false">2953940</guid>
-<pubDate>Fri, 13 Nov 2026 14:13:02 +0000</pubDate>
-<description>Relive the epic battles between Spartans, Persians, and Egyptians in Ancient Wars: Sparta HD. Enjoy HD graphics, asymmetric civilizations, enhanced campaigns, new maps, smarter AI, and a revamped multiplayer mode. Forge your empire, master warfare, and make history in the Ancient World!</description>
 </item>
 <item>
 <title>Backseat Champions</title>
