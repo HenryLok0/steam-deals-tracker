@@ -4,7 +4,28 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sat, 14 Nov 2026 09:41:21 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 13:11:39 +0000</lastBuildDate>
+<item>
+<title>Arteria</title>
+<link>https://store.steampowered.com/app/5373210/</link>
+<guid isPermaLink="false">5373210</guid>
+<pubDate>Sat, 14 Nov 2026 13:11:39 +0000</pubDate>
+<description>Build roads, intersections, and tram lines. The city grows on its own along the roads you lay. Ease congestion and turn a village into a metropolis.</description>
+</item>
+<item>
+<title>Astral Hunter: Homebound</title>
+<link>https://store.steampowered.com/app/3540610/</link>
+<guid isPermaLink="false">3540610</guid>
+<pubDate>Sat, 14 Nov 2026 13:11:39 +0000</pubDate>
+<description>A top-down action roguelite where you capture pets and battle alien hordes. Choose your weapons and combine upgrades and items to create your own combat style. Capture alien creatures to use their abilities or bring them to your base for materials. Recruit new characters and conquer the planet!</description>
+</item>
+<item>
+<title>Bannerlings</title>
+<link>https://store.steampowered.com/app/4613340/</link>
+<guid isPermaLink="false">4613340</guid>
+<pubDate>Sat, 14 Nov 2026 13:11:39 +0000</pubDate>
+<description>Build an unstoppable army in this strategy roguelite auto-battler. Fuse your Bannerlings, create powerful emblem synergies, and overcome unpredictable encounters on the road to the final boss.</description>
+</item>
 <item>
 <title>King in the Mountain</title>
 <link>https://store.steampowered.com/app/4767130/</link>
@@ -76,6 +97,13 @@
 <description>RotM is an Action Roguelite FPS game where players get in the robes of a Mage. Let the hands of fate open ways for the power of your magic. Save the Multiverse to power up yourself! Unlock, collect, discover, live, die, repeat!</description>
 </item>
 <item>
+<title>Satelital</title>
+<link>https://store.steampowered.com/app/3256790/</link>
+<guid isPermaLink="false">3256790</guid>
+<pubDate>Fri, 13 Nov 2026 23:23:29 +0000</pubDate>
+<description>A rule-discovery puzzle game where you place alien symbols on a grid. Uncover their logic as you journey through an atmospheric solar system.</description>
+</item>
+<item>
 <title>Setter: Volleyball Manager 27</title>
 <link>https://store.steampowered.com/app/4908560/</link>
 <guid isPermaLink="false">4908560</guid>
@@ -123,13 +151,6 @@
 <guid isPermaLink="false">2174510</guid>
 <pubDate>Fri, 13 Nov 2026 14:13:02 +0000</pubDate>
 <description>Manage your driver in short, tactical races. Rapidly choose from dozens of upgrades each race. Use tire compounds to shape your strategy. Machine-learned drivers make every race unpredictable. Can you become the Champion?</description>
-</item>
-<item>
-<title>FAKE ME</title>
-<link>https://store.steampowered.com/app/4990840/</link>
-<guid isPermaLink="false">4990840</guid>
-<pubDate>Fri, 13 Nov 2026 14:13:02 +0000</pubDate>
-<description>Model, paint, and blend in! FAKE ME is an online multiplayer hide-and-seek game where you create your own disguise. Use simple 3D modeling tools to build the object you’ll hide as. You can also create your own costume by modeling. Hide from the Seekers or find every Faker before time runs out!</description>
 </item>
 <item>
 <title>Frontier Tale</title>
