@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T05:35:50+00:00",
+  "updated_at": "2026-11-14T09:41:21+00:00",
   "total_count": 5154,
   "active_count": 348,
   "games": [
@@ -4686,6 +4686,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 1019
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6500,
+          "final": 5525
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 23800,
+          "final": 20200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 3570
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 144500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1350000,
+          "final": 1147000
         }
       },
       "review_hint": "",
@@ -4700,7 +4725,7 @@
       "search_text": "beekeeper simulator beekeeper simulator beekeeper simulator puts you in the shoes of a dedicated beekeeper, where you'll care for buzzing hives, harvest a variety of honey types, and expand your operations to build a thriving beekeeping empire. nurture your bees, optimize your apiary, and turn your passion into profit! simulation early access single-player multi-player co-op online co-op steam cloud family sharing english",
       "first_seen": "2026-11-13T23:23:29+00:00",
       "last_seen": "2026-11-14T05:35:50+00:00",
-      "updated_at": "2026-11-14T05:35:50+00:00"
+      "updated_at": "2026-11-14T09:41:21+00:00"
     },
     {
       "app_id": 2599690,
@@ -4847,6 +4872,31 @@
           "currency": "USD",
           "original": 1599,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10200,
+          "final": 7650
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27800,
+          "final": 20800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8000,
+          "final": 6000
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 210000,
+          "final": 157500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1750000,
+          "final": 1312000
         }
       },
       "review_hint": "Mixed<br>69% of the 2,719 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -4861,7 +4911,7 @@
       "search_text": "bitcraft online bitcraft online join thousands of players in a true sandbox mmorpg where every action shapes a living, player-driven world. master long-term professions at your own pace, unlock mounts and boats, and grow your settlement into a cozy homestead or thriving metropolis. grind solo, build together, or play passively. indie massively multiplayer rpg multi-player mmo cross-platform multiplayer in-app purchases english french german japanese polish portuguese-brazil russian schinese spanish-latin tchinese mixed<br>69% of the 2,719 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-13T23:23:29+00:00",
       "last_seen": "2026-11-14T05:35:50+00:00",
-      "updated_at": "2026-11-14T05:35:50+00:00"
+      "updated_at": "2026-11-14T09:41:21+00:00"
     },
     {
       "app_id": 3396010,
@@ -10055,6 +10105,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11000,
+          "final": 9900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27800,
+          "final": 25000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6500,
+          "final": 5850
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 198000,
+          "final": 178200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1700000,
+          "final": 1530000
         }
       },
       "review_hint": "Positive<br>85% of the 14 user reviews for this game are positive.",
@@ -10069,7 +10144,7 @@
       "search_text": "derelikt derelikt derelikt is a narrative retro fps built for fans of claustrophobic ps1-era sci-fi horror. action adventure indie single-player steam achievements full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support family sharing english german spanish-spain japanese portuguese-brazil russian schinese tchinese ukrainian positive<br>85% of the 14 user reviews for this game are positive.",
       "first_seen": "2026-11-13T23:23:29+00:00",
       "last_seen": "2026-11-14T05:35:50+00:00",
-      "updated_at": "2026-11-14T05:35:50+00:00"
+      "updated_at": "2026-11-14T09:41:21+00:00"
     },
     {
       "app_id": 2536520,
@@ -10243,6 +10318,31 @@
           "currency": "USD",
           "original": 599,
           "final": 539
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3300,
+          "final": 2970
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 12800,
+          "final": 11500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1980
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 84500,
+          "final": 76000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 670000,
+          "final": 603000
         }
       },
       "review_hint": "Positive<br>97% of the 38 user reviews for this game are positive.",
@@ -10257,7 +10357,7 @@
       "search_text": "dice hoarder dice hoarder dice hoarder is a cozy organizing game where you restock a mysterious dice shop. sort every die in the shop, match them into complete seven-piece sets, and uncover what is hidden behind your new job. casual indie single-player steam achievements camera comfort color alternatives custom volume controls #category_playable_at_your_own_pace playable without timed input save anytime stereo sound partial controller support family sharing english italian spanish-spain japanese korean portuguese-brazil portuguese---portugal russian schinese tchinese french german positive<br>97% of the 38 user reviews for this game are positive.",
       "first_seen": "2026-11-13T23:23:29+00:00",
       "last_seen": "2026-11-14T05:35:50+00:00",
-      "updated_at": "2026-11-14T05:35:50+00:00"
+      "updated_at": "2026-11-14T09:41:21+00:00"
     },
     {
       "app_id": 5064340,
@@ -10950,6 +11050,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 959
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7200,
+          "final": 5760
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26000,
+          "final": 20800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3800,
+          "final": 3040
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 112000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1300000,
+          "final": 1040000
         }
       },
       "review_hint": "Very Positive<br>100% of the 77 user reviews for this game are positive.",
@@ -10964,7 +11089,7 @@
       "search_text": "drawquarium drawquarium draw your very own fish and build a cozy little aquarium. and if you like, set it as your animated desktop wallpaper! watch your drawings come to life. feed them, raise them and collect golden scales to unlock new decorations. there's also some handy tools to help you focus and unwind. simulation single-player camera comfort mouse only option playable without timed input stereo sound steam cloud family sharing english french german schinese japanese korean thai russian very positive<br>100% of the 77 user reviews for this game are positive.",
       "first_seen": "2026-11-13T23:23:29+00:00",
       "last_seen": "2026-11-14T05:35:50+00:00",
-      "updated_at": "2026-11-14T05:35:50+00:00"
+      "updated_at": "2026-11-14T09:41:21+00:00"
     },
     {
       "app_id": 3629430,
@@ -14020,6 +14145,31 @@
           "currency": "USD",
           "original": 1699,
           "final": 254
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10800,
+          "final": 1620
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 28800,
+          "final": 4300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6600,
+          "final": 990
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 190000,
+          "final": 28500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1850000,
+          "final": 277000
         }
       },
       "review_hint": "Very Positive<br>90% of the 3,325 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -14034,7 +14184,7 @@
       "search_text": "exo one exo one a strange signal... an alien craft... an interplanetary, gravity-defying journey through space and time. adventure casual indie simulation single-player steam achievements full controller support steam cloud remote play on tv family sharing english french german spanish-spain japanese portuguese-brazil russian schinese tchinese very positive<br>90% of the 3,325 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-13T23:23:29+00:00",
       "last_seen": "2026-11-14T05:35:50+00:00",
-      "updated_at": "2026-11-14T05:35:50+00:00"
+      "updated_at": "2026-11-14T09:41:21+00:00"
     },
     {
       "app_id": 2262020,
@@ -17531,6 +17681,31 @@
           "currency": "USD",
           "original": 999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6100,
+          "final": 4880
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21600,
+          "final": 17200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3900,
+          "final": 3120
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 135000,
+          "final": 108000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 840000
         }
       },
       "review_hint": "Positive<br>80% of the 25 user reviews for this game are positive.",
@@ -17545,7 +17720,7 @@
       "search_text": "grandma left me a building grandma left me a building a cozy apartment management sim where you restore the ruined building your grandma left you. find tenants, collect rent, upgrade the place. but don't make the mistake of having a midnight guitar-shredding elf and a philosophy-lecturing yeti as neighbors. endless requests, sweet chaos await. casual indie simulation single-player steam achievements custom volume controls #category_playable_at_your_own_pace playable without timed input save anytime stereo sound steam cloud family sharing english turkish french german spanish-spain japanese italian schinese korean spanish-latin polish russian portuguese-brazil positive<br>80% of the 25 user reviews for this game are positive.",
       "first_seen": "2026-11-13T23:23:29+00:00",
       "last_seen": "2026-11-14T05:35:50+00:00",
-      "updated_at": "2026-11-14T05:35:50+00:00"
+      "updated_at": "2026-11-14T09:41:21+00:00"
     },
     {
       "app_id": 599140,
@@ -18973,6 +19148,31 @@
           "currency": "USD",
           "original": 599,
           "final": 419
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3300,
+          "final": 2310
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 12800,
+          "final": 8900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1540
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 84500,
+          "final": 59100
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 670000,
+          "final": 469000
         }
       },
       "review_hint": "",
@@ -18987,7 +19187,7 @@
       "search_text": "how they built the pyramids how they built the pyramids a chaotic online co-op building game for 1–8 players. make bricks, build a giant pyramid and turn a small operation into a massive automated production line. work together, hire help and find increasingly ridiculous ways to get those bricks to the top. casual indie simulation single-player multi-player co-op online co-op steam achievements adjustable text size camera comfort custom volume controls #category_playable_at_your_own_pace playable without timed input save anytime stereo sound surround sound steam cloud family sharing english french italian german spanish-spain schinese portuguese-brazil danish indonesian dutch tchinese japanese korean spanish-latin polish portuguese---portugal romanian russian thai turkish ukrainian vietnamese czech",
       "first_seen": "2026-11-13T23:23:29+00:00",
       "last_seen": "2026-11-14T05:35:50+00:00",
-      "updated_at": "2026-11-14T05:35:50+00:00"
+      "updated_at": "2026-11-14T09:41:21+00:00"
     },
     {
       "app_id": 3326230,
@@ -20433,6 +20633,31 @@
           "currency": "USD",
           "original": 699,
           "final": 594
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3800,
+          "final": 3230
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14800,
+          "final": 12500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 2380
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 88000,
+          "final": 74800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 700000,
+          "final": 595000
         }
       },
       "review_hint": "Positive<br>90% of the 11 user reviews for this game are positive.",
@@ -20447,7 +20672,7 @@
       "search_text": "king in the mountain king in the mountain a resource management incremental mining game where you rebuild your mountain hall. plan each descent, choose where your dwarves dig, gather gold and rare artifacts, and return home when the torch burns out. manage production, upgrade your crew, dig deeper, and bring your fallen kingdom back to life casual indie simulation strategy single-player steam achievements full controller support custom volume controls playable without timed input save anytime steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil portuguese---portugal russian schinese spanish-latin tchinese turkish ukrainian positive<br>90% of the 11 user reviews for this game are positive.",
       "first_seen": "2026-11-14T05:35:50+00:00",
       "last_seen": "2026-11-14T05:35:50+00:00",
-      "updated_at": "2026-11-14T05:35:50+00:00"
+      "updated_at": "2026-11-14T09:41:21+00:00"
     },
     {
       "app_id": 247970,
@@ -25596,6 +25821,31 @@
           "currency": "USD",
           "original": 999,
           "final": 699
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5500,
+          "final": 3850
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 13800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3500,
+          "final": 2450
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 98000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 770000
         }
       },
       "review_hint": "Mostly Positive<br>72% of the 167 user reviews for this game are positive.",
@@ -25610,7 +25860,7 @@
       "search_text": "revenge of the mage revenge of the mage rotm is an action roguelite fps game where players get in the robes of a mage. let the hands of fate open ways for the power of your magic. save the multiverse to power up yourself! unlock, collect, discover, live, die, repeat! action casual indie rpg single-player full controller support family sharing english german turkish russian schinese spanish-spain portuguese-brazil japanese french arabic korean polish portuguese---portugal tchinese mostly positive<br>72% of the 167 user reviews for this game are positive.",
       "first_seen": "2026-11-13T23:23:29+00:00",
       "last_seen": "2026-11-14T05:35:50+00:00",
-      "updated_at": "2026-11-14T05:35:50+00:00"
+      "updated_at": "2026-11-14T09:41:21+00:00"
     },
     {
       "app_id": 2448570,
@@ -26506,6 +26756,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10500,
+          "final": 9450
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 34800,
+          "final": 31300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7000,
+          "final": 6300
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 252000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2250000,
+          "final": 2025000
         }
       },
       "review_hint": "Mostly Positive<br>75% of the 12 user reviews for this game are positive.",
@@ -26520,7 +26795,7 @@
       "search_text": "setter: volleyball manager 27 setter: volleyball manager 27 setter is a volleyball management game where every decision shapes your club. build and develop your squad in a competitive transfer market where rivals can bid for your players, prepare your lineup and tactics, and watch every rally unfold as you compete for domestic titles and continental success. simulation sports strategy single-player steam achievements camera comfort #category_playable_at_your_own_pace playable without timed input save anytime family sharing english spanish-spain french italian german polish russian turkish bulgarian czech dutch finnish japanese portuguese-brazil portuguese---portugal estonian serbian mostly positive<br>75% of the 12 user reviews for this game are positive.",
       "first_seen": "2026-11-13T23:23:29+00:00",
       "last_seen": "2026-11-14T05:35:50+00:00",
-      "updated_at": "2026-11-14T05:35:50+00:00"
+      "updated_at": "2026-11-14T09:41:21+00:00"
     },
     {
       "app_id": 1227690,
@@ -27210,6 +27485,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1274
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7900,
+          "final": 6715
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27800,
+          "final": 23600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5400,
+          "final": 4590
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 198000,
+          "final": 168300
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1700000,
+          "final": 1445000
         }
       },
       "review_hint": "",
@@ -27224,7 +27524,7 @@
       "search_text": "sloppy forgeries sloppy forgeries sloppy forgeries is a fast-paced competitive painting game. practice your skills by butchering iconic masterpieces in one of the few drawing games that measures accuracy pixel-by-pixel in real-time. action casual single-player multi-player pvp online pvp shared/split screen pvp shared/split screen steam cloud steam leaderboards family sharing english japanese",
       "first_seen": "2026-11-13T23:23:29+00:00",
       "last_seen": "2026-11-14T05:35:50+00:00",
-      "updated_at": "2026-11-14T05:35:50+00:00"
+      "updated_at": "2026-11-14T09:41:21+00:00"
     },
     {
       "app_id": 4459590,
@@ -30668,6 +30968,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 699
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 4368
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 11400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9200,
+          "final": 2576
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 78400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 756000
         }
       },
       "review_hint": "Very Positive<br>81% of the 2,460 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -30682,7 +31007,7 @@
       "search_text": "the last stand: aftermath the last stand: aftermath from the creators of the last stand: union city and dead zone comes an all-new singleplayer rogue-lite action adventure. after you become infected by the zombie virus, you set out to explore the post-apocalypse and find hope for your fellow survivors. you can still make a difference. don't give up. action adventure indie single-player steam achievements full controller support captions available dualshock controller support steam cloud family sharing english french german spanish-spain portuguese-brazil russian schinese japanese spanish-latin very positive<br>81% of the 2,460 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-13T23:23:29+00:00",
       "last_seen": "2026-11-14T05:35:50+00:00",
-      "updated_at": "2026-11-14T05:35:50+00:00"
+      "updated_at": "2026-11-14T09:41:21+00:00"
     },
     {
       "app_id": 1696770,
@@ -34128,6 +34453,31 @@
           "currency": "USD",
           "original": 999,
           "final": 849
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5500,
+          "final": 4675
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 16800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3500,
+          "final": 2975
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 119000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 935000
         }
       },
       "review_hint": "",
@@ -34142,7 +34492,7 @@
       "search_text": "water td water td water td is a tower defense game where the enemy is a real flood. hundreds of thousands of drops pour downhill toward your base, piling up, finding gaps and carving the terrain as they go. shoot it, burn it, zap it, or blow it back. just don't expect the ground to hold. indie simulation strategy single-player steam achievements steam cloud family sharing english french italian german spanish-spain bulgarian czech danish dutch finnish greek hungarian indonesian japanese korean malay norwegian polish portuguese-brazil portuguese---portugal romanian russian schinese swedish tchinese turkish ukrainian vietnamese spanish-latin",
       "first_seen": "2026-11-13T23:23:29+00:00",
       "last_seen": "2026-11-14T05:35:50+00:00",
-      "updated_at": "2026-11-14T05:35:50+00:00"
+      "updated_at": "2026-11-14T09:41:21+00:00"
     },
     {
       "app_id": 5189160,
@@ -34195,6 +34545,31 @@
           "currency": "USD",
           "original": 999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5500,
+          "final": 4400
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 15800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3000,
+          "final": 2400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 112000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 880000
         }
       },
       "review_hint": "Positive<br>100% of the 14 user reviews for this game are positive.",
@@ -34209,7 +34584,7 @@
       "search_text": "we march as one we march as one start with a few shapes and build an army tens of thousands strong. paint your troops onto the battlefield and send them to war against enormous hordes in this incremental auto battler where every unit is individually simulated. indie simulation strategy single-player steam achievements camera comfort custom volume controls #category_playable_at_your_own_pace playable without timed input steam cloud includes level editor family sharing english positive<br>100% of the 14 user reviews for this game are positive.",
       "first_seen": "2026-11-13T23:23:29+00:00",
       "last_seen": "2026-11-14T05:35:50+00:00",
-      "updated_at": "2026-11-14T05:35:50+00:00"
+      "updated_at": "2026-11-14T09:41:21+00:00"
     },
     {
       "app_id": 5051080,
@@ -36345,6 +36720,31 @@
           "currency": "USD",
           "original": 999,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5500,
+          "final": 4950
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 17800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3500,
+          "final": 3150
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 126000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 990000
         }
       },
       "review_hint": "Very Positive<br>98% of the 106 user reviews for this game are positive.",
@@ -36359,7 +36759,7 @@
       "search_text": "zombies aren't real zombies aren't real zombies aren't real is a horde-defense, strategy game where you deploy military forces in an attempt to quell a quick-spreading zombie infection and save as many civilians as you can! strategy early access single-player multi-player co-op online co-op steam achievements steam workshop adjustable text size camera comfort color alternatives custom volume controls adjustable difficulty #category_playable_at_your_own_pace playable without timed input steam cloud steam leaderboards includes level editor family sharing english very positive<br>98% of the 106 user reviews for this game are positive.",
       "first_seen": "2026-11-13T23:23:29+00:00",
       "last_seen": "2026-11-14T05:35:50+00:00",
-      "updated_at": "2026-11-14T05:35:50+00:00"
+      "updated_at": "2026-11-14T09:41:21+00:00"
     },
     {
       "app_id": 1059220,
@@ -374357,6 +374757,31 @@
           "currency": "USD",
           "original": 1800,
           "final": 1530
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11000,
+          "final": 9350
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 36000,
+          "final": 30600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10000,
+          "final": 8500
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 238000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2100000,
+          "final": 1785000
         }
       },
       "review_hint": "Positive<br>100% of the 10 user reviews for this game are positive.",
@@ -374371,7 +374796,7 @@
       "search_text": "satelital satelital a rule-discovery puzzle game where you place alien symbols on a grid. uncover their logic as you journey through an atmospheric solar system. adventure single-player steam achievements full controller support adjustable text size camera comfort custom volume controls keyboard only option mouse only option #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime stereo sound subtitle options touch only option steam cloud hdr available family sharing english french italian german spanish-spain japanese korean portuguese---portugal schinese polish russian tchinese turkish basque catalan galician ukrainian swedish czech slovak portuguese-brazil spanish-latin dutch positive<br>100% of the 10 user reviews for this game are positive.",
       "first_seen": "2026-11-13T23:23:29+00:00",
       "last_seen": "2026-11-14T05:35:50+00:00",
-      "updated_at": "2026-11-14T05:35:50+00:00"
+      "updated_at": "2026-11-14T09:41:21+00:00"
     },
     {
       "app_id": 268870,
@@ -441203,6 +441628,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 4680
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 12200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9200,
+          "final": 2760
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 84000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 810000
         }
       },
       "review_hint": "Very Positive<br>89% of the 1,196 user reviews for this game are positive.",
@@ -441217,7 +441667,7 @@
       "search_text": "the eternal cylinder the eternal cylinder control a herd of charming creatures called trebhum and explore an unforgettable alien world filled with exotic lifeforms and surreal environments. discover dozens of mutations to overcome puzzles, explore new biomes, and survive on a dangerous planet. action adventure single-player steam achievements full controller support steam trading cards steam cloud family sharing english french italian german portuguese-brazil russian spanish-spain schinese very positive<br>89% of the 1,196 user reviews for this game are positive.",
       "first_seen": "2026-11-13T23:23:29+00:00",
       "last_seen": "2026-11-14T05:35:50+00:00",
-      "updated_at": "2026-11-14T05:35:50+00:00"
+      "updated_at": "2026-11-14T09:41:21+00:00"
     },
     {
       "app_id": 268050,
@@ -465314,6 +465764,31 @@
           "currency": "USD",
           "original": 1399,
           "final": 1119
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8200,
+          "final": 6560
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 28500,
+          "final": 22800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5700,
+          "final": 4560
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 180000,
+          "final": 144000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1500000,
+          "final": 1200000
         }
       },
       "review_hint": "",
@@ -465328,7 +465803,7 @@
       "search_text": "tie down tie down tie down is a first-person, open-world multiplayer driving game. take on procedurally generated, physics-based deliveries, buy, customize and sell vehicles, earn greystone’s trust to unlock bigger contracts, build your business, make your fortune, and drive hard. adventure casual indie racing simulation early access single-player multi-player co-op online co-op steam achievements camera comfort custom volume controls playable without timed input save anytime stereo sound steam cloud family sharing english",
       "first_seen": "2026-11-13T23:23:29+00:00",
       "last_seen": "2026-11-14T05:35:50+00:00",
-      "updated_at": "2026-11-14T05:35:50+00:00"
+      "updated_at": "2026-11-14T09:41:21+00:00"
     },
     {
       "app_id": 2264340,
