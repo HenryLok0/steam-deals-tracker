@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T13:11:39+00:00",
+  "updated_at": "2026-11-14T19:35:10+00:00",
   "total_count": 5157,
   "active_count": 348,
   "games": [
@@ -3580,6 +3580,31 @@
           "currency": "USD",
           "original": 999,
           "final": 699
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4900,
+          "final": 3430
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19900,
+          "final": 13900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3500,
+          "final": 2450
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 98000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 770000
         }
       },
       "review_hint": "Mostly Positive<br>77% of the 22 user reviews for this game are positive.",
@@ -3594,7 +3619,7 @@
       "search_text": "arteria arteria build roads, intersections, and tram lines. the city grows on its own along the roads you lay. ease congestion and turn a village into a metropolis. simulation single-player steam achievements adjustable text size camera comfort custom volume controls adjustable difficulty #category_playable_at_your_own_pace playable without timed input save anytime stereo sound steam cloud family sharing english french italian german spanish-spain tchinese schinese czech spanish-latin dutch japanese korean polish portuguese---portugal portuguese-brazil russian romanian thai turkish ukrainian vietnamese hungarian mostly positive<br>77% of the 22 user reviews for this game are positive.",
       "first_seen": "2026-11-14T13:11:39+00:00",
       "last_seen": "2026-11-14T13:11:39+00:00",
-      "updated_at": "2026-11-14T13:11:39+00:00"
+      "updated_at": "2026-11-14T19:35:10+00:00"
     },
     {
       "app_id": 3499790,
@@ -3764,6 +3789,31 @@
           "currency": "USD",
           "original": 899,
           "final": 719
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5300,
+          "final": 4240
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 15800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3600,
+          "final": 2880
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 115000,
+          "final": 92000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 965000,
+          "final": 772000
         }
       },
       "review_hint": "Positive<br>100% of the 39 user reviews for this game are positive.",
@@ -3778,7 +3828,7 @@
       "search_text": "astral hunter: homebound astral hunter: homebound a top-down action roguelite where you capture pets and battle alien hordes. choose your weapons and combine upgrades and items to create your own combat style. capture alien creatures to use their abilities or bring them to your base for materials. recruit new characters and conquer the planet! action single-player steam achievements steam cloud family sharing english french german spanish-spain russian turkish japanese schinese tchinese portuguese-brazil korean polish positive<br>100% of the 39 user reviews for this game are positive.",
       "first_seen": "2026-11-14T13:11:39+00:00",
       "last_seen": "2026-11-14T13:11:39+00:00",
-      "updated_at": "2026-11-14T13:11:39+00:00"
+      "updated_at": "2026-11-14T19:35:10+00:00"
     },
     {
       "app_id": 1919470,
@@ -4472,6 +4522,31 @@
           "currency": "USD",
           "original": 999,
           "final": 749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5400,
+          "final": 4050
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 14100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3800,
+          "final": 2850
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 98000,
+          "final": 73500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 787000
         }
       },
       "review_hint": "Positive<br>90% of the 10 user reviews for this game are positive.",
@@ -4486,7 +4561,7 @@
       "search_text": "bannerlings bannerlings build an unstoppable army in this strategy roguelite auto-battler. fuse your bannerlings, create powerful emblem synergies, and overcome unpredictable encounters on the road to the final boss. casual indie rpg strategy early access single-player steam achievements custom volume controls adjustable difficulty mouse only option #category_playable_at_your_own_pace playable without timed input save anytime steam cloud steam leaderboards family sharing english portuguese-brazil russian schinese french german japanese korean spanish-spain polish positive<br>90% of the 10 user reviews for this game are positive.",
       "first_seen": "2026-11-14T13:11:39+00:00",
       "last_seen": "2026-11-14T13:11:39+00:00",
-      "updated_at": "2026-11-14T13:11:39+00:00"
+      "updated_at": "2026-11-14T19:35:10+00:00"
     },
     {
       "app_id": 4557380,
