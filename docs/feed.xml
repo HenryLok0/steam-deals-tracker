@@ -4,7 +4,49 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sun, 15 Nov 2026 20:02:04 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 22:37:32 +0000</lastBuildDate>
+<item>
+<title>Company of Heroes 3: Hammer &amp; Shield Battlegroup DLC</title>
+<link>https://store.steampowered.com/app/4523180/</link>
+<guid isPermaLink="false">4523180</guid>
+<pubDate>Sun, 15 Nov 2026 22:37:32 +0000</pubDate>
+<description>This content requires the base game Company of Heroes 3 on Steam in order to play.</description>
+</item>
+<item>
+<title>Galacticare</title>
+<link>https://store.steampowered.com/app/494730/</link>
+<guid isPermaLink="false">494730</guid>
+<pubDate>Sun, 15 Nov 2026 22:37:32 +0000</pubDate>
+<description>Build, manage and optimise intergalactic hospitals! Recruit staff to satisfy the whims of various alien species, and cure their bizarre illnesses - for money! Save the (literal) Galaxy in story mode, or head into sandbox to design the hospital of your dreams.</description>
+</item>
+<item>
+<title>Gold Mining Simulator - Definitive Edition</title>
+<link>https://store.steampowered.com/app/4707700/</link>
+<guid isPermaLink="false">4707700</guid>
+<pubDate>Sun, 15 Nov 2026 22:37:32 +0000</pubDate>
+<description>Gold Mining Simulator: Definitive Edition is the ultimate version of the game, featuring all previously released expansions plus new content, gameplay enhancements, visual improvements, and numerous quality of life upgrades for the most complete gold mining experience.</description>
+</item>
+<item>
+<title>Horsey Game</title>
+<link>https://store.steampowered.com/app/3602570/</link>
+<guid isPermaLink="false">3602570</guid>
+<pubDate>Sun, 15 Nov 2026 22:37:32 +0000</pubDate>
+<description>Collect Horses. Breed Horses. Race Horses. Genetically Modify Horses. Create a Horse paradise or just get rich!</description>
+</item>
+<item>
+<title>The Last Hero of Nostalgaia</title>
+<link>https://store.steampowered.com/app/1766100/</link>
+<guid isPermaLink="false">1766100</guid>
+<pubDate>Sun, 15 Nov 2026 22:37:32 +0000</pubDate>
+<description>The Last Hero of Nostalgaia is a satirical action-adventure, brought to life by a twisted and wicked tale. Featuring hard but fair combat, *full character customization, unique battle armor and engaging narrative mechanics rich in lore, Nostalgaia plunges you into almost certain death at every turn.</description>
+</item>
+<item>
+<title>Wallpaper Animator</title>
+<link>https://store.steampowered.com/app/4484970/</link>
+<guid isPermaLink="false">4484970</guid>
+<pubDate>Sun, 15 Nov 2026 22:37:32 +0000</pubDate>
+<description>Use animated wallpapers on your desktop. Explore unlimited live wallpapers from the community, or create your own with included AI generations that refill daily.</description>
+</item>
 <item>
 <title>Legion TD 2 - Floating Isles Campaign</title>
 <link>https://store.steampowered.com/app/562150/</link>
@@ -18,34 +60,6 @@
 <guid isPermaLink="false">1275550</guid>
 <pubDate>Sun, 15 Nov 2026 05:33:35 +0000</pubDate>
 <description>A first-person narrative adventure set in the unforgiving Arctic. Your plane crashed in a storm, leaving only your court-mandated therapy bot for company as you journey to find your co-pilot and uncover the mysteries buried beneath the ice.</description>
-</item>
-<item>
-<title>Aldmark Calls for Aid</title>
-<link>https://store.steampowered.com/app/5168960/</link>
-<guid isPermaLink="false">5168960</guid>
-<pubDate>Sat, 14 Nov 2026 22:07:46 +0000</pubDate>
-<description>A medieval siege-defence strategy game where a rival crown comes for your city. Command your troops on the walls and in the field, and between rounds light beacons to choose which allies will march to your aid. Win or lose, every battle earns renown to make Aldmark stronger.</description>
-</item>
-<item>
-<title>Magicka 2</title>
-<link>https://store.steampowered.com/app/238370/</link>
-<guid isPermaLink="false">238370</guid>
-<pubDate>Sat, 14 Nov 2026 22:07:46 +0000</pubDate>
-<description>The world’s most irreverent co-op action adventure returns! In the next chapter of Magicka, players ascend from the ruins of Aldrheim to experience a Midgård almost wiped free of Wizards after the Wizard Wars, with the few that do remain having either gone mad or extremely hostile toward all others</description>
-</item>
-<item>
-<title>Tavern Master</title>
-<link>https://store.steampowered.com/app/1525700/</link>
-<guid isPermaLink="false">1525700</guid>
-<pubDate>Sat, 14 Nov 2026 22:07:46 +0000</pubDate>
-<description>Tavern Master is all about managing your medieval tavern. You start with a very small room, couple of benches and tables and build your way up to a huge successful tavern with a kitchen, rooms for guests, group of loyal staff and much more!</description>
-</item>
-<item>
-<title>Tavern Master: Pirates Retreat</title>
-<link>https://store.steampowered.com/app/3261130/</link>
-<guid isPermaLink="false">3261130</guid>
-<pubDate>Sat, 14 Nov 2026 22:07:46 +0000</pubDate>
-<description>Embark on the ultimate pirate adventure and transform your tavern into a pirate's paradise. Serve pirate themed drinks, unlock new food recipes and decorate your pirate tavern with completely new decorations! You also get to own your very own pirate ship and manage the crew!</description>
 </item>
 </channel>
 </rss>
