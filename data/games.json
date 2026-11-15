@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T13:40:38+00:00",
+  "updated_at": "2026-11-15T20:02:04+00:00",
   "total_count": 5165,
   "active_count": 347,
   "games": [
@@ -20859,6 +20859,31 @@
           "currency": "USD",
           "original": 999,
           "final": 199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 1320
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 3900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 840
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 24000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 220000
         }
       },
       "review_hint": "Mostly Positive<br>76% of the 13 user reviews for this game are positive.",
@@ -20873,7 +20898,7 @@
       "search_text": "legion td 2 - floating isles campaign legion td 2 - floating isles campaign a 10-15 hour singleplayer/co-operative campaign playable with 1-4 players. casual indie strategy single-player multi-player pvp online pvp co-op online co-op downloadable content steam achievements steam trading cards stats english french italian german spanish-spain danish polish portuguese---portugal russian schinese ukrainian arabic bulgarian czech dutch finnish greek hungarian japanese korean norwegian portuguese-brazil romanian swedish thai tchinese turkish mostly positive<br>76% of the 13 user reviews for this game are positive.",
       "first_seen": "2026-11-15T13:40:38+00:00",
       "last_seen": "2026-11-15T13:40:38+00:00",
-      "updated_at": "2026-11-15T13:40:38+00:00"
+      "updated_at": "2026-11-15T20:02:04+00:00"
     },
     {
       "app_id": 469600,
