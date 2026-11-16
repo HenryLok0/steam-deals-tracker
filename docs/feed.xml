@@ -4,7 +4,7 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Mon, 16 Nov 2026 15:13:25 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 23:52:40 +0000</lastBuildDate>
 <item>
 <title>Dungeonbound</title>
 <link>https://store.steampowered.com/app/5200620/</link>
@@ -74,41 +74,6 @@
 <guid isPermaLink="false">2132750</guid>
 <pubDate>Mon, 16 Nov 2026 05:32:59 +0000</pubDate>
 <description>Embark on a new adventure and delve deeper into the lands of Nostalgaia. Go where nostalgia, tradition, and progress converge, awaiting your heroism to mould the landscape anew. Stand against the onslaught of mighty new adversaries and forge your legacy as a harbinger of change.</description>
-</item>
-<item>
-<title>Company of Heroes 3: Hammer &amp; Shield Battlegroup DLC</title>
-<link>https://store.steampowered.com/app/4523180/</link>
-<guid isPermaLink="false">4523180</guid>
-<pubDate>Sun, 15 Nov 2026 22:37:32 +0000</pubDate>
-<description>This content requires the base game Company of Heroes 3 on Steam in order to play.</description>
-</item>
-<item>
-<title>Gold Mining Simulator - Definitive Edition</title>
-<link>https://store.steampowered.com/app/4707700/</link>
-<guid isPermaLink="false">4707700</guid>
-<pubDate>Sun, 15 Nov 2026 22:37:32 +0000</pubDate>
-<description>Gold Mining Simulator: Definitive Edition is the ultimate version of the game, featuring all previously released expansions plus new content, gameplay enhancements, visual improvements, and numerous quality of life upgrades for the most complete gold mining experience.</description>
-</item>
-<item>
-<title>Horsey Game</title>
-<link>https://store.steampowered.com/app/3602570/</link>
-<guid isPermaLink="false">3602570</guid>
-<pubDate>Sun, 15 Nov 2026 22:37:32 +0000</pubDate>
-<description>Collect Horses. Breed Horses. Race Horses. Genetically Modify Horses. Create a Horse paradise or just get rich!</description>
-</item>
-<item>
-<title>The Last Hero of Nostalgaia</title>
-<link>https://store.steampowered.com/app/1766100/</link>
-<guid isPermaLink="false">1766100</guid>
-<pubDate>Sun, 15 Nov 2026 22:37:32 +0000</pubDate>
-<description>The Last Hero of Nostalgaia is a satirical action-adventure, brought to life by a twisted and wicked tale. Featuring hard but fair combat, *full character customization, unique battle armor and engaging narrative mechanics rich in lore, Nostalgaia plunges you into almost certain death at every turn.</description>
-</item>
-<item>
-<title>Wallpaper Animator</title>
-<link>https://store.steampowered.com/app/4484970/</link>
-<guid isPermaLink="false">4484970</guid>
-<pubDate>Sun, 15 Nov 2026 22:37:32 +0000</pubDate>
-<description>Use animated wallpapers on your desktop. Explore unlimited live wallpapers from the community, or create your own with included AI generations that refill daily.</description>
 </item>
 </channel>
 </rss>
