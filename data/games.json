@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T05:32:59+00:00",
+  "updated_at": "2026-11-16T10:26:53+00:00",
   "total_count": 5176,
   "active_count": 348,
   "games": [
@@ -3986,6 +3986,31 @@
           "currency": "USD",
           "original": 3499,
           "final": 874
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 22000,
+          "final": 5500
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 81000,
+          "final": 20200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 12900,
+          "final": 3225
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 399900,
+          "final": 99900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3800000,
+          "final": 950000
         }
       },
       "review_hint": "Mostly Positive<br>78% of the 1,069 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -4000,7 +4025,7 @@
       "search_text": "asterigos: curse of the stars asterigos: curse of the stars embark on a journey full of danger in this action rpg, inspired by greek and roman mythologies. explore the breathtaking city of aphes and forge your way through legions of unique foes and mythical bosses to discover the truth behind the city’s curse. action adventure rpg single-player steam achievements full controller support steam trading cards steam cloud family sharing english schinese tchinese french italian german spanish-spain japanese korean portuguese-brazil russian mostly positive<br>78% of the 1,069 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-16T05:32:59+00:00",
       "last_seen": "2026-11-16T05:32:59+00:00",
-      "updated_at": "2026-11-16T05:32:59+00:00"
+      "updated_at": "2026-11-16T10:26:53+00:00"
     },
     {
       "app_id": 1718570,
@@ -9429,6 +9454,31 @@
           "currency": "USD",
           "original": 1399,
           "final": 1119
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8300,
+          "final": 6640
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27900,
+          "final": 22300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5300,
+          "final": 4240
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 157500,
+          "final": 126000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1480000,
+          "final": 1184000
         }
       },
       "review_hint": "Mixed<br>41% of the 34 user reviews for this game are positive.",
@@ -9443,7 +9493,7 @@
       "search_text": "company of heroes 3: hammer & shield battlegroup dlc company of heroes 3: hammer & shield battlegroup dlc this content requires the base game company of heroes 3 on steam in order to play. action strategy single-player multi-player pvp online pvp co-op online co-op downloadable content steam achievements steam trading cards steam workshop stats family sharing english french italian german spanish-spain czech korean polish schinese tchinese japanese portuguese-brazil turkish russian ukrainian mixed<br>41% of the 34 user reviews for this game are positive.",
       "first_seen": "2026-11-15T22:37:32+00:00",
       "last_seen": "2026-11-16T05:32:59+00:00",
-      "updated_at": "2026-11-16T05:32:59+00:00"
+      "updated_at": "2026-11-16T10:26:53+00:00"
     },
     {
       "app_id": 1158160,
@@ -17376,6 +17426,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 2999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 22800,
+          "final": 17100
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 68900,
+          "final": 51700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 13900,
+          "final": 10425
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 510000,
+          "final": 382500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4250000,
+          "final": 3187000
         }
       },
       "review_hint": "",
@@ -17390,7 +17465,7 @@
       "search_text": "gold mining simulator - definitive edition gold mining simulator - definitive edition gold mining simulator: definitive edition is the ultimate version of the game, featuring all previously released expansions plus new content, gameplay enhancements, visual improvements, and numerous quality of life upgrades for the most complete gold mining experience. indie simulation single-player full controller support camera comfort custom volume controls adjustable difficulty playable without timed input dualshock controller support dualshock controller support save anytime stereo sound steam cloud steam leaderboards family sharing english french italian german spanish-spain schinese dutch japanese norwegian polish portuguese---portugal russian turkish bulgarian tchinese czech danish greek korean romanian swedish",
       "first_seen": "2026-11-15T22:37:32+00:00",
       "last_seen": "2026-11-16T05:32:59+00:00",
-      "updated_at": "2026-11-16T05:32:59+00:00"
+      "updated_at": "2026-11-16T10:26:53+00:00"
     },
     {
       "app_id": 571740,
@@ -18248,6 +18323,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 1079
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7800,
+          "final": 7020
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 22600,
+          "final": 20300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4800,
+          "final": 4320
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 126000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1350000,
+          "final": 1215000
         }
       },
       "review_hint": "Very Positive<br>89% of the 1,138 user reviews for this game are positive.",
@@ -18262,7 +18362,7 @@
       "search_text": "halcyon days at taoyuan halcyon days at taoyuan welcome to taoyuan village to heal your loneliness. here, you can lead a carefree, self-sufficient life: farm, tame animals, raise livestock, fish, and build a prosperous homestead. or, immerse in village life, meet kindred spirits, find love, and influence their destinies with your choices. casual indie rpg simulation single-player steam achievements full controller support steam cloud family sharing schinese english tchinese very positive<br>89% of the 1,138 user reviews for this game are positive.",
       "first_seen": "2026-11-16T05:32:59+00:00",
       "last_seen": "2026-11-16T05:32:59+00:00",
-      "updated_at": "2026-11-16T05:32:59+00:00"
+      "updated_at": "2026-11-16T10:26:53+00:00"
     },
     {
       "app_id": 4661070,
@@ -18941,6 +19041,31 @@
           "currency": "USD",
           "original": 999,
           "final": 749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 4950
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 14100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 3150
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 90000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 825000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>96% of the 2,773 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -18955,7 +19080,7 @@
       "search_text": "horsey game horsey game collect horses. breed horses. race horses. genetically modify horses. create a horse paradise or just get rich! indie simulation single-player steam achievements steam cloud family sharing english overwhelmingly positive<br>96% of the 2,773 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-15T22:37:32+00:00",
       "last_seen": "2026-11-16T05:32:59+00:00",
-      "updated_at": "2026-11-16T05:32:59+00:00"
+      "updated_at": "2026-11-16T10:26:53+00:00"
     },
     {
       "app_id": 5458210,
@@ -20289,6 +20414,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 2309
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 17200,
+          "final": 13244
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 56100,
+          "final": 43100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10900,
+          "final": 8393
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 385000,
+          "final": 296400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3100000,
+          "final": 2387000
         }
       },
       "review_hint": "",
@@ -20303,7 +20453,7 @@
       "search_text": "jyoka -castle town- jyoka -castle town- &quot;jyoka&quot; is a 16th-century japanese castle town builder. develop your territory with 190+ facilities and grant rice fields to retainers to secure loyalty. defend against bandits and daimyos. once stable, launch epic sieges against 70+ real-inspired castles to unify japan! indie simulation strategy single-player steam achievements camera comfort custom volume controls adjustable difficulty #category_playable_at_your_own_pace playable without timed input save anytime steam cloud family sharing english spanish-spain portuguese---portugal russian schinese japanese",
       "first_seen": "2026-11-16T05:32:59+00:00",
       "last_seen": "2026-11-16T05:32:59+00:00",
-      "updated_at": "2026-11-16T05:32:59+00:00"
+      "updated_at": "2026-11-16T10:26:53+00:00"
     },
     {
       "app_id": 2776090,
@@ -28350,6 +28500,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 1900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 5300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 1160
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 34000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 330000
         }
       },
       "review_hint": "Very Positive<br>94% of the 9,668 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -28364,7 +28539,7 @@
       "search_text": "speedrunners speedrunners cut-throat multiplayer running game that pits 4 players against each other, locally and/or online. run, jump, swing around, and use devious weapons and pick-ups to knock opponents off-screen! one of the most competitive games you'll ever play. action casual indie racing sports single-player multi-player pvp online pvp shared/split screen pvp shared/split screen cross-platform multiplayer steam achievements full controller support steam trading cards steam workshop dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam input api support steam cloud stats includes level editor remote play on phone remote play on tablet remote play on tv remote play together family sharing english french italian german spanish-spain czech romanian russian schinese dutch hungarian greek norwegian portuguese-brazil turkish ukrainian polish japanese korean very positive<br>94% of the 9,668 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-16T05:32:59+00:00",
       "last_seen": "2026-11-16T05:32:59+00:00",
-      "updated_at": "2026-11-16T05:32:59+00:00"
+      "updated_at": "2026-11-16T10:26:53+00:00"
     },
     {
       "app_id": 1618380,
@@ -31228,6 +31403,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10900,
+          "final": 2180
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37800,
+          "final": 7500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8000,
+          "final": 1600
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 257000,
+          "final": 51400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2600000,
+          "final": 520000
         }
       },
       "review_hint": "Mostly Positive<br>78% of the 863 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -31242,7 +31442,7 @@
       "search_text": "the last hero of nostalgaia the last hero of nostalgaia the last hero of nostalgaia is a satirical action-adventure, brought to life by a twisted and wicked tale. featuring hard but fair combat, *full character customization, unique battle armor and engaging narrative mechanics rich in lore, nostalgaia plunges you into almost certain death at every turn. action adventure single-player multi-player co-op online co-op steam achievements partial controller support family sharing english french german spanish-spain japanese schinese italian korean polish portuguese-brazil russian tchinese turkish mostly positive<br>78% of the 863 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-15T22:37:32+00:00",
       "last_seen": "2026-11-16T05:32:59+00:00",
-      "updated_at": "2026-11-16T05:32:59+00:00"
+      "updated_at": "2026-11-16T10:26:53+00:00"
     },
     {
       "app_id": 2132750,
@@ -31300,6 +31500,31 @@
           "currency": "USD",
           "original": 799,
           "final": 399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3499,
+          "final": 1749
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 12100,
+          "final": 6000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2599,
+          "final": 1299
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 82200,
+          "final": 41100
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 832000,
+          "final": 416000
         }
       },
       "review_hint": "Mixed<br>57% of the 57 user reviews for this game are positive.",
@@ -31314,7 +31539,7 @@
       "search_text": "the last hero of nostalgaia - the rise of evil dlc the last hero of nostalgaia - the rise of evil dlc embark on a new adventure and delve deeper into the lands of nostalgaia. go where nostalgia, tradition, and progress converge, awaiting your heroism to mould the landscape anew. stand against the onslaught of mighty new adversaries and forge your legacy as a harbinger of change. action adventure single-player multi-player co-op online co-op downloadable content steam achievements partial controller support family sharing english french german spanish-spain japanese schinese italian korean mixed<br>57% of the 57 user reviews for this game are positive.",
       "first_seen": "2026-11-16T05:32:59+00:00",
       "last_seen": "2026-11-16T05:32:59+00:00",
-      "updated_at": "2026-11-16T05:32:59+00:00"
+      "updated_at": "2026-11-16T10:26:53+00:00"
     },
     {
       "app_id": 4521700,
@@ -33499,6 +33724,31 @@
           "currency": "USD",
           "original": 499,
           "final": 349
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3000,
+          "final": 2100
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 11700,
+          "final": 8100
+        },
+        "zh-Hans": {
+          "currency": "USD",
+          "original": 499,
+          "final": 349
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 65500,
+          "final": 45800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 545000,
+          "final": 381000
         }
       },
       "review_hint": "Mostly Positive<br>72% of the 187 user reviews for this software are positive.",
@@ -33513,7 +33763,7 @@
       "search_text": "wallpaper animator wallpaper animator use animated wallpapers on your desktop. explore unlimited live wallpapers from the community, or create your own with included ai generations that refill daily. indie animation & modeling design & illustration photo editing utilities in-app purchases adjustable text size adjustable difficulty keyboard only option mouse only option #category_playable_at_your_own_pace playable without timed input save anytime english french german spanish-spain polish portuguese-brazil russian schinese italian czech indonesian japanese korean thai tchinese turkish ukrainian vietnamese mostly positive<br>72% of the 187 user reviews for this software are positive.",
       "first_seen": "2026-11-15T22:37:32+00:00",
       "last_seen": "2026-11-16T05:32:59+00:00",
-      "updated_at": "2026-11-16T05:32:59+00:00"
+      "updated_at": "2026-11-16T10:26:53+00:00"
     },
     {
       "app_id": 4981570,
@@ -203404,6 +203654,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 1979
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 18700,
+          "final": 12342
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 48800,
+          "final": 32200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 12200,
+          "final": 8052
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 388800,
+          "final": 256600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3800000,
+          "final": 2508000
         }
       },
       "review_hint": "Very Positive<br>84% of the 605 user reviews for this game are positive.",
@@ -203418,7 +203693,7 @@
       "search_text": "galacticare galacticare build, manage and optimise intergalactic hospitals! recruit staff to satisfy the whims of various alien species, and cure their bizarre illnesses - for money! save the (literal) galaxy in story mode, or head into sandbox to design the hospital of your dreams. casual simulation strategy single-player steam achievements full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing english french german spanish-spain japanese portuguese-brazil russian schinese korean polish very positive<br>84% of the 605 user reviews for this game are positive.",
       "first_seen": "2026-11-15T22:37:32+00:00",
       "last_seen": "2026-11-16T05:32:59+00:00",
-      "updated_at": "2026-11-16T05:32:59+00:00"
+      "updated_at": "2026-11-16T10:26:53+00:00"
     },
     {
       "app_id": 2749770,

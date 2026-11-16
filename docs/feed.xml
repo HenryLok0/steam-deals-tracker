@@ -4,7 +4,7 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Mon, 16 Nov 2026 05:32:59 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 10:26:53 +0000</lastBuildDate>
 <item>
 <title>Asterigos: Curse of the Stars</title>
 <link>https://store.steampowered.com/app/1731070/</link>
@@ -74,13 +74,6 @@
 <guid isPermaLink="false">4484970</guid>
 <pubDate>Sun, 15 Nov 2026 22:37:32 +0000</pubDate>
 <description>Use animated wallpapers on your desktop. Explore unlimited live wallpapers from the community, or create your own with included AI generations that refill daily.</description>
-</item>
-<item>
-<title>Arctic Awakening</title>
-<link>https://store.steampowered.com/app/1275550/</link>
-<guid isPermaLink="false">1275550</guid>
-<pubDate>Sun, 15 Nov 2026 05:33:35 +0000</pubDate>
-<description>A first-person narrative adventure set in the unforgiving Arctic. Your plane crashed in a storm, leaving only your court-mandated therapy bot for company as you journey to find your co-pilot and uncover the mysteries buried beneath the ice.</description>
 </item>
 </channel>
 </rss>
