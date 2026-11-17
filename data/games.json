@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T01:44:32+00:00",
+  "updated_at": "2026-11-17T11:24:01+00:00",
   "total_count": 5201,
   "active_count": 345,
   "games": [
@@ -7026,6 +7026,31 @@
           "currency": "USD",
           "original": 999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5500,
+          "final": 4400
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18900,
+          "final": 15100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3900,
+          "final": 3120
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 98000,
+          "final": 78400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 990000,
+          "final": 792000
         }
       },
       "review_hint": "Positive<br>100% of the 16 user reviews for this game are positive.",
@@ -7040,7 +7065,7 @@
       "search_text": "clicky islands clicky islands clicky islands is an incremental game with a full city builder inside. settle procedurally generated islands, build production chains, put your workers to work and ship goods for gold as your economy grows. unlock permanent upgrades and find the perfect island for his majesty’s future kingdom casual strategy single-player steam achievements adjustable text size camera comfort custom volume controls mouse only option playable without timed input stereo sound steam cloud family sharing english german polish schinese japanese tchinese portuguese-brazil spanish-latin positive<br>100% of the 16 user reviews for this game are positive.",
       "first_seen": "2026-11-17T01:44:32+00:00",
       "last_seen": "2026-11-17T01:44:32+00:00",
-      "updated_at": "2026-11-17T01:44:32+00:00"
+      "updated_at": "2026-11-17T11:24:01+00:00"
     },
     {
       "app_id": 597170,
@@ -13909,6 +13934,31 @@
           "currency": "USD",
           "original": 999,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6100,
+          "final": 5490
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21600,
+          "final": 19400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 3780
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 135000,
+          "final": 121500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1050000,
+          "final": 945000
         }
       },
       "review_hint": "",
@@ -13923,7 +13973,7 @@
       "search_text": "func key func key func key is a word-spelling roguelike deckbuilder where your keyboard is your class: six boards, six different ways to play. spell words, build your board, and bend the rules with mods, all to the soothing thock of the mechanical keyboard. strategy single-player dualshock controller support dualshock controller support dualsense controller support dualsense controller support partial controller support steam cloud family sharing english",
       "first_seen": "2026-11-17T01:44:32+00:00",
       "last_seen": "2026-11-17T01:44:32+00:00",
-      "updated_at": "2026-11-17T01:44:32+00:00"
+      "updated_at": "2026-11-17T11:24:01+00:00"
     },
     {
       "app_id": 871930,
@@ -13991,6 +14041,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 374
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 2375
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 6700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 1450
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 42500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 412000
         }
       },
       "review_hint": "Very Positive<br>87% of the 851 user reviews for this game are positive.",
@@ -14005,7 +14080,7 @@
       "search_text": "gladiabots - ai combat arena gladiabots - ai combat arena assemble your robot squad, construct their ai and send them in the battle arena to see your strategy play out. iterate, improve and repeat until you outsmart all your opponents and friends online. indie simulation strategy single-player multi-player pvp online pvp cross-platform multiplayer steam achievements partial controller support stats family sharing english french italian german spanish-spain schinese hungarian japanese portuguese---portugal russian ukrainian dutch tchinese portuguese-brazil very positive<br>87% of the 851 user reviews for this game are positive.",
       "first_seen": "2026-11-17T01:44:32+00:00",
       "last_seen": "2026-11-17T01:44:32+00:00",
-      "updated_at": "2026-11-17T01:44:32+00:00"
+      "updated_at": "2026-11-17T11:24:01+00:00"
     },
     {
       "app_id": 2239670,
@@ -14419,6 +14494,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 5700
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 16000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 3480
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 102000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 990000
         }
       },
       "review_hint": "Mostly Positive<br>79% of the 329 user reviews for this game are positive.",
@@ -14433,7 +14533,7 @@
       "search_text": "goat simulator 3 - multiverse of nonsense goat simulator 3 - multiverse of nonsense &quot;in a world where everything went wrong (and it was all your fault) you must now help the guardian of the multiverse to save it before it’s too late. this is… goat simulator 3: multiverse of nonsense&quot; adventure casual simulation single-player multi-player co-op online co-op shared/split screen co-op shared/split screen downloadable content steam achievements full controller support steam trading cards captions available steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese tchinese mostly positive<br>79% of the 329 user reviews for this game are positive.",
       "first_seen": "2026-11-17T01:44:32+00:00",
       "last_seen": "2026-11-17T01:44:32+00:00",
-      "updated_at": "2026-11-17T01:44:32+00:00"
+      "updated_at": "2026-11-17T11:24:01+00:00"
     },
     {
       "app_id": 3708030,
@@ -14505,6 +14605,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1049
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 6650
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 18700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 4060
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 119000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 1155000
         }
       },
       "review_hint": "Mixed<br>60% of the 229 user reviews for this game are positive.",
@@ -14519,7 +14644,7 @@
       "search_text": "goat simulator 3 – baadlands: furry road goat simulator 3 – baadlands: furry road play as baallistic pilgor, the antihero and survivor of the apocalypse. roam around the baadlands on your motorcycle, butt heads with bizarre rival factions, establish your town and harass its citizens, and try to figure out what’s behind the mysterious vault. adventure casual simulation single-player multi-player co-op online co-op shared/split screen co-op shared/split screen downloadable content steam achievements full controller support steam trading cards captions available camera comfort custom volume controls stereo sound subtitle options steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese tchinese mixed<br>60% of the 229 user reviews for this game are positive.",
       "first_seen": "2026-11-17T01:44:32+00:00",
       "last_seen": "2026-11-17T01:44:32+00:00",
-      "updated_at": "2026-11-17T01:44:32+00:00"
+      "updated_at": "2026-11-17T11:24:01+00:00"
     },
     {
       "app_id": 1029780,
@@ -15745,6 +15870,31 @@
           "currency": "USD",
           "original": 699,
           "final": 489
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3900,
+          "final": 2730
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 13900,
+          "final": 9700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2500,
+          "final": 1750
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 75000,
+          "final": 52500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 700000,
+          "final": 490000
         }
       },
       "review_hint": "Very Positive<br>80% of the 93 user reviews for this game are positive.",
@@ -15759,7 +15909,7 @@
       "search_text": "here comes the horde here comes the horde here comes the horde is an incremental auto-battler where your vast armies defend your castle against hordes of undead enemies. survive the attacks, unlock new units, obtain powerful abilities, and fill the screen with thousands of troops. casual indie rpg single-player steam achievements steam cloud family sharing english french italian german spanish-spain arabic bulgarian czech danish dutch finnish greek hungarian indonesian japanese korean malay norwegian polish portuguese-brazil portuguese---portugal romanian russian schinese spanish-latin swedish thai tchinese turkish ukrainian vietnamese very positive<br>80% of the 93 user reviews for this game are positive.",
       "first_seen": "2026-11-17T01:44:32+00:00",
       "last_seen": "2026-11-17T01:44:32+00:00",
-      "updated_at": "2026-11-17T01:44:32+00:00"
+      "updated_at": "2026-11-17T11:24:01+00:00"
     },
     {
       "app_id": 3504050,
@@ -16656,6 +16806,31 @@
           "currency": "USD",
           "original": 499,
           "final": 174
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3300,
+          "final": 1155
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 10200,
+          "final": 3500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 770
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 58000,
+          "final": 20300
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 560000,
+          "final": 196000
         }
       },
       "review_hint": "Very Positive<br>86% of the 915 user reviews for this game are positive.",
@@ -16670,7 +16845,7 @@
       "search_text": "journey to incrementalia journey to incrementalia journey to incrementalia is an active incremental auto-battler about a necromancer on a short quest. cast diabolical spells, summon an army and open the gates of hell on your quest to break down 99 walls and reach the lost city of incrementalia. adventure rpg strategy single-player steam achievements steam trading cards steam cloud remote play together family sharing english very positive<br>86% of the 915 user reviews for this game are positive.",
       "first_seen": "2026-11-17T01:44:32+00:00",
       "last_seen": "2026-11-17T01:44:32+00:00",
-      "updated_at": "2026-11-17T01:44:32+00:00"
+      "updated_at": "2026-11-17T11:24:01+00:00"
     },
     {
       "app_id": 2058180,
@@ -16836,6 +17011,31 @@
           "currency": "USD",
           "original": 799,
           "final": 495
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4400,
+          "final": 2728
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15800,
+          "final": 9700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 1736
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 115000,
+          "final": 71300
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 895000,
+          "final": 555000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>99% of the 501 user reviews for this game are positive.",
@@ -16850,7 +17050,7 @@
       "search_text": "just volleyball just volleyball just volleyball is an online and offline volleyball game with unique yet intuitive controls and deep player expression. take on others in anything from 1v1s &amp; 2v2s to full team-based 6v6 matches. there's no right way to play, it's just volleyball! action casual indie sports single-player multi-player pvp online pvp lan pvp shared/split screen pvp co-op online co-op lan co-op shared/split screen co-op shared/split screen steam achievements camera comfort custom volume controls adjustable difficulty playable without timed input dualshock controller support dualshock controller support steam input api support stereo sound surround sound partial controller support steam cloud remote play together family sharing english overwhelmingly positive<br>99% of the 501 user reviews for this game are positive.",
       "first_seen": "2026-11-17T01:44:32+00:00",
       "last_seen": "2026-11-17T01:44:32+00:00",
-      "updated_at": "2026-11-17T01:44:32+00:00"
+      "updated_at": "2026-11-17T11:24:01+00:00"
     },
     {
       "app_id": 379430,
@@ -18219,6 +18419,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10500,
+          "final": 9450
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 34800,
+          "final": 31300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7000,
+          "final": 6300
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 252000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2250000,
+          "final": 2025000
         }
       },
       "review_hint": "",
@@ -18233,7 +18458,7 @@
       "search_text": "littlelands littlelands the littlelands region is brimming with strange characters and magical landscapes to discover if you know where to look, for a big-headed little youngster like you every moment exploring, growing berries, searching for buried treasures or walking through these lands can be an epic adventure. action adventure casual indie early access single-player full controller support family sharing english spanish-spain",
       "first_seen": "2026-11-17T01:44:32+00:00",
       "last_seen": "2026-11-17T01:44:32+00:00",
-      "updated_at": "2026-11-17T01:44:32+00:00"
+      "updated_at": "2026-11-17T11:24:01+00:00"
     },
     {
       "app_id": 2320980,
@@ -18410,6 +18635,31 @@
           "currency": "USD",
           "original": 499,
           "final": 324
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3000,
+          "final": 1950
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 11700,
+          "final": 7600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1430
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 65500,
+          "final": 42500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 545000,
+          "final": 354000
         }
       },
       "review_hint": "Very Positive<br>92% of the 1,847 user reviews for this game are positive.",
@@ -18424,7 +18674,7 @@
       "search_text": "loot loop loot loop build a party of heroes and send them into dungeons in this short incremental rpg. fight monsters, collect loot, and unlock upgrades. fast runs, deep skill tree, zero stress. casual indie simulation strategy single-player steam achievements mouse only option playable without timed input save anytime steam cloud family sharing english french german spanish-spain japanese korean polish portuguese-brazil russian schinese very positive<br>92% of the 1,847 user reviews for this game are positive.",
       "first_seen": "2026-11-17T01:44:32+00:00",
       "last_seen": "2026-11-17T01:44:32+00:00",
-      "updated_at": "2026-11-17T01:44:32+00:00"
+      "updated_at": "2026-11-17T11:24:01+00:00"
     },
     {
       "app_id": 2058190,
@@ -20575,6 +20825,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 2399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14800,
+          "final": 11840
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 56100,
+          "final": 44800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9800,
+          "final": 7840
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 340000,
+          "final": 272000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3100000,
+          "final": 2480000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>96% of the 2,104 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -20589,7 +20864,7 @@
       "search_text": "order of the sinking star order of the sinking star from director jonathan blow (braid, the witness), order of the sinking star is a massive puzzle adventure set in a realm of magic and enigma. solve over 1000 interconnected, hand-crafted puzzles, discover unique playable heroes, master evolving gameplay mechanics, and decipher a grand mystery. adventure indie strategy single-player steam achievements full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing english french italian german spanish-spain japanese korean portuguese-brazil russian schinese tchinese overwhelmingly positive<br>96% of the 2,104 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-17T01:44:32+00:00",
       "last_seen": "2026-11-17T01:44:32+00:00",
-      "updated_at": "2026-11-17T01:44:32+00:00"
+      "updated_at": "2026-11-17T11:24:01+00:00"
     },
     {
       "app_id": 728880,
@@ -22827,6 +23102,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7900,
+          "final": 6320
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27800,
+          "final": 22200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5400,
+          "final": 4320
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 210000,
+          "final": 168000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1700000,
+          "final": 1360000
         }
       },
       "review_hint": "",
@@ -22841,7 +23141,7 @@
       "search_text": "rock and found rock and found your grandma has willed you a collection of rocks deep in the woods, but when you arrive, you find that the rocks are strewn across the floor. armed with your grandma's journal, a determination to clean the collection, and the tools she left behind, you begin sorting through thousands of rocks. adventure single-player steam achievements camera comfort custom volume controls #category_playable_at_your_own_pace playable without timed input save anytime stereo sound steam cloud steam leaderboards family sharing english",
       "first_seen": "2026-11-17T01:44:32+00:00",
       "last_seen": "2026-11-17T01:44:32+00:00",
-      "updated_at": "2026-11-17T01:44:32+00:00"
+      "updated_at": "2026-11-17T11:24:01+00:00"
     },
     {
       "app_id": 5118500,
@@ -23368,6 +23668,31 @@
           "currency": "USD",
           "original": 599,
           "final": 479
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3300,
+          "final": 2640
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 12800,
+          "final": 10200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1760
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 84500,
+          "final": 67600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 670000,
+          "final": 536000
         }
       },
       "review_hint": "Positive<br>97% of the 39 user reviews for this game are positive.",
@@ -23382,7 +23707,7 @@
       "search_text": "scopecreep scopecreep a whispering flame craves souls. with each offering, your resolve strengthens. fight spirits, collect their essences, and feed a hunger that may never subside in this short active incremental. casual simulation strategy single-player steam achievements camera comfort color alternatives custom volume controls mouse only option playable without timed input stereo sound steam cloud family sharing english french german spanish-spain japanese korean polish portuguese-brazil russian schinese tchinese turkish positive<br>97% of the 39 user reviews for this game are positive.",
       "first_seen": "2026-11-17T01:44:32+00:00",
       "last_seen": "2026-11-17T01:44:32+00:00",
-      "updated_at": "2026-11-17T01:44:32+00:00"
+      "updated_at": "2026-11-17T11:24:01+00:00"
     },
     {
       "app_id": 3948120,
@@ -25101,6 +25426,31 @@
           "currency": "USD",
           "original": 1399,
           "final": 1189
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6900,
+          "final": 5865
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 24900,
+          "final": 21100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4900,
+          "final": 4165
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 198000,
+          "final": 168300
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1500000,
+          "final": 1275000
         }
       },
       "review_hint": "Mixed<br>40% of the 27 user reviews for this game are positive.",
@@ -25115,7 +25465,7 @@
       "search_text": "sol one sol one a grounded open-world survival crafting game where you're stranded alone on mars. explore the red planet, extract resources, build a pressurized base, manage oxygen, power, and food, and construct the rocket that's your only way home. action adventure indie simulation early access single-player #category_playable_at_your_own_pace playable without timed input stereo sound surround sound family sharing english mixed<br>40% of the 27 user reviews for this game are positive.",
       "first_seen": "2026-11-17T01:44:32+00:00",
       "last_seen": "2026-11-17T01:44:32+00:00",
-      "updated_at": "2026-11-17T01:44:32+00:00"
+      "updated_at": "2026-11-17T11:24:01+00:00"
     },
     {
       "app_id": 1706510,
@@ -26746,6 +27096,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 2699
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 17200,
+          "final": 15480
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 56100,
+          "final": 50500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6800,
+          "final": 6120
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 370000,
+          "final": 333000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3100000,
+          "final": 2790000
         }
       },
       "review_hint": "Very Positive<br>85% of the 78 user reviews for this game are positive.",
@@ -26760,7 +27135,7 @@
       "search_text": "spirit crossing spirit crossing from the makers of cozy grove: glide through pastel clouds, help lost spirits along the way, and design your own home nestled high on a mountain peak. befriend strangers around a warm campfire, or share memories while lazily fishing in the sky with a friend. welcome to your strange new home. 🏠🏔️ adventure casual indie massively multiplayer rpg simulation multi-player mmo co-op online co-op cross-platform multiplayer in-app purchases camera comfort custom volume controls adjustable difficulty playable without timed input partial controller support family sharing english french italian german japanese korean portuguese-brazil spanish-latin tchinese schinese spanish-spain polish turkish very positive<br>85% of the 78 user reviews for this game are positive.",
       "first_seen": "2026-11-17T01:44:32+00:00",
       "last_seen": "2026-11-17T01:44:32+00:00",
-      "updated_at": "2026-11-17T01:44:32+00:00"
+      "updated_at": "2026-11-17T11:24:01+00:00"
     },
     {
       "app_id": 412830,
@@ -29178,6 +29553,31 @@
           "currency": "USD",
           "original": 1699,
           "final": 985
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10800,
+          "final": 6264
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 28800,
+          "final": 16700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6600,
+          "final": 3828
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 190000,
+          "final": 110200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1850000,
+          "final": 1073000
         }
       },
       "review_hint": "Very Positive<br>85% of the 330 user reviews for this game are positive.",
@@ -29192,7 +29592,7 @@
       "search_text": "throne of bone throne of bone draft minions to defeat all who oppose the noble art of necromancy. wield spells, discover dark relics, and reclaim your castle to unite the land through undeath in this unholy amalgam of roguelike, deckbuilder, and autobattler. strategy single-player steam achievements full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing english french italian german spanish-spain portuguese-brazil portuguese---portugal schinese very positive<br>85% of the 330 user reviews for this game are positive.",
       "first_seen": "2026-11-17T01:44:32+00:00",
       "last_seen": "2026-11-17T01:44:32+00:00",
-      "updated_at": "2026-11-17T01:44:32+00:00"
+      "updated_at": "2026-11-17T11:24:01+00:00"
     },
     {
       "app_id": 2239150,
@@ -29571,6 +29971,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 959
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7200,
+          "final": 5760
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26000,
+          "final": 20800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4800,
+          "final": 3840
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 160000,
+          "final": 128000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1300000,
+          "final": 1040000
         }
       },
       "review_hint": "Positive<br>100% of the 18 user reviews for this game are positive.",
@@ -29585,7 +30010,7 @@
       "search_text": "topdeck automat topdeck automat the roguelike auto-battler where your deck prints itself! supply a brave worker droid with synergistic blueprints to defend the planet against hordes of alien invaders. combine hundreds of cards with custom upgrades and infinitely stackable modules to discover broken builds. indie strategy single-player steam achievements full controller support adjustable text size camera comfort custom volume controls adjustable difficulty mouse only option #category_playable_at_your_own_pace playable without timed input steam cloud family sharing english german positive<br>100% of the 18 user reviews for this game are positive.",
       "first_seen": "2026-11-17T01:44:32+00:00",
       "last_seen": "2026-11-17T01:44:32+00:00",
-      "updated_at": "2026-11-17T01:44:32+00:00"
+      "updated_at": "2026-11-17T11:24:01+00:00"
     },
     {
       "app_id": 325610,
@@ -33713,6 +34138,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7900,
+          "final": 6320
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27800,
+          "final": 22200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5400,
+          "final": 4320
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 210000,
+          "final": 168000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1700000,
+          "final": 1360000
         }
       },
       "review_hint": "Positive<br>81% of the 11 user reviews for this game are positive.",
@@ -33727,7 +34177,7 @@
       "search_text": "warpack warpack build a fantasy war-band, pack each unit's backpack, and feed your champions to make them monsters. an async-pvp auto-battler: every opponent is a real player's saved army. five factions, shaped items, commander skills. forge a new build every run, then climb the ranked ladder. indie strategy single-player multi-player pvp online pvp steam achievements camera comfort custom volume controls mouse only option #category_playable_at_your_own_pace playable without timed input steam cloud steam leaderboards family sharing english positive<br>81% of the 11 user reviews for this game are positive.",
       "first_seen": "2026-11-17T01:44:32+00:00",
       "last_seen": "2026-11-17T01:44:32+00:00",
-      "updated_at": "2026-11-17T01:44:32+00:00"
+      "updated_at": "2026-11-17T11:24:01+00:00"
     },
     {
       "app_id": 3178350,
@@ -34655,6 +35105,31 @@
           "currency": "USD",
           "original": 2199,
           "final": 1979
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 14999,
+          "final": 13499
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 34900,
+          "final": 31400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6999,
+          "final": 6299
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 249900,
+          "final": 224900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2500000,
+          "final": 2250000
         }
       },
       "review_hint": "Mostly Positive<br>71% of the 319 user reviews for this game are positive.",
@@ -34669,7 +35144,7 @@
       "search_text": "wizdom academy wizdom academy a 3d builder management sim. you are the headmaster: build your wizarding academy floor by floor, train students into accomplished wizards, and keep your school alive through mana droughts, staff drama and rival academies. your school, your rules. casual indie simulation strategy single-player steam achievements family sharing english french italian german spanish-spain japanese portuguese-brazil portuguese---portugal schinese russian korean turkish spanish-latin polish tchinese hungarian czech thai ukrainian mostly positive<br>71% of the 319 user reviews for this game are positive.",
       "first_seen": "2026-11-17T01:44:32+00:00",
       "last_seen": "2026-11-17T01:44:32+00:00",
-      "updated_at": "2026-11-17T01:44:32+00:00"
+      "updated_at": "2026-11-17T11:24:01+00:00"
     },
     {
       "app_id": 1448440,
