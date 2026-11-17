@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T15:41:54+00:00",
+  "updated_at": "2026-11-17T22:50:04+00:00",
   "total_count": 5211,
   "active_count": 342,
   "games": [
@@ -3283,6 +3283,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8700,
+          "final": 6960
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 30800,
+          "final": 24600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5900,
+          "final": 4720
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 190000,
+          "final": 152000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1600000,
+          "final": 1280000
         }
       },
       "review_hint": "Very Positive<br>83% of the 392 user reviews for this game are positive.",
@@ -3297,7 +3322,7 @@
       "search_text": "below the stone below the stone below the stone is an extraction roguelike about dwarves on the quest for the deepest depths. a place where each and every descent will lead to new adventures -- and where only the most determined dwarves with many lost lives will be rewarded by the hidden world lying below the stone. action adventure indie single-player dualshock controller support dualshock controller support dualsense controller support dualsense controller support partial controller support family sharing english very positive<br>83% of the 392 user reviews for this game are positive.",
       "first_seen": "2026-11-17T15:41:54+00:00",
       "last_seen": "2026-11-17T15:41:54+00:00",
-      "updated_at": "2026-11-17T15:41:54+00:00"
+      "updated_at": "2026-11-17T22:50:04+00:00"
     },
     {
       "app_id": 3454650,
@@ -6155,6 +6180,31 @@
           "currency": "USD",
           "original": 899,
           "final": 719
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4400,
+          "final": 3520
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15800,
+          "final": 12600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 2240
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 115000,
+          "final": 92000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 895000,
+          "final": 716000
         }
       },
       "review_hint": "Mostly Positive<br>78% of the 14 user reviews for this game are positive.",
@@ -6169,7 +6219,7 @@
       "search_text": "code market code market your store. your robot. your code. code market is a relaxed management game where you don't click to sell — you program. a robot works in your supermarket, and it does exactly what your java or c# code tells it: walk to a rack, pick up tomatoes, take a customer's order, pack the bag. casual indie simulation strategy single-player steam achievements steam cloud stats steam leaderboards family sharing english russian japanese schinese mostly positive<br>78% of the 14 user reviews for this game are positive.",
       "first_seen": "2026-11-17T15:41:54+00:00",
       "last_seen": "2026-11-17T15:41:54+00:00",
-      "updated_at": "2026-11-17T15:41:54+00:00"
+      "updated_at": "2026-11-17T22:50:04+00:00"
     },
     {
       "app_id": 1479730,
@@ -7634,6 +7684,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10500,
+          "final": 9450
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 34800,
+          "final": 31300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 6840
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 250000,
+          "final": 225000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2050000,
+          "final": 1845000
         }
       },
       "review_hint": "",
@@ -7648,7 +7723,7 @@
       "search_text": "dawn of defense dawn of defense dawn of defense blends rts, tower defense, and roguelite progression. in a last defense, lead your tribe against the empire: command warriors in battle, fortify defenses, and build an economy as you fight to reclaim your ancestral homeland. strategy single-player steam achievements steam cloud family sharing english french german spanish-spain japanese korean russian schinese portuguese-brazil polish tchinese",
       "first_seen": "2026-11-17T15:41:54+00:00",
       "last_seen": "2026-11-17T15:41:54+00:00",
-      "updated_at": "2026-11-17T15:41:54+00:00"
+      "updated_at": "2026-11-17T22:50:04+00:00"
     },
     {
       "app_id": 2656010,
@@ -12866,6 +12941,31 @@
           "currency": "USD",
           "original": 799,
           "final": 519
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5200,
+          "final": 3380
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15200,
+          "final": 9800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3300,
+          "final": 2145
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 92000,
+          "final": 59800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 890000,
+          "final": 578000
         }
       },
       "review_hint": "Very Positive<br>80% of the 51 user reviews for this game are positive.",
@@ -12880,7 +12980,7 @@
       "search_text": "goat simulator 3 - super duper pack goat simulator 3 - super duper pack is it a bird? is it a plane? no, it’s the heroes no one asked for. will they help you save the world? probably not. more likely the opposite. this super pack contains 20 new gears, 6 with abilities, 6 new instincts, and 2 new playable goats. adventure casual simulation single-player multi-player co-op online co-op shared/split screen co-op shared/split screen downloadable content steam achievements full controller support steam trading cards captions available steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese tchinese very positive<br>80% of the 51 user reviews for this game are positive.",
       "first_seen": "2026-11-17T15:41:54+00:00",
       "last_seen": "2026-11-17T15:41:54+00:00",
-      "updated_at": "2026-11-17T15:41:54+00:00"
+      "updated_at": "2026-11-17T22:50:04+00:00"
     },
     {
       "app_id": 3708030,
@@ -13883,6 +13983,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 1169
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5200,
+          "final": 4680
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 22000,
+          "final": 19800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4400,
+          "final": 3960
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 199900,
+          "final": 179900
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1490000,
+          "final": 1341000
         }
       },
       "review_hint": "Positive<br>95% of the 49 user reviews for this game are positive.",
@@ -13897,7 +14022,7 @@
       "search_text": "harma harma harma is a retro dark fantasy roguelike deckbuilding game featuring a story-driven campaign. uncover the truth behind the fallen knights, the burning kingdom, and your missing father. harness the power of mighty artifacts to defeat demons and save a world on the brink of destruction. indie strategy early access single-player multi-player co-op online co-op full controller support steam cloud family sharing english japanese korean schinese tchinese positive<br>95% of the 49 user reviews for this game are positive.",
       "first_seen": "2026-11-17T15:41:54+00:00",
       "last_seen": "2026-11-17T15:41:54+00:00",
-      "updated_at": "2026-11-17T15:41:54+00:00"
+      "updated_at": "2026-11-17T22:50:04+00:00"
     },
     {
       "app_id": 1761390,
@@ -16626,6 +16751,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 959
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6500,
+          "final": 5200
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 22900,
+          "final": 18300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3900,
+          "final": 3120
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 136000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1350000,
+          "final": 1080000
         }
       },
       "review_hint": "",
@@ -16640,7 +16790,7 @@
       "search_text": "link loop link loop link loop is a 2d puzzle platformer built around portals and satisfying physics. use portals to move objects, redirect lasers, and transport fluids. levels have multiple solutions, and creativity is key. indie single-player multi-player co-op online co-op shared/split screen co-op shared/split screen steam achievements full controller support steam workshop custom volume controls save anytime steam cloud includes level editor remote play together family sharing english french italian german spanish-spain schinese japanese korean polish portuguese-brazil russian spanish-latin turkish ukrainian tchinese",
       "first_seen": "2026-11-17T15:41:54+00:00",
       "last_seen": "2026-11-17T15:41:54+00:00",
-      "updated_at": "2026-11-17T15:41:54+00:00"
+      "updated_at": "2026-11-17T22:50:04+00:00"
     },
     {
       "app_id": 1594940,
@@ -17948,6 +18098,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1349
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7900,
+          "final": 7110
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27800,
+          "final": 25000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 5220
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 210000,
+          "final": 189000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1700000,
+          "final": 1530000
         }
       },
       "review_hint": "Very Positive<br>88% of the 115 user reviews for this game are positive.",
@@ -17962,7 +18137,7 @@
       "search_text": "melvor idle 2: a runescape adventure melvor idle 2: a runescape adventure embark on a brand-new runescape idle adventure with melvor idle 2. master iconic runescape skills, face powerful combat challenges, or uncover the history of the world via quests, all while enjoying zen-like progression. casual indie rpg early access single-player steam cloud family sharing english very positive<br>88% of the 115 user reviews for this game are positive.",
       "first_seen": "2026-11-17T15:41:54+00:00",
       "last_seen": "2026-11-17T15:41:54+00:00",
-      "updated_at": "2026-11-17T15:41:54+00:00"
+      "updated_at": "2026-11-17T22:50:04+00:00"
     },
     {
       "app_id": 4259360,
@@ -18018,6 +18193,31 @@
           "currency": "USD",
           "original": 699,
           "final": 559
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4100,
+          "final": 3280
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 13900,
+          "final": 11100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2500,
+          "final": 2000
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 80000,
+          "final": 64000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 780000,
+          "final": 624000
         }
       },
       "review_hint": "",
@@ -18032,7 +18232,7 @@
       "search_text": "milki delivery milki delivery rebuild a community one bottle at a time in this tiny delivery adventure with your pet cow milki. gather resources and upgrade your barn, then bike along dirt paths, breezy meadows, and seaside docks to bring fresh milk back to the sleepy countryside. adventure casual indie simulation single-player steam achievements custom volume controls mouse only option #category_playable_at_your_own_pace playable without timed input touch only option steam cloud family sharing english",
       "first_seen": "2026-11-17T15:41:54+00:00",
       "last_seen": "2026-11-17T15:41:54+00:00",
-      "updated_at": "2026-11-17T15:41:54+00:00"
+      "updated_at": "2026-11-17T22:50:04+00:00"
     },
     {
       "app_id": 3282300,
@@ -18186,6 +18386,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 13500,
+          "final": 10800
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 42800,
+          "final": 34200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8700,
+          "final": 6960
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 350000,
+          "final": 280000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2800000,
+          "final": 2240000
         }
       },
       "review_hint": "",
@@ -18200,7 +18425,7 @@
       "search_text": "monkeys!¡ monkeys!¡ a romanti-slapstick comedy visual novel from the creative team at harukaze. saruyoshi, the world's greatest delinquent, must infiltrate the world's most prestigious school for ladies in order to save his boys'-school comrades! adventure casual simulation single-player steam cloud family sharing english schinese tchinese",
       "first_seen": "2026-11-17T15:41:54+00:00",
       "last_seen": "2026-11-17T15:41:54+00:00",
-      "updated_at": "2026-11-17T15:41:54+00:00"
+      "updated_at": "2026-11-17T22:50:04+00:00"
     },
     {
       "app_id": 3285880,
@@ -32245,6 +32470,31 @@
           "currency": "USD",
           "original": 699,
           "final": 384
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4600,
+          "final": 2530
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 13800,
+          "final": 7500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2900,
+          "final": 1595
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 80000,
+          "final": 44000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 780000,
+          "final": 429000
         }
       },
       "review_hint": "Very Positive<br>91% of the 1,056 user reviews for this game are positive.",
@@ -32259,7 +32509,7 @@
       "search_text": "villages & dungeons villages & dungeons a hardcore roguelite card game where deck-building strategies are at the core of everything! with a vast array of cards, random dungeons, a wealth of encounter events, and diverse enemies, it awaits your exploration and challenge. single-player full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud steam leaderboards family sharing english schinese french german spanish-spain russian japanese korean tchinese portuguese-brazil italian turkish polish swedish dutch very positive<br>91% of the 1,056 user reviews for this game are positive.",
       "first_seen": "2026-11-17T15:41:54+00:00",
       "last_seen": "2026-11-17T15:41:54+00:00",
-      "updated_at": "2026-11-17T15:41:54+00:00"
+      "updated_at": "2026-11-17T22:50:04+00:00"
     },
     {
       "app_id": 2615540,
