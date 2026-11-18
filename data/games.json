@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T15:21:02+00:00",
+  "updated_at": "2026-11-18T22:25:59+00:00",
   "total_count": 5224,
   "active_count": 336,
   "games": [
@@ -12567,6 +12567,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9900,
+          "final": 9900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29900,
+          "final": 29900
+        },
+        "zh-Hans": {
+          "currency": "USD",
+          "original": 1999,
+          "final": 1199
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 250000,
+          "final": 250000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1990000,
+          "final": 1990000
         }
       },
       "review_hint": "Mostly Positive<br>70% of the 1,811 user reviews for this game are positive.",
@@ -12581,7 +12606,7 @@
       "search_text": "football life simulator football life simulator live a footballer's whole life: matches, training, and an open city to drive through between them. build a career, spend what you earn, and deal with everything fame brings. indie simulation sports single-player steam cloud family sharing english turkish french italian german spanish-spain portuguese-brazil bulgarian danish indonesian dutch finnish japanese korean spanish-latin polish hungarian norwegian portuguese---portugal romanian russian ukrainian vietnamese greek czech swedish mostly positive<br>70% of the 1,811 user reviews for this game are positive.",
       "first_seen": "2026-11-18T15:21:02+00:00",
       "last_seen": "2026-11-18T15:21:02+00:00",
-      "updated_at": "2026-11-18T15:21:02+00:00"
+      "updated_at": "2026-11-18T22:25:59+00:00"
     },
     {
       "app_id": 1676840,
@@ -23668,6 +23693,31 @@
           "currency": "USD",
           "original": 4999,
           "final": 2499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 41900,
+          "final": 20950
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 159000,
+          "final": 79500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 29900,
+          "final": 14950
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 638000,
+          "final": 319000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 5980000,
+          "final": 2990000
         }
       },
       "review_hint": "Very Positive<br>86% of the 498 user reviews for this game are positive.",
@@ -23682,7 +23732,7 @@
       "search_text": "samurai warriors 4 dx samurai warriors 4 dx the sparks of destiny ignite in this rich depiction of the warring states period that features a total of 55 different officers. the deluxe edition contains more than 150 previously released dlc from &quot;samurai warriors 4,&quot; including costumes, weapons, customization parts, scenarios, and bgm! action single-player multi-player co-op online co-op shared/split screen co-op shared/split screen steam achievements full controller support custom volume controls adjustable difficulty gamepad recommended keyboard only option playable without timed input save anytime stereo sound steam cloud family sharing english japanese very positive<br>86% of the 498 user reviews for this game are positive.",
       "first_seen": "2026-11-18T15:21:02+00:00",
       "last_seen": "2026-11-18T15:21:02+00:00",
-      "updated_at": "2026-11-18T15:21:02+00:00"
+      "updated_at": "2026-11-18T22:25:59+00:00"
     },
     {
       "app_id": 2280360,
@@ -29064,6 +29114,31 @@
           "currency": "USD",
           "original": 699,
           "final": 629
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3800,
+          "final": 3420
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14800,
+          "final": 13300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2500,
+          "final": 2250
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 94500,
+          "final": 85000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 770000,
+          "final": 693000
         }
       },
       "review_hint": "",
@@ -29078,7 +29153,7 @@
       "search_text": "the last gas station: winter resort the last gas station: winter resort return to the old gas station years later, this time as a raccoon. turn the snowbound backwoods into a winter resort with an ice rink, ski slopes, guided tours, and cozy cabins for your guests. adventure casual indie simulation single-player multi-player co-op online co-op downloadable content steam achievements full controller support steam trading cards dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing english french german spanish-spain portuguese-brazil schinese korean russian japanese tchinese",
       "first_seen": "2026-11-18T15:21:02+00:00",
       "last_seen": "2026-11-18T15:21:02+00:00",
-      "updated_at": "2026-11-18T15:21:02+00:00"
+      "updated_at": "2026-11-18T22:25:59+00:00"
     },
     {
       "app_id": 2796640,
@@ -31594,6 +31669,31 @@
           "currency": "USD",
           "original": 999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5500,
+          "final": 4400
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 15000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3400,
+          "final": 2720
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 95000,
+          "final": 76000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 990000,
+          "final": 792000
         }
       },
       "review_hint": "",
@@ -31608,7 +31708,7 @@
       "search_text": "trust your gut trust your gut a multi-ball roulette roguelite. spin multiple balls at once and rewrite the wheel: add colors, change the numbers, rebalance payouts and stack multipliers with 100+ mementos and 50 trick balls. you’re live on a twisted tv show, and the puppet host is grinning. hit his targets, or the show ends you. indie simulation strategy single-player steam achievements camera comfort mouse only option playable without timed input save anytime stereo sound surround sound steam cloud family sharing english french german spanish-spain japanese korean polish portuguese-brazil russian schinese turkish italian czech romanian ukrainian",
       "first_seen": "2026-11-18T15:21:02+00:00",
       "last_seen": "2026-11-18T15:21:02+00:00",
-      "updated_at": "2026-11-18T15:21:02+00:00"
+      "updated_at": "2026-11-18T22:25:59+00:00"
     },
     {
       "app_id": 1649080,
@@ -32115,6 +32215,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 8750
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 22900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 5320
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 161000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 1505000
         }
       },
       "review_hint": "Very Positive<br>80% of the 163 user reviews for this game are positive.",
@@ -32129,7 +32254,7 @@
       "search_text": "under par golf architect under par golf architect step into the shoes of a golf architect as you build and manage your own golfing paradise! sharpen your strategy by designing incredible courses to challenge the most demanding golfers and watch your club flourish as you attract vip players, hire quirky staff and hold prestigious tournaments. simulation sports strategy single-player steam achievements full controller support adjustable text size color alternatives #category_contrast_controls custom volume controls playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime steam cloud family sharing english french italian german spanish-spain japanese korean russian schinese tchinese very positive<br>80% of the 163 user reviews for this game are positive.",
       "first_seen": "2026-11-18T15:21:02+00:00",
       "last_seen": "2026-11-18T15:21:02+00:00",
-      "updated_at": "2026-11-18T15:21:02+00:00"
+      "updated_at": "2026-11-18T22:25:59+00:00"
     },
     {
       "app_id": 2411200,
