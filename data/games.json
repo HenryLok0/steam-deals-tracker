@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T00:02:03+00:00",
+  "updated_at": "2026-11-19T10:59:19+00:00",
   "total_count": 5232,
   "active_count": 335,
   "games": [
@@ -3092,6 +3092,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10500,
+          "final": 9450
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 34800,
+          "final": 31300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7000,
+          "final": 6300
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 252000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2250000,
+          "final": 2025000
         }
       },
       "review_hint": "",
@@ -3106,7 +3131,7 @@
       "search_text": "burning sword: death sun burning sword: death sun burning sword: death sun is a wuxia action game set in 12th-century china. play as zhang yixian, cast down by the elder of the northern mountain, and carve a bloody path back to him. hardcore combat, epic boss battles, deep character progression, and an arena built for high scores. action early access single-player full controller support custom volume controls gamepad recommended dualsense controller support dualsense controller support stereo sound subtitle options family sharing english japanese portuguese-brazil schinese thai",
       "first_seen": "2026-11-19T00:02:03+00:00",
       "last_seen": "2026-11-19T00:02:03+00:00",
-      "updated_at": "2026-11-19T00:02:03+00:00"
+      "updated_at": "2026-11-19T10:59:19+00:00"
     },
     {
       "app_id": 10090,
@@ -14456,6 +14481,31 @@
           "currency": "USD",
           "original": 499,
           "final": 299
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 2700,
+          "final": 1620
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 10800,
+          "final": 6400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1900,
+          "final": 1140
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 70500,
+          "final": 42300
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 560000,
+          "final": 336000
         }
       },
       "review_hint": "",
@@ -14470,7 +14520,7 @@
       "search_text": "graveyard orbit graveyard orbit a relaxing space mining incremental. build your own ship. clean up the galaxy’s wreckage, piece by piece. cash in your haul for parts and upgrades. enjoy the quiet satisfaction of leaving nothing behind. action casual indie single-player steam achievements full controller support custom volume controls playable without timed input dualsense controller support dualsense controller support steam cloud family sharing english japanese korean russian schinese french italian german spanish-spain czech polish portuguese-brazil portuguese---portugal spanish-latin",
       "first_seen": "2026-11-19T00:02:03+00:00",
       "last_seen": "2026-11-19T00:02:03+00:00",
-      "updated_at": "2026-11-19T00:02:03+00:00"
+      "updated_at": "2026-11-19T10:59:19+00:00"
     },
     {
       "app_id": 219990,
@@ -17227,6 +17277,31 @@
           "currency": "USD",
           "original": 799,
           "final": 479
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4400,
+          "final": 2640
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15800,
+          "final": 9400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 1680
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 115000,
+          "final": 69000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 895000,
+          "final": 537000
         }
       },
       "review_hint": "Positive<br>86% of the 38 user reviews for this game are positive.",
@@ -17241,7 +17316,7 @@
       "search_text": "korridor korridor fight off hordes of demons in this unforgiving gates shooter! slay monsters, pick up upgrades, and create overpowered builds to annihilate bosses while listening to heavy metal tracks. many foes and secrets await you in the catacombs... action casual indie single-player steam achievements full controller support camera comfort color alternatives custom volume controls mouse only option stereo sound touch only option steam cloud stats steam leaderboards family sharing english french japanese korean portuguese-brazil russian schinese turkish positive<br>86% of the 38 user reviews for this game are positive.",
       "first_seen": "2026-11-19T00:02:03+00:00",
       "last_seen": "2026-11-19T00:02:03+00:00",
-      "updated_at": "2026-11-19T00:02:03+00:00"
+      "updated_at": "2026-11-19T10:59:19+00:00"
     },
     {
       "app_id": 1469610,
@@ -18531,6 +18606,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1399
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10500,
+          "final": 7350
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 34800,
+          "final": 24300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7000,
+          "final": 4900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 196000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2250000,
+          "final": 1575000
         }
       },
       "review_hint": "",
@@ -18545,7 +18645,7 @@
       "search_text": "lord of undead lord of undead destroy the castle on the hill in this grim rpg where you play as the dark lord. collect souls, summon an undead army, master dark abilities, craft powerful gear, build your base, and desecrate the lands of a vast open world. action adventure indie rpg early access single-player steam achievements custom volume controls #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime stereo sound partial controller support steam cloud family sharing steam timeline english russian french german spanish-spain schinese korean portuguese-brazil thai turkish japanese italian polish spanish-latin ukrainian czech danish dutch finnish hungarian indonesian malay norwegian romanian swedish",
       "first_seen": "2026-11-19T00:02:03+00:00",
       "last_seen": "2026-11-19T00:02:03+00:00",
-      "updated_at": "2026-11-19T00:02:03+00:00"
+      "updated_at": "2026-11-19T10:59:19+00:00"
     },
     {
       "app_id": 2058190,
@@ -19134,6 +19234,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1274
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8700,
+          "final": 7395
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 30800,
+          "final": 26100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5900,
+          "final": 5015
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 190000,
+          "final": 161500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1600000,
+          "final": 1360000
         }
       },
       "review_hint": "",
@@ -19148,7 +19273,7 @@
       "search_text": "marque & reprisal marque & reprisal explore. trade. fish. whale. colonize. fight. pillage. survive. you are a sea captain in the year 1522, and the whole world is yours to discover in this roguelike sandbox historical sailing simulator. adventure indie rpg simulation strategy single-player steam achievements full controller support camera comfort color alternatives custom volume controls keyboard only option mouse only option playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam input api support touch only option steam cloud stats family sharing english french german spanish-spain japanese korean polish portuguese-brazil russian schinese tchinese",
       "first_seen": "2026-11-19T00:02:03+00:00",
       "last_seen": "2026-11-19T00:02:03+00:00",
-      "updated_at": "2026-11-19T00:02:03+00:00"
+      "updated_at": "2026-11-19T10:59:19+00:00"
     },
     {
       "app_id": 669330,
@@ -19598,6 +19723,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 1169
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6900,
+          "final": 6210
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 24800,
+          "final": 22300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4500,
+          "final": 4050
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 185000,
+          "final": 166500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1450000,
+          "final": 1305000
         }
       },
       "review_hint": "Positive<br>91% of the 12 user reviews for this game are positive.",
@@ -19612,7 +19762,7 @@
       "search_text": "monster girls survival & craft 2040 monster girls survival & craft 2040 2040. you wake in a city half-swallowed by another world. dig anywhere, build anything - a shack, a castle, a fortress. capture the monster girls roaming the wastes and they fight, work and live beside you. every seventh night a horde comes. raise walls, set traps and survive until dawn. action adventure indie early access single-player steam achievements partial controller support steam cloud family sharing english schinese tchinese japanese korean french italian german spanish-spain ukrainian spanish-latin thai turkish portuguese-brazil polish russian positive<br>91% of the 12 user reviews for this game are positive.",
       "first_seen": "2026-11-19T00:02:03+00:00",
       "last_seen": "2026-11-19T00:02:03+00:00",
-      "updated_at": "2026-11-19T00:02:03+00:00"
+      "updated_at": "2026-11-19T10:59:19+00:00"
     },
     {
       "app_id": 2795090,
@@ -19708,6 +19858,31 @@
           "currency": "USD",
           "original": 999,
           "final": 599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5500,
+          "final": 3300
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 13800,
+          "final": 8200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3600,
+          "final": 2160
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 100000,
+          "final": 60000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 820000,
+          "final": 492000
         }
       },
       "review_hint": "Very Positive<br>85% of the 497 user reviews for this game are positive.",
@@ -19722,7 +19897,7 @@
       "search_text": "mr farmboy mr farmboy mr farmboy is a colony farming game with automation. build your dream farm, grow crops, raise animals, attract villagers, and hire workers to automate everything. casual indie simulation strategy single-player steam achievements full controller support camera comfort custom volume controls adjustable difficulty #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime steam cloud stats family sharing english french italian german spanish-spain arabic bulgarian czech danish dutch finnish greek hungarian indonesian japanese korean norwegian polish portuguese-brazil portuguese---portugal romanian russian schinese spanish-latin swedish thai tchinese turkish ukrainian vietnamese belarusian catalan georgian kazakh very positive<br>85% of the 497 user reviews for this game are positive.",
       "first_seen": "2026-11-19T00:02:03+00:00",
       "last_seen": "2026-11-19T00:02:03+00:00",
-      "updated_at": "2026-11-19T00:02:03+00:00"
+      "updated_at": "2026-11-19T10:59:19+00:00"
     },
     {
       "app_id": 1113560,
@@ -31136,6 +31311,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15500,
+          "final": 13950
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 63800,
+          "final": 57400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 14800,
+          "final": 13320
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 315000,
+          "final": 283500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 2430000
         }
       },
       "review_hint": "",
@@ -31150,7 +31350,7 @@
       "search_text": "toto's journey toto's journey toto’s journey is a cozy adventure inspired by the world of the wizard of oz. play as toto, a brave dog lost in a magical world after a mysterious cyclone. explore enchanted lands, meet unusual creatures, and solve environmental puzzles as you search for a way back home. action adventure casual indie single-player steam achievements full controller support custom volume controls dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime stereo sound steam cloud family sharing english french italian german spanish-spain schinese korean portuguese---portugal russian japanese portuguese-brazil",
       "first_seen": "2026-11-19T00:02:03+00:00",
       "last_seen": "2026-11-19T00:02:03+00:00",
-      "updated_at": "2026-11-19T00:02:03+00:00"
+      "updated_at": "2026-11-19T10:59:19+00:00"
     },
     {
       "app_id": 5185750,
