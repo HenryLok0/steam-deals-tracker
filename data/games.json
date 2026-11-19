@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T15:28:06+00:00",
+  "updated_at": "2026-11-19T22:30:45+00:00",
   "total_count": 5242,
   "active_count": 336,
   "games": [
@@ -1464,6 +1464,31 @@
           "currency": "USD",
           "original": 999,
           "final": 649
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6600,
+          "final": 4290
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 12200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3600,
+          "final": 2340
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 78000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 715000
         }
       },
       "review_hint": "Mostly Positive<br>76% of the 151 user reviews for this game are positive.",
@@ -1478,7 +1503,7 @@
       "search_text": "beer manufacture simulator beer manufacture simulator brew your own beer from scratch! take on the role of a brewmaster, learn brewing techniques, create unique recipes, and grow your craft brewery into a full-scale factory. expand your brewery from mashing and fermenting to bottling and selling - every decision shapes your beer empire. casual indie simulation single-player steam achievements full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese tchinese turkish mostly positive<br>76% of the 151 user reviews for this game are positive.",
       "first_seen": "2026-11-19T15:28:06+00:00",
       "last_seen": "2026-11-19T15:28:06+00:00",
-      "updated_at": "2026-11-19T15:28:06+00:00"
+      "updated_at": "2026-11-19T22:30:45+00:00"
     },
     {
       "app_id": 582660,
@@ -6130,6 +6155,31 @@
           "currency": "USD",
           "original": 499,
           "final": 374
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 2700,
+          "final": 2025
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 10800,
+          "final": 8100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1900,
+          "final": 1425
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 70500,
+          "final": 52800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 560000,
+          "final": 420000
         }
       },
       "review_hint": "Positive<br>100% of the 19 user reviews for this game are positive.",
@@ -6144,7 +6194,7 @@
       "search_text": "crackheads crackheads explore the marvelous world of crackheads alone or with up to 50 players. team up, turn on your friends, make money, build your empire, scavenge trash for questionable meals, and stay high through all of it. action adventure casual indie racing simulation single-player multi-player pvp online pvp co-op online co-op steam achievements full controller support dualshock controller support family sharing english french italian german spanish-spain arabic bulgarian czech danish dutch finnish greek hungarian indonesian japanese korean norwegian polish portuguese-brazil portuguese---portugal romanian russian schinese spanish-latin swedish tchinese turkish ukrainian positive<br>100% of the 19 user reviews for this game are positive.",
       "first_seen": "2026-11-19T15:28:06+00:00",
       "last_seen": "2026-11-19T15:28:06+00:00",
-      "updated_at": "2026-11-19T15:28:06+00:00"
+      "updated_at": "2026-11-19T22:30:45+00:00"
     },
     {
       "app_id": 731490,
@@ -14674,6 +14724,31 @@
           "currency": "USD",
           "original": 899,
           "final": 764
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4800,
+          "final": 4080
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 15900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3100,
+          "final": 2635
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 125000,
+          "final": 106200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1000000,
+          "final": 850000
         }
       },
       "review_hint": "Positive<br>100% of the 29 user reviews for this game are positive.",
@@ -14688,7 +14763,7 @@
       "search_text": "granule granule a physics sandbox about murray, who didn't let a witch merge onto the highway. she sent him to the granule, and something already lives there. you. burn, freeze, shock, slice, and mend him. none of it is scripted, and the room is not all there is. action indie simulation early access single-player family sharing english positive<br>100% of the 29 user reviews for this game are positive.",
       "first_seen": "2026-11-19T15:28:06+00:00",
       "last_seen": "2026-11-19T15:28:06+00:00",
-      "updated_at": "2026-11-19T15:28:06+00:00"
+      "updated_at": "2026-11-19T22:30:45+00:00"
     },
     {
       "app_id": 4654120,
@@ -20334,6 +20409,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 1169
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10000,
+          "final": 9000
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 41800,
+          "final": 37600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8499,
+          "final": 7649
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 180000,
+          "final": 162000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1750000,
+          "final": 1575000
         }
       },
       "review_hint": "Positive<br>91% of the 37 user reviews for this game are positive.",
@@ -20348,7 +20448,7 @@
       "search_text": "muv-luv girls garden mellow days muv-luv girls garden mellow days muv-luv girls garden mellow days is a productivity companion adventure game where you work alongside meru momozono. customize your pomodoro timer, to-do list, calendar, music, and ambient sounds. as you spend more time together, your story with meru gradually unfolds. adventure casual single-player steam achievements family sharing english schinese japanese tchinese positive<br>91% of the 37 user reviews for this game are positive.",
       "first_seen": "2026-11-19T15:28:06+00:00",
       "last_seen": "2026-11-19T15:28:06+00:00",
-      "updated_at": "2026-11-19T15:28:06+00:00"
+      "updated_at": "2026-11-19T22:30:45+00:00"
     },
     {
       "app_id": 1647550,
@@ -21966,6 +22066,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1624
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 19800,
+          "final": 12870
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 74000,
+          "final": 48100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 14800,
+          "final": 9620
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 248000,
+          "final": 161200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3100000,
+          "final": 2015000
         }
       },
       "review_hint": "Very Positive<br>95% of the 498 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -21980,7 +22105,7 @@
       "search_text": "paranormasight: the mermaid's curse paranormasight: the mermaid's curse will you survive the curse together this summer? a new supernatural mystery adventure begins, telling a bittersweet story of the passions of youth featuring new locations, new legends and a new cast of characters. adventure rpg simulation single-player steam achievements steam trading cards color alternatives custom volume controls keyboard only option mouse only option playable without timed input save anytime stereo sound partial controller support steam cloud family sharing english schinese tchinese japanese very positive<br>95% of the 498 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-19T15:28:06+00:00",
       "last_seen": "2026-11-19T15:28:06+00:00",
-      "updated_at": "2026-11-19T15:28:06+00:00"
+      "updated_at": "2026-11-19T22:30:45+00:00"
     },
     {
       "app_id": 2106840,
@@ -22039,6 +22164,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15800,
+          "final": 7900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 59000,
+          "final": 29500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 12900,
+          "final": 6450
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 198000,
+          "final": 99000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2480000,
+          "final": 1240000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>95% of the 1,858 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -22053,7 +22203,7 @@
       "search_text": "paranormasight: the seven mysteries of honjo paranormasight: the seven mysteries of honjo how far would you go to bring someone back from the dead? discover the depths that some will go to in this horror-adventure game. adventure rpg simulation single-player steam achievements camera comfort color alternatives custom volume controls keyboard only option mouse only option playable without timed input save anytime partial controller support steam cloud family sharing english japanese schinese tchinese overwhelmingly positive<br>95% of the 1,858 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-19T15:28:06+00:00",
       "last_seen": "2026-11-19T15:28:06+00:00",
-      "updated_at": "2026-11-19T15:28:06+00:00"
+      "updated_at": "2026-11-19T22:30:45+00:00"
     },
     {
       "app_id": 4243990,
@@ -23255,6 +23405,31 @@
           "currency": "USD",
           "original": 999,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6499,
+          "final": 5849
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 16900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3800,
+          "final": 3420
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 120000,
+          "final": 108000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 990000
         }
       },
       "review_hint": "",
@@ -23269,7 +23444,7 @@
       "search_text": "pool of madness pool of madness a horror pool roguelite with upgradable cues, guns and procedural rituals. shoot some balls. unleash horrors from beyond. go insane. try again. action indie sports strategy early access single-player full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese turkish ukrainian",
       "first_seen": "2026-11-19T15:28:06+00:00",
       "last_seen": "2026-11-19T15:28:06+00:00",
-      "updated_at": "2026-11-19T15:28:06+00:00"
+      "updated_at": "2026-11-19T22:30:45+00:00"
     },
     {
       "app_id": 115320,
@@ -24149,6 +24324,31 @@
           "currency": "USD",
           "original": 499,
           "final": 424
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 2700,
+          "final": 2700
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 10800,
+          "final": 10800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1900,
+          "final": 1900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 70500,
+          "final": 70500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 560000,
+          "final": 560000
         }
       },
       "review_hint": "Mostly Positive<br>72% of the 55 user reviews for this game are positive.",
@@ -24163,7 +24363,7 @@
       "search_text": "round and round inc. round and round inc. a black-and-white incremental game about one revolving door. turn it, let people in, and spend the earnings on a bigger door and better blades, until the corner shop's little door is a human pump swallowing the whole city. the goal: admit all of humanity. casual indie simulation single-player steam achievements camera comfort color alternatives #category_contrast_controls custom volume controls mouse only option #category_playable_at_your_own_pace playable without timed input dualsense controller support dualsense controller support save anytime partial controller support steam cloud family sharing english french german spanish-spain russian japanese schinese portuguese-brazil korean mostly positive<br>72% of the 55 user reviews for this game are positive.",
       "first_seen": "2026-11-19T15:28:06+00:00",
       "last_seen": "2026-11-19T15:28:06+00:00",
-      "updated_at": "2026-11-19T15:28:06+00:00"
+      "updated_at": "2026-11-19T22:30:45+00:00"
     },
     {
       "app_id": 1096900,
@@ -27735,6 +27935,31 @@
           "currency": "USD",
           "original": 999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5500,
+          "final": 4400
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 15800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3500,
+          "final": 2800
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 112000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 880000
         }
       },
       "review_hint": "",
@@ -27749,7 +27974,7 @@
       "search_text": "swarmbreaker swarmbreaker swarmbreaker is an incremental tower defense game where you must defend your base from a giant living wave of alien bugs. build defenses to block their path, deploy heavy weapons, upgrade your arsenal, and break the swarm! indie simulation strategy single-player steam achievements steam workshop adjustable text size custom volume controls playable without timed input steam cloud includes level editor family sharing english french italian german japanese korean polish portuguese-brazil russian schinese spanish-latin tchinese turkish ukrainian spanish-spain",
       "first_seen": "2026-11-19T15:28:06+00:00",
       "last_seen": "2026-11-19T15:28:06+00:00",
-      "updated_at": "2026-11-19T15:28:06+00:00"
+      "updated_at": "2026-11-19T22:30:45+00:00"
     },
     {
       "app_id": 1043810,
@@ -32683,6 +32908,31 @@
           "currency": "USD",
           "original": 499,
           "final": 374
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3000,
+          "final": 2250
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 11700,
+          "final": 8800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1650
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 65500,
+          "final": 49100
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 545000,
+          "final": 409000
         }
       },
       "review_hint": "",
@@ -32697,7 +32947,7 @@
       "search_text": "volvy’s adventure: reslimed volvy’s adventure: reslimed volvy's adventure: reslimed is a spectacular remaster of the original remake of the unreleased action-platformer starring the most famous video game mascot of all time. action adventure single-player steam achievements full controller support gamepad recommended steam cloud family sharing english french italian german spanish-spain dutch japanese korean polish portuguese-brazil russian schinese spanish-latin tchinese turkish",
       "first_seen": "2026-11-19T15:28:06+00:00",
       "last_seen": "2026-11-19T15:28:06+00:00",
-      "updated_at": "2026-11-19T15:28:06+00:00"
+      "updated_at": "2026-11-19T22:30:45+00:00"
     },
     {
       "app_id": 4981570,
