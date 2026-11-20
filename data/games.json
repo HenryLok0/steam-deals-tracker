@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T15:04:37+00:00",
+  "updated_at": "2026-11-20T22:02:50+00:00",
   "total_count": 5264,
   "active_count": 340,
   "games": [
@@ -10978,6 +10978,31 @@
           "currency": "USD",
           "original": 4999,
           "final": 1499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 39900,
+          "final": 11970
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 149900,
+          "final": 44900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 24800,
+          "final": 7440
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 690000,
+          "final": 207000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 5600000,
+          "final": 1680000
         }
       },
       "review_hint": "Mixed<br>58% of the 5,730 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -10992,7 +11017,7 @@
       "search_text": "ea sports™ wrc ea sports™ wrc experience the thrill of the 2024 rally season with new locations, moments, stages, high-performance vehicles, new liveries, and licensed crews. brace yourself to embark on your continued rally journey. racing simulation sports single-player multi-player pvp online pvp cross-platform multiplayer steam achievements full controller support vr supported chat speech-to-text chat text-to-speech color alternatives adjustable difficulty gamepad recommended keyboard only option playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support stereo sound surround sound steam cloud hdr available english french italian german spanish-spain mixed<br>58% of the 5,730 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-20T15:04:37+00:00",
       "last_seen": "2026-11-20T15:04:37+00:00",
-      "updated_at": "2026-11-20T15:04:37+00:00"
+      "updated_at": "2026-11-20T22:02:50+00:00"
     },
     {
       "app_id": 227300,
@@ -17473,6 +17498,31 @@
           "currency": "USD",
           "original": 4999,
           "final": 1499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 30800,
+          "final": 9240
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 82000,
+          "final": 24600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 18600,
+          "final": 5580
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 657800,
+          "final": 197300
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 5300000,
+          "final": 1590000
         }
       },
       "review_hint": "Very Positive<br>81% of the 574 user reviews for this game are positive.",
@@ -17487,7 +17537,7 @@
       "search_text": "labyrinth of galleria: the moon society labyrinth of galleria: the moon society on the outskirts of town lies a mansion said to house the entrance to a maze overflowing with treasure. do you wish to discover the magical mysteries hidden inside? rpg strategy single-player steam achievements full controller support steam trading cards steam cloud family sharing english japanese very positive<br>81% of the 574 user reviews for this game are positive.",
       "first_seen": "2026-11-20T15:04:37+00:00",
       "last_seen": "2026-11-20T15:04:37+00:00",
-      "updated_at": "2026-11-20T15:04:37+00:00"
+      "updated_at": "2026-11-20T22:02:50+00:00"
     },
     {
       "app_id": 1469610,
@@ -23830,6 +23880,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8700,
+          "final": 6960
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29900,
+          "final": 23900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5500,
+          "final": 4400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 190000,
+          "final": 152000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1600000,
+          "final": 1280000
         }
       },
       "review_hint": "",
@@ -23844,7 +23919,7 @@
       "search_text": "rock band simulator rock band simulator a first-person rock band life sim. play rhythm-based gigs, take shady jobs, gamble, fight, and upgrade your gear and garage. keep the band together and try to stay in one piece. whatever happens, you’ve still got a show at nine. action indie simulation single-player steam achievements full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing english french italian german polish portuguese-brazil russian turkish ukrainian latvian japanese korean schinese spanish-latin tchinese",
       "first_seen": "2026-11-20T15:04:37+00:00",
       "last_seen": "2026-11-20T15:04:37+00:00",
-      "updated_at": "2026-11-20T15:04:37+00:00"
+      "updated_at": "2026-11-20T22:02:50+00:00"
     },
     {
       "app_id": 5484410,
@@ -23919,6 +23994,31 @@
           "currency": "USD",
           "original": 599,
           "final": 479
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3300,
+          "final": 2640
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 12800,
+          "final": 10200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1900,
+          "final": 1520
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 84500,
+          "final": 67600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 670000,
+          "final": 536000
         }
       },
       "review_hint": "Positive<br>92% of the 14 user reviews for this game are positive.",
@@ -23933,7 +24033,7 @@
       "search_text": "rocket scrapyard rocket scrapyard tidy up a private space company's scrapyard, collect rocket parts into sets on your racks and build your own rocket every evening. in the morning it launches – will it reach the edge of space, orbit, or help build a space station? casual indie simulation single-player steam achievements camera comfort #category_playable_at_your_own_pace playable without timed input save anytime partial controller support steam cloud family sharing english french italian german spanish-spain japanese korean polish schinese turkish russian ukrainian czech portuguese-brazil portuguese---portugal tchinese bulgarian danish dutch greek hungarian norwegian swedish positive<br>92% of the 14 user reviews for this game are positive.",
       "first_seen": "2026-11-20T15:04:37+00:00",
       "last_seen": "2026-11-20T15:04:37+00:00",
-      "updated_at": "2026-11-20T15:04:37+00:00"
+      "updated_at": "2026-11-20T22:02:50+00:00"
     },
     {
       "app_id": 2455640,
