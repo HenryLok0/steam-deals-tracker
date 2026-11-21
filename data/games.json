@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T18:52:59+00:00",
+  "updated_at": "2026-11-21T20:42:36+00:00",
   "total_count": 5276,
   "active_count": 340,
   "games": [
@@ -9085,6 +9085,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10500,
+          "final": 8400
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 34800,
+          "final": 27800
+        },
+        "zh-Hans": {
+          "currency": "USD",
+          "original": 1999,
+          "final": 1599
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 224000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2250000,
+          "final": 1800000
         }
       },
       "review_hint": "Positive<br>80% of the 15 user reviews for this game are positive.",
@@ -9099,7 +9124,7 @@
       "search_text": "dispatch simulator dispatch simulator answer 911 calls with your own voice. every caller hears what you say and answers back: panicked, confused, sometimes barely able to speak. pull out the details that matter, find them on the map, and send police, fire, and ems. work the shift solo or with up to six dispatchers. indie simulation single-player multi-player co-op online co-op steam achievements family sharing english positive<br>80% of the 15 user reviews for this game are positive.",
       "first_seen": "2026-11-21T18:52:59+00:00",
       "last_seen": "2026-11-21T18:52:59+00:00",
-      "updated_at": "2026-11-21T18:52:59+00:00"
+      "updated_at": "2026-11-21T20:42:36+00:00"
     },
     {
       "app_id": 1238040,
@@ -17380,6 +17405,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 1999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 30800,
+          "final": 15400
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 119000,
+          "final": 59500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 27600,
+          "final": 13800
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 448000,
+          "final": 224000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4480000,
+          "final": 2240000
         }
       },
       "review_hint": "Mixed<br>60% of the 407 user reviews for this game are positive.",
@@ -17394,7 +17444,7 @@
       "search_text": "lego® horizon adventures™ lego® horizon adventures™ join machine hunter aloy as she leads a colourful crew of heroes on a quest to save the world and learn the secrets of her past. dive into boundless adventure, customize to your heart’s content, and take on action-packed battles solo or with friends. action adventure single-player multi-player co-op online co-op shared/split screen co-op shared/split screen steam achievements gamepad recommended dualshock controller support dualsense controller support partial controller support steam cloud family sharing english french italian german spanish-spain arabic czech danish dutch finnish greek hungarian japanese korean norwegian polish portuguese-brazil portuguese---portugal russian schinese spanish-latin swedish thai tchinese turkish mixed<br>60% of the 407 user reviews for this game are positive.",
       "first_seen": "2026-11-21T18:52:59+00:00",
       "last_seen": "2026-11-21T18:52:59+00:00",
-      "updated_at": "2026-11-21T18:52:59+00:00"
+      "updated_at": "2026-11-21T20:42:36+00:00"
     },
     {
       "app_id": 1627720,
