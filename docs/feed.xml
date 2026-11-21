@@ -4,20 +4,27 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Sat, 21 Nov 2026 10:31:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 18:52:59 +0000</lastBuildDate>
+<item>
+<title>Dispatch Simulator</title>
+<link>https://store.steampowered.com/app/5526720/</link>
+<guid isPermaLink="false">5526720</guid>
+<pubDate>Sat, 21 Nov 2026 18:52:59 +0000</pubDate>
+<description>Answer 911 calls with your own voice. Every caller hears what you say and answers back: panicked, confused, sometimes barely able to speak. Pull out the details that matter, find them on the map, and send police, fire, and EMS. Work the shift solo or with up to six dispatchers.</description>
+</item>
+<item>
+<title>LEGO® Horizon Adventures™</title>
+<link>https://store.steampowered.com/app/2428810/</link>
+<guid isPermaLink="false">2428810</guid>
+<pubDate>Sat, 21 Nov 2026 18:52:59 +0000</pubDate>
+<description>Join machine hunter Aloy as she leads a colourful crew of heroes on a quest to save the world and learn the secrets of her past. Dive into boundless adventure, customize to your heart’s content, and take on action-packed battles solo or with friends.</description>
+</item>
 <item>
 <title>Age of Empires IV: Yue Fei's Legacy</title>
 <link>https://store.steampowered.com/app/3746540/</link>
 <guid isPermaLink="false">3746540</guid>
 <pubDate>Sat, 21 Nov 2026 06:14:39 +0000</pubDate>
 <description>Experience the story of the great Chinese Song Dynasty general Yue Fei during the Song-Jin wars in a new 8-mission campaign. Then command the opposing faction, the Jin Dynasty, leading strong cavalry and siege units into battle in skirmish and multiplayer.</description>
-</item>
-<item>
-<title>Chigusa's Diary</title>
-<link>https://store.steampowered.com/app/3842100/</link>
-<guid isPermaLink="false">3842100</guid>
-<pubDate>Sat, 21 Nov 2026 06:14:39 +0000</pubDate>
-<description>Chigusa was just an everyday schoolgirl, but once she began to notice the boys, her life gradually started to change in unexpected ways...</description>
 </item>
 <item>
 <title>Age of Empires III: Definitive Edition</title>
@@ -74,13 +81,6 @@
 <guid isPermaLink="false">4183130</guid>
 <pubDate>Fri, 20 Nov 2026 23:47:31 +0000</pubDate>
 <description>Experience minigame chaos in WE’RE ALL IN!, an online party game for 1-8 players where you win by betting on your friends in a series of fast-paced games and challenges.</description>
-</item>
-<item>
-<title>Rock Band Simulator</title>
-<link>https://store.steampowered.com/app/4697880/</link>
-<guid isPermaLink="false">4697880</guid>
-<pubDate>Fri, 20 Nov 2026 15:04:37 +0000</pubDate>
-<description>A first-person rock band life sim. Play rhythm-based gigs, take shady jobs, gamble, fight, and upgrade your gear and garage. Keep the band together and try to stay in one piece. Whatever happens, you’ve still got a show at nine.</description>
 </item>
 </channel>
 </rss>
