@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T06:14:39+00:00",
+  "updated_at": "2026-11-21T10:31:00+00:00",
   "total_count": 5274,
   "active_count": 339,
   "games": [
@@ -416,6 +416,31 @@
           "currency": "USD",
           "original": 3499,
           "final": 2799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 23900,
+          "final": 19120
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 92800,
+          "final": 74200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 15800,
+          "final": 12640
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 420000,
+          "final": 336000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3480000,
+          "final": 2784000
         }
       },
       "review_hint": "Very Positive<br>84% of the 13,901 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -430,7 +455,7 @@
       "search_text": "age of empires iii: definitive edition age of empires iii: definitive edition lead powerful civilizations across the globe, master strategies and tactics, and relive history in co op battles—now remastered in stunning 4k and modernized gameplay. strategy single-player multi-player pvp online pvp lan pvp cross-platform multiplayer steam achievements steam trading cards steam cloud family sharing english french italian german spanish-spain japanese korean portuguese-brazil russian schinese tchinese turkish vietnamese malay very positive<br>84% of the 13,901 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-20T23:47:31+00:00",
       "last_seen": "2026-11-21T06:14:39+00:00",
-      "updated_at": "2026-11-21T06:14:39+00:00"
+      "updated_at": "2026-11-21T10:31:00+00:00"
     },
     {
       "app_id": 1466860,
@@ -737,6 +762,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1349
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10800,
+          "final": 9720
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 39800,
+          "final": 35800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 8800,
+          "final": 7920
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 198000,
+          "final": 178200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1490000,
+          "final": 1341000
         }
       },
       "review_hint": "Mixed<br>44% of the 560 user reviews for this game are positive.",
@@ -751,7 +801,7 @@
       "search_text": "age of empires iv: yue fei's legacy age of empires iv: yue fei's legacy experience the story of the great chinese song dynasty general yue fei during the song-jin wars in a new 8-mission campaign. then command the opposing faction, the jin dynasty, leading strong cavalry and siege units into battle in skirmish and multiplayer. strategy single-player multi-player pvp online pvp co-op online co-op cross-platform multiplayer downloadable content steam achievements family sharing english french italian german spanish-spain japanese korean portuguese-brazil russian schinese spanish-latin tchinese turkish vietnamese czech danish dutch finnish greek hungarian norwegian polish portuguese---portugal swedish hindi mixed<br>44% of the 560 user reviews for this game are positive.",
       "first_seen": "2026-11-21T06:14:39+00:00",
       "last_seen": "2026-11-21T06:14:39+00:00",
-      "updated_at": "2026-11-21T06:14:39+00:00"
+      "updated_at": "2026-11-21T10:31:00+00:00"
     },
     {
       "app_id": 1934680,
@@ -5672,6 +5722,31 @@
           "currency": "USD",
           "original": 1099,
           "final": 989
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6000,
+          "final": 5400
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 17800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5279,
+          "final": 4751
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 154000,
+          "final": 138600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1250000,
+          "final": 1125000
         }
       },
       "review_hint": "Positive<br>96% of the 29 user reviews for this game are positive.",
@@ -5686,7 +5761,7 @@
       "search_text": "chigusa's diary chigusa's diary chigusa was just an everyday schoolgirl, but once she began to notice the boys, her life gradually started to change in unexpected ways... casual indie rpg single-player steam achievements steam cloud family sharing japanese english schinese tchinese positive<br>96% of the 29 user reviews for this game are positive.",
       "first_seen": "2026-11-21T06:14:39+00:00",
       "last_seen": "2026-11-21T06:14:39+00:00",
-      "updated_at": "2026-11-21T06:14:39+00:00"
+      "updated_at": "2026-11-21T10:31:00+00:00"
     },
     {
       "app_id": 1824220,
@@ -11324,6 +11399,31 @@
           "currency": "USD",
           "original": 2399,
           "final": 839
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 18400,
+          "final": 6440
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 79900,
+          "final": 27900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9800,
+          "final": 3430
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 98000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2900000,
+          "final": 1015000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>95% of the 587 user reviews for this game are positive.",
@@ -11338,7 +11438,7 @@
       "search_text": "farewell north farewell north play as a border collie and restore color to your human’s world in an atmospheric journey through the northern isles of scotland. explore land and sea, uncover hidden paths, herd animals and free wildlife to bring color back to her world, while revealing an emotional story about saying farewell. adventure casual indie single-player steam achievements full controller support adjustable text size camera comfort custom volume controls dualshock controller support dualshock controller support dualsense controller support dualsense controller support stereo sound subtitle options steam cloud family sharing english french german spanish-spain japanese polish schinese ukrainian czech overwhelmingly positive<br>95% of the 587 user reviews for this game are positive.",
       "first_seen": "2026-11-20T23:47:31+00:00",
       "last_seen": "2026-11-21T06:14:39+00:00",
-      "updated_at": "2026-11-21T06:14:39+00:00"
+      "updated_at": "2026-11-21T10:31:00+00:00"
     },
     {
       "app_id": 1044720,
@@ -13032,6 +13132,31 @@
           "currency": "USD",
           "original": 6999,
           "final": 4899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 49800,
+          "final": 34860
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 199000,
+          "final": 139300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 29800,
+          "final": 20860
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 980000,
+          "final": 686000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 7980000,
+          "final": 5586000
         }
       },
       "review_hint": "Mixed<br>69% of the 8,412 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -13046,7 +13171,7 @@
       "search_text": "gears of war: e-day gears of war: e-day experience emergence day – the brutal origin story of one of gaming’s most acclaimed third-person shooter franchises. action adventure single-player multi-player pvp online pvp co-op online co-op cross-platform multiplayer steam achievements full controller support in-app purchases dualsense controller support hdr available family sharing english french italian german spanish-spain arabic czech dutch hungarian japanese korean norwegian polish portuguese-brazil portuguese---portugal russian schinese spanish-latin swedish tchinese turkish finnish mixed<br>69% of the 8,412 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-20T23:47:31+00:00",
       "last_seen": "2026-11-21T06:14:39+00:00",
-      "updated_at": "2026-11-21T06:14:39+00:00"
+      "updated_at": "2026-11-21T10:31:00+00:00"
     },
     {
       "app_id": 2523720,
@@ -27543,6 +27668,31 @@
           "currency": "USD",
           "original": 4999,
           "final": 3749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 33800,
+          "final": 25350
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 139000,
+          "final": 104200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 19800,
+          "final": 14850
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 768900,
+          "final": 576600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 5480000,
+          "final": 4110000
         }
       },
       "review_hint": "Mostly Positive<br>79% of the 221 user reviews for this game are positive.",
@@ -27557,7 +27707,7 @@
       "search_text": "stupid never dies stupid never dies turn weak zombie davy stupid strong, stupid fast in this blazing fast growth action rpg! devour enemies, steal powers, transform, and brave a deadly dungeon to revive frozen julia. action adventure rpg single-player steam achievements steam trading cards adjustable text size camera comfort #category_contrast_controls custom volume controls adjustable difficulty gamepad recommended keyboard only option #category_playable_at_your_own_pace playable without timed input dualsense controller support dualsense controller support stereo sound subtitle options partial controller support steam cloud stats family sharing english french italian german spanish-spain portuguese-brazil schinese tchinese japanese spanish-latin polish russian korean mostly positive<br>79% of the 221 user reviews for this game are positive.",
       "first_seen": "2026-11-20T23:47:31+00:00",
       "last_seen": "2026-11-21T06:14:39+00:00",
-      "updated_at": "2026-11-21T06:14:39+00:00"
+      "updated_at": "2026-11-21T10:31:00+00:00"
     },
     {
       "app_id": 2670630,
@@ -28635,6 +28785,31 @@
           "currency": "USD",
           "original": 2999,
           "final": 2249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 17200,
+          "final": 12900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 56100,
+          "final": 42000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 10900,
+          "final": 8175
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 385000,
+          "final": 288700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3100000,
+          "final": 2325000
         }
       },
       "review_hint": "Mostly Positive<br>74% of the 94 user reviews for this game are positive.",
@@ -28649,7 +28824,7 @@
       "search_text": "the jackbox party pack 12 the jackbox party pack 12 escape the ordinary with the jackbox party pack 12! embark on a party adventure with goofy greetings in we forgot a card, wild image warping in hyperface, absurd arguments in debate and switch, team-based fact battles in idol factions, and mind-melding friendship in megapals. casual indie strategy multi-player pvp online pvp shared/split screen pvp co-op online co-op shared/split screen co-op shared/split screen steam achievements full controller support camera comfort custom volume controls playable without timed input stereo sound surround sound steam cloud remote play together family sharing english mostly positive<br>74% of the 94 user reviews for this game are positive.",
       "first_seen": "2026-11-20T23:47:31+00:00",
       "last_seen": "2026-11-21T06:14:39+00:00",
-      "updated_at": "2026-11-21T06:14:39+00:00"
+      "updated_at": "2026-11-21T10:31:00+00:00"
     },
     {
       "app_id": 434170,
@@ -32876,6 +33051,31 @@
           "currency": "USD",
           "original": 299,
           "final": 200
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 2000,
+          "final": 1340
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 6600,
+          "final": 4400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 1500,
+          "final": 1005
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 35000,
+          "final": 23400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 340000,
+          "final": 228000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>96% of the 7,336 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -32890,7 +33090,7 @@
       "search_text": "tower wizard tower wizard help a wizard build and upgrade a wizard tower in this incremental game! use the tower to study magic, summon spirits, create buildings, and influence the world. indie rpg simulation strategy single-player steam achievements adjustable text size color alternatives custom volume controls mouse only option playable without timed input save anytime steam cloud family sharing english french german japanese portuguese-brazil russian schinese spanish-latin overwhelmingly positive<br>96% of the 7,336 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-20T23:47:31+00:00",
       "last_seen": "2026-11-21T06:14:39+00:00",
-      "updated_at": "2026-11-21T06:14:39+00:00"
+      "updated_at": "2026-11-21T10:31:00+00:00"
     },
     {
       "app_id": 4171850,
@@ -34163,6 +34363,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 7600
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 29800,
+          "final": 23800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5700,
+          "final": 4560
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 188000,
+          "final": 150400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 1320000
         }
       },
       "review_hint": "Positive<br>80% of the 15 user reviews for this game are positive.",
@@ -34177,7 +34402,7 @@
       "search_text": "warlords iv: heroes of etheria warlords iv: heroes of etheria warlords iv: heroes of etheria is a turn-based fantasy strategy game of conquest and heroes. capture cities, recruit armies from ten distinct factions, level up your units, and clash in fast one-on-one duels where the marching order you choose decides the battle. strategy single-player multi-player pvp lan pvp steam achievements steam cloud family sharing english french german spanish-spain polish russian positive<br>80% of the 15 user reviews for this game are positive.",
       "first_seen": "2026-11-20T23:47:31+00:00",
       "last_seen": "2026-11-21T06:14:39+00:00",
-      "updated_at": "2026-11-21T06:14:39+00:00"
+      "updated_at": "2026-11-21T10:31:00+00:00"
     },
     {
       "app_id": 719040,
@@ -34535,6 +34760,31 @@
           "currency": "USD",
           "original": 799,
           "final": 495
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4400,
+          "final": 2728
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15800,
+          "final": 9700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 1736
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 115000,
+          "final": 71300
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 895000,
+          "final": 555000
         }
       },
       "review_hint": "",
@@ -34549,7 +34799,7 @@
       "search_text": "we're all in! we're all in! experience minigame chaos in we’re all in!, an online party game for 1-8 players where you win by betting on your friends in a series of fast-paced games and challenges. simulation strategy single-player multi-player co-op online co-op partial controller support family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese turkish ukrainian",
       "first_seen": "2026-11-20T23:47:31+00:00",
       "last_seen": "2026-11-21T06:14:39+00:00",
-      "updated_at": "2026-11-21T06:14:39+00:00"
+      "updated_at": "2026-11-21T10:31:00+00:00"
     },
     {
       "app_id": 2052410,
