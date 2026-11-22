@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T05:47:44+00:00",
+  "updated_at": "2026-11-22T10:35:37+00:00",
   "total_count": 5279,
   "active_count": 340,
   "games": [
@@ -11271,6 +11271,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 6250
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 16400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 3800
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 115000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 1075000
         }
       },
       "review_hint": "Very Positive<br>91% of the 543 user reviews for this game are positive.",
@@ -11285,7 +11310,7 @@
       "search_text": "firehawk: fpv drone shooter firehawk: fpv drone shooter fly a real fpv drone into battle. dive, flip, and shoot your way through roguelite runs, endless swarms, and the clock, then take those skills into 10-player dogfights or 4-pilot co-op. true quadcopter physics, every crash is yours, and so is every kill. action simulation single-player multi-player pvp online pvp co-op online co-op gamepad recommended dualshock controller support dualsense controller support partial controller support steam leaderboards family sharing english french italian german spanish-spain arabic bulgarian czech danish dutch finnish greek hungarian indonesian japanese korean norwegian polish portuguese-brazil portuguese---portugal romanian russian schinese spanish-latin swedish thai tchinese turkish ukrainian vietnamese very positive<br>91% of the 543 user reviews for this game are positive.",
       "first_seen": "2026-11-22T05:47:44+00:00",
       "last_seen": "2026-11-22T05:47:44+00:00",
-      "updated_at": "2026-11-22T05:47:44+00:00"
+      "updated_at": "2026-11-22T10:35:37+00:00"
     },
     {
       "app_id": 304390,
@@ -25586,6 +25611,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 5000
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 13100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 3040
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 92000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 860000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>98% of the 1,843 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -25600,7 +25650,7 @@
       "search_text": "smushi come home smushi come home play as a tiny lil' mushroom who's lost in the forest and can't find its way home. explore unique areas freely at your own pace, chat with friendly inhabitants, and take on different adventures to get back home! adventure casual indie rpg single-player steam achievements full controller support steam cloud family sharing english french german spanish-spain japanese schinese overwhelmingly positive<br>98% of the 1,843 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-22T05:47:44+00:00",
       "last_seen": "2026-11-22T05:47:44+00:00",
-      "updated_at": "2026-11-22T05:47:44+00:00"
+      "updated_at": "2026-11-22T10:35:37+00:00"
     },
     {
       "app_id": 4528040,
@@ -32217,6 +32267,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 16900,
+          "final": 1690
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 67500,
+          "final": 6700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9800,
+          "final": 980
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 257000,
+          "final": 25700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2600000,
+          "final": 260000
         }
       },
       "review_hint": "Mostly Positive<br>75% of the 3,015 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -32231,7 +32306,7 @@
       "search_text": "the survivalists the survivalists a living world full of surprises, secrets and danger awaits in the survivalists, an adventure-filled survival sandbox set in the escapists universe. explore, build, craft and even train monkeys with up to three friends in a desperate bid to survive. have you got what it takes to be a survivalist? action adventure casual indie single-player multi-player co-op online co-op steam achievements full controller support steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil russian schinese tchinese arabic dutch mostly positive<br>75% of the 3,015 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-22T05:47:44+00:00",
       "last_seen": "2026-11-22T05:47:44+00:00",
-      "updated_at": "2026-11-22T05:47:44+00:00"
+      "updated_at": "2026-11-22T10:35:37+00:00"
     },
     {
       "app_id": 1121640,
