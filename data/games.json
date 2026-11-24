@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T22:05:44+00:00",
+  "updated_at": "2026-11-24T23:41:59+00:00",
   "total_count": 5298,
   "active_count": 344,
   "games": [
@@ -1665,6 +1665,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1049
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8700,
+          "final": 6090
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 30800,
+          "final": 21500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5900,
+          "final": 4130
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 190000,
+          "final": 133000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1600000,
+          "final": 1120000
         }
       },
       "review_hint": "Positive<br>87% of the 16 user reviews for this game are positive.",
@@ -1679,7 +1704,7 @@
       "search_text": "astario astario astario is a universe in which you can build functional ships and orbital stations with automated factories. collect materials, craft new blocks, and expand into the universe. nothing is ever truly static, ships, stations, asteroids, planets, everything follows the laws of orbital motion. adventure indie simulation early access single-player family sharing english german positive<br>87% of the 16 user reviews for this game are positive.",
       "first_seen": "2026-11-24T22:05:44+00:00",
       "last_seen": "2026-11-24T22:05:44+00:00",
-      "updated_at": "2026-11-24T22:05:44+00:00"
+      "updated_at": "2026-11-24T23:41:59+00:00"
     },
     {
       "app_id": 668580,
@@ -9100,6 +9125,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1349
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7900,
+          "final": 7110
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27800,
+          "final": 25000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5400,
+          "final": 4860
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 210000,
+          "final": 189000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1700000,
+          "final": 1530000
         }
       },
       "review_hint": "Positive<br>100% of the 13 user reviews for this game are positive.",
@@ -9114,7 +9164,7 @@
       "search_text": "double whammy double whammy run a guitar shop by day. smash monsters by night. 🎸 action indie simulation early access single-player steam cloud family sharing english french german japanese korean schinese tchinese portuguese-brazil russian spanish-latin italian positive<br>100% of the 13 user reviews for this game are positive.",
       "first_seen": "2026-11-24T22:05:44+00:00",
       "last_seen": "2026-11-24T22:05:44+00:00",
-      "updated_at": "2026-11-24T22:05:44+00:00"
+      "updated_at": "2026-11-24T23:41:59+00:00"
     },
     {
       "app_id": 1845910,
@@ -12117,6 +12167,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10900,
+          "final": 9810
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 34800,
+          "final": 31300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7000,
+          "final": 6300
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 270000,
+          "final": 243000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2250000,
+          "final": 2025000
         }
       },
       "review_hint": "Positive<br>90% of the 10 user reviews for this game are positive.",
@@ -12131,7 +12206,7 @@
       "search_text": "food devils food devils you're the last chef in a post-apocalyptic world. attract adventurers with monstrous food, make them sign contracts with the food devils and organize expeditions to collect wicked ingredients! customize your characters, build the perfect restaurant and plan every move in this tactics-rpg roguelite. rpg strategy early access single-player steam achievements full controller support camera comfort custom volume controls adjustable difficulty keyboard only option mouse only option #category_playable_at_your_own_pace playable without timed input dualsense controller support dualsense controller support stereo sound family sharing english italian japanese schinese positive<br>90% of the 10 user reviews for this game are positive.",
       "first_seen": "2026-11-24T22:05:44+00:00",
       "last_seen": "2026-11-24T22:05:44+00:00",
-      "updated_at": "2026-11-24T22:05:44+00:00"
+      "updated_at": "2026-11-24T23:41:59+00:00"
     },
     {
       "app_id": 304390,
@@ -22489,6 +22564,31 @@
           "currency": "USD",
           "original": 799,
           "final": 639
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4400,
+          "final": 3520
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15800,
+          "final": 12600
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 2240
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 115000,
+          "final": 92000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 895000,
+          "final": 716000
         }
       },
       "review_hint": "Positive<br>90% of the 31 user reviews for this game are positive.",
@@ -22503,7 +22603,7 @@
       "search_text": "no asteroids no asteroids an asteroid will hit earth in 90 days. the government held a tender, and one miner came with his own pickaxe. he asked for no money and said the asteroid would pay for itself. dig 5,000,000 m³ in first person, solo or in online co-op for up to 8. sell the ore and buy ship guns that fire as you dig. casual indie simulation single-player multi-player co-op online co-op cross-platform multiplayer steam achievements full controller support camera comfort custom volume controls playable without timed input dualshock controller support dualsense controller support steam cloud family sharing english german japanese portuguese-brazil russian schinese spanish-latin turkish ukrainian arabic french polish italian spanish-spain czech dutch hungarian indonesian korean bulgarian danish finnish greek norwegian portuguese---portugal romanian swedish vietnamese positive<br>90% of the 31 user reviews for this game are positive.",
       "first_seen": "2026-11-24T22:05:44+00:00",
       "last_seen": "2026-11-24T22:05:44+00:00",
-      "updated_at": "2026-11-24T22:05:44+00:00"
+      "updated_at": "2026-11-24T23:41:59+00:00"
     },
     {
       "app_id": 3014320,
@@ -23534,6 +23634,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 1104
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6900,
+          "final": 5865
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 24800,
+          "final": 21000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4500,
+          "final": 3825
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 185000,
+          "final": 157200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1450000,
+          "final": 1232000
         }
       },
       "review_hint": "Positive<br>91% of the 23 user reviews for this game are positive.",
@@ -23548,7 +23673,7 @@
       "search_text": "pc store together pc store together run your own pc shop with friends! build and repair computers, diagnose faulty parts, stock shelves, set prices, sell hardware and custom pcs, serve customers, manage orders, upgrade your store, unlock new components and grow your business together. indie single-player multi-player co-op online co-op steam achievements full controller support color alternatives custom volume controls #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support stereo sound family sharing english spanish-spain danish dutch finnish hungarian polish portuguese---portugal romanian swedish turkish french italian german czech indonesian norwegian positive<br>91% of the 23 user reviews for this game are positive.",
       "first_seen": "2026-11-24T22:05:44+00:00",
       "last_seen": "2026-11-24T22:05:44+00:00",
-      "updated_at": "2026-11-24T22:05:44+00:00"
+      "updated_at": "2026-11-24T23:41:59+00:00"
     },
     {
       "app_id": 2161700,
@@ -24873,6 +24998,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1349
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 8550
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 24100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 5220
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 153000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 1485000
         }
       },
       "review_hint": "Positive<br>100% of the 24 user reviews for this game are positive.",
@@ -24887,7 +25037,7 @@
       "search_text": "rekindled: cozy tavern life rekindled: cozy tavern life rekindled is a co-op tavern game with a twist - there's no stress! forage, fish, farm and cook at your own pace, then decorate your dishes and tavern before welcoming your customers in. adventure casual indie simulation single-player multi-player co-op online co-op steam achievements full controller support camera comfort color alternatives custom volume controls #category_playable_at_your_own_pace playable without timed input save anytime stereo sound steam cloud family sharing english positive<br>100% of the 24 user reviews for this game are positive.",
       "first_seen": "2026-11-24T22:05:44+00:00",
       "last_seen": "2026-11-24T22:05:44+00:00",
-      "updated_at": "2026-11-24T22:05:44+00:00"
+      "updated_at": "2026-11-24T23:41:59+00:00"
     },
     {
       "app_id": 2138720,
@@ -26802,6 +26952,31 @@
           "currency": "USD",
           "original": 699,
           "final": 559
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3800,
+          "final": 3040
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14800,
+          "final": 11800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2500,
+          "final": 2000
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 98500,
+          "final": 78800
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 780000,
+          "final": 624000
         }
       },
       "review_hint": "Positive<br>94% of the 38 user reviews for this game are positive.",
@@ -26816,7 +26991,7 @@
       "search_text": "shred a billion shred a billion shred a billion is a first-person incremental game about a mountain of money! grab bills by hand, scoop them with a bucket, level up and feed a billion dollars to the shredder. only 999,999,999 bills left to go! casual indie simulation single-player multi-player co-op online co-op steam achievements full controller support adjustable text size camera comfort custom volume controls #category_playable_at_your_own_pace playable without timed input dualshock controller support dualsense controller support save anytime stereo sound family sharing english french italian german spanish-spain bulgarian czech danish dutch finnish greek hungarian indonesian japanese korean malay norwegian polish portuguese-brazil portuguese---portugal romanian russian schinese spanish-latin swedish thai tchinese turkish ukrainian vietnamese positive<br>94% of the 38 user reviews for this game are positive.",
       "first_seen": "2026-11-24T22:05:44+00:00",
       "last_seen": "2026-11-24T22:05:44+00:00",
-      "updated_at": "2026-11-24T22:05:44+00:00"
+      "updated_at": "2026-11-24T23:41:59+00:00"
     },
     {
       "app_id": 1295660,
@@ -30374,6 +30549,31 @@
           "currency": "USD",
           "original": 899,
           "final": 809
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4800,
+          "final": 4320
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 18800,
+          "final": 16900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3100,
+          "final": 2790
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 125000,
+          "final": 112500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1000000,
+          "final": 900000
         }
       },
       "review_hint": "Positive<br>81% of the 16 user reviews for this game are positive.",
@@ -30388,7 +30588,7 @@
       "search_text": "symphony of war: the nephilim saga - hold the line symphony of war: the nephilim saga - hold the line fight through 15 escalating defense battles in this strategy rpg expansion. capture valuable nodes, launch daring counterattacks, recruit familiar heroes, strengthen your squads, earn army-wide bonuses between chapters, and push your army command skills to new heights. adventure indie rpg strategy single-player downloadable content steam achievements custom volume controls adjustable difficulty keyboard only option mouse only option #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime partial controller support steam cloud family sharing english french german spanish-spain japanese korean portuguese-brazil schinese russian positive<br>81% of the 16 user reviews for this game are positive.",
       "first_seen": "2026-11-24T22:05:44+00:00",
       "last_seen": "2026-11-24T22:05:44+00:00",
-      "updated_at": "2026-11-24T22:05:44+00:00"
+      "updated_at": "2026-11-24T23:41:59+00:00"
     },
     {
       "app_id": 1778820,
@@ -36349,6 +36549,31 @@
           "currency": "USD",
           "original": 599,
           "final": 539
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3300,
+          "final": 2970
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 12800,
+          "final": 11500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1980
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 84500,
+          "final": 76000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 670000,
+          "final": 603000
         }
       },
       "review_hint": "Positive<br>80% of the 21 user reviews for this game are positive.",
@@ -36363,7 +36588,7 @@
       "search_text": "your party died again your party died again fight through evil monsters and demons in this incremental rpg. collect loot, unlock upgrades and recruit party members to destroy the demon king. use abilities strategically or set them to autocast and enjoy the ride. action casual rpg single-player steam achievements steam cloud family sharing english french german spanish-spain japanese korean polish portuguese-brazil russian schinese turkish positive<br>80% of the 21 user reviews for this game are positive.",
       "first_seen": "2026-11-24T22:05:44+00:00",
       "last_seen": "2026-11-24T22:05:44+00:00",
-      "updated_at": "2026-11-24T22:05:44+00:00"
+      "updated_at": "2026-11-24T23:41:59+00:00"
     },
     {
       "app_id": 1059220,
