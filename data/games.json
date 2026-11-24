@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T23:36:08+00:00",
+  "updated_at": "2026-11-24T01:57:55+00:00",
   "total_count": 5289,
   "active_count": 345,
   "games": [
@@ -289,6 +289,31 @@
           "currency": "USD",
           "original": 799,
           "final": 719
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4800,
+          "final": 4320
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 17500,
+          "final": 15700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3300,
+          "final": 2970
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 105000,
+          "final": 94500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 870000,
+          "final": 783000
         }
       },
       "review_hint": "Positive<br>100% of the 10 user reviews for this game are positive.",
@@ -303,7 +328,7 @@
       "search_text": "a thousand cloys a thousand cloys a chill, exploration-based incremental game about harvesting and cleansing an alien planet of its radiation with a swarm of high-tech toasters. casual indie simulation single-player camera comfort custom volume controls mouse only option #category_playable_at_your_own_pace playable without timed input save anytime stereo sound family sharing english french positive<br>100% of the 10 user reviews for this game are positive.",
       "first_seen": "2026-11-23T23:36:08+00:00",
       "last_seen": "2026-11-23T23:36:08+00:00",
-      "updated_at": "2026-11-23T23:36:08+00:00"
+      "updated_at": "2026-11-24T01:57:55+00:00"
     },
     {
       "app_id": 1222700,
@@ -1054,6 +1079,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 499
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 12500,
+          "final": 3125
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 32800,
+          "final": 8200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7600,
+          "final": 1900
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 230000,
+          "final": 57500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2150000,
+          "final": 537000
         }
       },
       "review_hint": "Very Positive<br>87% of the 1,134 user reviews for this game are positive.",
@@ -1068,7 +1118,7 @@
       "search_text": "ai war 2 ai war 2 the most devious and acclaimed artificial intelligence in strategy gaming is better than ever. a grand strategy/rts hybrid that reverses many conventions of both genres. take territory without attracting attention, build your empire with care, and adapt to an ever-evolving galactic battleground. indie simulation strategy single-player multi-player co-op online co-op lan co-op cross-platform multiplayer steam achievements steam trading cards adjustable text size camera comfort custom volume controls adjustable difficulty mouse only option playable without timed input save anytime steam cloud family sharing english very positive<br>87% of the 1,134 user reviews for this game are positive.",
       "first_seen": "2026-11-23T23:36:08+00:00",
       "last_seen": "2026-11-23T23:36:08+00:00",
-      "updated_at": "2026-11-23T23:36:08+00:00"
+      "updated_at": "2026-11-24T01:57:55+00:00"
     },
     {
       "app_id": 270880,
@@ -4866,6 +4916,31 @@
           "currency": "USD",
           "original": 6999,
           "final": 5949
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 56800,
+          "final": 48280
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 209900,
+          "final": 178400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 29800,
+          "final": 25330
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 980000,
+          "final": 833000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 8000000,
+          "final": 6800000
         }
       },
       "review_hint": "Mixed<br>68% of the 6,683 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -4880,7 +4955,7 @@
       "search_text": "call of duty®: modern warfare® 4 call of duty®: modern warfare® 4 war erupts on the korean peninsula as north korea launches an invasion that threatens to destabilize the world in call of duty®: modern warfare® 4. action single-player multi-player pvp online pvp co-op online co-op cross-platform multiplayer steam achievements full controller support captions available in-app purchases adjustable text size camera comfort color alternatives custom volume controls playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support stereo sound subtitle options surround sound hdr available english french italian german spanish-spain korean polish russian tchinese japanese spanish-latin arabic schinese portuguese-brazil mixed<br>68% of the 6,683 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-23T23:36:08+00:00",
       "last_seen": "2026-11-23T23:36:08+00:00",
-      "updated_at": "2026-11-23T23:36:08+00:00"
+      "updated_at": "2026-11-24T01:57:55+00:00"
     },
     {
       "app_id": 476600,
@@ -5353,6 +5428,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 2999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 26900,
+          "final": 20175
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 109900,
+          "final": 82400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 18900,
+          "final": 14175
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 590000,
+          "final": 442500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4790000,
+          "final": 3592000
         }
       },
       "review_hint": "Very Positive<br>93% of the 5,654 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -5367,7 +5467,7 @@
       "search_text": "clive barker's hellraiser: revival clive barker's hellraiser: revival experience a new chapter in the legendary horror series like never before. clive barker's hellraiser: revival takes first-person action horror survival to the next level. wield the powers of the genesis configuration puzzle box to survive your bargain with the infamous pinhead. action single-player steam achievements full controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing english french italian german spanish-spain russian schinese portuguese-brazil very positive<br>93% of the 5,654 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-23T23:36:08+00:00",
       "last_seen": "2026-11-23T23:36:08+00:00",
-      "updated_at": "2026-11-23T23:36:08+00:00"
+      "updated_at": "2026-11-24T01:57:55+00:00"
     },
     {
       "app_id": 3314790,
@@ -14695,6 +14795,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 3199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 22800,
+          "final": 18240
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 68900,
+          "final": 55100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 13700,
+          "final": 10960
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 510000,
+          "final": 408000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4100000,
+          "final": 3280000
         }
       },
       "review_hint": "Mixed<br>67% of the 10,879 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -14709,7 +14834,7 @@
       "search_text": "halloween: the game halloween: the game on halloween night, 1978, no one is safe from michael myers. become the boogeyman or fight back against the face of evil itself in halloween. action single-player multi-player pvp online pvp co-op online co-op steam achievements full controller support steam trading cards dualshock controller support dualsense controller support steam cloud family sharing english french italian german spanish-spain japanese schinese russian korean portuguese-brazil mixed<br>67% of the 10,879 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-23T23:36:08+00:00",
       "last_seen": "2026-11-23T23:36:08+00:00",
-      "updated_at": "2026-11-23T23:36:08+00:00"
+      "updated_at": "2026-11-24T01:57:55+00:00"
     },
     {
       "app_id": 2806050,
@@ -16835,6 +16960,31 @@
           "currency": "USD",
           "original": 699,
           "final": 629
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4200,
+          "final": 3780
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15900,
+          "final": 14300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2900,
+          "final": 2610
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 90500,
+          "final": 81400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 760000,
+          "final": 684000
         }
       },
       "review_hint": "Positive<br>100% of the 18 user reviews for this game are positive.",
@@ -16849,7 +16999,7 @@
       "search_text": "internet cafe 98 internet cafe 98 start with one trash pc and build a packed 1998 internet cafe. serve customers, upgrade your hardware and network, and research new tech in this retro incremental tycoon. casual single-player steam achievements custom volume controls mouse only option #category_playable_at_your_own_pace playable without timed input save anytime steam cloud family sharing english french italian german spanish-spain japanese korean polish portuguese---portugal russian schinese spanish-latin tchinese turkish portuguese-brazil positive<br>100% of the 18 user reviews for this game are positive.",
       "first_seen": "2026-11-23T23:36:08+00:00",
       "last_seen": "2026-11-23T23:36:08+00:00",
-      "updated_at": "2026-11-23T23:36:08+00:00"
+      "updated_at": "2026-11-24T01:57:55+00:00"
     },
     {
       "app_id": 1426210,
@@ -19001,6 +19151,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 1249
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 15600,
+          "final": 7800
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 40800,
+          "final": 20400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 6600,
+          "final": 3300
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 260000,
+          "final": 130000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2700000,
+          "final": 1350000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>96% of the 6,646 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -19015,7 +19190,7 @@
       "search_text": "little kitty, big city little kitty, big city you're a curious little kitty with a big personality, on an adventure to find your way back home. explore the city, make new friends with stray animals, wear delightful hats, and leave more than a little chaos in your wake. after all, isn't that what cats do best? adventure casual indie simulation single-player steam achievements full controller support steam trading cards adjustable text size camera comfort custom volume controls gamepad recommended playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime stereo sound surround sound steam cloud family sharing english spanish-spain japanese portuguese-brazil french german korean schinese tchinese italian polish russian turkish overwhelmingly positive<br>96% of the 6,646 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-23T23:36:08+00:00",
       "last_seen": "2026-11-23T23:36:08+00:00",
-      "updated_at": "2026-11-23T23:36:08+00:00"
+      "updated_at": "2026-11-24T01:57:55+00:00"
     },
     {
       "app_id": 4018330,
@@ -20623,6 +20798,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11500,
+          "final": 10350
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37700,
+          "final": 33900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7700,
+          "final": 6930
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 260000,
+          "final": 234000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2100000,
+          "final": 1890000
         }
       },
       "review_hint": "Mostly Positive<br>71% of the 154 user reviews for this game are positive.",
@@ -20637,7 +20837,7 @@
       "search_text": "mechwarrior 5: mercenaries - ashes and ascension mechwarrior 5: mercenaries - ashes and ascension lead your mercenary company through a new 18-mission campaign, 13 new 'mechs, new inner sphere omnimechs, variants, weapons, ground units, and more. as the inner sphere goes on the offensive and takes the fight to the clans. action single-player multi-player co-op online co-op downloadable content steam achievements steam trading cards steam workshop family sharing english french german russian spanish-latin japanese mostly positive<br>71% of the 154 user reviews for this game are positive.",
       "first_seen": "2026-11-23T23:36:08+00:00",
       "last_seen": "2026-11-23T23:36:08+00:00",
-      "updated_at": "2026-11-23T23:36:08+00:00"
+      "updated_at": "2026-11-24T01:57:55+00:00"
     },
     {
       "app_id": 4371500,
@@ -30383,6 +30583,31 @@
           "currency": "USD",
           "original": 6999,
           "final": 5599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 49900,
+          "final": 39920
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 199000,
+          "final": 159200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 29800,
+          "final": 23840
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 979000,
+          "final": 783200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 7980000,
+          "final": 6384000
         }
       },
       "review_hint": "Very Positive<br>87% of the 14,461 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -30397,7 +30622,7 @@
       "search_text": "the blood of dawnwalker the blood of dawnwalker the blood of dawnwalker is an open-world dark fantasy action rpg set in 14th-century europe. you play as coen, human by day and vampire by night, fighting to save your family in a story shaped by your actions and the secrets you uncover. action adventure rpg single-player steam achievements full controller support steam trading cards custom volume controls adjustable difficulty gamepad recommended dualsense controller support dualsense controller support save anytime steam input api support steam cloud family sharing english french italian german spanish-spain czech hungarian japanese korean polish portuguese-brazil schinese spanish-latin tchinese turkish very positive<br>87% of the 14,461 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-23T23:36:08+00:00",
       "last_seen": "2026-11-23T23:36:08+00:00",
-      "updated_at": "2026-11-23T23:36:08+00:00"
+      "updated_at": "2026-11-24T01:57:55+00:00"
     },
     {
       "app_id": 2698940,
@@ -36027,6 +36252,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9900,
+          "final": 8910
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 39900,
+          "final": 35900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5900,
+          "final": 5310
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 198000,
+          "final": 178200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1990000,
+          "final": 1791000
         }
       },
       "review_hint": "Positive<br>100% of the 32 user reviews for this game are positive.",
@@ -36041,7 +36291,7 @@
       "search_text": "workers & resources: soviet republic - space program workers & resources: soviet republic - space program bring your glorious republics to the final frontier with a space program packed with dedicated technologies, buildings, vehicles, and mechanics that unlock the stars. simulation strategy single-player downloadable content steam workshop adjustable text size camera comfort custom volume controls adjustable difficulty dualshock controller support dualshock controller support dualsense controller support dualsense controller support save anytime partial controller support steam cloud includes level editor family sharing english french german polish russian schinese spanish-spain italian japanese portuguese-brazil hungarian korean ukrainian bulgarian tchinese turkish slovak czech positive<br>100% of the 32 user reviews for this game are positive.",
       "first_seen": "2026-11-23T23:36:08+00:00",
       "last_seen": "2026-11-23T23:36:08+00:00",
-      "updated_at": "2026-11-23T23:36:08+00:00"
+      "updated_at": "2026-11-24T01:57:55+00:00"
     },
     {
       "app_id": 699130,
