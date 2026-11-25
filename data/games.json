@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T21:21:05+00:00",
+  "updated_at": "2026-11-25T23:25:06+00:00",
   "total_count": 5310,
   "active_count": 341,
   "games": [
@@ -404,6 +404,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1199
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 7900,
+          "final": 6320
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 27800,
+          "final": 22200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5400,
+          "final": 4320
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 210000,
+          "final": 168000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1700000,
+          "final": 1360000
         }
       },
       "review_hint": "Mixed<br>50% of the 10 user reviews for this game are positive.",
@@ -418,7 +443,7 @@
       "search_text": "a sector darkly a sector darkly command a ship and crew stranded far from home in this open-world space sandbox rpg. explore, trade, fight, and craft to survive among the strange alien factions. one by one entire sectors are going dark and no one knows why. solve the mystery of the dark sectors and get your crew home. action simulation single-player steam achievements camera comfort color alternatives #category_contrast_controls custom volume controls mouse only option #category_playable_at_your_own_pace playable without timed input save anytime stereo sound steam cloud includes level editor hdr available family sharing english mixed<br>50% of the 10 user reviews for this game are positive.",
       "first_seen": "2026-11-25T21:21:05+00:00",
       "last_seen": "2026-11-25T21:21:05+00:00",
-      "updated_at": "2026-11-25T21:21:05+00:00"
+      "updated_at": "2026-11-25T23:25:06+00:00"
     },
     {
       "app_id": 3861740,
@@ -4780,6 +4805,31 @@
           "currency": "USD",
           "original": 2499,
           "final": 2124
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 13338,
+          "final": 11337
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 43200,
+          "final": 36700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 9004,
+          "final": 7653
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 350100,
+          "final": 297500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2793000,
+          "final": 2374000
         }
       },
       "review_hint": "",
@@ -4794,7 +4844,7 @@
       "search_text": "cat cafe manager 2: big city bliss cat cafe manager 2: big city bliss run your very own cat cafe! lead your cats on adventures into a magical city, gather ingredients to cook scrumptious dishes, customize your dream cafe, and bring bliss to your loyal customers in this cozy management lifesim. 🐱 adventure casual indie simulation early access single-player partial controller support family sharing english",
       "first_seen": "2026-11-25T21:21:05+00:00",
       "last_seen": "2026-11-25T21:21:05+00:00",
-      "updated_at": "2026-11-25T21:21:05+00:00"
+      "updated_at": "2026-11-25T23:25:06+00:00"
     },
     {
       "app_id": 504230,
@@ -11639,6 +11689,31 @@
           "currency": "USD",
           "original": 699,
           "final": 629
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3800,
+          "final": 3420
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14800,
+          "final": 13300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2500,
+          "final": 2250
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 80000,
+          "final": 72000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 780000,
+          "final": 702000
         }
       },
       "review_hint": "Positive<br>100% of the 10 user reviews for this game are positive.",
@@ -11653,7 +11728,7 @@
       "search_text": "fleshborn fleshborn a short incremental game where you are tasked to clean a lab from fleshy growths using your flamethrower. collect resources and spend them in a vast upgrade tree to unlock new abilities. casual simulation strategy single-player steam achievements full controller support camera comfort custom volume controls save anytime steam cloud family sharing english positive<br>100% of the 10 user reviews for this game are positive.",
       "first_seen": "2026-11-25T21:21:05+00:00",
       "last_seen": "2026-11-25T21:21:05+00:00",
-      "updated_at": "2026-11-25T21:21:05+00:00"
+      "updated_at": "2026-11-25T23:25:06+00:00"
     },
     {
       "app_id": 2861730,
@@ -15809,6 +15884,31 @@
           "currency": "USD",
           "original": 799,
           "final": 719
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4400,
+          "final": 3960
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15800,
+          "final": 14200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 2520
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 100000,
+          "final": 90000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 890000,
+          "final": 801000
         }
       },
       "review_hint": "",
@@ -15823,7 +15923,7 @@
       "search_text": "hotel architect - poolside paradise hotel architect - poolside paradise the gran canaria hotel is opening and soon guests will be flying in from all over the globe to visit your subtropical island hotel in hotel architect - poolside paradise. relaxation relies on careful planning, creative logistics, and a seasoned hotel manager. do you have what it takes? casual indie simulation strategy single-player downloadable content steam achievements steam trading cards camera comfort color alternatives custom volume controls mouse only option playable without timed input save anytime steam cloud family sharing english french italian german spanish-spain korean portuguese-brazil russian schinese tchinese japanese",
       "first_seen": "2026-11-25T21:21:05+00:00",
       "last_seen": "2026-11-25T21:21:05+00:00",
-      "updated_at": "2026-11-25T21:21:05+00:00"
+      "updated_at": "2026-11-25T23:25:06+00:00"
     },
     {
       "app_id": 594650,
@@ -19790,6 +19890,31 @@
           "currency": "USD",
           "original": 999,
           "final": 849
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 5500,
+          "final": 4675
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19800,
+          "final": 16800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3500,
+          "final": 2975
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 140000,
+          "final": 119000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 935000
         }
       },
       "review_hint": "Positive<br>100% of the 15 user reviews for this game are positive.",
@@ -19804,7 +19929,7 @@
       "search_text": "me and you me and you me and you is a co-op puzzle game inspired by the acclaimed “baba is you”. create, change and break the rules of each level to solve it together. adventure casual indie multi-player co-op online co-op shared/split screen co-op shared/split screen steam achievements full controller support custom volume controls keyboard only option #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam input api support steam cloud remote play together family sharing english french italian german spanish-spain japanese korean polish portuguese-brazil portuguese---portugal russian schinese tchinese turkish ukrainian positive<br>100% of the 15 user reviews for this game are positive.",
       "first_seen": "2026-11-25T21:21:05+00:00",
       "last_seen": "2026-11-25T21:21:05+00:00",
-      "updated_at": "2026-11-25T21:21:05+00:00"
+      "updated_at": "2026-11-25T23:25:06+00:00"
     },
     {
       "app_id": 784080,
@@ -20357,6 +20482,31 @@
           "currency": "USD",
           "original": 4999,
           "final": 3999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 30800,
+          "final": 24640
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 119000,
+          "final": 95200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 27500,
+          "final": 22000
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 660000,
+          "final": 528000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 6100000,
+          "final": 4880000
         }
       },
       "review_hint": "Mixed<br>65% of the 55 user reviews for this game are positive.",
@@ -20371,7 +20521,7 @@
       "search_text": "metal gear solid: master collection vol.2 metal gear solid: master collection vol.2 this second installment to the collection features “metal gear solid 4: guns of the patriots” and “metal gear solid: peace walker (hd collection version),” and also a digital soundtrack and &quot;metal gear: ghost babel&quot; as bonus content. action adventure single-player family sharing english french italian german spanish-spain japanese mixed<br>65% of the 55 user reviews for this game are positive.",
       "first_seen": "2026-11-25T21:21:05+00:00",
       "last_seen": "2026-11-25T21:21:05+00:00",
-      "updated_at": "2026-11-25T21:21:05+00:00"
+      "updated_at": "2026-11-25T23:25:06+00:00"
     },
     {
       "app_id": 412020,
@@ -26989,6 +27139,31 @@
           "currency": "USD",
           "original": 4999,
           "final": 3999
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 34800,
+          "final": 27840
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 139000,
+          "final": 111200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 21800,
+          "final": 17440
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 748000,
+          "final": 598400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 6900000,
+          "final": 5520000
         }
       },
       "review_hint": "Mostly Positive<br>72% of the 2,726 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -27003,7 +27178,7 @@
       "search_text": "silent hill: townfall silent hill: townfall returning to an island town to ‘put things right’, simon ordell descends into a world of tense evasion, explosive confrontations, and mind-bending puzzles that slowly surface the truth of st. amelia. action adventure single-player steam achievements full controller support camera comfort custom volume controls adjustable difficulty dualshock controller support dualshock controller support dualsense controller support dualsense controller support stereo sound subtitle options steam cloud family sharing english french italian german spanish-spain spanish-latin portuguese-brazil polish russian schinese tchinese japanese korean mostly positive<br>72% of the 2,726 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-25T21:21:05+00:00",
       "last_seen": "2026-11-25T21:21:05+00:00",
-      "updated_at": "2026-11-25T21:21:05+00:00"
+      "updated_at": "2026-11-25T23:25:06+00:00"
     },
     {
       "app_id": 1575940,
@@ -29075,6 +29250,31 @@
           "currency": "USD",
           "original": 5999,
           "final": 4799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 38500,
+          "final": 30800
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 138000,
+          "final": 110400
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 22800,
+          "final": 18240
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 690000,
+          "final": 552000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 6450000,
+          "final": 5160000
         }
       },
       "review_hint": "Very Positive<br>87% of the 7,138 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -29089,7 +29289,7 @@
       "search_text": "star wars: galactic racer™ star wars: galactic racer™ star wars: galactic racer™ is a ​runs-based, ​high-stakes reinvention of racing born in the lawless outer rim. with the empire gone and the galaxy rebuilding, the galactic league is created: an underground, unsanctioned circuit where syndicates bankroll chaos and champions are forged. action adventure racing simulation sports single-player multi-player pvp online pvp cross-platform multiplayer steam achievements full controller support adjustable text size camera comfort custom volume controls gamepad recommended dualshock controller support dualshock controller support dualsense controller support dualsense controller support stereo sound surround sound steam cloud family sharing english french italian german spanish-spain arabic japanese korean polish portuguese-brazil schinese spanish-latin tchinese turkish very positive<br>87% of the 7,138 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-25T21:21:05+00:00",
       "last_seen": "2026-11-25T21:21:05+00:00",
-      "updated_at": "2026-11-25T21:21:05+00:00"
+      "updated_at": "2026-11-25T23:25:06+00:00"
     },
     {
       "app_id": 1237950,
@@ -35402,6 +35602,31 @@
           "currency": "USD",
           "original": 699,
           "final": 629
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3800,
+          "final": 3420
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 14800,
+          "final": 13300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2500,
+          "final": 2250
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 98500,
+          "final": 88600
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 780000,
+          "final": 702000
         }
       },
       "review_hint": "Mostly Positive<br>70% of the 44 user reviews for this game are positive.",
@@ -35416,7 +35641,7 @@
       "search_text": "when chests rain tons of loot when chests rain tons of loot an incremental loot game where you drop your heroes onto hordes of slimes. they do the fighting, you grab the loot and fill your treasure chest. when time runs out, it bursts and rains it all back down. upgrade your army in a huge skill tree and go again for a bigger haul. casual indie strategy single-player steam achievements family sharing english french italian german spanish-spain czech japanese korean polish schinese turkish ukrainian russian portuguese-brazil mostly positive<br>70% of the 44 user reviews for this game are positive.",
       "first_seen": "2026-11-25T21:21:05+00:00",
       "last_seen": "2026-11-25T21:21:05+00:00",
-      "updated_at": "2026-11-25T21:21:05+00:00"
+      "updated_at": "2026-11-25T23:25:06+00:00"
     },
     {
       "app_id": 2052410,
