@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T07:41:14+00:00",
+  "updated_at": "2026-11-25T11:57:30+00:00",
   "total_count": 5301,
   "active_count": 341,
   "games": [
@@ -12053,6 +12053,31 @@
           "currency": "USD",
           "original": 599,
           "final": 509
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3600,
+          "final": 3060
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 13600,
+          "final": 11500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2600,
+          "final": 2210
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 79000,
+          "final": 67100
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 655000,
+          "final": 557000
         }
       },
       "review_hint": "Positive<br>100% of the 20 user reviews for this game are positive.",
@@ -12067,7 +12092,7 @@
       "search_text": "fish it!: sort the aquarium shop fish it!: sort the aquarium shop fish it!: sort the aquarium shop is a cozy organizing simulator where you put back over 4,100 unique fish into their aquariums. fill the tanks, unlock helpful abilities, and enjoy the satisfying loop of turning total aquatic chaos into a clean, well-organized shop at your own pace. simulation single-player steam achievements full controller support color alternatives custom volume controls #category_playable_at_your_own_pace playable without timed input dualshock controller support dualshock controller support dualsense controller support dualsense controller support stereo sound steam cloud family sharing english french italian german spanish-spain schinese portuguese-brazil bulgarian indonesian dutch japanese korean polish portuguese---portugal russian turkish positive<br>100% of the 20 user reviews for this game are positive.",
       "first_seen": "2026-11-25T07:41:14+00:00",
       "last_seen": "2026-11-25T07:41:14+00:00",
-      "updated_at": "2026-11-25T07:41:14+00:00"
+      "updated_at": "2026-11-25T11:57:30+00:00"
     },
     {
       "app_id": 2861730,
@@ -16289,6 +16314,31 @@
           "currency": "USD",
           "original": 579,
           "final": 492
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3190,
+          "final": 2711
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 12400,
+          "final": 10500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2127,
+          "final": 1807
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 81700,
+          "final": 69400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 648000,
+          "final": 551000
         }
       },
       "review_hint": "Positive<br>94% of the 17 user reviews for this game are positive.",
@@ -16303,7 +16353,7 @@
       "search_text": "incremental rts incremental rts semi-idle incremental rts. you don’t micro units. you build factories, pick upgrades and let your army flood the battlefield. start with nothing, research tanks, artillery, flankers and mega units. scale and survive enemy surges. pure auto-battle chaos. casual indie simulation strategy single-player steam achievements camera comfort color alternatives custom volume controls mouse only option #category_playable_at_your_own_pace playable without timed input steam cloud family sharing english german russian positive<br>94% of the 17 user reviews for this game are positive.",
       "first_seen": "2026-11-25T07:41:14+00:00",
       "last_seen": "2026-11-25T07:41:14+00:00",
-      "updated_at": "2026-11-25T07:41:14+00:00"
+      "updated_at": "2026-11-25T11:57:30+00:00"
     },
     {
       "app_id": 2677660,
@@ -22067,6 +22117,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 11500,
+          "final": 10350
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 37700,
+          "final": 33900
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7700,
+          "final": 6930
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 260000,
+          "final": 234000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2100000,
+          "final": 1890000
         }
       },
       "review_hint": "",
@@ -22081,7 +22156,7 @@
       "search_text": "my child new beginnings my child new beginnings my child new beginnings is a parenting simulator where you go through everyday life of growth. after a series of traumatic events that you and your child went through, you now get to rebuild life together in a new region of norway. indie simulation single-player steam achievements steam cloud family sharing english arabic norwegian portuguese-brazil russian spanish-latin german",
       "first_seen": "2026-11-25T07:41:14+00:00",
       "last_seen": "2026-11-25T07:41:14+00:00",
-      "updated_at": "2026-11-25T07:41:14+00:00"
+      "updated_at": "2026-11-25T11:57:30+00:00"
     },
     {
       "app_id": 4356430,
