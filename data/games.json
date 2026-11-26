@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T21:08:27+00:00",
+  "updated_at": "2026-11-26T23:25:15+00:00",
   "total_count": 5318,
   "active_count": 345,
   "games": [
@@ -1047,6 +1047,31 @@
           "currency": "USD",
           "original": 1299,
           "final": 1039
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6900,
+          "final": 5520
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 23800,
+          "final": 19000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3900,
+          "final": 3120
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 150000,
+          "final": 120000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1400000,
+          "final": 1120000
         }
       },
       "review_hint": "",
@@ -1061,7 +1086,7 @@
       "search_text": "appulse appulse a thrilling top-down shooter inspired by pinball mechanics. master your weapon and use the recoil to control your ball, while protecting your mothership from waves of invading robots. upgrade your equipment, polish your skills, and win the war! action indie single-player steam achievements full controller support steam cloud steam leaderboards family sharing english french german japanese schinese portuguese-brazil spanish-spain korean polish russian",
       "first_seen": "2026-11-26T21:08:27+00:00",
       "last_seen": "2026-11-26T21:08:27+00:00",
-      "updated_at": "2026-11-26T21:08:27+00:00"
+      "updated_at": "2026-11-26T23:25:15+00:00"
     },
     {
       "app_id": 1808500,
@@ -12555,6 +12580,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 1349
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8300,
+          "final": 7470
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 20800,
+          "final": 18700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4800,
+          "final": 4320
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 155000,
+          "final": 139500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1250000,
+          "final": 1125000
         }
       },
       "review_hint": "",
@@ -12569,7 +12619,7 @@
       "search_text": "flak simulator flak simulator crew a wwii anti aircraft gun with your friends. spot incoming bombers, call out ranges, set fuses and load each round by hand. flak simulator is a firstperson coop simulation where getting a shot on target takes the whole crew. action simulation early access single-player multi-player pvp online pvp co-op online co-op steam achievements #category_contrast_controls custom volume controls adjustable difficulty keyboard only option mouse only option playable without timed input save anytime stereo sound steam cloud steam leaderboards family sharing english german japanese russian portuguese-brazil schinese spanish-latin italian polish french",
       "first_seen": "2026-11-26T21:08:27+00:00",
       "last_seen": "2026-11-26T21:08:27+00:00",
-      "updated_at": "2026-11-26T21:08:27+00:00"
+      "updated_at": "2026-11-26T23:25:15+00:00"
     },
     {
       "app_id": 4193300,
@@ -14447,6 +14497,31 @@
           "currency": "USD",
           "original": 999,
           "final": 749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6800,
+          "final": 5100
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19000,
+          "final": 14200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3500,
+          "final": 2625
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 118000,
+          "final": 88500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1084000,
+          "final": 813000
         }
       },
       "review_hint": "Mostly Positive<br>75% of the 24 user reviews for this game are positive.",
@@ -14461,7 +14536,7 @@
       "search_text": "grave mistakes grave mistakes manage and supervise the good mourning™ funeral home in 2-4 player co-op. grieving families need your attention: prepare bodies for their final viewing, deliver a passionate eulogy, and steal a couple limbs along the way. dinner has to come from somewhere. action simulation multi-player co-op online co-op steam achievements custom volume controls playable without timed input stereo sound family sharing english french german spanish-spain japanese korean polish portuguese-brazil russian schinese spanish-latin tchinese turkish ukrainian mostly positive<br>75% of the 24 user reviews for this game are positive.",
       "first_seen": "2026-11-26T21:08:27+00:00",
       "last_seen": "2026-11-26T21:08:27+00:00",
-      "updated_at": "2026-11-26T21:08:27+00:00"
+      "updated_at": "2026-11-26T23:25:15+00:00"
     },
     {
       "app_id": 219990,
@@ -25054,6 +25129,31 @@
           "currency": "USD",
           "original": 999,
           "final": 799
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4900,
+          "final": 3920
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 19000,
+          "final": 15200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3600,
+          "final": 2880
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 128000,
+          "final": 102400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 990000,
+          "final": 792000
         }
       },
       "review_hint": "Very Positive<br>98% of the 85 user reviews for this game are positive.",
@@ -25068,7 +25168,7 @@
       "search_text": "reshine reshine gently restore old objects by cleaning away layers of dust, rust, and time. reshine is a minimalistic, relaxing experience: use a range of tools to watch years of grime disappear before your eyes. no management, no pressure - just you and the satisfaction of bringing vintage treasures back to life. casual indie simulation single-player steam achievements full controller support adjustable text size camera comfort custom volume controls mouse only option #category_playable_at_your_own_pace playable without timed input stereo sound steam cloud family sharing english french german polish schinese spanish-spain japanese portuguese-brazil russian italian korean turkish tchinese very positive<br>98% of the 85 user reviews for this game are positive.",
       "first_seen": "2026-11-26T21:08:27+00:00",
       "last_seen": "2026-11-26T21:08:27+00:00",
-      "updated_at": "2026-11-26T21:08:27+00:00"
+      "updated_at": "2026-11-26T23:25:15+00:00"
     },
     {
       "app_id": 1649240,
@@ -26554,6 +26654,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 959
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6500,
+          "final": 5200
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 23800,
+          "final": 19000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 4200,
+          "final": 3360
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 136000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1350000,
+          "final": 1080000
         }
       },
       "review_hint": "",
@@ -26568,7 +26693,7 @@
       "search_text": "shark mart shark mart shark mart is a crazy co-op simulator about sharks undercover disguised as friendly dolphins. run the shop, and scrub whales to secretly kidnap unsuspecting fish and cook up tasty delicacies! but beware - the fish police are out to expose your toothy secret... casual indie simulation single-player multi-player co-op online co-op steam achievements full controller support dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam cloud family sharing english german spanish-spain japanese korean portuguese-brazil russian schinese",
       "first_seen": "2026-11-26T21:08:27+00:00",
       "last_seen": "2026-11-26T21:08:27+00:00",
-      "updated_at": "2026-11-26T21:08:27+00:00"
+      "updated_at": "2026-11-26T23:25:15+00:00"
     },
     {
       "app_id": 1875830,
