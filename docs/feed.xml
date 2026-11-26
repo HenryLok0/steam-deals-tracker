@@ -4,7 +4,7 @@
 <title>Steam Deals Tracker</title>
 <link>https://steam-deals.henrylok.me/</link>
 <description>Temporarily free and newly added Steam deals.</description>
-<lastBuildDate>Thu, 26 Nov 2026 07:30:26 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 11:45:09 +0000</lastBuildDate>
 <item>
 <title>Cursed Words: The Madness Of Michael</title>
 <link>https://store.steampowered.com/app/5529020/</link>
@@ -88,13 +88,6 @@
 <guid isPermaLink="false">5057800</guid>
 <pubDate>Wed, 25 Nov 2026 21:21:05 +0000</pubDate>
 <description>An incremental loot game where you drop your heroes onto hordes of slimes. They do the fighting, you grab the loot and fill your treasure chest. When time runs out, it bursts and rains it all back down. Upgrade your army in a huge skill tree and go again for a bigger haul.</description>
-</item>
-<item>
-<title>Fish It!: Sort the Aquarium Shop</title>
-<link>https://store.steampowered.com/app/5391260/</link>
-<guid isPermaLink="false">5391260</guid>
-<pubDate>Wed, 25 Nov 2026 07:41:14 +0000</pubDate>
-<description>Fish It!: Sort the Aquarium Shop is a cozy organizing simulator where you put back over 4,100 unique fish into their aquariums. Fill the tanks, unlock helpful abilities, and enjoy the satisfying loop of turning total aquatic chaos into a clean, well-organized shop at your own pace.</description>
 </item>
 </channel>
 </rss>

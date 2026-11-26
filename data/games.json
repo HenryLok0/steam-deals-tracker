@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T07:30:26+00:00",
+  "updated_at": "2026-11-26T11:45:09+00:00",
   "total_count": 5313,
   "active_count": 343,
   "games": [
@@ -6355,6 +6355,31 @@
           "currency": "USD",
           "original": 699,
           "final": 629
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4045,
+          "final": 3640
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21200,
+          "final": 19000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2330,
+          "final": 2097
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 116000,
+          "final": 104400
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 722000,
+          "final": 650000
         }
       },
       "review_hint": "Positive<br>100% of the 10 user reviews for this game are positive.",
@@ -6369,7 +6394,7 @@
       "search_text": "cursed words: the madness of michael cursed words: the madness of michael the madness of michael dlc adds new versions of all characters, as well as hundreds of new items and new challenges. it's a gigantic addition that will ensure lovers of cursed words can lose themselves in the game all over again! casual indie strategy single-player downloadable content steam achievements custom volume controls mouse only option playable without timed input save anytime touch only option steam cloud family sharing english positive<br>100% of the 10 user reviews for this game are positive.",
       "first_seen": "2026-11-26T07:30:26+00:00",
       "last_seen": "2026-11-26T07:30:26+00:00",
-      "updated_at": "2026-11-26T07:30:26+00:00"
+      "updated_at": "2026-11-26T11:45:09+00:00"
     },
     {
       "app_id": 3856460,
@@ -13401,6 +13426,31 @@
           "currency": "USD",
           "original": 999,
           "final": 649
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 6900,
+          "final": 4485
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 21800,
+          "final": 14100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 3900,
+          "final": 2535
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 98000,
+          "final": 63700
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1100000,
+          "final": 715000
         }
       },
       "review_hint": "Very Positive<br>92% of the 1,256 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -13415,7 +13465,7 @@
       "search_text": "glyphica: typing survival glyphica: typing survival weaponize your wpm. glyphica: typing survival is a single-player roguelite horde survival game that lets you mow down hordes of enemies in a minimalistic arena using your finger dexterity, your choice of weapons loadout, and sheer determination. action indie strategy early access single-player steam achievements full controller support steam trading cards steam workshop dualshock controller support dualshock controller support dualsense controller support dualsense controller support steam input api support steam cloud steam leaderboards family sharing english japanese spanish-spain portuguese-brazil turkish french italian german indonesian polish finnish korean schinese catalan russian ukrainian tchinese thai portuguese---portugal romanian spanish-latin vietnamese bulgarian very positive<br>92% of the 1,256 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-26T07:30:26+00:00",
       "last_seen": "2026-11-26T07:30:26+00:00",
-      "updated_at": "2026-11-26T07:30:26+00:00"
+      "updated_at": "2026-11-26T11:45:09+00:00"
     },
     {
       "app_id": 1593500,
@@ -36282,6 +36332,31 @@
           "currency": "USD",
           "original": 3999,
           "final": 3599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 22800,
+          "final": 20520
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 68900,
+          "final": 62000
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 17200,
+          "final": 15480
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 528000,
+          "final": 475200
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 4100000,
+          "final": 3690000
         }
       },
       "review_hint": "Positive<br>90% of the 10 user reviews for this game are positive.",
@@ -36296,7 +36371,7 @@
       "search_text": "楽園追放 -the stellar angel- 楽園追放 -the stellar angel- the first game in the expelled from paradise series: a brand-new sci-fi visual novel. angela balzac left the virtual world of deva behind and chose to live on the surface. now, as she builds a life with her partner dingo, a new case is brought to her door. adventure single-player steam achievements steam cloud includes source sdk family sharing english japanese positive<br>90% of the 10 user reviews for this game are positive.",
       "first_seen": "2026-11-26T07:30:26+00:00",
       "last_seen": "2026-11-26T07:30:26+00:00",
-      "updated_at": "2026-11-26T07:30:26+00:00"
+      "updated_at": "2026-11-26T11:45:09+00:00"
     },
     {
       "app_id": 1059220,
