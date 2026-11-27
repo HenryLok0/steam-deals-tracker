@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T07:28:05+00:00",
+  "updated_at": "2026-11-27T11:39:05+00:00",
   "total_count": 5324,
   "active_count": 346,
   "games": [
@@ -3587,6 +3587,31 @@
           "currency": "USD",
           "original": 1999,
           "final": 1599
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 10500,
+          "final": 8400
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 34800,
+          "final": 27800
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 7000,
+          "final": 5600
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 280000,
+          "final": 224000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 2250000,
+          "final": 1800000
         }
       },
       "review_hint": "Very Positive<br>92% of the 622 user reviews for this game are positive.",
@@ -3601,7 +3626,7 @@
       "search_text": "bruisers 2d boxing bruisers 2d boxing bruisers is unlike any boxing game before it. climb from amateur bouts to the top of the pros. train, eat, fight, dope, and deal with anyone who wants a piece of you on the way up — but tread lightly. some consequences here are fatal. action indie rpg sports early access single-player multi-player pvp shared/split screen pvp shared/split screen full controller support camera comfort custom volume controls adjustable difficulty gamepad recommended dualshock controller support remote play together family sharing english french italian german spanish-spain portuguese-brazil spanish-latin japanese korean russian schinese tchinese turkish very positive<br>92% of the 622 user reviews for this game are positive.",
       "first_seen": "2026-11-27T07:28:05+00:00",
       "last_seen": "2026-11-27T07:28:05+00:00",
-      "updated_at": "2026-11-27T07:28:05+00:00"
+      "updated_at": "2026-11-27T11:39:05+00:00"
     },
     {
       "app_id": 42700,
@@ -17657,6 +17682,31 @@
           "currency": "USD",
           "original": 1499,
           "final": 374
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 9500,
+          "final": 2375
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 26800,
+          "final": 6700
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 1450
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 170000,
+          "final": 42500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1650000,
+          "final": 412000
         }
       },
       "review_hint": "Overwhelmingly Positive<br>98% of the 4,464 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -17671,7 +17721,7 @@
       "search_text": "kindergarten 2 kindergarten 2 welcome to kindergarten 2, which takes place on tuesday! after the events of monday, you'll find yourself in a new school with new friends...and new ways to get ruthlessly murdered. adventure indie single-player steam achievements full controller support keyboard only option playable without timed input steam cloud family sharing english overwhelmingly positive<br>98% of the 4,464 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-27T07:28:05+00:00",
       "last_seen": "2026-11-27T07:28:05+00:00",
-      "updated_at": "2026-11-27T07:28:05+00:00"
+      "updated_at": "2026-11-27T11:39:05+00:00"
     },
     {
       "app_id": 379430,
@@ -22250,6 +22300,31 @@
           "currency": "USD",
           "original": 599,
           "final": 539
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 3300,
+          "final": 2970
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 12800,
+          "final": 11500
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2200,
+          "final": 1980
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 84500,
+          "final": 76000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 670000,
+          "final": 603000
         }
       },
       "review_hint": "Mixed<br>64% of the 31 user reviews for this game are positive.",
@@ -22264,7 +22339,7 @@
       "search_text": "no body no problem! no body no problem! one of you is the cop. the rest are panicked suspects. hide the body, clean up the evidence, don’t rat each other out, and get rid of everything before your cop friend knocks on the door. there is only one rule: if the body is found, you’re all done for. action casual indie multi-player pvp online pvp co-op online co-op dualshock controller support dualshock controller support dualsense controller support dualsense controller support partial controller support steam cloud family sharing english french italian german spanish-spain schinese tchinese japanese korean polish portuguese---portugal russian turkish ukrainian mixed<br>64% of the 31 user reviews for this game are positive.",
       "first_seen": "2026-11-27T07:28:05+00:00",
       "last_seen": "2026-11-27T07:28:05+00:00",
-      "updated_at": "2026-11-27T07:28:05+00:00"
+      "updated_at": "2026-11-27T11:39:05+00:00"
     },
     {
       "app_id": 3014320,
@@ -22957,6 +23032,31 @@
           "currency": "USD",
           "original": 3499,
           "final": 1749
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 21800,
+          "final": 10900
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 56600,
+          "final": 28300
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 12800,
+          "final": 6400
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 390000,
+          "final": 195000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 3750000,
+          "final": 1875000
         }
       },
       "review_hint": "Very Positive<br>81% of the 2,815 user reviews for this game are positive.<br><br>The review score for this product is calculated from reviews written in your language based on your preferences.",
@@ -22971,7 +23071,7 @@
       "search_text": "outbrk outbrk storm chasing simulator action adventure simulation strategy early access single-player multi-player co-op online co-op steam achievements dualshock controller support partial controller support family sharing english french german spanish-latin very positive<br>81% of the 2,815 user reviews for this game are positive.<br><br>the review score for this product is calculated from reviews written in your language based on your preferences.",
       "first_seen": "2026-11-27T07:28:05+00:00",
       "last_seen": "2026-11-27T07:28:05+00:00",
-      "updated_at": "2026-11-27T07:28:05+00:00"
+      "updated_at": "2026-11-27T11:39:05+00:00"
     },
     {
       "app_id": 753640,
@@ -28473,6 +28573,31 @@
           "currency": "USD",
           "original": 799,
           "final": 719
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 4400,
+          "final": 3960
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 15800,
+          "final": 14200
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 2800,
+          "final": 2520
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 115000,
+          "final": 103500
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 895000,
+          "final": 805000
         }
       },
       "review_hint": "Positive<br>93% of the 16 user reviews for this game are positive.",
@@ -28487,7 +28612,7 @@
       "search_text": "split brain samsara split brain samsara you and your friend are locked in the same body! in this co-op adventure, learn to control the same character, venture into your spiritual realm, and unravel the machinations of the samsara megastructure! communication will be key! adventure casual indie multi-player co-op online co-op steam achievements custom volume controls stereo sound steam cloud family sharing english french german japanese korean portuguese-brazil schinese tchinese spanish-latin positive<br>93% of the 16 user reviews for this game are positive.",
       "first_seen": "2026-11-27T07:28:05+00:00",
       "last_seen": "2026-11-27T07:28:05+00:00",
-      "updated_at": "2026-11-27T07:28:05+00:00"
+      "updated_at": "2026-11-27T11:39:05+00:00"
     },
     {
       "app_id": 2001120,
@@ -35387,6 +35512,31 @@
           "currency": "USD",
           "original": 1199,
           "final": 899
+        },
+        "HKD": {
+          "currency": "HKD",
+          "original": 8900,
+          "final": 6675
+        },
+        "zh-Hant": {
+          "currency": "TWD",
+          "original": 34900,
+          "final": 26100
+        },
+        "zh-Hans": {
+          "currency": "CNY",
+          "original": 5800,
+          "final": 4350
+        },
+        "ja": {
+          "currency": "JPY",
+          "original": 160000,
+          "final": 120000
+        },
+        "ko": {
+          "currency": "KRW",
+          "original": 1400000,
+          "final": 1050000
         }
       },
       "review_hint": "Mixed<br>57% of the 1,334 user reviews for this game are positive.",
@@ -35401,7 +35551,7 @@
       "search_text": "warhammer 40,000: darktide - skitarii class warhammer 40,000: darktide - skitarii class the adeptus mechanicus will not see the secrets of hive tertium fall into the hands of heretics, the skitarii alpha primus are elite operatives devoted to serving the will of the omnissiah. they will annihilate all who stand in their way. action adventure rpg multi-player co-op online co-op cross-platform multiplayer downloadable content steam achievements captions available in-app purchases partial controller support family sharing english french italian german spanish-spain polish portuguese-brazil russian schinese japanese korean tchinese mixed<br>57% of the 1,334 user reviews for this game are positive.",
       "first_seen": "2026-11-27T07:28:05+00:00",
       "last_seen": "2026-11-27T07:28:05+00:00",
-      "updated_at": "2026-11-27T07:28:05+00:00"
+      "updated_at": "2026-11-27T11:39:05+00:00"
     },
     {
       "app_id": 2272360,
